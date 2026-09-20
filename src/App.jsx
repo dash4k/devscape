@@ -13,6 +13,7 @@ import {
 
 import ReferencesPage from './pages/ReferencesPage.jsx';
 import DrugDetailPage from './pages/DrugDetailPage.jsx';
+import SearchPage from './pages/SearchPage.jsx';
 
 import ThemeContext from './contexts/ThemeContext.js';
 
@@ -55,6 +56,10 @@ function App() {
               <Route
                 path='/references/:drugId'
                 element={<DrugDetailPage />}
+              />
+              <Route
+                path='/search'
+                element={<SearchPage />}
               />
             </Routes>
           </motion.div>

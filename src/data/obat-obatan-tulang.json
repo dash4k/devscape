@@ -1,0 +1,1560 @@
+{
+  "kelas_obat": [
+    {
+      "id": "analgesik-non-opioid",
+      "kelas": "Analgesik Non-Opioid",
+      "mekanisme": "Menghambat sintesis prostaglandin di sistem saraf pusat sehingga menurunkan nyeri dan demam",
+      "obat": [
+        {
+          "id": "parasetamol",
+          "nama": "Parasetamol",
+          "mekanisme": "Menghambat COX di SSP sehingga prostaglandin berkurang",
+          "indikasi": [
+            "Nyeri ringan-sedang (termasuk osteoartritis)",
+            "Demam"
+          ],
+          "sediaan": [
+            "Tablet 500 mg",
+            "Sirup 120 mg/5 mL",
+            "Supositoria 125 mg, 250 mg",
+            "Infus IV 10 mg/mL"
+          ],
+          "efek_samping": [
+            "Hipersensitivitas",
+            "Hepatotoksik (dosis berlebih)"
+          ],
+          "tatalaksana": [
+            "Dewasa: 500-1000 mg setiap 4-6 jam, maks 4 g/hari (pertimbangkan maks 3 g/hari pada lansia, gangguan hati, atau konsumsi alkohol kronis)",
+            "Anak: 10-15 mg/kgBB setiap 4-6 jam, maks 75 mg/kgBB/hari"
+          ],
+          "monitoring": [
+            "ALT/AST"
+          ],
+          "interaksi": [
+            "Alkohol kronis: meningkatkan risiko hepatotoksisitas",
+            "Warfarin: penggunaan dosis tinggi jangka panjang dapat meningkatkan INR",
+            "Karbamazepin, fenitoin, rifampisin (penginduksi enzim): meningkatkan risiko hepatotoksisitas"
+          ],
+          "catatan": "Antidotum overdosis: N-asetilsistein.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/acetaminophen/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "nsaid",
+      "kelas": "NSAID",
+      "mekanisme": "Menghambat enzim siklooksigenase (COX) sehingga sintesis prostaglandin menurun dan terjadi efek analgesik serta antiinflamasi",
+      "obat": [
+        {
+          "id": "celecoxib",
+          "nama": "Celecoxib",
+          "mekanisme": "Menghambat COX-2 secara selektif (perlindungan terhadap saluran cerna masih terjaga)",
+          "indikasi": [
+            "Osteoartritis",
+            "Artritis reumatoid",
+            "Spondilitis ankilosa",
+            "Nyeri akut"
+          ],
+          "sediaan": [
+            "Kapsul 100 mg, 200 mg"
+          ],
+          "efek_samping": [
+            "Risiko kardiovaskular (trombotik)",
+            "Hipertensi",
+            "Edema",
+            "Gangguan fungsi ginjal",
+            "Dispepsia",
+            "Reaksi alergi"
+          ],
+          "tatalaksana": [
+            "Osteoartritis: 200 mg/hari (1x atau 100 mg 2x/hari)",
+            "Artritis reumatoid: 100-200 mg 2x/hari",
+            "Kontraindikasi pada alergi sulfonamid"
+          ],
+          "monitoring": [
+            "Kadar serum kreatinin/BUN",
+            "GFR",
+            "Hb/Ht",
+            "Tekanan darah",
+            "Reaksi alergi"
+          ],
+          "interaksi": [
+            "Flukonazol (inhibitor CYP2C9): meningkatkan kadar celecoxib, kurangi dosis",
+            "Warfarin: risiko perdarahan meningkat",
+            "ACE inhibitor/ARB/diuretik: efek antihipertensi menurun, risiko gangguan ginjal",
+            "Litium: kadar litium meningkat",
+            "Aspirin: risiko perdarahan GI meningkat"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/celecoxib/PNG?image_size=300x300"
+        },
+        {
+          "id": "ibuprofen",
+          "nama": "Ibuprofen",
+          "mekanisme": "Menghambat COX-1 dan COX-2",
+          "indikasi": [
+            "Nyeri ringan-sedang",
+            "Osteoartritis",
+            "Artritis reumatoid",
+            "Demam",
+            "Dismenore"
+          ],
+          "sediaan": [
+            "Tablet 200 mg, 400 mg, 600 mg, 800 mg",
+            "Suspensi 100 mg/5 mL",
+            "Gel topikal"
+          ],
+          "efek_samping": [
+            "Dispepsia",
+            "Ulkus dan perdarahan saluran cerna",
+            "Gangguan fungsi ginjal",
+            "Hipertensi",
+            "Risiko kardiovaskular",
+            "Reaksi alergi"
+          ],
+          "tatalaksana": [
+            "Dewasa: 400-800 mg 3-4x/hari bersama makanan, maks 3200 mg/hari",
+            "Gunakan dosis efektif terendah dan durasi sesingkat mungkin"
+          ],
+          "monitoring": [
+            "Kadar serum kreatinin/BUN",
+            "GFR",
+            "Hb/Ht",
+            "Tekanan darah",
+            "Gejala perdarahan GI"
+          ],
+          "interaksi": [
+            "Aspirin dosis rendah: ibuprofen dapat menghambat efek antiplatelet aspirin",
+            "Warfarin dan antikoagulan lain: risiko perdarahan",
+            "ACE inhibitor/ARB/diuretik: efek menurun, risiko gangguan ginjal",
+            "Litium dan metotreksat: kadar meningkat",
+            "Kortikosteroid: risiko perdarahan GI meningkat"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ibuprofen/PNG?image_size=300x300"
+        },
+        {
+          "id": "diklofenak-topikal",
+          "nama": "Na Diklofenak (topikal)",
+          "mekanisme": "Menghambat COX-1 dan COX-2 secara lokal; absorpsi sistemik rendah",
+          "indikasi": [
+            "Osteoartritis lutut dan tangan",
+            "Nyeri muskuloskeletal lokal"
+          ],
+          "sediaan": [
+            "Gel 1%",
+            "Gel 1,16%",
+            "Larutan topikal 1,5%",
+            "Patch 1,3%"
+          ],
+          "efek_samping": [
+            "Iritasi kulit",
+            "Ruam",
+            "Kulit kering",
+            "Gatal di lokasi aplikasi"
+          ],
+          "tatalaksana": [
+            "Gel 1%: lutut 4 g 4x/hari; tangan 2 g 4x/hari; maks total 32 g/hari",
+            "Oleskan pada kulit utuh, hindari luka terbuka dan selaput lendir"
+          ],
+          "monitoring": [
+            "Reaksi kulit lokal",
+            "Respons nyeri"
+          ],
+          "interaksi": [
+            "Penggunaan bersama NSAID oral: efek sistemik aditif",
+            "Interaksi sistemik minimal karena absorpsi rendah"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diclofenac/PNG?image_size=300x300"
+        },
+        {
+          "id": "indometasin",
+          "nama": "Indometasin",
+          "mekanisme": "Menghambat COX-1 dan COX-2 (poten)",
+          "indikasi": [
+            "Serangan gout akut",
+            "Osteoartritis",
+            "Artritis reumatoid",
+            "Spondilitis ankilosa"
+          ],
+          "sediaan": [
+            "Kapsul 25 mg, 50 mg",
+            "Kapsul lepas lambat 75 mg",
+            "Supositoria 50 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Pusing",
+            "Dispepsia",
+            "Ulkus dan perdarahan GI",
+            "Gangguan fungsi ginjal",
+            "Retensi cairan"
+          ],
+          "tatalaksana": [
+            "Gout akut: 50 mg 3x/hari sampai nyeri mereda, lalu turunkan dosis",
+            "OA/RA: 25 mg 2-3x/hari, maks 200 mg/hari",
+            "Minum bersama makanan"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Hb/Ht",
+            "Tekanan darah",
+            "Gejala SSP (sakit kepala, pusing)"
+          ],
+          "interaksi": [
+            "Probenesid: meningkatkan kadar indometasin",
+            "Litium dan metotreksat: kadar meningkat",
+            "Warfarin: risiko perdarahan",
+            "ACE inhibitor/ARB/diuretik: efek menurun, risiko gangguan ginjal"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/indomethacin/PNG?image_size=300x300"
+        },
+        {
+          "id": "naproxen",
+          "nama": "Naproxen",
+          "mekanisme": "Menghambat COX-1 dan COX-2",
+          "indikasi": [
+            "Osteoartritis",
+            "Artritis reumatoid",
+            "Spondilitis ankilosa",
+            "Serangan gout akut",
+            "Dismenore"
+          ],
+          "sediaan": [
+            "Tablet 250 mg, 500 mg",
+            "Naproxen sodium 275 mg, 550 mg"
+          ],
+          "efek_samping": [
+            "Dispepsia",
+            "Ulkus dan perdarahan GI",
+            "Gangguan fungsi ginjal",
+            "Hipertensi",
+            "Risiko kardiovaskular",
+            "Edema"
+          ],
+          "tatalaksana": [
+            "OA/RA: 250-500 mg 2x/hari",
+            "Gout akut: 750 mg awal, lalu 250 mg setiap 8 jam sampai mereda",
+            "Maks umumnya 1000-1250 mg/hari"
+          ],
+          "monitoring": [
+            "Kadar serum kreatinin/BUN",
+            "Hb/Ht",
+            "Tekanan darah",
+            "Gejala perdarahan GI"
+          ],
+          "interaksi": [
+            "Aspirin, warfarin, kortikosteroid: risiko perdarahan GI",
+            "ACE inhibitor/ARB/diuretik: efek menurun, risiko gangguan ginjal",
+            "Litium dan metotreksat: kadar meningkat"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/naproxen/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antikonvulsan-neuropati",
+      "kelas": "Antikonvulsan (Gabapentinoid)",
+      "mekanisme": "Berikatan dengan subunit alfa2-delta kanal kalsium voltage-gated sehingga menurunkan pelepasan neurotransmiter eksitatori",
+      "obat": [
+        {
+          "id": "pregabalin",
+          "nama": "Pregabalin",
+          "mekanisme": "Berikatan dengan neuron presinaptik pada subunit alfa2-delta (α2-δ) dari kanal Ca2+ voltage-gated sehingga kalsium yang masuk berkurang dan pelepasan neurotransmiter eksitatori (glutamat, noradrenalin, dan substansi P) menurun",
+          "indikasi": [
+            "OA tangan dan lutut (nyeri)",
+            "Nyeri neuropatik (neuropati diabetik, neuralgia pasca-herpes)",
+            "Fibromialgia",
+            "Kejang parsial (adjuvan)"
+          ],
+          "sediaan": [
+            "Kapsul 25 mg, 50 mg, 75 mg, 150 mg, 300 mg"
+          ],
+          "efek_samping": [
+            "Mulut kering",
+            "Penglihatan kabur",
+            "Mudah memar",
+            "Pusing",
+            "Mengantuk",
+            "Edema perifer",
+            "Penambahan berat badan"
+          ],
+          "tatalaksana": [
+            "Awal 75 mg 2x/hari atau 50 mg 3x/hari, dapat dinaikkan sampai 150 mg 2x/hari, maks 600 mg/hari",
+            "Sesuaikan dosis pada gangguan ginjal",
+            "Hentikan bertahap (minimal 1 minggu)"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Sedasi dan pusing",
+            "Edema",
+            "Ide bunuh diri",
+            "Kreatinin kinase bila ada nyeri otot"
+          ],
+          "interaksi": [
+            "Opioid, benzodiazepin, alkohol: sedasi dan depresi napas aditif",
+            "ACE inhibitor: risiko angioedema",
+            "Tiazolidindion: edema dan penambahan berat badan"
+          ],
+          "catatan": "Sumber menulis efek samping 'kulit berwarna biru'; ini tidak lazim untuk pregabalin dan mohon diverifikasi. Pregabalin tidak memiliki indikasi resmi untuk OA; penggunaannya pada OA adalah off-label dengan bukti terbatas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pregabalin/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "opioid",
+      "kelas": "Opioid",
+      "mekanisme": "Agonis reseptor opioid mu di SSP dan perifer sehingga menurunkan persepsi nyeri",
+      "obat": [
+        {
+          "id": "tramadol",
+          "nama": "Tramadol",
+          "mekanisme": "Berikatan dengan reseptor opioid di presinaps dan postsinaps, menutup saluran ion Ca2+ sehingga menahan pelepasan transmiter dan terjadi hiperpolarisasi neuron; juga menghambat reuptake serotonin dan noradrenalin",
+          "indikasi": [
+            "Nyeri sedang-berat, termasuk nyeri OA bila NSAID tidak adekuat atau dikontraindikasikan"
+          ],
+          "sediaan": [
+            "Kapsul/tablet 50 mg",
+            "Tablet lepas lambat 100 mg, 150 mg, 200 mg",
+            "Injeksi 50 mg/mL"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Pusing",
+            "Konstipasi",
+            "Mengantuk",
+            "Kejang",
+            "Serotonin syndrome",
+            "Ketergantungan",
+            "Depresi napas"
+          ],
+          "tatalaksana": [
+            "Dewasa: 50-100 mg setiap 4-6 jam bila perlu, maks 400 mg/hari (maks 300 mg/hari pada usia >75 tahun)",
+            "Mulai dosis rendah dan titrasi bertahap",
+            "Kontraindikasi pada anak < 12 tahun"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "EKG",
+            "Sedasi dan pernapasan",
+            "Tanda ketergantungan"
+          ],
+          "interaksi": [
+            "SSRI/SNRI/MAOI: risiko serotonin syndrome dan kejang",
+            "Karbamazepin: menurunkan efek tramadol",
+            "Inhibitor CYP2D6 (fluoksetin, paroksetin, kuinidin): menurunkan efek analgesik",
+            "Benzodiazepin dan opioid lain: depresi napas (boxed warning)",
+            "Ondansetron: menurunkan efek analgesik tramadol"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tramadol/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "snri",
+      "kelas": "SNRI",
+      "mekanisme": "Menghambat reuptake serotonin dan noradrenalin sehingga memperkuat jalur inhibisi nyeri desending",
+      "obat": [
+        {
+          "id": "duloxetine",
+          "nama": "Duloxetine",
+          "mekanisme": "Memblok transporter serotonin (SERT) dan norepinefrin (NET) sehingga menghambat nyeri",
+          "indikasi": [
+            "Nyeri (muskuloskeletal kronis, termasuk OA lutut)",
+            "Nyeri neuropati diabetik",
+            "Fibromialgia",
+            "Depresi dan gangguan ansietas"
+          ],
+          "sediaan": [
+            "Kapsul lepas lambat 20 mg, 30 mg, 60 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Mulut kering",
+            "Mengantuk",
+            "Kelelahan",
+            "Sembelit",
+            "Nafsu makan menurun",
+            "Hiperhidrosis"
+          ],
+          "tatalaksana": [
+            "30 mg 1x/hari selama 1 minggu, lalu 60 mg 1x/hari",
+            "Maks 120 mg/hari",
+            "Hentikan bertahap"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Fungsi hati",
+            "Natrium serum (lansia)",
+            "Ide bunuh diri",
+            "Gejala putus obat"
+          ],
+          "interaksi": [
+            "MAOI: kontraindikasi",
+            "SSRI, tramadol, triptan: risiko serotonin syndrome",
+            "Inhibitor CYP1A2 (fluvoksamin, siprofloksasin): kadar duloxetine meningkat",
+            "NSAID dan antikoagulan: risiko perdarahan"
+          ],
+          "catatan": "Hindari pada konsumsi alkohol berat atau penyakit hati kronis.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/duloxetine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "kortikosteroid",
+      "kelas": "Kortikosteroid dan ACTH",
+      "mekanisme": "Menekan inflamasi dan respons imun melalui reseptor glukokortikoid (menghambat NF-kB, fosfolipase A2, dan produksi sitokin)",
+      "obat": [
+        {
+          "id": "kortikosteroid-injeksi",
+          "nama": "Injeksi Kortikosteroid (intra-artikular)",
+          "mekanisme": "Glukokortikoid depot yang menekan inflamasi lokal pada sendi",
+          "indikasi": [
+            "Flare osteoartritis lutut (terutama dengan efusi)",
+            "Artritis reumatoid (sendi aktif)",
+            "Gout akut monoartikular",
+            "Bursitis dan tendinitis"
+          ],
+          "sediaan": [
+            "Triamsinolon asetonid 10 mg/mL, 40 mg/mL",
+            "Metilprednisolon asetat 40 mg/mL, 80 mg/mL",
+            "Betametason"
+          ],
+          "efek_samping": [
+            "Nyeri sementara pasca-injeksi (flare)",
+            "Atrofi kulit dan depigmentasi",
+            "Hiperglikemia sementara",
+            "Peningkatan tekanan darah",
+            "Infeksi sendi",
+            "Ruptur tendon",
+            "Kerusakan tulang rawan pada penggunaan berulang"
+          ],
+          "tatalaksana": [
+            "Contoh: triamsinolon asetonid 40 mg atau metilprednisolon asetat 40-80 mg untuk sendi besar (lutut); dosis lebih rendah untuk sendi kecil",
+            "Interval minimal ± 3 bulan; batasi 3-4 injeksi per sendi per tahun",
+            "Teknik aseptik; singkirkan artritis septik sebelum injeksi"
+          ],
+          "monitoring": [
+            "Kadar gula darah",
+            "Tekanan darah",
+            "Tanda infeksi sendi",
+            "Respons nyeri dan fungsi sendi"
+          ],
+          "interaksi": [
+            "Antikoagulan: risiko hematoma",
+            "Inhibitor CYP3A4 kuat (ritonavir, ketokonazol): meningkatkan paparan sistemik kortikosteroid",
+            "Antidiabetik: kebutuhan dosis dapat meningkat sementara"
+          ],
+          "catatan": "Pilihan obat dan dosis spesifik bervariasi antar klinisi dan pedoman.",
+          "gambar": null
+        },
+        {
+          "id": "prednison",
+          "nama": "Prednison",
+          "mekanisme": "Prodrug yang diubah menjadi prednisolon (glukokortikoid) dengan efek antiinflamasi dan imunosupresif",
+          "indikasi": [
+            "Artritis reumatoid (dosis rendah, bridging)",
+            "Serangan gout akut",
+            "Polimialgia reumatika",
+            "Penyakit autoimun dan inflamasi lain"
+          ],
+          "sediaan": [
+            "Tablet 1 mg, 5 mg, 20 mg"
+          ],
+          "efek_samping": [
+            "Hiperglikemia",
+            "Hipertensi",
+            "Osteoporosis",
+            "Supresi adrenal",
+            "Peningkatan risiko infeksi",
+            "Katarak dan glaukoma",
+            "Perubahan mood",
+            "Retensi cairan",
+            "Cushingoid",
+            "Miopati"
+          ],
+          "tatalaksana": [
+            "RA: 5-10 mg/hari (dosis rendah) dalam jangka sependek mungkin",
+            "Gout akut: 30-50 mg/hari (± 0,5 mg/kgBB) selama 5-10 hari",
+            "Tapering bertahap bila digunakan > 2-3 minggu"
+          ],
+          "monitoring": [
+            "Kadar gula darah",
+            "Tekanan darah",
+            "Densitas tulang",
+            "Elektrolit (K)",
+            "Berat badan",
+            "Tanda infeksi"
+          ],
+          "interaksi": [
+            "NSAID: risiko ulkus dan perdarahan GI",
+            "Antidiabetik: kebutuhan dosis meningkat",
+            "Diuretik: risiko hipokalemia",
+            "Warfarin: efek INR dapat berubah",
+            "Penginduksi CYP3A4 (rifampisin, fenitoin): menurunkan efek",
+            "Vaksin hidup: hindari pada dosis imunosupresif"
+          ],
+          "catatan": "Suplementasi kalsium dan vitamin D dipertimbangkan pada pemakaian jangka panjang.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/prednisone/PNG?image_size=300x300"
+        },
+        {
+          "id": "kortikotropin",
+          "nama": "Kortikotropin (ACTH)",
+          "mekanisme": "Analog/bentuk ACTH yang merangsang korteks adrenal sehingga produksi kortisol dan kortikosteroid meningkat, lalu menimbulkan efek antiinflamasi",
+          "indikasi": [
+            "Serangan gout akut (off-label, bila NSAID/kolkisin/kortikosteroid tidak dapat digunakan)",
+            "Artritis reumatoid (adjuvan)",
+            "Kondisi inflamasi lain"
+          ],
+          "sediaan": [
+            "Repository corticotropin injection gel 80 U/mL (IM/SC)",
+            "Tetrakosaktida depot (alternatif di beberapa negara)"
+          ],
+          "efek_samping": [
+            "Retensi cairan",
+            "Hipertensi",
+            "Hiperglikemia",
+            "Hipokalemia",
+            "Perubahan mood",
+            "Cushingoid",
+            "Peningkatan risiko infeksi"
+          ],
+          "tatalaksana": [
+            "Gout akut: 40-80 unit IM/SC dosis tunggal, dapat diulang bila perlu (off-label)"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Kadar gula darah",
+            "Elektrolit (K)",
+            "Berat badan",
+            "Tanda infeksi"
+          ],
+          "interaksi": [
+            "Antidiabetik: kebutuhan dosis meningkat",
+            "Diuretik: risiko hipokalemia",
+            "NSAID: risiko ulkus GI",
+            "Vaksin hidup: hindari"
+          ],
+          "catatan": "Sumber menulis 'meningkatkan ACTH'; kortikotropin adalah ACTH itu sendiri (eksogen) yang merangsang adrenal. Ketersediaan di Indonesia terbatas.",
+          "gambar": null
+        }
+      ]
+    },
+    {
+      "id": "sysadoa-viskosuplementasi",
+      "kelas": "SYSADOA dan Viskosuplementasi",
+      "mekanisme": "Agen simtomatik lambat kerja dan pendukung sendi untuk osteoartritis; efeknya pada gejala dan struktur sendi masih diperdebatkan",
+      "obat": [
+        {
+          "id": "hyaluronic-acid",
+          "nama": "Injeksi Hyaluronic Acid",
+          "mekanisme": "Pendukung matriks ekstraseluler; meningkatkan viskoelastisitas cairan sinovial (viskosuplementasi)",
+          "indikasi": [
+            "Osteoartritis (terutama lutut)"
+          ],
+          "sediaan": [
+            "Injeksi intra-artikular prefilled syringe (contoh 16 mg/2 mL, 20 mg/2 mL; ada produk dosis tunggal 48 mg/6 mL)"
+          ],
+          "efek_samping": [
+            "Nyeri, bengkak, dan hangat di lokasi injeksi",
+            "Efusi sendi (reaksi pseudoseptik)",
+            "Infeksi sendi (jarang)"
+          ],
+          "tatalaksana": [
+            "Injeksi intra-artikular 1x/minggu selama 3-5 minggu tergantung produk, atau dosis tunggal untuk produk tertentu",
+            "Teknik aseptik"
+          ],
+          "monitoring": [
+            "Reaksi lokal",
+            "Nyeri dan fungsi sendi"
+          ],
+          "interaksi": [
+            "Hindari antiseptik amonium kuaterner (mis. benzalkonium klorida) pada kulit karena dapat mengendapkan hyaluronate"
+          ],
+          "catatan": "Bukti manfaat inkonsisten; beberapa pedoman (mis. ACR 2019) merekomendasikan tidak menggunakannya secara rutin.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hyaluronic%20acid/PNG?image_size=300x300"
+        },
+        {
+          "id": "kondroitin",
+          "nama": "Chondroitin",
+          "mekanisme": "Menstimulasi sintesis proteoglikan dan asam hialuronat, menghambat enzim proteolitik dan NF-kB",
+          "indikasi": [
+            "Osteoartritis (lutut, tangan)"
+          ],
+          "sediaan": [
+            "Kapsul/tablet 400 mg",
+            "Sering dikombinasi dengan glukosamin"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Diare",
+            "Konstipasi",
+            "Nyeri perut",
+            "Ruam"
+          ],
+          "tatalaksana": [
+            "800-1200 mg/hari (mis. 400 mg 3x/hari atau 800 mg 1x/hari)",
+            "Evaluasi respons setelah 3-6 bulan"
+          ],
+          "monitoring": [
+            "Respons gejala",
+            "INR bila bersama warfarin"
+          ],
+          "interaksi": [
+            "Warfarin: kemungkinan peningkatan INR"
+          ],
+          "catatan": "Bukti manfaat tidak konsisten dan rekomendasi pedoman bervariasi; cek pedoman terbaru.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/chondroitin%20sulfate/PNG?image_size=300x300"
+        },
+        {
+          "id": "glukosamin",
+          "nama": "Glukosamin",
+          "mekanisme": "Menstimulasi sintesis glikosaminoglikan dan meningkatkan ekspresi kolagen tipe II pada kondrosit, menghambat NF-kB dan menurunkan MMP",
+          "indikasi": [
+            "Osteoartritis (lutut)"
+          ],
+          "sediaan": [
+            "Kapsul/tablet 250 mg, 500 mg",
+            "Sachet glukosamin sulfat 1500 mg"
+          ],
+          "efek_samping": [
+            "Keluhan GI ringan",
+            "Sakit kepala",
+            "Ruam",
+            "Reaksi alergi (hati-hati pada alergi kerang)"
+          ],
+          "tatalaksana": [
+            "Glukosamin sulfat 1500 mg 1x/hari (atau 500 mg 3x/hari)",
+            "Evaluasi respons setelah 3-6 bulan"
+          ],
+          "monitoring": [
+            "Respons gejala",
+            "Kadar gula darah pada penderita diabetes",
+            "INR bila bersama warfarin"
+          ],
+          "interaksi": [
+            "Warfarin: kemungkinan peningkatan INR"
+          ],
+          "catatan": "Bukti manfaat tidak konsisten; ACR 2019 tidak merekomendasikan glukosamin untuk OA.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/glucosamine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "cdmard",
+      "kelas": "cDMARD (Conventional Synthetic DMARD)",
+      "mekanisme": "Obat antireumatik pemodifikasi penyakit konvensional yang menekan inflamasi autoimun dan memperlambat kerusakan sendi",
+      "obat": [
+        {
+          "id": "metotreksat",
+          "nama": "Metotreksat (MTX)",
+          "mekanisme": "Menghambat dihidrofolat reduktase (enzim yang mereduksi asam dihidrofolat menjadi asam tetrahidrofolat) sehingga sintesis purin dan pirimidin terganggu",
+          "indikasi": [
+            "Artritis reumatoid (DMARD lini pertama)",
+            "Artritis psoriatik",
+            "Psoriasis",
+            "Artritis idiopatik juvenil"
+          ],
+          "sediaan": [
+            "Tablet 2,5 mg",
+            "Injeksi 25 mg/mL",
+            "Prefilled pen/syringe SC"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Stomatitis",
+            "Alopesia",
+            "Hepatotoksik",
+            "Mielosupresi",
+            "Pneumonitis",
+            "Teratogenik"
+          ],
+          "tatalaksana": [
+            "RA: 7,5-15 mg SEKALI SEMINGGU (PO/SC), naikkan 2,5-5 mg tiap 2-4 minggu, maks 25 mg/minggu",
+            "Berikan asam folat (mis. 1 mg/hari atau 5 mg/minggu, bukan pada hari MTX)",
+            "Kontraindikasi pada kehamilan"
+          ],
+          "monitoring": [
+            "CBC",
+            "ALT/AST",
+            "Kreatinin/eGFR",
+            "Albumin",
+            "Skrining hepatitis B/C dan foto toraks (awal)"
+          ],
+          "interaksi": [
+            "Trimetoprim-sulfametoksazol: risiko mielosupresi berat (hindari)",
+            "NSAID, PPI, penisilin, probenesid: menurunkan ekskresi MTX",
+            "Leflunomide: hepatotoksisitas aditif",
+            "Alkohol: meningkatkan risiko hepatotoksisitas"
+          ],
+          "catatan": "Sumber menulis dihidrofolat direduksi menjadi 'asam folinat'; produk reduksi yang tepat adalah asam tetrahidrofolat. Dosis MINGGUAN, kesalahan dosis harian dapat fatal.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methotrexate/PNG?image_size=300x300"
+        },
+        {
+          "id": "leflunomide",
+          "nama": "Leflunomide",
+          "mekanisme": "Menghambat enzim DHODH (esensial dalam inisiasi sintesis pirimidin) sehingga menghambat pembentukan asam nukleat dan proliferasi limfosit",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Artritis psoriatik"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 20 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Mual",
+            "Alopesia",
+            "Ruam",
+            "Hepatotoksik",
+            "Hipertensi",
+            "Neuropati perifer",
+            "Mielosupresi",
+            "Penyakit paru interstisial",
+            "Teratogenik"
+          ],
+          "tatalaksana": [
+            "20 mg 1x/hari (loading 100 mg selama 3 hari bersifat opsional); 10 mg bila tidak toleran",
+            "Waktu paruh sangat panjang; washout dengan kolestiramin 8 g 3x/hari selama 11 hari bila toksisitas atau kehamilan"
+          ],
+          "monitoring": [
+            "ALT/AST",
+            "CBC",
+            "Tekanan darah",
+            "Tiap bulan selama 6 bulan pertama, lalu tiap 8-12 minggu"
+          ],
+          "interaksi": [
+            "Metotreksat: hepatotoksisitas aditif",
+            "Warfarin: INR dapat berubah",
+            "Rifampisin: kadar metabolit aktif meningkat",
+            "Teriflunomid: jangan dikombinasikan",
+            "Vaksin hidup: hindari"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/leflunomide/PNG?image_size=300x300"
+        },
+        {
+          "id": "sulfasalazine",
+          "nama": "Sulfasalazine",
+          "mekanisme": "Prodrug yang dipecah menjadi metabolit asam 5-aminosalisilat dan sulfapiridin",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Artritis psoriatik",
+            "Spondiloartritis perifer",
+            "Kolitis ulseratif"
+          ],
+          "sediaan": [
+            "Tablet 500 mg",
+            "Tablet salut enterik (EN) 500 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Dispepsia",
+            "Sakit kepala",
+            "Ruam",
+            "Hepatotoksik",
+            "Leukopenia/agranulositosis",
+            "Oligospermia reversibel",
+            "Urin berwarna oranye"
+          ],
+          "tatalaksana": [
+            "Mulai 500 mg/hari, naikkan 500 mg per minggu sampai 1 g 2x/hari; maks 3 g/hari",
+            "Kontraindikasi pada alergi sulfa/salisilat dan defisiensi G6PD"
+          ],
+          "monitoring": [
+            "CBC",
+            "ALT/AST",
+            "Tiap 2-4 minggu selama 3 bulan pertama, lalu berkala"
+          ],
+          "interaksi": [
+            "Digoksin: absorpsi menurun",
+            "Asam folat: absorpsi menurun",
+            "Warfarin: efek antikoagulan meningkat",
+            "Metotreksat: risiko toksisitas hematologi"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sulfasalazine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "bdmard",
+      "kelas": "bDMARD (Biologic DMARD)",
+      "mekanisme": "Protein rekombinan atau antibodi monoklonal yang menarget sitokin atau sel imun spesifik dalam patogenesis artritis",
+      "obat": [
+        {
+          "id": "etanercept",
+          "nama": "Etanercept",
+          "mekanisme": "Inhibitor TNF (Tumor Necrosis Factor) berupa reseptor TNF terlarut (soluble TNF receptor-Fc fusion protein), menekan inflamasi; berbeda dengan golongan TNF inhibitor lain yang berupa antibodi monoklonal",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Artritis psoriatik",
+            "Spondilitis ankilosa",
+            "Artritis idiopatik juvenil",
+            "Psoriasis plak"
+          ],
+          "sediaan": [
+            "Injeksi SC 25 mg (vial)",
+            "Prefilled syringe/pen 50 mg/mL"
+          ],
+          "efek_samping": [
+            "Reaksi di lokasi injeksi",
+            "Infeksi (termasuk reaktivasi TB dan hepatitis B)",
+            "Sakit kepala",
+            "Ruam",
+            "Demielinisasi",
+            "Gagal jantung memburuk"
+          ],
+          "tatalaksana": [
+            "50 mg SC 1x/minggu atau 25 mg SC 2x/minggu"
+          ],
+          "monitoring": [
+            "Skrining TB (IGRA/Mantoux dan foto toraks) dan hepatitis B/C sebelum terapi",
+            "Tanda infeksi",
+            "CBC",
+            "ALT/AST"
+          ],
+          "interaksi": [
+            "Vaksin hidup: kontraindikasi",
+            "Anakinra dan abatacept: risiko infeksi serius, hindari kombinasi",
+            "Imunosupresan lain: risiko infeksi aditif"
+          ],
+          "catatan": "Sumber menulis 'Tissue Necrosis Factor'; nama yang benar adalah Tumor Necrosis Factor. Kalimat sumber tentang 'soluble (etanercept), monoclonal --> sisanya' diartikan sebagai etanercept = reseptor terlarut, TNF inhibitor lain = antibodi monoklonal.",
+          "gambar": null
+        },
+        {
+          "id": "infliximab",
+          "nama": "Infliximab",
+          "mekanisme": "Antibodi monoklonal chimeric anti-TNF-alfa yang menetralisir TNF larut dan terikat membran",
+          "indikasi": [
+            "Artritis reumatoid (bersama MTX)",
+            "Spondilitis ankilosa",
+            "Artritis psoriatik",
+            "Penyakit Crohn",
+            "Kolitis ulseratif",
+            "Psoriasis"
+          ],
+          "sediaan": [
+            "Serbuk infus IV 100 mg (vial)"
+          ],
+          "efek_samping": [
+            "Reaksi infus",
+            "Infeksi (reaktivasi TB, hepatitis B)",
+            "Pembentukan antibodi anti-obat",
+            "Sakit kepala",
+            "Hepatotoksik",
+            "Sindrom lupus-like"
+          ],
+          "tatalaksana": [
+            "RA: 3 mg/kgBB IV pada minggu 0, 2, 6, lalu tiap 8 minggu, bersama MTX",
+            "Dapat dinaikkan hingga 10 mg/kgBB atau interval tiap 4 minggu",
+            "Kontraindikasi pada gagal jantung sedang-berat (NYHA III/IV)"
+          ],
+          "monitoring": [
+            "Skrining TB dan hepatitis B sebelum terapi",
+            "Reaksi infus",
+            "Tanda infeksi",
+            "CBC",
+            "ALT/AST"
+          ],
+          "interaksi": [
+            "Vaksin hidup: kontraindikasi",
+            "Anakinra dan abatacept: hindari kombinasi",
+            "MTX: mengurangi pembentukan antibodi anti-obat"
+          ],
+          "catatan": "Sumber menulis 'bDAMRD'; ditulis bDMARD di sini.",
+          "gambar": null
+        },
+        {
+          "id": "adalimumab",
+          "nama": "Adalimumab",
+          "mekanisme": "Antibodi monoklonal manusia anti-TNF-alfa",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Artritis psoriatik",
+            "Spondilitis ankilosa",
+            "Artritis idiopatik juvenil",
+            "Penyakit Crohn",
+            "Psoriasis"
+          ],
+          "sediaan": [
+            "Prefilled pen/syringe 40 mg/0,4 mL atau 40 mg/0,8 mL"
+          ],
+          "efek_samping": [
+            "Reaksi di lokasi injeksi",
+            "Infeksi (reaktivasi TB, hepatitis B)",
+            "Sakit kepala",
+            "Ruam",
+            "Demielinisasi",
+            "Pembentukan antibodi anti-obat"
+          ],
+          "tatalaksana": [
+            "40 mg SC tiap 2 minggu",
+            "RA tanpa MTX: dapat 40 mg tiap minggu"
+          ],
+          "monitoring": [
+            "Skrining TB dan hepatitis B sebelum terapi",
+            "Tanda infeksi",
+            "CBC",
+            "ALT/AST"
+          ],
+          "interaksi": [
+            "Vaksin hidup: kontraindikasi",
+            "Anakinra dan abatacept: hindari kombinasi",
+            "MTX: mengurangi pembentukan antibodi anti-obat"
+          ],
+          "catatan": null,
+          "gambar": null
+        },
+        {
+          "id": "golimumab",
+          "nama": "Golimumab",
+          "mekanisme": "Antibodi monoklonal manusia anti-TNF-alfa",
+          "indikasi": [
+            "Artritis reumatoid (bersama MTX)",
+            "Artritis psoriatik",
+            "Spondilitis ankilosa",
+            "Kolitis ulseratif"
+          ],
+          "sediaan": [
+            "Prefilled pen/syringe SC 50 mg/0,5 mL, 100 mg/mL",
+            "Infus IV 50 mg/4 mL"
+          ],
+          "efek_samping": [
+            "Reaksi di lokasi injeksi",
+            "Infeksi (reaktivasi TB, hepatitis B)",
+            "Peningkatan ALT/AST",
+            "Demielinisasi"
+          ],
+          "tatalaksana": [
+            "SC: 50 mg 1x/bulan",
+            "IV: 2 mg/kgBB pada minggu 0 dan 4, lalu tiap 8 minggu, bersama MTX"
+          ],
+          "monitoring": [
+            "Skrining TB dan hepatitis B sebelum terapi",
+            "Tanda infeksi",
+            "CBC",
+            "ALT/AST"
+          ],
+          "interaksi": [
+            "Vaksin hidup: kontraindikasi",
+            "Anakinra dan abatacept: hindari kombinasi"
+          ],
+          "catatan": "Sumber menulis 'Gollimumab'; nama yang benar golimumab.",
+          "gambar": null
+        },
+        {
+          "id": "certolizumab",
+          "nama": "Certolizumab pegol",
+          "mekanisme": "Fragmen Fab antibodi anti-TNF-alfa yang dikonjugasi polietilen glikol (PEG), tanpa bagian Fc",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Artritis psoriatik",
+            "Spondilitis ankilosa",
+            "Penyakit Crohn",
+            "Psoriasis"
+          ],
+          "sediaan": [
+            "Prefilled syringe/pen SC 200 mg/mL",
+            "Serbuk liofilisat 200 mg (vial)"
+          ],
+          "efek_samping": [
+            "Reaksi di lokasi injeksi",
+            "Infeksi (reaktivasi TB, hepatitis B)",
+            "Ruam",
+            "Sakit kepala",
+            "Infeksi saluran kemih"
+          ],
+          "tatalaksana": [
+            "400 mg SC pada minggu 0, 2, 4, lalu 200 mg tiap 2 minggu (atau 400 mg tiap 4 minggu)"
+          ],
+          "monitoring": [
+            "Skrining TB dan hepatitis B sebelum terapi",
+            "Tanda infeksi",
+            "CBC"
+          ],
+          "interaksi": [
+            "Vaksin hidup: kontraindikasi",
+            "Anakinra dan abatacept: hindari kombinasi"
+          ],
+          "catatan": "Karena tanpa bagian Fc, transfer plasenta minimal sehingga sering dipertimbangkan pada kehamilan.",
+          "gambar": null
+        },
+        {
+          "id": "abatacept",
+          "nama": "Abatacept",
+          "mekanisme": "Menghambat sel T: protein fusi CTLA4-Ig yang berikatan dengan CD80/CD86 sehingga menghambat kostimulasi CD28 dan aktivasi sel T",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Artritis psoriatik",
+            "Artritis idiopatik juvenil poliartikular"
+          ],
+          "sediaan": [
+            "Serbuk infus IV 250 mg (vial)",
+            "Prefilled syringe SC 125 mg/mL"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Infeksi saluran napas atas",
+            "Mual",
+            "Eksaserbasi PPOK",
+            "Infeksi serius"
+          ],
+          "tatalaksana": [
+            "IV berdasarkan berat badan: < 60 kg 500 mg; 60-100 kg 750 mg; > 100 kg 1000 mg, pada minggu 0, 2, 4, lalu tiap 4 minggu",
+            "SC: 125 mg 1x/minggu"
+          ],
+          "monitoring": [
+            "Skrining TB dan hepatitis B sebelum terapi",
+            "Tanda infeksi",
+            "Fungsi pernapasan pada PPOK"
+          ],
+          "interaksi": [
+            "TNF inhibitor dan anakinra: risiko infeksi serius, hindari kombinasi",
+            "Vaksin hidup: kontraindikasi"
+          ],
+          "catatan": "Formulasi IV mengandung maltosa yang dapat menyebabkan pembacaan gula darah palsu tinggi pada glukometer tertentu.",
+          "gambar": null
+        },
+        {
+          "id": "rituximab",
+          "nama": "Rituximab",
+          "mekanisme": "Antibodi monoklonal anti-CD20 yang mengeliminasi sel B",
+          "indikasi": [
+            "Artritis reumatoid (respons tidak adekuat terhadap TNF inhibitor)",
+            "Limfoma non-Hodgkin",
+            "Leukemia limfositik kronik",
+            "Vaskulitis ANCA"
+          ],
+          "sediaan": [
+            "Infus IV 100 mg/10 mL dan 500 mg/50 mL (vial)"
+          ],
+          "efek_samping": [
+            "Reaksi infus",
+            "Infeksi",
+            "Reaktivasi hepatitis B (boxed warning)",
+            "Progressive multifocal leukoencephalopathy (PML)",
+            "Hipogamaglobulinemia",
+            "Neutropenia lambat"
+          ],
+          "tatalaksana": [
+            "RA: 1000 mg IV pada hari 1 dan 15, bersama MTX; dapat diulang tiap 24 minggu berdasarkan respons",
+            "Premedikasi: metilprednisolon 100 mg IV, antihistamin, dan parasetamol"
+          ],
+          "monitoring": [
+            "Skrining hepatitis B sebelum terapi",
+            "Reaksi infus",
+            "CBC",
+            "Kadar imunoglobulin",
+            "Tanda infeksi"
+          ],
+          "interaksi": [
+            "Vaksin hidup: kontraindikasi",
+            "Antihipertensi: pertimbangkan dihentikan 12 jam sebelum infus (risiko hipotensi)",
+            "Imunosupresan lain: risiko infeksi aditif"
+          ],
+          "catatan": null,
+          "gambar": null
+        },
+        {
+          "id": "tocilizumab",
+          "nama": "Tocilizumab",
+          "mekanisme": "Antibodi monoklonal anti-reseptor IL-6 (blokade IL-6)",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Arteritis sel raksasa",
+            "Artritis idiopatik juvenil sistemik/poliartikular",
+            "Cytokine release syndrome"
+          ],
+          "sediaan": [
+            "Infus IV 80 mg/4 mL, 200 mg/10 mL, 400 mg/20 mL",
+            "Prefilled syringe/pen SC 162 mg/0,9 mL"
+          ],
+          "efek_samping": [
+            "Infeksi",
+            "Peningkatan ALT/AST",
+            "Neutropenia",
+            "Trombositopenia",
+            "Peningkatan kolesterol/lipid",
+            "Perforasi GI (divertikulitis)"
+          ],
+          "tatalaksana": [
+            "IV: 4-8 mg/kgBB tiap 4 minggu (maks 800 mg/infus)",
+            "SC: 162 mg tiap 1-2 minggu"
+          ],
+          "monitoring": [
+            "Skrining TB dan hepatitis B sebelum terapi",
+            "CBC",
+            "ALT/AST",
+            "Profil lipid",
+            "Tanda infeksi (CRP ditekan sehingga dapat menyamarkan infeksi)"
+          ],
+          "interaksi": [
+            "Substrat CYP3A4 (mis. simvastatin, siklosporin): kadar dapat menurun karena normalisasi aktivitas CYP",
+            "Vaksin hidup: kontraindikasi",
+            "Imunosupresan lain: risiko infeksi aditif"
+          ],
+          "catatan": null,
+          "gambar": null
+        },
+        {
+          "id": "anakinra",
+          "nama": "Anakinra",
+          "mekanisme": "Antagonis reseptor IL-1 rekombinan (IL-1Ra); memblokir IL-1β dan IL-1α",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Penyakit Still dewasa",
+            "Cryopyrin-associated periodic syndromes (CAPS)",
+            "Serangan gout akut refrakter (off-label)"
+          ],
+          "sediaan": [
+            "Prefilled syringe SC 100 mg/0,67 mL"
+          ],
+          "efek_samping": [
+            "Reaksi di lokasi injeksi",
+            "Infeksi",
+            "Neutropenia",
+            "Sakit kepala"
+          ],
+          "tatalaksana": [
+            "100 mg SC 1x/hari",
+            "CrCl < 30 mL/menit: 100 mg selang sehari",
+            "Gout akut (off-label): 100 mg SC harian selama 3-5 hari"
+          ],
+          "monitoring": [
+            "CBC/neutrofil",
+            "Fungsi ginjal",
+            "Tanda infeksi"
+          ],
+          "interaksi": [
+            "TNF inhibitor dan abatacept: risiko infeksi serius, hindari kombinasi",
+            "Vaksin hidup: kontraindikasi"
+          ],
+          "catatan": "Sumber menulis 'Anti IL-1'; lebih tepat sebagai antagonis reseptor IL-1.",
+          "gambar": null
+        }
+      ]
+    },
+    {
+      "id": "tsdmard",
+      "kelas": "tsDMARD (Targeted Synthetic DMARD)",
+      "mekanisme": "Inhibitor Janus kinase (JAK) oral yang menghambat jalur sinyal sitokin JAK-STAT",
+      "obat": [
+        {
+          "id": "tofacitinib",
+          "nama": "Tofacitinib",
+          "mekanisme": "Menghambat enzim JAK1 dan JAK3",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Artritis psoriatik",
+            "Kolitis ulseratif",
+            "Spondilitis ankilosa"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg",
+            "Tablet lepas lambat 11 mg"
+          ],
+          "efek_samping": [
+            "Infeksi (termasuk herpes zoster)",
+            "Peningkatan lipid",
+            "Sitopenia",
+            "Peningkatan ALT/AST",
+            "Sakit kepala",
+            "Diare"
+          ],
+          "tatalaksana": [
+            "5 mg 2x/hari atau tablet lepas lambat 11 mg 1x/hari",
+            "Boxed warning: infeksi serius, mortalitas, keganasan, kejadian kardiovaskular mayor, dan tromboemboli vena"
+          ],
+          "monitoring": [
+            "CBC",
+            "Profil lipid (4-8 minggu setelah mulai)",
+            "ALT/AST",
+            "Fungsi ginjal",
+            "Skrining TB dan hepatitis B/C sebelum terapi"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat (ketokonazol): kurangi dosis",
+            "Penginduksi CYP3A4 (rifampisin): efek menurun",
+            "Imunosupresan kuat (azatioprin, siklosporin): hindari",
+            "Vaksin hidup: hindari"
+          ],
+          "catatan": "Sumber menulis 'Tofacinitib'; nama yang benar tofacitinib.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tofacitinib/PNG?image_size=300x300"
+        },
+        {
+          "id": "baricitinib",
+          "nama": "Baricitinib",
+          "mekanisme": "Menghambat enzim JAK1 dan JAK2",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Alopesia areata",
+            "Dermatitis atopik (di beberapa negara)",
+            "COVID-19 berat (rawat inap)"
+          ],
+          "sediaan": [
+            "Tablet 2 mg, 4 mg"
+          ],
+          "efek_samping": [
+            "Infeksi (termasuk herpes zoster)",
+            "Peningkatan lipid",
+            "Neutropenia",
+            "Peningkatan ALT/AST dan CK",
+            "Tromboemboli vena",
+            "Sakit kepala"
+          ],
+          "tatalaksana": [
+            "4 mg 1x/hari; 2 mg 1x/hari bila penyakit terkontrol atau eGFR 30-60",
+            "Hindari bila eGFR < 30",
+            "Boxed warning: infeksi serius, mortalitas, keganasan, kejadian kardiovaskular mayor, tromboemboli"
+          ],
+          "monitoring": [
+            "CBC",
+            "Profil lipid",
+            "ALT/AST",
+            "Fungsi ginjal",
+            "Skrining TB dan hepatitis B/C sebelum terapi"
+          ],
+          "interaksi": [
+            "Inhibitor OAT3 kuat (probenesid): kurangi dosis menjadi 2 mg",
+            "Imunosupresan kuat: hindari",
+            "Vaksin hidup: hindari"
+          ],
+          "catatan": "Sumber menulis 'Baricinitib'; nama yang benar baricitinib.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/baricitinib/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antigout-antiinflamasi",
+      "kelas": "Antiinflamasi Gout",
+      "mekanisme": "Menekan respons inflamasi akibat kristal monosodium urat pada serangan gout",
+      "obat": [
+        {
+          "id": "kolkisin",
+          "nama": "Kolkisin",
+          "mekanisme": "Menurunkan aktivasi kristal monosodium urat (MSU) sehingga menurunkan pembentukan IL-1β dan IL-18; bekerja melalui pengikatan tubulin, hambatan migrasi neutrofil, dan penekanan inflamasom NLRP3",
+          "indikasi": [
+            "Serangan gout akut",
+            "Profilaksis serangan gout saat memulai terapi penurun asam urat",
+            "Demam Mediterania familial",
+            "Perikarditis"
+          ],
+          "sediaan": [
+            "Tablet 0,5 mg atau 0,6 mg"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Mual dan muntah",
+            "Nyeri perut",
+            "Mielosupresi",
+            "Neuromiopati",
+            "Toksisitas pada gangguan ginjal/hati"
+          ],
+          "tatalaksana": [
+            "Serangan akut (dosis rendah): 1 mg, lalu 0,5 mg 1 jam kemudian pada hari 1; lanjut 0,5 mg 1-2x/hari sampai serangan reda",
+            "Profilaksis: 0,5-0,6 mg 1-2x/hari selama 3-6 bulan",
+            "Kurangi dosis pada gangguan ginjal/hati"
+          ],
+          "monitoring": [
+            "Fungsi ginjal dan hati",
+            "CBC",
+            "Gejala GI dan otot (kelemahan, nyeri)"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 dan P-gp kuat (klaritromisin, ketokonazol, siklosporin, ritonavir): kurangi dosis atau hindari, risiko toksisitas fatal",
+            "Statin dan fibrat: risiko miopati",
+            "Digoksin: risiko toksisitas",
+            "Diltiazem, verapamil: kadar kolkisin meningkat"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/colchicine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antagonis-il1",
+      "kelas": "Antagonis IL-1",
+      "mekanisme": "Menetralisir sitokin IL-1 yang berperan dalam inflamasi autoinflamasi dan serangan gout",
+      "obat": [
+        {
+          "id": "kanakinumab",
+          "nama": "Canakinumab",
+          "mekanisme": "Antibodi monoklonal manusia yang menetralisir IL-1β",
+          "indikasi": [
+            "Serangan gout akut (bila NSAID, kolkisin, atau kortikosteroid tidak dapat digunakan; status persetujuan berbeda antar negara)",
+            "CAPS",
+            "Penyakit Still",
+            "Demam Mediterania familial"
+          ],
+          "sediaan": [
+            "Injeksi SC 150 mg/mL (vial)"
+          ],
+          "efek_samping": [
+            "Infeksi",
+            "Neutropenia",
+            "Nasofaringitis",
+            "Reaksi di lokasi injeksi",
+            "Peningkatan asam urat"
+          ],
+          "tatalaksana": [
+            "Gout akut: 150 mg SC dosis tunggal",
+            "CAPS (> 40 kg): 150 mg SC tiap 8 minggu"
+          ],
+          "monitoring": [
+            "CBC/neutrofil",
+            "Skrining TB",
+            "Tanda infeksi"
+          ],
+          "interaksi": [
+            "TNF inhibitor dan anakinra: risiko infeksi serius, hindari kombinasi",
+            "Vaksin hidup: kontraindikasi",
+            "Substrat CYP450 sempit: dapat terpengaruh oleh normalisasi sitokin"
+          ],
+          "catatan": "Sumber menulis 'canakinmab'. Ketersediaan di Indonesia terbatas.",
+          "gambar": null
+        },
+        {
+          "id": "rilonacept",
+          "nama": "Rilonacept",
+          "mekanisme": "Protein fusi 'IL-1 trap' (domain reseptor IL-1R1 dan IL-1RAcP dengan Fc) yang menetralisir IL-1α dan IL-1β",
+          "indikasi": [
+            "CAPS",
+            "Perikarditis rekuren",
+            "Deficiency of IL-1 receptor antagonist (DIRA)"
+          ],
+          "sediaan": [
+            "Serbuk liofilisat 220 mg (vial) untuk injeksi SC"
+          ],
+          "efek_samping": [
+            "Reaksi di lokasi injeksi",
+            "Infeksi saluran napas atas",
+            "Peningkatan lipid"
+          ],
+          "tatalaksana": [
+            "Dewasa: 320 mg SC dosis muat (2 injeksi), lalu 160 mg SC 1x/minggu"
+          ],
+          "monitoring": [
+            "Tanda infeksi",
+            "Profil lipid"
+          ],
+          "interaksi": [
+            "TNF inhibitor: risiko infeksi serius, hindari kombinasi",
+            "Vaksin hidup: kontraindikasi"
+          ],
+          "catatan": "Sumber menulis 'Rinolacept'. Tidak disetujui untuk gout; ketersediaan terbatas dan mungkin tidak tersedia di Indonesia. Mohon verifikasi konteks penggunaan yang dimaksud.",
+          "gambar": null
+        }
+      ]
+    },
+    {
+      "id": "xoi",
+      "kelas": "XOI (Xanthine Oxidase Inhibitor)",
+      "mekanisme": "Menghambat xantin oksidase sehingga konversi hipoxantin dan xantin menjadi asam urat menurun",
+      "obat": [
+        {
+          "id": "allopurinol",
+          "nama": "Allopurinol",
+          "mekanisme": "Konsentrasi rendah: inhibisi kompetitif; konsentrasi tinggi: inhibisi non-kompetitif terhadap xantin oksidase",
+          "indikasi": [
+            "Hiperurisemia dan gout kronis",
+            "Profilaksis batu asam urat",
+            "Hiperurisemia akibat kemoterapi"
+          ],
+          "sediaan": [
+            "Tablet 100 mg, 300 mg"
+          ],
+          "efek_samping": [
+            "Ruam",
+            "Sindrom Stevens-Johnson/TEN",
+            "Sindrom hipersensitivitas allopurinol",
+            "Hepatotoksik",
+            "Serangan gout awal",
+            "Mual dan diare"
+          ],
+          "tatalaksana": [
+            "Mulai 50-100 mg/hari, naikkan 50-100 mg tiap 2-5 minggu sampai asam urat serum < 6 mg/dL (< 5 mg/dL bila ada tofus)",
+            "Dosis maks sampai 800-900 mg/hari dengan monitoring",
+            "Mulai setelah serangan akut reda, dengan profilaksis kolkisin/NSAID 3-6 bulan",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Asam urat serum",
+            "Fungsi ginjal",
+            "ALT/AST",
+            "CBC",
+            "Skrining HLA-B*58:01 pada populasi risiko tinggi (mis. keturunan Han Tionghoa, Thai, Korea, atau CKD)"
+          ],
+          "interaksi": [
+            "Azatioprin dan merkaptopurin: kurangi dosis 65-75%",
+            "Ampisilin/amoksisilin: risiko ruam meningkat",
+            "Tiazid dan ACE inhibitor: risiko reaksi hipersensitivitas",
+            "Warfarin: efek antikoagulan meningkat"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/allopurinol/PNG?image_size=300x300"
+        },
+        {
+          "id": "febuxostat",
+          "nama": "Febuxostat",
+          "mekanisme": "Membentuk kompleks stabil dengan bentuk tereduksi maupun teroksidasi dari xantin oksidase (XO) sehingga menghambat fungsi katalisnya",
+          "indikasi": [
+            "Hiperurisemia kronis pada gout (bila allopurinol tidak toleran atau tidak efektif)"
+          ],
+          "sediaan": [
+            "Tablet 40 mg, 80 mg"
+          ],
+          "efek_samping": [
+            "Serangan gout awal",
+            "Gangguan fungsi hati",
+            "Mual",
+            "Ruam",
+            "Nyeri sendi",
+            "Risiko kematian kardiovaskular (boxed warning)"
+          ],
+          "tatalaksana": [
+            "40 mg 1x/hari; naikkan menjadi 80 mg bila asam urat serum > 6 mg/dL setelah 2 minggu",
+            "Profilaksis kolkisin/NSAID 3-6 bulan saat memulai terapi"
+          ],
+          "monitoring": [
+            "Asam urat serum",
+            "ALT/AST",
+            "Gejala kardiovaskular"
+          ],
+          "interaksi": [
+            "Azatioprin, merkaptopurin, teofilin: kontraindikasi/hindari (kadar meningkat)"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/febuxostat/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "uricase",
+      "kelas": "Uricase",
+      "mekanisme": "Enzim rekombinan yang mengkatalisis oksidasi asam urat menjadi allantoin yang lebih larut dan mudah diekskresi",
+      "obat": [
+        {
+          "id": "pegloticase",
+          "nama": "Pegloticase",
+          "mekanisme": "Uricase rekombinan (PEGylated) yang mengkatalisis oksidasi enzimatik asam urat menjadi allantoin",
+          "indikasi": [
+            "Gout kronis refrakter terhadap terapi penurun asam urat konvensional"
+          ],
+          "sediaan": [
+            "Infus IV 8 mg/mL (vial)"
+          ],
+          "efek_samping": [
+            "Reaksi infus",
+            "Anafilaksis (boxed warning)",
+            "Serangan gout",
+            "Mual",
+            "Memar",
+            "Nasofaringitis",
+            "Hemolisis dan methemoglobinemia pada defisiensi G6PD (boxed warning)"
+          ],
+          "tatalaksana": [
+            "8 mg IV infus selama ≥ 2 jam tiap 2 minggu",
+            "Premedikasi antihistamin dan kortikosteroid",
+            "Hentikan bila asam urat serum > 6 mg/dL pada dua pengukuran berturut-turut sebelum infus"
+          ],
+          "monitoring": [
+            "Asam urat serum sebelum tiap infus",
+            "Skrining G6PD sebelum terapi",
+            "Pengawasan selama dan ± 1 jam setelah infus"
+          ],
+          "interaksi": [
+            "Hentikan XOI dan urikosurik selama terapi",
+            "Metotreksat: kombinasi dapat meningkatkan respons dan mengurangi antibodi anti-obat"
+          ],
+          "catatan": "Ketersediaan di Indonesia terbatas.",
+          "gambar": null
+        },
+        {
+          "id": "rasburicase",
+          "nama": "Rasburicase",
+          "mekanisme": "Uricase rekombinan yang mengkatalisis oksidasi asam urat menjadi allantoin",
+          "indikasi": [
+            "Pencegahan dan tata laksana hiperurisemia akibat tumor lysis syndrome pada kemoterapi"
+          ],
+          "sediaan": [
+            "Serbuk infus IV 1,5 mg, 7,5 mg (vial)"
+          ],
+          "efek_samping": [
+            "Mual dan muntah",
+            "Demam",
+            "Sakit kepala",
+            "Ruam",
+            "Anafilaksis",
+            "Hemolisis pada defisiensi G6PD",
+            "Methemoglobinemia"
+          ],
+          "tatalaksana": [
+            "0,2 mg/kgBB IV infus 30 menit, 1x/hari, hingga 5 hari"
+          ],
+          "monitoring": [
+            "Asam urat serum (sampel harus segera didinginkan di es agar hasil valid)",
+            "Skrining G6PD sebelum terapi",
+            "CBC",
+            "Tanda hipersensitivitas"
+          ],
+          "interaksi": [
+            "Obat penyebab hemolisis atau methemoglobinemia lain: risiko aditif"
+          ],
+          "catatan": "Bukan untuk gout kronis.",
+          "gambar": null
+        }
+      ]
+    },
+    {
+      "id": "urikosurik",
+      "kelas": "Urikosurik",
+      "mekanisme": "Meningkatkan ekskresi ginjal asam urat dengan menghambat reabsorpsinya di tubulus proksimal",
+      "obat": [
+        {
+          "id": "probenecid",
+          "nama": "Probenecid",
+          "mekanisme": "Meningkatkan ekskresi asam urat dengan menghambat reabsorpsi (penghambat URAT1/OAT)",
+          "indikasi": [
+            "Hiperurisemia dan gout kronis (underexcretor)",
+            "Adjuvan untuk meningkatkan kadar antibiotik (penisilin)"
+          ],
+          "sediaan": [
+            "Tablet 500 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Mual",
+            "Ruam",
+            "Batu ginjal asam urat",
+            "Serangan gout awal"
+          ],
+          "tatalaksana": [
+            "250 mg 2x/hari selama 1 minggu, lalu 500 mg 2x/hari; maks 2 g/hari",
+            "Tingkatkan asupan cairan (≥ 2 L/hari) dan alkalinisasi urin bila perlu",
+            "Jangan dimulai saat serangan akut; tidak efektif pada CrCl < 30 mL/menit"
+          ],
+          "monitoring": [
+            "Asam urat serum",
+            "Fungsi ginjal",
+            "Status hidrasi",
+            "CBC"
+          ],
+          "interaksi": [
+            "Penisilin dan sefalosporin: kadar meningkat",
+            "Metotreksat: kadar meningkat, risiko toksisitas",
+            "NSAID (indometasin, naproxen): kadar meningkat",
+            "Aspirin dosis rendah: menurunkan efek urikosurik",
+            "Baricitinib: kurangi dosis"
+          ],
+          "catatan": "Kontraindikasi pada riwayat batu asam urat dan diskrasia darah.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/probenecid/PNG?image_size=300x300"
+        }
+      ]
+    }
+  ]
+}

@@ -1,19 +1,21 @@
+import { DRUG_IMAGE_PLACEHOLDER } from '../utils/constants.js';
+
 const DrugCard = ({ gambar, nama, indikasi }) => {
   return (
     <div className="flex flex-col gap-1 w-full h-full p-4 rounded-2xl bg-surface border-4 border-text-inverse-primary">
-      {gambar && (
+      {(gambar || DRUG_IMAGE_PLACEHOLDER) && (
         <img
-          className="rounded-xl"
-          src={gambar}
+          className="rounded-xl  max-w-[300px] max-h-[300px]"
+          src={gambar || DRUG_IMAGE_PLACEHOLDER}
           alt={`Struktur kimia ${nama}`}
           loading="lazy"
           onError={(e) => {
-            e.currentTarget.style.display = 'none';
+            e.currentTarget.src = DRUG_IMAGE_PLACEHOLDER;
           }}
         />
       )}
-      <h3 className="text-label-lg font-bold text-text-primary">{nama}</h3>
-      <p className="text-body-sm text-text-primary">{indikasi}</p>
+      <h3 className="text-label-lg font-bold text-text-primary wrap-break-word">{nama}</h3>
+      <p className="text-body-sm text-text-primary wrap-break-word">{indikasi}</p>
     </div>
   );
 };

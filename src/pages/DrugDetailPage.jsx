@@ -1,11 +1,16 @@
+import { DRUG_IMAGE_PLACEHOLDER } from '../utils/constants.js';
+
 import { useParams, Link } from 'react-router-dom';
 import { getDrugById } from '../data/drugs.js';
 
 import InfoSection from '../components/InfoSection.jsx';
+import React from 'react';
 
 const DrugDetailPage = () => {
   const { drugId } = useParams();
   const drug = getDrugById(drugId);
+
+  const [imageError, setImageError] = React.useState(false);
 
   if (!drug) {
     return (
@@ -21,18 +26,23 @@ const DrugDetailPage = () => {
   const mekanisme = drug.mekanisme ?? drug.kelasMekanisme;
 
   return (
-    <article className="w-full px-5 pt-3 flex flex-col md:flex-row justify-center items-start">
+    <article className="w-full px-5 pt-3 flex flex-col md:flex-row justify-start items-center md:items-start">
       <figure className="m-5 p-5 rounded-2xl border-3 border-text-inverse-primary">
-        {drug.gambar && (
+        {console.log(drug.gambar)}
+        {(drug.gambar || DRUG_IMAGE_PLACEHOLDER) && (
           <img
-            className="rounded-xl"
-            src={drug.gambar}
+            className="rounded-xl max-w-[300px] max-h-[300px]"
+            src={drug.gambar || DRUG_IMAGE_PLACEHOLDER}
             alt={`Struktur kimia ${drug.nama}`}
-            onError={(e) => (e.currentTarget.style.display = 'none')}
+            loading="lazy"
+            onError={(e) => {
+              e.currentTarget.src = DRUG_IMAGE_PLACEHOLDER;
+              setImageError(true);
+            }}
           />
         )}
         <figcaption className="mt-2 text-center text-body-sm text-text-muted">
-          Struktur kimia {drug.nama}
+          {imageError ? 'Ilustrasi obat' : `Struktur kimia ${drug.nama}`}
         </figcaption>
       </figure>
 

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Link, useLocation } from 'react-router-dom';
+import { Link, matchPath, useLocation } from 'react-router-dom';
 import { FaMoon, FaRegSun, FaAlignJustify, FaSearch } from 'react-icons/fa';
 
 import Logo from './Logo.jsx';
@@ -9,7 +9,8 @@ import NavbarLink from './NavbarLink.jsx';
 
 const NavBar = ({ theme, setTheme }) => {
   const location = useLocation();
-  const isActive = (path) => location.pathname === path;
+  const isActive = (path) =>
+    !!matchPath({ path, end: path === '/' }, location.pathname);
 
   const containerRef = React.useRef(null);
 
@@ -47,17 +48,17 @@ const NavBar = ({ theme, setTheme }) => {
 
   return (
     <div ref={containerRef}>
-      <header className={`w-3/4 max-w-300 fixed top-5 left-1/2 -translate-x-1/2 z-50 bg-surface border-b border-border-strong shadow-sm transition-all duration-300 ${
+      <header className={`w-3/4 max-w-300 fixed top-5 left-1/2 -translate-x-1/2 z-50 bg-surface border-b border-border-strong shadow-2xs shadow-accent-primary ${
         mobileNav ? 'rounded-4xl' : 'rounded-full'
       }`}>
         <nav className="w-full h-auto flex flex-col items-center justify-center">
           <div className="flex justify-between items-center h-16 w-full mx-auto px-container-margin">
-            <button
+            {/* <button
               onClick={toggleMobileNav}
               className="md:hidden text-xl pt-1 pl-5 text-text-muted cursor-pointer"
             >
               <FaAlignJustify />
-            </button>
+            </button> */}
             <Link to="/"><Logo /></Link>
             <div className="hidden md:flex flex-row items-center justify-center">
               <NavbarLink to='/' isActive={isActive('/')}>Home</NavbarLink>
@@ -81,6 +82,12 @@ const NavBar = ({ theme, setTheme }) => {
               >
                 { theme === 'light' ? <FaRegSun /> : <FaMoon />}
               </button>
+              <button
+                onClick={toggleMobileNav}
+                className="md:hidden text-text-muted cursor-pointer"
+              >
+                <FaAlignJustify />
+              </button>
             </div>
           </div>
           <div
@@ -90,19 +97,19 @@ const NavBar = ({ theme, setTheme }) => {
           >
             <NavbarLink to='/' isActive={isActive('/')}>Home</NavbarLink>
             <NavbarLink to='/news' isActive={isActive('/news')}>News & Perspective</NavbarLink>
-            <NavbarLink to='/references' isActive={isActive('/references')}>References</NavbarLink>
+            <NavbarLink to='/references' isActive={isActive('/references/')}>References</NavbarLink>
           </div>
         </nav>
       </header>
       <div
         className={`w-3/4 fixed top-25 left-1/2 -translate-x-1/2 overflow-hidden transition-all duration-300 ease-in-out ${
           (searchBar)
-            ? 'max-h-24 translate-y-0'
+            ? 'max-h-40 translate-y-0'
             : 'max-h-0 -translate-y-2'
         }`}
       >
         <div className="w-full max-w-1/2 h-auto mx-auto pb-5">
-          <SearchBar placeholder={'Search'} />
+          <SearchBar pathname={location.pathname} placeholder={'Search'} />
         </div>
       </div>
     </div>
