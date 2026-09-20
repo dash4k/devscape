@@ -4,6 +4,11 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
+  --color-deep-space-blue: #023047;
+  --color-cool-blue: #d8effd;
+  --color-on-deep-space-blue: #E5F0FE;
+  --color-on-cool-blue: #212D3B;
+  
   /* Colors — light mode defaults */
   --color-surface: #faf8ff;              /* lighter than CEC4BA, page bg */
   --color-surface-container: #e1e2ec;    /* your beige, cards/sections */
@@ -16,8 +21,9 @@
   --color-text-secondary: #3A4448;       /* lightened step of #11181B */
   --color-text-muted: #6B767A;           /* further lightened, for placeholders/captions */
   --color-text-on-accent: #11181B;       /* dark text on baby-blue (better contrast than white) */
+  --color-text-on-accent-white: #FDFDFD;       /* dark text on baby-blue (better contrast than white) */
 
-  --color-accent-primary: #4893c6;
+  --color-accent-primary: #89CFF0;
   --color-accent-primary-hover: #6BB8DE; /* darker step for hover */
   --color-accent-cta: #F0C189;
   --color-accent-cta-hover: #E0A96A;     /* darker step for hover */
@@ -95,6 +101,7 @@
   --color-text-secondary: #C4C4C4;
   --color-text-muted: #8A8A8A;
   --color-text-on-accent: #11181B;
+  --color-text-on-accent-white: #FDFDFD;
 
   --color-accent-primary: #89CFF0;
   --color-accent-primary-hover: #A6DBF5;   /* lighten on hover in dark mode instead of darken */
