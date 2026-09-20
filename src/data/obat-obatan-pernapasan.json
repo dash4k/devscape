@@ -1,0 +1,811 @@
+{
+  "kelas_obat": [
+    {
+      "id": "saba",
+      "kelas": "SABA (Short-Acting Beta-2 Agonist)",
+      "mekanisme": "Agonis reseptor beta-2 adrenergik selektif di otot polos bronkus yang meningkatkan cAMP sehingga terjadi bronkodilatasi cepat (onset menit, durasi 4-6 jam)",
+      "obat": [
+        {
+          "id": "salbutamol",
+          "nama": "Salbutamol (Albuterol)",
+          "indikasi": [
+            "Pereda serangan asma akut (reliever)",
+            "Bronkospasme pada PPOK",
+            "Pencegahan bronkospasme akibat latihan fisik"
+          ],
+          "sediaan": [
+            "MDI 100 mcg/puff",
+            "Larutan nebulisasi 2,5 mg/2,5 mL",
+            "Tablet 2 mg, 4 mg",
+            "Sirup 2 mg/5 mL",
+            "Injeksi 0,5 mg/mL"
+          ],
+          "efek_samping": [
+            "Tremor",
+            "Palpitasi dan takikardia",
+            "Sakit kepala",
+            "Hipokalemia",
+            "Gelisah"
+          ],
+          "tatalaksana": [
+            "MDI: 1-2 puff (100-200 mcg) setiap 4-6 jam bila perlu, dengan spacer",
+            "Serangan akut: 4-8 puff setiap 20 menit selama 1 jam pertama",
+            "Nebulisasi: 2,5-5 mg setiap 4-6 jam bila perlu (serangan berat dapat diulang setiap 20 menit)",
+            "Oral: 2-4 mg 3-4x/hari"
+          ],
+          "monitoring": [
+            "Laju napas dan saturasi oksigen",
+            "Frekuensi nadi",
+            "Kalium serum (dosis tinggi atau nebulisasi berulang)"
+          ],
+          "interaksi": [
+            "Penyekat beta nonselektif (propranolol): melawan efek bronkodilator, hindari",
+            "Diuretik tiazid/loop, kortikosteroid, teofilin: risiko hipokalemia aditif",
+            "MAOI dan antidepresan trisiklik: efek kardiovaskular meningkat"
+          ],
+          "catatan": "Penggunaan reliever > 2 hari/minggu (di luar latihan fisik) menandakan asma tidak terkontrol.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/albuterol/PNG?image_size=300x300"
+        },
+        {
+          "id": "terbutalin",
+          "nama": "Terbutalin",
+          "indikasi": [
+            "Pereda bronkospasme pada asma dan PPOK"
+          ],
+          "sediaan": [
+            "Tablet 2,5 mg, 5 mg",
+            "Sirup 1,5 mg/5 mL",
+            "Turbuhaler 500 mcg/dosis",
+            "Larutan nebulisasi 2,5 mg/mL",
+            "Injeksi 0,5 mg/mL"
+          ],
+          "efek_samping": [
+            "Tremor",
+            "Takikardia",
+            "Palpitasi",
+            "Sakit kepala",
+            "Hipokalemia"
+          ],
+          "tatalaksana": [
+            "Oral: 2,5-5 mg 3x/hari",
+            "Turbuhaler: 1 inhalasi (500 mcg) bila perlu, maks 4x/hari",
+            "SC: 0,25 mg, dapat diulang setelah 15-30 menit, maks 0,5 mg/4 jam"
+          ],
+          "monitoring": [
+            "Frekuensi nadi",
+            "Kalium serum",
+            "Respons klinis"
+          ],
+          "interaksi": [
+            "Penyekat beta nonselektif: efek berlawanan",
+            "Diuretik dan kortikosteroid: risiko hipokalemia"
+          ],
+          "catatan": "Formulasi injeksi/oral tidak dianjurkan sebagai tokolitik jangka panjang (peringatan FDA).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/terbutaline/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "laba",
+      "kelas": "LABA (Long-Acting Beta-2 Agonist)",
+      "mekanisme": "Agonis reseptor beta-2 kerja panjang (durasi ± 12 jam) untuk bronkodilatasi terkontrol",
+      "obat": [
+        {
+          "id": "salmeterol",
+          "nama": "Salmeterol",
+          "indikasi": [
+            "Terapi pemeliharaan asma (harus bersama ICS)",
+            "Terapi pemeliharaan PPOK"
+          ],
+          "sediaan": [
+            "MDI 25 mcg/puff",
+            "Diskus 50 mcg/dosis",
+            "Kombinasi dengan flutikason (Seretide)"
+          ],
+          "efek_samping": [
+            "Tremor",
+            "Palpitasi",
+            "Sakit kepala",
+            "Kram otot",
+            "Hipokalemia"
+          ],
+          "tatalaksana": [
+            "50 mcg 2x/hari inhalasi (setiap 12 jam)",
+            "Onset lambat (15-30 menit), tidak untuk serangan akut"
+          ],
+          "monitoring": [
+            "Kontrol gejala asma",
+            "Frekuensi nadi",
+            "Kalium serum"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat (ketokonazol, ritonavir): meningkatkan kadar, risiko aritmia",
+            "Penyekat beta: efek berlawanan",
+            "Obat pemanjang QT"
+          ],
+          "catatan": "Pada asma, jangan digunakan sebagai monoterapi tanpa ICS (peningkatan risiko kematian terkait asma).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/salmeterol/PNG?image_size=300x300"
+        },
+        {
+          "id": "formoterol",
+          "nama": "Formoterol",
+          "indikasi": [
+            "Terapi pemeliharaan asma (bersama ICS)",
+            "Terapi pemeliharaan PPOK",
+            "Pereda asma pada regimen SMART (bersama budesonide)"
+          ],
+          "sediaan": [
+            "Turbuhaler 4,5 mcg dan 9 mcg/dosis",
+            "MDI 6 mcg, 12 mcg",
+            "Kombinasi dengan budesonide (Symbicort)"
+          ],
+          "efek_samping": [
+            "Tremor",
+            "Palpitasi",
+            "Sakit kepala",
+            "Hipokalemia",
+            "Kram otot"
+          ],
+          "tatalaksana": [
+            "4,5-9 mcg 1-2 inhalasi 2x/hari",
+            "Onset cepat (1-3 menit) sehingga dapat digunakan sebagai reliever pada regimen SMART"
+          ],
+          "monitoring": [
+            "Kontrol gejala",
+            "Frekuensi nadi",
+            "Kalium serum"
+          ],
+          "interaksi": [
+            "Penyekat beta: efek berlawanan",
+            "Diuretik dan kortikosteroid: risiko hipokalemia",
+            "Obat pemanjang QT"
+          ],
+          "catatan": "Sama seperti salmeterol, tidak untuk monoterapi pada asma.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/formoterol/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antikolinergik-inhalasi",
+      "kelas": "Antikolinergik Inhalasi (SAMA dan LAMA)",
+      "mekanisme": "Antagonis reseptor muskarinik (M3) di saluran napas sehingga mengurangi bronkokonstriksi dan sekresi mukus",
+      "obat": [
+        {
+          "id": "ipratropium",
+          "nama": "Ipratropium bromida (SAMA)",
+          "indikasi": [
+            "Bronkospasme pada PPOK",
+            "Tambahan pada serangan asma akut sedang-berat"
+          ],
+          "sediaan": [
+            "MDI 20 mcg/puff",
+            "Larutan nebulisasi 250 mcg/mL",
+            "Kombinasi dengan salbutamol (Combivent) atau fenoterol (Berodual)"
+          ],
+          "efek_samping": [
+            "Mulut kering",
+            "Rasa pahit",
+            "Batuk",
+            "Retensi urin",
+            "Pandangan kabur (bila terkena mata)"
+          ],
+          "tatalaksana": [
+            "MDI: 2 puff (40 mcg) 3-4x/hari",
+            "Nebulisasi: 250-500 mcg setiap 6-8 jam; serangan asma akut dapat 500 mcg setiap 20 menit selama 3 dosis bersama SABA"
+          ],
+          "monitoring": [
+            "Gejala antikolinergik",
+            "Tekanan intraokular pada glaukoma",
+            "Gejala retensi urin"
+          ],
+          "interaksi": [
+            "Antikolinergik lain: efek aditif"
+          ],
+          "catatan": "Hati-hati pada glaukoma sudut sempit, BPH, dan obstruksi leher kandung kemih. Lindungi mata saat nebulisasi dengan masker.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ipratropium%20bromide/PNG?image_size=300x300"
+        },
+        {
+          "id": "tiotropium",
+          "nama": "Tiotropium bromida (LAMA)",
+          "indikasi": [
+            "Terapi pemeliharaan PPOK",
+            "Add-on pada asma persisten yang tidak terkontrol dengan ICS/LABA"
+          ],
+          "sediaan": [
+            "Kapsul inhalasi 18 mcg (HandiHaler)",
+            "Respimat 2,5 mcg/puff"
+          ],
+          "efek_samping": [
+            "Mulut kering",
+            "Faringitis",
+            "Sinusitis",
+            "Konstipasi",
+            "Retensi urin"
+          ],
+          "tatalaksana": [
+            "HandiHaler: 18 mcg 1x/hari",
+            "Respimat PPOK: 2 puff (5 mcg) 1x/hari; asma: 2 puff (2,5 mcg) 1x/hari",
+            "Bukan untuk serangan akut"
+          ],
+          "monitoring": [
+            "Gejala antikolinergik",
+            "Fungsi ginjal (CrCl ≤ 60 mL/menit)",
+            "Tekanan intraokular"
+          ],
+          "interaksi": [
+            "Antikolinergik lain (ipratropium): hindari kombinasi"
+          ],
+          "catatan": "Kapsul HandiHaler hanya untuk inhalasi, jangan ditelan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tiotropium%20bromide/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "ics",
+      "kelas": "ICS (Inhaled Corticosteroid)",
+      "mekanisme": "Glukokortikoid inhalasi yang menekan inflamasi saluran napas (menghambat sitokin, NF-kB, dan infiltrasi eosinofil) serta mengurangi hiperreaktivitas bronkus",
+      "obat": [
+        {
+          "id": "budesonide",
+          "nama": "Budesonide",
+          "indikasi": [
+            "Terapi pengontrol (controller) asma persisten",
+            "PPOK dengan eksaserbasi berulang dan eosinofil tinggi (bersama LABA)"
+          ],
+          "sediaan": [
+            "Turbuhaler 100, 200, 400 mcg/dosis",
+            "Suspensi nebulisasi 0,25 mg/mL dan 0,5 mg/mL",
+            "Kombinasi dengan formoterol (Symbicort)"
+          ],
+          "efek_samping": [
+            "Kandidiasis orofaring",
+            "Disfonia (suara serak)",
+            "Batuk",
+            "Supresi adrenal dan gangguan pertumbuhan anak (dosis tinggi)"
+          ],
+          "tatalaksana": [
+            "Dewasa: 200-800 mcg/hari terbagi 2 dosis (maks 1600 mcg/hari)",
+            "Nebulisasi anak: 0,5-1 mg 2x/hari",
+            "Kumur dan buang air kumur setelah inhalasi"
+          ],
+          "monitoring": [
+            "Kontrol gejala dan fungsi paru",
+            "Tinggi badan pada anak",
+            "Densitas tulang dan tekanan intraokular (jangka panjang, dosis tinggi)",
+            "Pemeriksaan mulut"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat (ketokonazol, ritonavir, itrakonazol): meningkatkan paparan sistemik"
+          ],
+          "catatan": "Efek penuh dicapai setelah beberapa hari-minggu. Tidak untuk serangan akut.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/budesonide/PNG?image_size=300x300"
+        },
+        {
+          "id": "flutikason",
+          "nama": "Flutikason propionat",
+          "indikasi": [
+            "Terapi pengontrol asma persisten",
+            "PPOK (dalam kombinasi dengan LABA)"
+          ],
+          "sediaan": [
+            "MDI 50, 125, 250 mcg/puff",
+            "Diskus 100, 250, 500 mcg/dosis",
+            "Kombinasi dengan salmeterol (Seretide)"
+          ],
+          "efek_samping": [
+            "Kandidiasis orofaring",
+            "Disfonia",
+            "Sakit kepala",
+            "Pneumonia (pada PPOK)",
+            "Supresi adrenal (dosis tinggi)"
+          ],
+          "tatalaksana": [
+            "Dewasa: 100-500 mcg 2x/hari (maks 1000 mcg 2x/hari)",
+            "Dosis rendah-menengah dititrasi turun ke dosis efektif terendah setelah terkontrol"
+          ],
+          "monitoring": [
+            "Kontrol gejala",
+            "Pemeriksaan mulut",
+            "Pertumbuhan anak",
+            "Densitas tulang (jangka panjang)"
+          ],
+          "interaksi": [
+            "Ritonavir dan inhibitor CYP3A4 kuat: risiko sindrom Cushing dan supresi adrenal"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fluticasone%20propionate/PNG?image_size=300x300"
+        },
+        {
+          "id": "beklometason",
+          "nama": "Beklometason dipropionat",
+          "indikasi": [
+            "Terapi pengontrol asma persisten"
+          ],
+          "sediaan": [
+            "MDI 50, 100, 250 mcg/puff",
+            "Kombinasi dengan formoterol ± glikopironium (mis. Fostair, Trimbow)"
+          ],
+          "efek_samping": [
+            "Kandidiasis orofaring",
+            "Disfonia",
+            "Batuk",
+            "Sakit kepala"
+          ],
+          "tatalaksana": [
+            "Dewasa: 100-400 mcg 2x/hari",
+            "Gunakan spacer dan kumur setelah inhalasi"
+          ],
+          "monitoring": [
+            "Kontrol gejala",
+            "Pemeriksaan mulut",
+            "Pertumbuhan anak"
+          ],
+          "interaksi": [
+            "Interaksi sistemik minimal pada dosis normal"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/beclomethasone%20dipropionate/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antagonis-leukotrien",
+      "kelas": "Antagonis Reseptor Leukotrien",
+      "mekanisme": "Menghambat reseptor cysteinyl-leukotriene (CysLT1) sehingga menurunkan bronkokonstriksi, edema mukosa, dan sekresi mukus",
+      "obat": [
+        {
+          "id": "montelukast",
+          "nama": "Montelukast",
+          "indikasi": [
+            "Asma persisten ringan (alternatif atau add-on ICS)",
+            "Pencegahan bronkospasme akibat latihan fisik",
+            "Rinitis alergi"
+          ],
+          "sediaan": [
+            "Tablet 10 mg",
+            "Tablet kunyah 4 mg, 5 mg",
+            "Granul 4 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Nyeri perut",
+            "Infeksi saluran napas atas",
+            "Gangguan neuropsikiatri (agitasi, mimpi buruk, depresi, ide bunuh diri)"
+          ],
+          "tatalaksana": [
+            "Dewasa dan ≥ 15 tahun: 10 mg 1x/hari malam hari",
+            "6-14 tahun: 5 mg 1x/hari",
+            "2-5 tahun: 4 mg 1x/hari",
+            "Bukan untuk serangan akut"
+          ],
+          "monitoring": [
+            "Gejala neuropsikiatri",
+            "Kontrol gejala asma"
+          ],
+          "interaksi": [
+            "Fenobarbital dan rifampisin: menurunkan kadar montelukast",
+            "Gemfibrozil: meningkatkan kadar montelukast"
+          ],
+          "catatan": "Boxed warning FDA: efek neuropsikiatri serius; pertimbangkan risiko dan manfaat, terutama pada asma ringan atau rinitis alergi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/montelukast/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "metilxantin",
+      "kelas": "Metilxantin",
+      "mekanisme": "Menghambat fosfodiesterase dan antagonis reseptor adenosin sehingga terjadi relaksasi otot polos bronkus; juga memiliki efek antiinflamasi ringan",
+      "obat": [
+        {
+          "id": "teofilin",
+          "nama": "Teofilin",
+          "indikasi": [
+            "Asma dan PPOK (terapi tambahan, lini kedua)"
+          ],
+          "sediaan": [
+            "Tablet lepas lambat 100 mg, 200 mg, 300 mg",
+            "Sirup 150 mg/15 mL"
+          ],
+          "efek_samping": [
+            "Mual, muntah",
+            "Sakit kepala",
+            "Insomnia",
+            "Takikardia dan aritmia",
+            "Tremor",
+            "Kejang (toksisitas)"
+          ],
+          "tatalaksana": [
+            "Dewasa: 300-400 mg/hari terbagi 1-2 dosis (lepas lambat), titrasi bertahap",
+            "Target kadar serum 5-15 mcg/mL",
+            "Kurangi dosis pada gagal jantung, penyakit hati, lansia, dan perokok berhenti merokok"
+          ],
+          "monitoring": [
+            "Kadar teofilin serum",
+            "Frekuensi nadi dan EKG",
+            "Tanda toksisitas (mual, tremor, aritmia)"
+          ],
+          "interaksi": [
+            "Siprofloksasin, eritromisin, simetidin, alopurinol, verapamil: meningkatkan kadar teofilin",
+            "Fenitoin, karbamazepin, rifampisin, merokok: menurunkan kadar teofilin",
+            "Penyekat beta: efek berlawanan",
+            "Litium: kadar litium menurun"
+          ],
+          "catatan": "Rentang terapi sempit; kadar > 20 mcg/mL berisiko toksik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/theophylline/PNG?image_size=300x300"
+        },
+        {
+          "id": "aminofilin",
+          "nama": "Aminofilin",
+          "indikasi": [
+            "Serangan asma akut berat dan eksaserbasi PPOK (bila respons terhadap SABA tidak adekuat)"
+          ],
+          "sediaan": [
+            "Injeksi 24 mg/mL (mengandung ± 80% teofilin)",
+            "Tablet 100 mg, 200 mg"
+          ],
+          "efek_samping": [
+            "Mual, muntah",
+            "Takikardia dan aritmia",
+            "Tremor",
+            "Gelisah",
+            "Kejang",
+            "Hipotensi (infus terlalu cepat)"
+          ],
+          "tatalaksana": [
+            "IV dosis muat: 5-6 mg/kgBB (aminofilin) dalam 20-30 menit, hanya bila belum mendapat teofilin dalam 24 jam terakhir",
+            "IV rumatan: 0,5-0,7 mg/kgBB/jam (kurangi pada lansia, gagal jantung, gangguan hati)",
+            "Oral: 100-200 mg 3-4x/hari"
+          ],
+          "monitoring": [
+            "Kadar teofilin serum (5-15 mcg/mL)",
+            "EKG dan tekanan darah",
+            "Tanda toksisitas"
+          ],
+          "interaksi": [
+            "Sama dengan teofilin (siprofloksasin, eritromisin, simetidin meningkatkan kadar; rifampisin, fenitoin menurunkan)"
+          ],
+          "catatan": "Dosis dihitung berdasarkan berat badan ideal; infus harus lambat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aminophylline/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "pde4-inhibitor",
+      "kelas": "Inhibitor PDE-4",
+      "mekanisme": "Menghambat fosfodiesterase-4 sehingga meningkatkan cAMP intrasel dan menurunkan inflamasi saluran napas",
+      "obat": [
+        {
+          "id": "roflumilast",
+          "nama": "Roflumilast",
+          "indikasi": [
+            "PPOK berat dengan bronkitis kronik dan riwayat eksaserbasi (tambahan terhadap bronkodilator)"
+          ],
+          "sediaan": [
+            "Tablet 250 mcg, 500 mcg"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Penurunan berat badan",
+            "Mual",
+            "Sakit kepala",
+            "Insomnia",
+            "Gangguan psikiatri (ansietas, depresi, ide bunuh diri)"
+          ],
+          "tatalaksana": [
+            "250 mcg 1x/hari selama 4 minggu, lalu 500 mcg 1x/hari",
+            "Tidak untuk serangan akut"
+          ],
+          "monitoring": [
+            "Berat badan",
+            "Gejala psikiatri",
+            "Fungsi hati"
+          ],
+          "interaksi": [
+            "Penginduksi CYP3A4/CYP1A2 (rifampisin, fenitoin, karbamazepin): menurunkan efek",
+            "Inhibitor CYP3A4 dan CYP1A2 (eritromisin, simetidin, fluvoksamin): meningkatkan paparan",
+            "Teofilin: tidak dianjurkan bersama"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/roflumilast/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "mukolitik",
+      "kelas": "Mukolitik",
+      "mekanisme": "Mengencerkan dahak dengan memecah struktur mukoprotein atau mengubah sekresi bronkus sehingga mempermudah ekspektorasi",
+      "obat": [
+        {
+          "id": "asetilsistein",
+          "nama": "Asetilsistein",
+          "indikasi": [
+            "Batuk berdahak kental (bronkitis, PPOK, kistik fibrosis)",
+            "Antidotum overdosis parasetamol"
+          ],
+          "sediaan": [
+            "Sachet/granul 100 mg, 200 mg",
+            "Tablet efervesen 200 mg, 600 mg",
+            "Injeksi IV 200 mg/mL",
+            "Larutan nebulisasi"
+          ],
+          "efek_samping": [
+            "Mual, muntah",
+            "Diare",
+            "Stomatitis",
+            "Bronkospasme (inhalasi/nebulisasi)",
+            "Reaksi anafilaktoid (IV)"
+          ],
+          "tatalaksana": [
+            "Mukolitik oral: 200 mg 3x/hari atau 600 mg 1x/hari",
+            "Antidotum parasetamol: protokol IV/oral tersendiri berdasarkan berat badan dan kadar parasetamol"
+          ],
+          "monitoring": [
+            "Respons batuk dan dahak",
+            "Bronkospasme pada asma"
+          ],
+          "interaksi": [
+            "Antitusif: penekanan batuk dapat menyebabkan retensi dahak",
+            "Nitrogliserin: potensiasi vasodilatasi dan hipotensi"
+          ],
+          "catatan": "Hati-hati pada asma dan riwayat ulkus lambung.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/acetylcysteine/PNG?image_size=300x300"
+        },
+        {
+          "id": "ambroksol",
+          "nama": "Ambroksol",
+          "indikasi": [
+            "Batuk berdahak pada penyakit saluran napas akut dan kronik"
+          ],
+          "sediaan": [
+            "Tablet 30 mg",
+            "Sirup 15 mg/5 mL, 30 mg/5 mL",
+            "Larutan tetes"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Nyeri perut",
+            "Diare",
+            "Reaksi alergi kulit (jarang)",
+            "Hipersensitivitas berat (jarang)"
+          ],
+          "tatalaksana": [
+            "Dewasa: 30 mg 2-3x/hari",
+            "Anak 2-5 tahun: 7,5 mg 3x/hari; 6-12 tahun: 15 mg 2-3x/hari"
+          ],
+          "monitoring": [
+            "Respons batuk",
+            "Reaksi kulit"
+          ],
+          "interaksi": [
+            "Antitusif: hindari kombinasi (retensi dahak)",
+            "Antibiotik (amoksisilin, eritromisin, doksisiklin): meningkatkan penetrasi ke jaringan paru"
+          ],
+          "catatan": "Tidak dianjurkan pada anak < 2 tahun. Sumber berbeda dalam batas usia; cek label produk.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ambroxol/PNG?image_size=300x300"
+        },
+        {
+          "id": "bromheksin",
+          "nama": "Bromheksin",
+          "indikasi": [
+            "Batuk berdahak kental",
+            "Bronkitis akut dan kronik"
+          ],
+          "sediaan": [
+            "Tablet 8 mg",
+            "Sirup 4 mg/5 mL",
+            "Injeksi 4 mg/2 mL"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Nyeri perut",
+            "Ruam",
+            "Peningkatan transaminase sementara"
+          ],
+          "tatalaksana": [
+            "Dewasa: 8-16 mg 3x/hari",
+            "Anak 6-12 tahun: 4-8 mg 3x/hari"
+          ],
+          "monitoring": [
+            "Respons batuk",
+            "Reaksi kulit"
+          ],
+          "interaksi": [
+            "Antitusif: hindari kombinasi"
+          ],
+          "catatan": "Hati-hati pada riwayat ulkus lambung.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bromhexine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "ekspektoran",
+      "kelas": "Ekspektoran",
+      "mekanisme": "Meningkatkan volume dan menurunkan viskositas sekret bronkus sehingga dahak lebih mudah dikeluarkan",
+      "obat": [
+        {
+          "id": "guaifenesin",
+          "nama": "Guaifenesin (Gliseril guaiakolat)",
+          "indikasi": [
+            "Batuk berdahak"
+          ],
+          "sediaan": [
+            "Tablet 100 mg, 200 mg, 400 mg",
+            "Sirup 100 mg/5 mL",
+            "Tablet lepas lambat 600 mg, 1200 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Muntah",
+            "Pusing",
+            "Sakit kepala",
+            "Ruam"
+          ],
+          "tatalaksana": [
+            "Dewasa: 200-400 mg setiap 4 jam (maks 2400 mg/hari); lepas lambat 600-1200 mg setiap 12 jam",
+            "Minum banyak cairan"
+          ],
+          "monitoring": [
+            "Respons batuk",
+            "Evaluasi bila batuk > 1 minggu"
+          ],
+          "interaksi": [
+            "Tidak ada interaksi obat bermakna"
+          ],
+          "catatan": "Bukti efektivitas terbatas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/guaifenesin/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antitusif",
+      "kelas": "Antitusif",
+      "mekanisme": "Menekan refleks batuk di pusat batuk di batang otak (medula)",
+      "obat": [
+        {
+          "id": "dekstrometorfan",
+          "nama": "Dekstrometorfan",
+          "indikasi": [
+            "Batuk kering non-produktif"
+          ],
+          "sediaan": [
+            "Tablet 15 mg, 30 mg",
+            "Sirup 10 mg/5 mL, 15 mg/5 mL"
+          ],
+          "efek_samping": [
+            "Pusing",
+            "Mengantuk",
+            "Mual",
+            "Serotonin syndrome (dosis tinggi atau interaksi)",
+            "Halusinasi dan disosiasi (penyalahgunaan)"
+          ],
+          "tatalaksana": [
+            "Dewasa: 10-20 mg setiap 4 jam atau 30 mg setiap 6-8 jam, maks 120 mg/hari",
+            "Tidak dianjurkan pada anak < 6 tahun"
+          ],
+          "monitoring": [
+            "Respons batuk",
+            "Sedasi",
+            "Tanda serotonin syndrome"
+          ],
+          "interaksi": [
+            "MAOI: kontraindikasi (serotonin syndrome, krisis hipertensi)",
+            "SSRI/SNRI, bupropion, fluoksetin, paroksetin: meningkatkan kadar dan risiko serotonin syndrome",
+            "Alkohol dan depresan SSP: sedasi aditif"
+          ],
+          "catatan": "Hindari pada batuk produktif dan pada asma dengan dahak banyak.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dextromethorphan/PNG?image_size=300x300"
+        },
+        {
+          "id": "kodein",
+          "nama": "Kodein",
+          "indikasi": [
+            "Batuk kering berat yang tidak responsif terhadap terapi lain",
+            "Nyeri ringan-sedang"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 15 mg, 30 mg",
+            "Sirup"
+          ],
+          "efek_samping": [
+            "Sedasi",
+            "Konstipasi",
+            "Mual",
+            "Pusing",
+            "Depresi napas",
+            "Ketergantungan"
+          ],
+          "tatalaksana": [
+            "Dewasa: 15-30 mg setiap 4-6 jam bila perlu, maks 120 mg/hari",
+            "Kontraindikasi pada anak < 12 tahun"
+          ],
+          "monitoring": [
+            "Sedasi dan pernapasan",
+            "Konstipasi",
+            "Tanda ketergantungan"
+          ],
+          "interaksi": [
+            "Benzodiazepin, alkohol, depresan SSP lain: depresi napas aditif (boxed warning)",
+            "Inhibitor CYP2D6 (fluoksetin, paroksetin, kuinidin): menurunkan konversi menjadi morfin",
+            "MAOI: hindari"
+          ],
+          "catatan": "Metabolisme CYP2D6 bervariasi; ultra-rapid metabolizer berisiko toksisitas opioid, termasuk pada ibu menyusui.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/codeine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "biologik-asma",
+      "kelas": "Biologik untuk Asma Berat",
+      "mekanisme": "Antibodi monoklonal yang menarget mediator spesifik inflamasi tipe 2 pada asma berat",
+      "obat": [
+        {
+          "id": "omalizumab",
+          "nama": "Omalizumab",
+          "mekanisme": "Antibodi monoklonal anti-IgE yang mengikat IgE bebas sehingga menurunkan aktivasi sel mast dan basofil",
+          "indikasi": [
+            "Asma alergik persisten sedang-berat yang tidak terkontrol dengan ICS dosis tinggi + LABA",
+            "Urtikaria spontan kronik",
+            "Polip hidung"
+          ],
+          "sediaan": [
+            "Injeksi SC 75 mg, 150 mg (prefilled syringe/vial)"
+          ],
+          "efek_samping": [
+            "Reaksi di lokasi injeksi",
+            "Sakit kepala",
+            "Anafilaksis (boxed warning)",
+            "Nasofaringitis"
+          ],
+          "tatalaksana": [
+            "75-375 mg SC setiap 2 atau 4 minggu; dosis ditentukan berdasarkan kadar IgE total awal dan berat badan",
+            "Observasi setelah injeksi"
+          ],
+          "monitoring": [
+            "Tanda anafilaksis (observasi setelah dosis)",
+            "Kontrol asma dan eksaserbasi",
+            "Kadar IgE total awal"
+          ],
+          "interaksi": [
+            "Interaksi obat bermakna belum dilaporkan"
+          ],
+          "catatan": "Ketersediaan dan indikasi resmi berbeda antar negara.",
+          "gambar": null
+        },
+        {
+          "id": "mepolizumab",
+          "nama": "Mepolizumab",
+          "mekanisme": "Antibodi monoklonal anti-IL-5 yang menurunkan produksi dan survival eosinofil",
+          "indikasi": [
+            "Asma eosinofilik berat (≥ 6 tahun sesuai label)",
+            "Polip hidung",
+            "Granulomatosis eosinofilik dengan poliangiitis"
+          ],
+          "sediaan": [
+            "Injeksi SC 100 mg (vial liofilisat/prefilled pen)"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Reaksi di lokasi injeksi",
+            "Nyeri punggung",
+            "Reaksi hipersensitivitas",
+            "Reaktivasi herpes zoster"
+          ],
+          "tatalaksana": [
+            "Asma (≥ 12 tahun): 100 mg SC setiap 4 minggu",
+            "Bukan untuk serangan akut"
+          ],
+          "monitoring": [
+            "Hitung eosinofil darah",
+            "Frekuensi eksaserbasi",
+            "Reaksi hipersensitivitas"
+          ],
+          "interaksi": [
+            "Interaksi obat bermakna belum dilaporkan"
+          ],
+          "catatan": "Tata laksana infeksi parasit (helminth) sebelum memulai terapi. Ketersediaan terbatas.",
+          "gambar": null
+        }
+      ]
+    }
+  ]
+}
