@@ -14,8 +14,8 @@ const DrugCard = ({ gambar, nama, indikasi }) => {
           }}
         />
       )}
-      <h3 className="text-label-lg font-bold text-text-primary wrap-break-word">{nama}</h3>
-      <p className="text-body-sm text-text-primary wrap-break-word">{indikasi}</p>
+      <h3 className="text-label-lg font-bold text-text-primary wrap-break-word line-clamp-2">{nama}</h3>
+      <p className="text-body-sm text-text-primary wrap-break-word line-clamp-3">{indikasi}</p>
     </div>
   );
 };
