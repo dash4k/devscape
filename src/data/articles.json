@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "title": "Kolkisin: Obat Gout Kuno yang Kini Dilirik untuk Penyakit Jantung",
+      "slug": "kolkisin-gout-dan-jantung",
+      "date": "2026-09-21",
+      "drugId": "kolkisin",
+      "tags": ["gout", "kolkisin", "antiinflamasi", "kardiovaskular"],
+      "summary": "Kolkisin sudah dipakai berabad-abad untuk gout. Kini obat ini juga dipelajari untuk menurunkan risiko kejadian jantung. Ini yang perlu Anda ketahui.",
+      "article": "src/content/articles/kolkisin-gout-dan-jantung.md",
+      "gambar": "images/articles/kolkisin-gout-dan-jantung.webp"
+    },
+    {
+      "title": "Parasetamol: Obat Paling Umum yang Tetap Punya Batas Aman",
+      "slug": "parasetamol-dosis-aman",
+      "date": "2026-09-14",
+      "drugId": "parasetamol",
+      "tags": ["parasetamol", "nyeri", "demam", "hati"],
+      "summary": "Parasetamol dijual bebas dan dianggap aman, tetapi dosis berlebih dapat merusak hati. Kenali batas dosis dan jebakan obat kombinasi.",
+      "article": "src/content/articles/parasetamol-dosis-aman.md",
+      "gambar": "images/articles/parasetamol-dosis-aman.webp"
+    },
+    {
+      "title": "Ondansetron: Mengendalikan Mual dan Muntah, dan Hal yang Perlu Diwaspadai",
+      "slug": "ondansetron-mual-muntah-kemoterapi",
+      "date": "2026-09-15",
+      "drugId": "ondansetron",
+      "tags": ["ondansetron", "antiemetik", "kemoterapi", "QT"],
+      "summary": "Ondansetron banyak dipakai untuk mual akibat kemoterapi, radioterapi, dan operasi. Pahami cara kerja, efek samping, dan interaksinya.",
+      "article": "src/content/articles/ondansetron-mual-muntah-kemoterapi.md",
+      "gambar": "images/articles/ondansetron-mual-muntah-kemoterapi.webp"
+    },
+    {
+      "title": "Amoksisilin dan Antibiotik: Kapan Diperlukan dan Kapan Tidak",
+      "slug": "amoksisilin-antibiotik-bukan-untuk-flu",
+      "date": "2026-09-16",
+      "drugId": "amoksisilin",
+      "tags": ["amoksisilin", "antibiotik", "resistensi", "penisilin"],
+      "summary": "Antibiotik tidak bekerja melawan virus. Pelajari cara pakai amoksisilin yang benar dan mengapa penggunaan bijak melindungi kita semua.",
+      "article": "src/content/articles/amoksisilin-antibiotik-bukan-untuk-flu.md",
+      "gambar": "images/articles/amoksisilin-antibiotik-bukan-untuk-flu.webp"
+    },
+    {
+      "title": "Salbutamol: Inhaler Pereda Asma dan Sinyal yang Perlu Diperhatikan",
+      "slug": "salbutamol-inhaler-pereda-asma",
+      "date": "2026-09-17",
+      "drugId": "salbutamol",
+      "tags": ["salbutamol", "asma", "PPOK", "inhaler"],
+      "summary": "Salbutamol meredakan sesak dengan cepat, tetapi sering memakainya menandakan asma belum terkontrol. Kenali perbedaan pereda dan pengontrol.",
+      "article": "src/content/articles/salbutamol-inhaler-pereda-asma.md",
+      "gambar": "images/articles/salbutamol-inhaler-pereda-asma.webp"
+    },
+    {
+      "title": "Metotreksat: Obat Sekali Seminggu yang Tidak Boleh Salah Dosis",
+      "slug": "metotreksat-dosis-mingguan",
+      "date": "2026-09-18",
+      "drugId": "metotreksat",
+      "tags": ["metotreksat", "artritis reumatoid", "DMARD", "keamanan obat"],
+      "summary": "Metotreksat adalah obat lini pertama artritis reumatoid, tetapi diminum SEKALI SEMINGGU. Salah minum setiap hari bisa berakibat fatal.",
+      "article": "src/content/articles/metotreksat-dosis-mingguan.md",
+      "gambar": "images/articles/metotreksat-dosis-mingguan.webp"
+    }
+  ]
+}
