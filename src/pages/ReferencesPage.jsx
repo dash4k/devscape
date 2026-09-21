@@ -2,6 +2,7 @@ import React from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 
 import DrugList from '../components/DrugList.jsx';
+import ScrollToTopButton from '../components/ScrollToTopButton.jsx';
 
 const ReferencesPage = () => {
   const [type, setType] = React.useState('antibiotik');
@@ -52,6 +53,7 @@ const ReferencesPage = () => {
           <DrugList type={type} />
         </motion.div>
       </AnimatePresence>
+      <ScrollToTopButton />
     </section>
   );
 };
