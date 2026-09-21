@@ -16,6 +16,7 @@ import DrugDetailPage from './pages/DrugDetailPage.jsx';
 import SearchPage from './pages/SearchPage.jsx';
 import NewsPage from './pages/NewsPage.jsx';
 import NewsDetailPage from './pages/NewsDetailPage.jsx';
+import HomePage from './pages/HomePage.jsx';
 
 import ThemeContext from './contexts/ThemeContext.js';
 
@@ -51,6 +52,10 @@ function App() {
           >
 
             <Routes location={location}>
+              <Route
+                path='/'
+                element={<HomePage />}
+              />
               <Route
                 path='/news'
                 element={<NewsPage />}
