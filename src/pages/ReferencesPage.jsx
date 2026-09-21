@@ -14,7 +14,7 @@ const ReferencesPage = () => {
     }`;
 
   return (
-    <div className="w-full h-auto px-5 pt-3">
+    <section className="w-full h-auto px-5 pt-3">
       <div className="hidden md:flex flex-row justify-start items-end w-full border-b-3 border-border-strong mb-10 text-text-primary text-body-lg">
         <button onhove className={tabClass('antibiotik')} onClick={() => setType('antibiotik')}>
           Antibiotik
@@ -52,7 +52,7 @@ const ReferencesPage = () => {
           <DrugList type={type} />
         </motion.div>
       </AnimatePresence>
-    </div>
+    </section>
   );
 };
 
