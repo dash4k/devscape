@@ -4,6 +4,7 @@ import remarkGfm from 'remark-gfm';
 import fm from 'front-matter';
 
 import { getArticleBySlug } from '../data/articles.js';
+import ScrollToTopButton from '../components/ScrollToTopButton.jsx';
 
 const files = import.meta.glob('../content/articles/*.md', {
   query: '?raw',
@@ -46,6 +47,7 @@ const NewsDetailPage = () => {
         <ReactMarkdown remarkPlugins={[remarkGfm]}>{article.content}</ReactMarkdown>
         <Link to={`/references/${article.data.drugId}`}>Lihat detail obat</Link>
       </article>
+      <ScrollToTopButton />
     </section>
   );
 };

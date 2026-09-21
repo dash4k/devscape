@@ -1,10 +1,10 @@
+import React from 'react';
 import { DRUG_IMAGE_PLACEHOLDER } from '../utils/constants.js';
 
 import { useParams, Link } from 'react-router-dom';
 import { getDrugById } from '../data/drugs.js';
 
 import InfoSection from '../components/InfoSection.jsx';
-import React from 'react';
 
 const DrugDetailPage = () => {
   const { drugId } = useParams();
@@ -31,7 +31,7 @@ const DrugDetailPage = () => {
         {console.log(drug.gambar)}
         {(drug.gambar || DRUG_IMAGE_PLACEHOLDER) && (
           <img
-            className="rounded-xl max-w-[300px] max-h-[300px]"
+            className="rounded-xl max-w-75 max-h-75"
             src={drug.gambar || DRUG_IMAGE_PLACEHOLDER}
             alt={`Struktur kimia ${drug.nama}`}
             loading="lazy"
