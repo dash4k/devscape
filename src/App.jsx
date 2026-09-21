@@ -14,6 +14,8 @@ import {
 import ReferencesPage from './pages/ReferencesPage.jsx';
 import DrugDetailPage from './pages/DrugDetailPage.jsx';
 import SearchPage from './pages/SearchPage.jsx';
+import NewsPage from './pages/NewsPage.jsx';
+import NewsDetailPage from './pages/NewsDetailPage.jsx';
 
 import ThemeContext from './contexts/ThemeContext.js';
 
@@ -49,6 +51,14 @@ function App() {
           >
 
             <Routes location={location}>
+              <Route
+                path='/news'
+                element={<NewsPage />}
+              />
+              <Route
+                path='/news/:slug'
+                element={<NewsDetailPage />}
+              />
               <Route
                 path='/references'
                 element={<ReferencesPage />}
