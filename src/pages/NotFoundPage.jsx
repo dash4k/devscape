@@ -15,7 +15,7 @@ const NotFoundPage = () => {
           <h1 className="text-display text-accent-primary-hover">404:</h1>
           <h3 className="text-label-md text-lg text-text-primary">Halaman tidak ditemukan</h3>
           <p className="text-body-sm text-text-primary/70">Halaman yang Anda cari tidak dapat kami temukan, Alamat yang Anda tuju tidak tersedia atau sudah dipindahkan. Kemungkinan terjadi kesalahan penulisan nama halaman. Silakan cek kembali ejaan atau jelajahi daftar lengkap halaman yang tersedia.</p>
-          <Link to="/news" className="w-auto flex flex-row items-center justify-evenly gap-1.5 text-text-on-cta mt-4 bg-accent-cta hover:bg-accent-cta-hover p-2 rounded-xl text-headline-lg text-base transition-colors duration-300">
+          <Link to="/" className="w-auto flex flex-row items-center justify-evenly gap-1.5 text-text-on-cta mt-4 bg-accent-cta hover:bg-accent-cta-hover p-2 rounded-xl text-headline-lg text-base transition-colors duration-300">
             <FaRegArrowAltCircleLeft className='mb-0.5'/> Kembali ke beranda
           </Link>
         </div>
