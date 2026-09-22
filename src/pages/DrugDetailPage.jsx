@@ -1,6 +1,7 @@
 import React from 'react';
-import { DRUG_IMAGE_PLACEHOLDER } from '../utils/constants.js';
+import { FaRegArrowAltCircleLeft } from 'react-icons/fa';
 
+import { DRUG_IMAGE_PLACEHOLDER, DRUG_NOT_FOUND } from '../utils/constants.js';
 import { useParams, Link } from 'react-router-dom';
 import { getDrugById } from '../data/drugs.js';
 
@@ -15,10 +16,20 @@ const DrugDetailPage = () => {
   if (!drug) {
     return (
       <section className="flex flex-col items-center gap-2 py-10">
-        <p className="text-body-md text-text-primary">Obat tidak ditemukan.</p>
-        <Link to="/references" className="underline">
-          Kembali ke daftar obat
-        </Link>
+        <div className="flex flex-col justify-center w-full items-center gap-3 py-5 text-center">
+          <img
+            src={DRUG_NOT_FOUND}
+            alt="Tidak ada hasil"
+            className='w-40 h-40 rounded-xl p-1 border border-border-strong'
+          />
+          <div className="w-3/4 md:w-1/2 flex flex-col justify-center items-center gap-1">
+            <h3 className="text-label-md text-lg text-text-primary">Obat tidak ditemukan</h3>
+            <p className="text-body-sm text-text-primary/70">Obat yang Anda cari tidak dapat kami temukan. Kemungkinan terjadi kesalahan penulisan nama obat atau obat tersebut belum terdaftar dalam sistem kami. Silakan cek kembali ejaan atau jelajahi daftar lengkap obat yang tersedia.</p>
+            <Link to="/references" className="w-auto flex flex-row items-center justify-evenly gap-1.5 text-text-on-cta mt-2 bg-accent-cta hover:bg-accent-cta-hover p-2 rounded-xl text-headline-lg text-base transition-colors duration-300">
+              <FaRegArrowAltCircleLeft className='mb-0.5'/> Kembali
+            </Link>
+          </div>
+        </div>
       </section>
     );
   }
@@ -28,7 +39,6 @@ const DrugDetailPage = () => {
   return (
     <article className="w-full px-5 pt-3 flex flex-col md:flex-row justify-start items-center md:items-start">
       <figure className="m-5 p-5 rounded-2xl border-3 border-text-inverse-primary">
-        {console.log(drug.gambar)}
         {(drug.gambar || DRUG_IMAGE_PLACEHOLDER) && (
           <img
             className="rounded-xl max-w-75 max-h-75"
