@@ -5,7 +5,7 @@ const DrugCard = ({ gambar, nama, indikasi }) => {
     <div className="flex flex-col gap-1 w-full h-full p-4 rounded-2xl bg-surface border-4 border-text-inverse-primary">
       {(gambar || DRUG_IMAGE_PLACEHOLDER) && (
         <img
-          className="rounded-xl  max-w-[300px] max-h-[300px]"
+          className="rounded-xl  max-w-75 max-h-75"
           src={gambar || DRUG_IMAGE_PLACEHOLDER}
           alt={`Struktur kimia ${nama}`}
           loading="lazy"
