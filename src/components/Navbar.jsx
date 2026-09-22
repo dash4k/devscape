@@ -7,7 +7,7 @@ import Logo from './Logo.jsx';
 import SearchBar from './SearchBar.jsx';
 import NavbarLink from './NavbarLink.jsx';
 
-const NavBar = ({ theme, setTheme }) => {
+const NavBar = ({ theme, setTheme, onValidRoutes }) => {
   const location = useLocation();
   const isActive = (path) =>
     !!matchPath({ path, end: path === '/' }, location.pathname);
@@ -46,6 +46,8 @@ const NavBar = ({ theme, setTheme }) => {
     return () => document.removeEventListener('pointerdown', handlePointerDown);
   }, [mobileNav, searchBar]);
 
+  if (!onValidRoutes) return;
+
   return (
     <div ref={containerRef}>
       <header className={`w-3/4 max-w-300 fixed top-5 left-1/2 -translate-x-1/2 z-50 bg-surface border-b border-border-strong shadow-2xs shadow-accent-primary ${
@@ -53,12 +55,6 @@ const NavBar = ({ theme, setTheme }) => {
       }`}>
         <nav className="w-full h-auto flex flex-col items-center justify-center">
           <div className="flex justify-between items-center h-16 w-full mx-auto px-container-margin">
-            {/* <button
-              onClick={toggleMobileNav}
-              className="md:hidden text-xl pt-1 pl-5 text-text-muted cursor-pointer"
-            >
-              <FaAlignJustify />
-            </button> */}
             <Link to="/"><Logo /></Link>
             <div className="hidden md:flex flex-row items-center justify-center">
               <NavbarLink to='/' isActive={isActive('/')}>Home</NavbarLink>
