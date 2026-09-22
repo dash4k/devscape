@@ -1,5 +1,5 @@
 import React from 'react';
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, matchPath } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
 import { useLocation } from 'react-router-dom';
 
@@ -17,6 +17,7 @@ import SearchPage from './pages/SearchPage.jsx';
 import NewsPage from './pages/NewsPage.jsx';
 import NewsDetailPage from './pages/NewsDetailPage.jsx';
 import HomePage from './pages/HomePage.jsx';
+import NotFoundPage from './pages/NotFoundPage.jsx';
 
 import ThemeContext from './contexts/ThemeContext.js';
 
@@ -38,9 +39,19 @@ function App() {
     }
   }, [theme]);
 
+  const validRoutes = [
+    '/',
+    '/news',
+    '/news/:slug',
+    '/references',
+    '/references/:drugId',
+    '/search',
+  ];
+  const onValidRoutes = validRoutes.some((path) => matchPath({ path, end: true }, location.pathname));
+
   return (
     <ThemeContext.Provider value={theme}>
-      <NavBar theme={theme} setTheme={toggleTheme} />
+      <NavBar theme={theme} setTheme={toggleTheme} onValidRoutes={onValidRoutes} />
       <main className="mt-25 w-4/5 mx-auto">
         <AnimatePresence mode='wait'>
           <motion.div
@@ -75,6 +86,10 @@ function App() {
               <Route
                 path='/search'
                 element={<SearchPage />}
+              />
+              <Route
+                path='/*'
+                element={<NotFoundPage />}
               />
             </Routes>
           </motion.div>
