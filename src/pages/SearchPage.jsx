@@ -48,7 +48,7 @@ const SearchPage = () => {
         <h2 className="text-label-lg font-black text-text-primary mb-2 self-start">Obat</h2>
         <AnimatePresence mode='wait'>
           <motion.div
-            key={`${currentPage}-${searchParams}`}
+            key={`${currentPage}-${drugs}`}
             initial={{ opacity: 0, y: 2 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -2 }}
@@ -100,7 +100,7 @@ const SearchPage = () => {
         <h2 className="text-label-lg font-black text-text-primary mb-2 text-center">Artikel</h2>
         <AnimatePresence mode='wait'>
           <motion.div
-            key={searchParams}
+            key={articles}
             initial={{ opacity: 0, y: 2 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -2 }}
