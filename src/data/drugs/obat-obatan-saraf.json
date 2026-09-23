@@ -50,8 +50,8 @@
           "catatan": "Injeksi IV harus diencerkan dengan NaCl 0,9% (mengendap dengan dekstrosa) dan diberikan perlahan karena risiko aritmia dan hipotensi (purple glove syndrome pada ekstravasasi).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phenytoin/PNG?image_size=300x300",
           "merek": [
-            "Fenitoin (generik)",
-            "Decatona"
+            "Decatona",
+            "Fenitoin (generik)"
           ]
         },
         {
@@ -97,10 +97,22 @@
           "catatan": "Kontraindikasi pada kehamilan untuk migrain dan sebisa mungkin dihindari pada usia subur karena risiko teratogenik dan gangguan perkembangan anak.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/valproic%20acid/PNG?image_size=300x300",
           "merek": [
+            "Berval",
+            "Depakene",
             "Depakote",
+            "Depval",
             "Divalproex Sodium (generik)",
+            "Epilepsan",
+            "Garkene",
+            "Lepsio",
+            "Phalsy",
+            "Pyrilep",
+            "Sodium Valproate",
+            "Valeptik",
             "Valproat Syr",
-            "Vellepsy"
+            "Valproic Acid",
+            "Vellepsy",
+            "Veronil"
           ]
         },
         {
@@ -224,9 +236,9 @@
           "catatan": "Salah satu antikonvulsan dengan profil interaksi paling minimal, sering dipilih pada polifarmasi.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levetiracetam/PNG?image_size=300x300",
           "merek": [
-            "Levetirasetam (generik)",
             "Keppra",
-            "Levexa"
+            "Levexa",
+            "Levetirasetam (generik)"
           ]
         }
       ]
@@ -274,9 +286,9 @@
           "catatan": "Jangan hentikan mendadak (risiko sindrom mirip neuroleptic malignant syndrome).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levodopa/PNG?image_size=300x300",
           "merek": [
-            "Madopar (levodopa/benserazide)",
-            "Levopar (levodopa/benserazide)",
             "Levazide",
+            "Levopar (levodopa/benserazide)",
+            "Madopar (levodopa/benserazide)",
             "Stalevo (dengan entacapone)"
           ]
         },
@@ -318,8 +330,8 @@
           "catatan": "Pasien perlu diberi tahu risiko serangan tidur mendadak sebelum mengemudi.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pramipexole/PNG?image_size=300x300",
           "merek": [
-            "Sifrol",
-            "Pramifrol ER"
+            "Pramifrol ER",
+            "Sifrol"
           ]
         },
         {
@@ -356,8 +368,13 @@
           "catatan": "Hindari atau gunakan hati-hati pada lansia karena risiko gangguan kognitif dan glaukoma sudut sempit.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/trihexyphenidyl/PNG?image_size=300x300",
           "merek": [
+            "Arkine",
+            "Hexymer",
+            "Parkinal",
             "Triheksifenidil (generik)",
-            "Hexymer"
+            "Trihexyphenidyl",
+            "Trihexyphenidyl HCl",
+            "Trihexyphenidyl hydrochloride"
           ]
         }
       ]
@@ -401,9 +418,19 @@
           "catatan": "Hati-hati pada pasien dengan gangguan konduksi jantung atau asma/PPOK berat (efek kolinergik pada bronkus).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/donepezil/PNG?image_size=300x300",
           "merek": [
-            "Aricept Evess",
+            "Aldomer",
+            "Almen",
             "Alzim",
-            "Fepezil"
+            "Aricept",
+            "Aricept Evess",
+            "Donacept",
+            "Donepezil HCL",
+            "Donepezil hydrochloride",
+            "Donepezil hydrochloride monohydrate",
+            "Dozil",
+            "Fepezil",
+            "Fordesia",
+            "Gersia"
           ]
         },
         {
@@ -486,7 +513,9 @@
           ],
           "catatan": "Kontraindikasi pada penyakit jantung koroner, riwayat stroke, dan hipertensi tidak terkontrol. Penggunaan berlebihan dapat menyebabkan medication-overuse headache.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sumatriptan/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Triptagic"
+          ]
         },
         {
           "id": "ergotamin",
@@ -520,8 +549,8 @@
           "catatan": "Sebagian besar sudah digantikan oleh triptan karena profil keamanan yang lebih baik.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ergotamine/PNG?image_size=300x300",
           "merek": [
-            "Ergotamine Caffeine (kombinasi)",
-            "Ericaf (kombinasi)"
+            "Ericaf (kombinasi)",
+            "Ergotamine Caffeine (kombinasi)"
           ]
         }
       ]
@@ -564,7 +593,26 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/eperisone/PNG?image_size=300x300",
           "merek": [
             "Eperison (generik)",
-            "Myonal"
+            "Eperisone HCl",
+            "Eperisone Hydrochloride",
+            "Epesone",
+            "Eprinoc",
+            "Epsonal",
+            "Esprigen",
+            "Estalex",
+            "Forelax",
+            "Forres",
+            "Gasogal",
+            "Myobat",
+            "Myocros",
+            "Myoman",
+            "Myonal",
+            "Myonep",
+            "Myori",
+            "Plexion",
+            "Relaxon",
+            "Rilexal",
+            "Simnal"
           ]
         },
         {
@@ -768,8 +816,22 @@
           "catatan": "Berbeda dari pregabalin dalam farmakokinetik (absorpsi gabapentin tidak linear/dose-dependent).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gabapentin/PNG?image_size=300x300",
           "merek": [
+            "Alpentin",
+            "Epiven",
+            "Gabapentin",
             "Gabapentin (generik)",
-            "Alpentin"
+            "Gabasant",
+            "Gabatin",
+            "Gabesco",
+            "Galepsi",
+            "Ganin",
+            "Nepatic",
+            "Neurontin",
+            "Neurosantin",
+            "Opipentin",
+            "Simtin",
+            "Sipentin",
+            "Tineuron"
           ]
         }
       ]

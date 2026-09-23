@@ -38,15 +38,31 @@
           "catatan": "Antidotum overdosis: N-asetilsistein.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/acetaminophen/PNG?image_size=300x300",
           "merek": [
-            "Parasetamol (generik)",
-            "Panadol",
-            "Sanmol",
             "Alphamol",
-            "Fasidol Forte",
+            "bodrex",
+            "Bufrena",
+            "Dumin",
+            "Farsifen Plus",
+            "Fasdil Forte",
+            "Fasgo",
             "Grafadon",
-            "Tempra",
+            "Hufagesic",
+            "Mixagrip Flu",
+            "OBH Combi Anak Batuk Plus Flu",
+            "Oskadon",
+            "Pamol Forte",
+            "Panadol",
+            "Paracetamol Promed",
+            "Parasetamol (generik)",
+            "Praxion",
+            "Procold",
+            "Pyrex",
+            "Pyridol Forte",
+            "Sanmol",
+            "Saridon",
             "Sumagesic",
-            "Pyrex"
+            "Tempra",
+            "Termorex"
           ]
         }
       ]
@@ -98,7 +114,17 @@
           ],
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/celecoxib/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Actrel",
+            "Celcox",
+            "Celebrex",
+            "Celecoxib",
+            "Celenox",
+            "Novexib",
+            "Nubrex",
+            "Remabrex",
+            "Xelica"
+          ]
         },
         {
           "id": "ibuprofen",
@@ -145,10 +171,68 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ibuprofen/PNG?image_size=300x300",
           "merek": [
+            "Alaxan FR",
+            "Anafen",
+            "Arbupon",
+            "Arfen",
+            "Arfen Forte",
+            "Arthrifen Plus",
+            "Auxifen",
+            "Axofen",
+            "Bimacyl",
+            "Bodrex Extra",
+            "Bodrexin IBP",
+            "Brufen",
+            "Bufrena",
+            "Dofen Forte",
+            "Dolofen-F",
+            "Etafen",
+            "Farsifen",
+            "Farsifen Forte",
+            "Farsifen PCT",
+            "Farsifen Plus",
+            "Febryn",
+            "Fenatic",
+            "Fenris",
+            "Hufagripp TMP",
             "Ibuprofen (generik)",
+            "Ibuprofen Novapharin",
+            "Ibuprofen Promed",
+            "Ibuprofen Yarindo",
+            "Ibrosic",
+            "Ifen",
+            "Intrafen",
+            "Iprox Forte",
+            "Irgafen",
+            "Irgafen Forte",
+            "Iremax",
+            "Liflamal",
+            "Maxigesic",
+            "Neo Remat",
+            "Neo Rheumacyl",
+            "Neo Rheumacyl Neuro",
+            "Novaxifen",
+            "Novaxifen Forte",
+            "Orarheuma",
+            "Oskadon SP",
+            "Oskadon SP Neuro",
+            "Ostarin Forte",
+            "Ostarin Sirup",
+            "Paraibu",
+            "Paramex Nyeri Otot",
+            "Paraprofen",
+            "Peinlos 400",
+            "Procold",
+            "Profenal",
+            "Progesic",
             "Proris",
             "Proris Forte",
-            "Etafen"
+            "Prosic",
+            "Ribunal",
+            "Spedifen",
+            "Tabos SP",
+            "Termofen",
+            "Zentarin"
           ]
         },
         {
@@ -186,8 +270,8 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diclofenac/PNG?image_size=300x300",
           "merek": [
-            "Voltaren Gel",
-            "Voltadex Gel"
+            "Voltadex Gel",
+            "Voltaren Gel"
           ]
         },
         {
@@ -232,7 +316,11 @@
           ],
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/indomethacin/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Dialon",
+            "Infree",
+            "Indometasin/Indomethacin (Generik)"
+          ]
         },
         {
           "id": "naproxen",
@@ -275,7 +363,10 @@
           ],
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/naproxen/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Alif",
+            "Xenifar"
+          ]
         }
       ]
     },
@@ -326,9 +417,32 @@
           "catatan": "Sumber menulis efek samping 'kulit berwarna biru'; ini tidak lazim untuk pregabalin dan mohon diverifikasi. Pregabalin tidak memiliki indikasi resmi untuk OA; penggunaannya pada OA adalah off-label dengan bukti terbatas.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pregabalin/PNG?image_size=300x300",
           "merek": [
-            "Pregabalin (generik)",
+            "Aprion",
+            "Figalin",
+            "Gabatrop",
+            "Gamalix",
+            "Glinov",
+            "Labalin",
+            "Leptica",
             "Lyrica",
-            "Nomathic"
+            "Lyrigad",
+            "Neufar",
+            "Nevalin",
+            "Noleptic",
+            "Nomathic",
+            "Nulyn",
+            "Opibalin",
+            "PGB",
+            "Prebalin",
+            "Pregabalin",
+            "Pregabalin (generik)",
+            "Pregamax",
+            "Pregamep",
+            "Pregex",
+            "Prelin",
+            "Progalin",
+            "Provelyn",
+            "Regalin"
           ]
         }
       ]
@@ -381,9 +495,24 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tramadol/PNG?image_size=300x300",
           "merek": [
+            "Corsadol",
+            "Dolgesik",
+            "Dolgesik SPC",
+            "Dolocap",
+            "Forgesic",
+            "Medcotram",
+            "Radol",
+            "Thramed",
+            "Tradosik",
+            "Tradyl",
+            "Tramadol",
             "Tramadol (generik)",
-            "Dolgesic",
-            "Tradosik"
+            "Tramadol HCl",
+            "Tramadol Hydrochloride",
+            "Tramal",
+            "Tramofal",
+            "Tugesal",
+            "Zephanal"
           ]
         }
       ]
@@ -436,7 +565,8 @@
           "catatan": "Hindari pada konsumsi alkohol berat atau penyakit hati kronis.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/duloxetine/PNG?image_size=300x300",
           "merek": [
-            "Cymbalta"
+            "Cymbalta",
+            "Duloxta"
           ]
         }
       ]
@@ -489,10 +619,10 @@
           "catatan": "Pilihan obat dan dosis spesifik bervariasi antar klinisi dan pedoman.",
           "gambar": null,
           "merek": [
-            "Trilac (triamsinolon)",
-            "Flamicort (triamsinolon)",
             "Depo-Medrol (metilprednisolon)",
-            "Medixon (metilprednisolon)"
+            "Flamicort (triamsinolon)",
+            "Medixon (metilprednisolon)",
+            "Trilac (triamsinolon)"
           ]
         },
         {
@@ -544,8 +674,15 @@
           "catatan": "Suplementasi kalsium dan vitamin D dipertimbangkan pada pemakaian jangka panjang.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/prednisone/PNG?image_size=300x300",
           "merek": [
+            "dan Trifacort",
+            "Eltazon",
+            "Inflason",
+            "Lexacort",
+            "Pehacort",
+            "Prednison",
             "Prednison (generik)",
-            "Lexacort"
+            "Prednisone",
+            "Remacort"
           ]
         },
         {
@@ -700,8 +837,8 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/glucosamine/PNG?image_size=300x300",
           "merek": [
             "Glucosamine (generik)",
-            "Welmove",
-            "Syalox"
+            "Syalox",
+            "Welmove"
           ]
         }
       ]
@@ -756,9 +893,9 @@
           "catatan": "Sumber menulis dihidrofolat direduksi menjadi 'asam folinat'; produk reduksi yang tepat adalah asam tetrahidrofolat. Dosis MINGGUAN, kesalahan dosis harian dapat fatal.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methotrexate/PNG?image_size=300x300",
           "merek": [
+            "Metoject",
             "Metotreksat (generik)",
-            "Rheu-Trex",
-            "Metoject"
+            "Rheu-Trex"
           ]
         },
         {
@@ -849,7 +986,9 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sulfasalazine/PNG?image_size=300x300",
           "merek": [
+            "Lazafin",
             "Sulcolon",
+            "Sulfasalazine",
             "Sulfitis"
           ]
         }
@@ -899,7 +1038,10 @@
           ],
           "catatan": "Sumber menulis 'Tissue Necrosis Factor'; nama yang benar adalah Tumor Necrosis Factor. Kalimat sumber tentang 'soluble (etanercept), monoclonal --> sisanya' diartikan sebagai etanercept = reseptor terlarut, TNF inhibitor lain = antibodi monoklonal.",
           "gambar": null,
-          "merek": null
+          "merek": [
+            "Enbrel",
+            "Etarfion"
+          ]
         },
         {
           "id": "infliximab",
@@ -944,7 +1086,8 @@
           "catatan": "Sumber menulis 'bDAMRD'; ditulis bDMARD di sini.",
           "gambar": null,
           "merek": [
-            "Remicade"
+            "Remicade",
+            "Remsima"
           ]
         },
         {
@@ -988,7 +1131,10 @@
           "catatan": null,
           "gambar": null,
           "merek": [
-            "Humira"
+            "Adafimab",
+            "Amgevita",
+            "Humira",
+            "Idacio"
           ]
         },
         {
@@ -1027,7 +1173,9 @@
           ],
           "catatan": "Sumber menulis 'Gollimumab'; nama yang benar golimumab.",
           "gambar": null,
-          "merek": null
+          "merek": [
+            "Simponi"
+          ]
         },
         {
           "id": "certolizumab",
@@ -1102,7 +1250,9 @@
           ],
           "catatan": "Formulasi IV mengandung maltosa yang dapat menyebabkan pembacaan gula darah palsu tinggi pada glukometer tertentu.",
           "gambar": null,
-          "merek": null
+          "merek": [
+            "Orencia"
+          ]
         },
         {
           "id": "rituximab",
@@ -1146,7 +1296,9 @@
           "merek": [
             "Mabthera",
             "Redditux",
-            "Rituxikal"
+            "Rituxikal",
+            "Rituxsanbe",
+            "Truxima"
           ]
         },
         {
@@ -1278,7 +1430,9 @@
           ],
           "catatan": "Sumber menulis 'Tofacinitib'; nama yang benar tofacitinib.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tofacitinib/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Xeljanz"
+          ]
         },
         {
           "id": "baricitinib",
@@ -1320,7 +1474,9 @@
           ],
           "catatan": "Sumber menulis 'Baricinitib'; nama yang benar baricitinib.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/baricitinib/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Unamity"
+          ]
         }
       ]
     },
@@ -1369,9 +1525,9 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/colchicine/PNG?image_size=300x300",
           "merek": [
+            "AR Gout",
             "Kolkisin (generik)",
-            "Recolfar",
-            "AR Gout"
+            "Recolfar"
           ]
         }
       ]
@@ -1417,7 +1573,9 @@
           ],
           "catatan": "Sumber menulis 'canakinmab'. Ketersediaan di Indonesia terbatas.",
           "gambar": null,
-          "merek": null
+          "merek": [
+            "Ilaris"
+          ]
         },
         {
           "id": "rilonacept",
@@ -1500,9 +1658,35 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/allopurinol/PNG?image_size=300x300",
           "merek": [
+            "Allopril",
+            "Allopurinol",
             "Allopurinol (generik)",
-            "Zyloric",
-            "Kolton"
+            "Allopurinol Seles",
+            "Alluric",
+            "Alofar",
+            "Alugen",
+            "Anolic",
+            "Benoxuric",
+            "Coric",
+            "Erlapur",
+            "Etaluric",
+            "Favolar",
+            "Goutric",
+            "Isoric",
+            "Kolton",
+            "Linogra",
+            "Omeric",
+            "Pritanol",
+            "Prouric",
+            "Puresco",
+            "Puricemia",
+            "Purinic",
+            "Selespurin",
+            "Sinoric",
+            "Tynolic",
+            "Xanturic",
+            "Zylofa",
+            "Zyloric"
           ]
         },
         {
@@ -1538,7 +1722,15 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/febuxostat/PNG?image_size=300x300",
           "merek": [
-            "Festaric"
+            "Febos",
+            "Feburic",
+            "Febux",
+            "Febuxostat",
+            "Festaric",
+            "Furoc",
+            "Genalsik",
+            "Ulostat",
+            "Zygout"
           ]
         }
       ]
@@ -1618,7 +1810,9 @@
           ],
           "catatan": "Bukan untuk gout kronis.",
           "gambar": null,
-          "merek": null
+          "merek": [
+            "Fasturtec"
+          ]
         }
       ]
     },

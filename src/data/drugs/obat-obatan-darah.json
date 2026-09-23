@@ -41,11 +41,38 @@
           "catatan": "Meski tergolong generasi kedua, cetirizine memiliki sedasi ringan yang lebih terasa dibanding loratadine atau fexofenadine.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cetirizine/PNG?image_size=300x300",
           "merek": [
-            "Cetirizine (generik)",
-            "Ryvel",
-            "Incidal OD",
+            "Alcet",
+            "Alergia",
+            "Alergine",
+            "Alerzin",
+            "Allercyl",
+            "Allerzen",
+            "Betarhin",
             "Cerini",
-            "Ritez FT"
+            "Cerini Sirup",
+            "Cetaler",
+            "Cetirizine (generik)",
+            "Cetirizine Sirup Dexa",
+            "Cetymin",
+            "Cetzin",
+            "Frizin",
+            "Gentrizin",
+            "Histrine",
+            "Hufarizine",
+            "Incidal OD",
+            "Intrizin",
+            "Licidal",
+            "Omezyrteks",
+            "Risina",
+            "Ritez",
+            "Ritez FT",
+            "Rydian",
+            "Ryvel",
+            "Ryvel Drop",
+            "Ryvel Sirup",
+            "Simzen",
+            "Trisela",
+            "Zine"
           ]
         },
         {
@@ -78,9 +105,34 @@
           "catatan": "Salah satu antihistamin dengan profil sedasi paling rendah, cocok untuk penggunaan siang hari.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/loratadine/PNG?image_size=300x300",
           "merek": [
-            "Loratadin (generik)",
+            "Aldisa SR",
+            "Alerhis",
+            "Allohex",
+            "Alloris",
+            "Claritin",
+            "Clatatin",
+            "Cronitin",
+            "Glenalen",
+            "Inalergi",
+            "Inclarin",
+            "Inversyn",
+            "Klinset",
             "Larrex",
-            "Rhinos SR (kombinasi)"
+            "Loracor",
+            "Loran",
+            "Lorahistin",
+            "Loratadin (generik)",
+            "Loratadine",
+            "Lorihis",
+            "Lotagen",
+            "Miratadin",
+            "Omellegar",
+            "Picadin",
+            "Prohistin",
+            "Rahistin",
+            "Rhinos SR (kombinasi)",
+            "Winatin",
+            "Zeos"
           ]
         },
         {
@@ -251,9 +303,19 @@
           "catatan": "Anemia pernisiosa akibat kekurangan faktor intrinsik memerlukan terapi seumur hidup, biasanya melalui rute injeksi atau oral dosis sangat tinggi.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cyanocobalamin/PNG?image_size=300x300",
           "merek": [
-            "Vitamin B12/Sianokobalamin (generik)",
+            "Becefort",
+            "Betominplex",
+            "Mekobalamin (generik)",
             "Methycobal",
-            "Mekobalamin (generik)"
+            "Natures Plus Vitamin B12",
+            "Neurobat",
+            "Neurobion",
+            "Neurosanbe",
+            "Nutrimax B Complex",
+            "Vira Vitamin B12",
+            "Vitamin B12 IPI",
+            "Vitamin B12/Sianokobalamin (generik)",
+            "Wellness Mega B Complex"
           ]
         },
         {
@@ -286,10 +348,10 @@
           "catatan": "Jangan memberikan asam folat dosis tinggi tanpa memastikan status B12 terlebih dahulu, karena dapat menutupi anemia megaloblastik akibat defisiensi B12 sementara kerusakan saraf tetap berlanjut.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/folic%20acid/PNG?image_size=300x300",
           "merek": [
+            "Anemolat",
             "Asam Folat (generik)",
             "Folavit",
-            "Starfolat",
-            "Anemolat"
+            "Starfolat"
           ]
         }
       ]
@@ -331,6 +393,7 @@
           "catatan": "Nyeri tulang dapat diatasi dengan analgesik non-opioid (parasetamol) tanpa perlu menghentikan terapi.",
           "gambar": null,
           "merek": [
+            "Filgia",
             "Leucogen",
             "Neukine"
           ]
@@ -547,7 +610,12 @@
           ],
           "catatan": "Rentang terapi sempit seperti siklosporin; pemantauan kadar obat rutin wajib.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tacrolimus/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Prograf",
+            "Tacsograf",
+            "Prograf XL",
+            "Protopic"
+          ]
         }
       ]
     },
@@ -588,9 +656,20 @@
           "catatan": "Pemberian IV harus sangat lambat (encerkan dan infus perlahan) untuk mengurangi risiko reaksi anafilaktoid.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phytonadione/PNG?image_size=300x300",
           "merek": [
-            "Vitamin K1/Fitomenadion (generik)",
+            "Hi-Bone 600",
+            "K2-Bone",
+            "K2D3",
+            "MyWell Vitamin D3+K2 (Natural MK-7)",
             "Neo K",
-            "Pro K"
+            "Nutamins Active K2 Plus Multivitamin",
+            "Nutamins Vitamin K2+D3 400 IU",
+            "Nutrimax Vitamin D3+K2",
+            "Pro K",
+            "Ultigar Vitamin K2 D3",
+            "Ultraway Vitamin K2 D3",
+            "Vitalife D3 400 IU+K2 MK-7 1% 120 Mcg",
+            "Vitamin K Erela",
+            "Vitamin K1/Fitomenadion (generik)"
           ]
         },
         {
@@ -623,9 +702,9 @@
           "catatan": "Pemberian terlalu cepat dapat menyebabkan hipotensi berat; pasien dengan alergi ikan atau riwayat penggunaan insulin protamin berisiko reaksi anafilaktoid lebih tinggi.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/protamine%20sulfate/PNG?image_size=300x300",
           "merek": [
-            "Protamine Sulfat (generik)",
+            "Fresepro",
             "Prosul",
-            "Fresepro"
+            "Protamine Sulfat (generik)"
           ]
         }
       ]
@@ -671,10 +750,27 @@
           "catatan": "Kontraindikasi pada riwayat tromboemboli aktif dan perdarahan subarachnoid (dapat meningkatkan risiko iskemia serebral).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tranexamic%20acid/PNG?image_size=300x300",
           "merek": [
+            "Asam Traneksamat",
             "Asam Traneksamat (generik)",
+            "Asamnex",
+            "Carnexid",
+            "Clonex",
+            "Erlimic",
+            "Ethinex",
+            "Haemostop",
+            "Intermic",
             "Kalnex",
+            "Lexatrans",
+            "Nexa 500",
+            "Nexitra",
+            "Nutranex",
+            "Plasminex",
+            "Quanex",
+            "Tranec",
+            "Tranexamic Acid",
+            "Tranexid",
             "Transamin",
-            "Lexatrans"
+            "Tranxa"
           ]
         }
       ]

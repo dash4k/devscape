@@ -84,7 +84,16 @@
           "catatan": "Tidak memerlukan konversi hepatik (bukan prodrug), sehingga onset lebih dapat diprediksi pada gangguan hati.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lisinopril/PNG?image_size=300x300",
           "merek": [
-            "Lisinopril (generik)"
+            "Inhitril",
+            "Interpril",
+            "Lipril",
+            "Lisinopril (generik)",
+            "Lisinopril Dihydrate",
+            "Noperten",
+            "Nopril",
+            "Odace",
+            "Tensinop",
+            "Tensiphar"
           ]
         },
         {
@@ -123,7 +132,11 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ramipril/PNG?image_size=300x300",
           "merek": [
-            "Ramipril (generik)"
+            "Hyperil",
+            "Ramipril",
+            "Ramipril (generik)",
+            "Tensinel",
+            "Triatec"
           ]
         }
       ]
@@ -168,7 +181,16 @@
           ],
           "catatan": "Kontraindikasi pada kehamilan seperti ACE inhibitor.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/losartan/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Acetensa",
+            "Angioten",
+            "Cozaar",
+            "Insaar",
+            "Lifezar",
+            "Losartan Potassium",
+            "Losargard",
+            "Santesar"
+          ]
         },
         {
           "id": "valsartan",
@@ -204,9 +226,19 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/valsartan/PNG?image_size=300x300",
           "merek": [
-            "Valsartan (generik)",
             "Diovan",
-            "Exforge (kombinasi dengan amlodipin)"
+            "Exforge",
+            "Exforge (kombinasi dengan amlodipin)",
+            "Lapiva",
+            "Pavartan",
+            "Tensor",
+            "Tyoval",
+            "Uperio",
+            "Valrin",
+            "Valsartan",
+            "Valsartan (generik)",
+            "Valtensi",
+            "Vastan"
           ]
         },
         {
@@ -241,7 +273,22 @@
           "catatan": "Waktu paruh terpanjang di antara ARB (± 24 jam), cocok untuk kontrol tekanan darah 24 jam dengan dosis sekali sehari.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/telmisartan/PNG?image_size=300x300",
           "merek": [
+            "5",
+            "Angitel",
+            "Co-Telsaril 40/12",
             "Micardis",
+            "Micardis Plus",
+            "Nuzartan",
+            "Simtel 80",
+            "Telgio",
+            "Telmisartan",
+            "Telmitar",
+            "Telmivask",
+            "Telmiz",
+            "Telsat",
+            "Telstan",
+            "Tinov",
+            "Twynsta",
             "Twynsta (kombinasi dengan amlodipin)"
           ]
         }
@@ -288,10 +335,10 @@
           "catatan": "Edema perifer terjadi akibat redistribusi cairan lokal, bukan retensi cairan sistemik, sehingga tidak responsif terhadap diuretik.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amlodipine/PNG?image_size=300x300",
           "merek": [
+            "Amlocor",
             "Amlodipin (generik)",
             "Norvask",
             "Tensivask",
-            "Amlocor",
             "Theravask"
           ]
         },
@@ -330,8 +377,8 @@
           "catatan": "Kapsul kerja cepat sublingual/oral tidak dianjurkan untuk krisis hipertensi karena risiko penurunan tekanan darah mendadak dan iskemia.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nifedipine/PNG?image_size=300x300",
           "merek": [
-            "Nifedipin (generik)",
-            "Adalat Oros"
+            "Adalat Oros",
+            "Nifedipin (generik)"
           ]
         },
         {
@@ -372,9 +419,12 @@
           "catatan": "Kontraindikasi pada gagal jantung dengan fraksi ejeksi menurun berat dan blok AV derajat tinggi tanpa pacu jantung.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diltiazem/PNG?image_size=300x300",
           "merek": [
+            "Cordila SR",
+            "Dilmen",
+            "Diltiazem",
             "Diltiazem (generik)",
-            "Herbesser",
-            "Farmabes"
+            "Farmabes",
+            "Herbesser"
           ]
         },
         {
@@ -417,8 +467,11 @@
           "catatan": "Kontraindikasi pada gagal jantung dengan fraksi ejeksi menurun, blok AV derajat tinggi, dan sindrom Wolff-Parkinson-White dengan fibrilasi atrium.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/verapamil/PNG?image_size=300x300",
           "merek": [
-            "Verapamil (generik)",
-            "Isoptin SR"
+            "Isoptin",
+            "Isoptin SR",
+            "Tarka",
+            "Verapamil",
+            "Verapamil (generik)"
           ]
         }
       ]
@@ -464,10 +517,26 @@
           "catatan": "Jangan hentikan mendadak (risiko rebound takikardia dan iskemia).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bisoprolol/PNG?image_size=300x300",
           "merek": [
+            "B-Beta",
+            "Beta-One",
+            "Biofin",
+            "Bipro",
+            "Biscor",
             "Bisoprolol (generik)",
+            "Bisoprolol Fumarate",
+            "Bisovell",
+            "Conbis",
+            "Concaprol",
             "Concor",
+            "Hapsen",
+            "Konblobet",
+            "Lodoz",
             "Lodoz (kombinasi)",
-            "Conbis"
+            "Maintate",
+            "Miniten",
+            "Opiprol",
+            "Selbix",
+            "Tencard"
           ]
         },
         {
@@ -510,9 +579,11 @@
           "catatan": "Tartrat dan suksinat tidak dapat dipertukarkan secara langsung karena profil pelepasan berbeda.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metoprolol/PNG?image_size=300x300",
           "merek": [
-            "Metoprolol (generik)",
             "Betaloc ZOK",
-            "Loprolol"
+            "Fapresor",
+            "Lopresor",
+            "Loprolol",
+            "Metoprolol (generik)"
           ]
         },
         {
@@ -642,9 +713,9 @@
           "catatan": "Injeksi IV cepat (> 4 mg/menit) meningkatkan risiko ototoksisitas.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/furosemide/PNG?image_size=300x300",
           "merek": [
+            "Farsix",
             "Furosemid (generik)",
             "Lasix",
-            "Farsix",
             "Roxemid"
           ]
         },
@@ -729,12 +800,12 @@
           "catatan": "Dosis rendah untuk pencegahan kardiovaskular berbeda dari dosis analgesik/antiinflamasi yang jauh lebih tinggi.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aspirin/PNG?image_size=300x300",
           "merek": [
-            "Miniaspi",
-            "Aspilet",
-            "Ascardia",
-            "Thrombo Aspilet",
             "Aptor",
-            "Nospirinal"
+            "Ascardia",
+            "Aspilet",
+            "Miniaspi",
+            "Nospirinal",
+            "Thrombo Aspilet"
           ]
         },
         {
@@ -771,10 +842,10 @@
           "catatan": "Efektivitas bervariasi pada pasien dengan polimorfisme genetik CYP2C19 (poor metabolizer).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clopidogrel/PNG?image_size=300x300",
           "merek": [
-            "Klopidogrel (generik)",
-            "Plavix",
             "CPG",
-            "Platogrix"
+            "Klopidogrel (generik)",
+            "Platogrix",
+            "Plavix"
           ]
         },
         {
@@ -858,9 +929,12 @@
           "catatan": "Memerlukan pemantauan INR rutin seumur hidup terapi; edukasi pasien tentang interaksi obat-makanan sangat penting.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/warfarin/PNG?image_size=300x300",
           "merek": [
-            "Warfarin (generik)",
+            "Notisil",
             "Simarc",
-            "Notisil"
+            "Simarc 2",
+            "Warfarin",
+            "Warfarin (generik)",
+            "Warfarin Sodium Clathrate"
           ]
         },
         {
@@ -896,6 +970,15 @@
           "catatan": "Tidak dianjurkan pada katup jantung mekanik. Tidak memerlukan pemantauan koagulasi rutin.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rivaroxaban/PNG?image_size=300x300",
           "merek": [
+            "Nostrok",
+            "Riban",
+            "Rivaco",
+            "Rivaria",
+            "Rivarox",
+            "Rivaroxaban",
+            "Rivatero",
+            "Rivatrop",
+            "Roxaf",
             "Xarelto"
           ]
         },
@@ -934,10 +1017,19 @@
           "catatan": "Antidotum: protamin sulfat. HIT adalah komplikasi serius yang memerlukan penghentian segera dan pergantian ke antikoagulan non-heparin.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/heparin/PNG?image_size=300x300",
           "merek": [
-            "Heparin (generik)",
+            "Clotastop",
             "Hepagusan",
+            "Heparin (generik)",
+            "Heparin Sodium",
             "Heparinol",
-            "Invicolot"
+            "Hico",
+            "Inviclot",
+            "Invicolot",
+            "Oparin",
+            "Thromboflash",
+            "Thrombogel",
+            "Thrombophob",
+            "Thromecon"
           ]
         },
         {
@@ -975,8 +1067,8 @@
           "catatan": "Tidak memerlukan pemantauan aPTT rutin seperti heparin tak terfraksinasi.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/enoxaparin/PNG?image_size=300x300",
           "merek": [
-            "Lovenox",
-            "Enoxrin"
+            "Enoxrin",
+            "Lovenox"
           ]
         }
       ]
@@ -1019,6 +1111,16 @@
           "catatan": "Di antara statin, simvastatin memiliki interaksi obat CYP3A4 paling banyak.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/simvastatin/PNG?image_size=300x300",
           "merek": [
+            "Cholestat",
+            "Cortavas",
+            "Esvat",
+            "Kolefion",
+            "Lextatin",
+            "Lipivast",
+            "Mastatin",
+            "Mevastin",
+            "Norpid",
+            "Preschol",
             "Simvastatin (generik)"
           ]
         },
@@ -1055,9 +1157,31 @@
           "catatan": "Waktu paruh lebih panjang dibanding simvastatin sehingga fleksibel terhadap waktu minum.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/atorvastatin/PNG?image_size=300x300",
           "merek": [
+            "Atofar",
+            "Atofit",
+            "Atopid",
             "Atorvastatin (generik)",
+            "Atorvastatin Calcium Trihydrate",
+            "Avesco",
+            "Carduo",
+            "Cholastin",
+            "Cholestor",
+            "Fastor",
+            "Genlipid",
+            "Intorvas",
+            "Lexitor",
+            "Lipidef",
             "Lipitor",
-            "Removchol"
+            "Litorcom",
+            "Livator",
+            "Nulipid",
+            "Removchol",
+            "Simtor",
+            "Solvast",
+            "Stator",
+            "Stavinor",
+            "Truvaz",
+            "Vastofar"
           ]
         },
         {
@@ -1093,11 +1217,11 @@
           "catatan": "Metabolisme minimal melalui CYP450, sehingga interaksi obat lebih sedikit dibanding simvastatin/atorvastatin. Populasi Asia memerlukan dosis awal lebih rendah karena kadar plasma lebih tinggi.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rosuvastatin/PNG?image_size=300x300",
           "merek": [
-            "Rosuvastatin (generik)",
             "Crestor",
-            "Rosufer",
-            "Roswin",
             "Nistrol",
+            "Rosufer",
+            "Rosuvastatin (generik)",
+            "Roswin",
             "Rozet (kombinasi dengan ezetimibe)"
           ]
         }
@@ -1240,8 +1364,11 @@
           "catatan": "Simpan tablet sublingual dalam wadah kaca gelap tertutup rapat karena mudah terurai oleh cahaya dan udara.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nitroglycerin/PNG?image_size=300x300",
           "merek": [
-            "Nitrokaf",
+            "DBL Glyceryl Trinitrate Concentrate Injection",
+            "Glyceryl Trinitrate",
             "Nitral",
+            "Nitrokaf",
+            "Nitrokaf Retard",
             "NTG"
           ]
         },

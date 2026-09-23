@@ -41,9 +41,22 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ondansetron/PNG?image_size=300x300",
           "merek": [
+            "Ceteron",
+            "Cimantin",
+            "Fudanton",
+            "Kliran",
+            "Mefoz",
+            "Narfoz",
+            "Nausimex",
             "Ondansetron (generik)",
+            "Ondansetron Tablet Dexa Medica",
+            "Ondansetron Tablet Novell",
+            "Ondavar",
             "Ondavell",
-            "Trovensis"
+            "Ondesco",
+            "Trovensis",
+            "Vometraz",
+            "Vometron"
           ]
         },
         {
@@ -79,7 +92,10 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/granisetron/PNG?image_size=300x300",
           "merek": [
+            "Granesis",
+            "Granisetron",
             "Granisetron (generik)",
+            "Granisetron HCl",
             "Granon"
           ]
         },
@@ -113,7 +129,17 @@
           ],
           "catatan": "Sumber menulis dosis IV pasca-operasi 0,75 mg; dosis standar adalah 0,075 mg, sudah dikoreksi di sini.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/palonosetron/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Akynzeo",
+            "Palofer",
+            "Palomit",
+            "Palonosetron",
+            "Hydrochloride",
+            "Paloset",
+            "Paloxi",
+            "Palset",
+            "Prosmol"
+          ]
         }
       ]
     },
@@ -155,7 +181,18 @@
           ],
           "catatan": "Sumber terpotong pada 'bioavailibilats lebih...'. Bioavailabilitas oral cimetidine sekitar 60-70%; mohon cek kelanjutan kalimat aslinya.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cimetidine/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Cimedine",
+            "Cimetidine",
+            "Cimexol",
+            "Corsamet",
+            "Gastricon",
+            "Lexamet",
+            "Omekur",
+            "Sanmetidin",
+            "Selestidin",
+            "Tidifar"
+          ]
         },
         {
           "id": "ranitidine",
@@ -186,8 +223,8 @@
           "catatan": "Ditarik dari peredaran di banyak negara sejak 2020 karena kontaminasi NDMA.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ranitidine/PNG?image_size=300x300",
           "merek": [
-            "Ranitidin (generik)",
             "Ranicho",
+            "Ranitidin (generik)",
             "Ranivel"
           ]
         },
@@ -222,7 +259,23 @@
           ],
           "catatan": "Sumber menulis 'chomotherapy' pada kolom sediaan; maksudnya tidak jelas.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/famotidine/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Corocyd",
+            "Famocid",
+            "Famotidine",
+            "Hufatidine",
+            "Lexmodine",
+            "Neosanmag",
+            "Neosanmag Fast",
+            "Polysilane Max",
+            "Pratifar",
+            "Promag Double Action",
+            "Promag Forte",
+            "Renapepsa",
+            "Starmag Double Impact",
+            "Ulcerid",
+            "Ulmo"
+          ]
         },
         {
           "id": "nizatidine",
@@ -253,7 +306,9 @@
           ],
           "catatan": "Ketersediaan terbatas di banyak negara.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nizatidine/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Axid"
+          ]
         }
       ]
     },
@@ -283,7 +338,13 @@
           "catatan": "Obat ini jarang dipakai sekarang dan saya tidak punya data dosis yang bisa diverifikasi. Mungkin yang dimaksud pyridoxine (B6), yang dipakai bersama doxylamine untuk mual kehamilan. Mohon dicek.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pyrathiazine/PNG?image_size=300x300",
           "merek": [
-            "Anvomer B6"
+            "Anvomer B6",
+            "Mediamer B6",
+            "Pontyamer B6",
+            "Pregvomit",
+            "Provomer",
+            "Voldiamer B6",
+            "Vomil B6"
           ]
         },
         {
@@ -317,7 +378,12 @@
           ],
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/doxylamine/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Dexmolex",
+            "Oradex",
+            "Siladex Cough & Cold",
+            "Vicks Formula 44"
+          ]
         },
         {
           "id": "prometazine",
@@ -358,7 +424,18 @@
           ],
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/promethazine/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Berlifed",
+            "Bufagan Expectorant",
+            "Gigadryl",
+            "Guamin",
+            "Hufallerzine Expectorant",
+            "Metagan Expectorant",
+            "Mezinex",
+            "Nufapreg",
+            "Phenerica",
+            "Prome"
+          ]
         }
       ]
     },
@@ -406,10 +483,24 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metoclopramide/PNG?image_size=300x300",
           "merek": [
-            "Metoklopramid (generik)",
-            "Primperan",
+            "Damaben",
+            "Enakur",
             "Gavistal",
-            "Primpen"
+            "Metoklopramid (generik)",
+            "Metolon",
+            "Nausile",
+            "Navoren",
+            "Nilatika",
+            "Norvom",
+            "Omevomid",
+            "Piralen",
+            "Primpen",
+            "Primperan",
+            "Sanmeto",
+            "Sotatic",
+            "Topram",
+            "Vopram",
+            "Vosea"
           ]
         },
         {
@@ -446,11 +537,34 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/domperidone/PNG?image_size=300x300",
           "merek": [
+            "Costil",
+            "Dom",
+            "Dome",
+            "Domesco",
+            "Domestrium",
             "Domperidon (generik)",
+            "Domperidon Novell",
+            "Domperidone Maleate",
+            "Dompero",
+            "Etalium",
+            "Galdom",
+            "Gerdilium",
+            "Hufadon",
+            "Lexadon",
+            "Miradon",
+            "Monell",
+            "Motilium",
+            "Omedom",
+            "Rosidon",
+            "Tilidon",
+            "Vesperum",
+            "Vidon",
             "Vometa",
             "Vometa FT",
-            "Monell",
-            "Vesperum"
+            "Vomina",
+            "Vomiper",
+            "Vomitas",
+            "Vosedon"
           ]
         }
       ]
@@ -494,7 +608,9 @@
           ],
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aprepitant/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Emend"
+          ]
         },
         {
           "id": "fosaprepitant",
@@ -524,7 +640,9 @@
           ],
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fosaprepitant/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "FOSAP"
+          ]
         },
         {
           "id": "rolapitant",
@@ -586,7 +704,9 @@
           ],
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/netupitant/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Akynzeo"
+          ]
         }
       ]
     },
@@ -625,7 +745,10 @@
           ],
           "catatan": "Tidak tersedia di semua negara; kontraindikasi pada glaukoma sudut sempit dan BPH.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pirenzepine/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Gastrozepin",
+            "Cevanil"
+          ]
         },
         {
           "id": "telenzepine",
@@ -734,10 +857,21 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/alprazolam/PNG?image_size=300x300",
           "merek": [
-            "Alprazolam (generik)",
-            "Xanax",
             "Alganax",
-            "Frixitas XR"
+            "Alprazolam",
+            "Alprazolam (generik)",
+            "Apazol",
+            "Atarax",
+            "Calmlet",
+            "Frixitas",
+            "Frixitas XR",
+            "Nuzolam",
+            "Opizolam",
+            "Prazox",
+            "Xanax",
+            "Zolastin",
+            "Zolysan",
+            "Zypraz"
           ]
         },
         {
@@ -774,8 +908,8 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lorazepam/PNG?image_size=300x300",
           "merek": [
-            "Lorazepam (generik)",
             "Ativan",
+            "Lorazepam (generik)",
             "Merlopam",
             "Renaquil"
           ]
@@ -853,9 +987,32 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/magnesium%20hydroxide/PNG?image_size=300x300",
           "merek": [
-            "Promag",
+            "Acitral",
+            "Actac Plus",
+            "Antasida Doen",
+            "Atmacid",
+            "Berlosid",
+            "Dexanta",
+            "Gastran",
+            "Gastrucid",
+            "Lagesil",
+            "Laxasium",
+            "Maagmeta Plus",
+            "Magasida",
+            "Magten",
+            "Magtral",
+            "Mesamag",
             "Mylanta",
-            "Antasida Doen"
+            "Pimag",
+            "Plantacid Forte",
+            "Polysilane",
+            "Promag",
+            "Samtacid",
+            "Simeco",
+            "Tomaag",
+            "Trianta",
+            "Triocid",
+            "Tropimag"
           ]
         },
         {
@@ -889,8 +1046,17 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/calcium%20carbonate/PNG?image_size=300x300",
           "merek": [
+            "Calos",
+            "Calporosis D",
+            "CDR",
+            "Day-Cal",
+            "Formical-B",
+            "Health+Care Erphabone",
             "Kalsium Karbonat (generik)",
-            "Formical-B"
+            "Maag Gel",
+            "Polysilane Max",
+            "Promag Double Action",
+            "Wellness Os-Cal"
           ]
         }
       ]
@@ -938,9 +1104,30 @@
           "catatan": "Sumber menulis 'gaboleh bumil'. Omeprazole tidak dikontraindikasikan mutlak pada kehamilan; data manusia umumnya menenangkan, tapi pakai hanya bila ada indikasi dan sesuai penilaian dokter.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/omeprazole/PNG?image_size=300x300",
           "merek": [
+            "Bufazol",
+            "Esoferr",
+            "Esofin",
+            "Inhipump",
+            "Lokev",
+            "Meisec",
+            "Nexigas",
+            "Nexium Mups",
+            "Omed",
+            "Omberzol",
             "Omeprazol (generik)",
+            "Omeprazole Hexpharm",
+            "Omeprazole Novell",
+            "Omevell",
             "OMZ",
-            "Pumpitor"
+            "OPM",
+            "Ozid",
+            "Prilos",
+            "Prosec",
+            "Protop",
+            "Pumpitor",
+            "Ulpraz",
+            "Zeprazol",
+            "Zolacap"
           ]
         },
         {
