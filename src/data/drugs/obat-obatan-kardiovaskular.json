@@ -43,7 +43,11 @@
             "ARB atau aliskiren: hindari kombinasi (risiko hiperkalemia dan gangguan ginjal)"
           ],
           "catatan": "Kontraindikasi pada kehamilan (teratogenik trimester 2-3) dan riwayat angioedema akibat ACE inhibitor.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/captopril/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/captopril/PNG?image_size=300x300",
+          "merek": [
+            "Captopril (generik)",
+            "Capoten"
+          ]
         },
         {
           "id": "lisinopril",
@@ -79,7 +83,11 @@
             "ARB/aliskiren: hindari kombinasi"
           ],
           "catatan": "Tidak memerlukan konversi hepatik (bukan prodrug), sehingga onset lebih dapat diprediksi pada gangguan hati.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lisinopril/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lisinopril/PNG?image_size=300x300",
+          "merek": [
+            "Lisinopril (generik)",
+            "Noperten"
+          ]
         },
         {
           "id": "ramipril",
@@ -115,7 +123,11 @@
             "ARB/aliskiren: hindari kombinasi"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ramipril/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ramipril/PNG?image_size=300x300",
+          "merek": [
+            "Tritace",
+            "Ramipril (generik)"
+          ]
         }
       ]
     },
@@ -158,7 +170,12 @@
             "Rifampisin: menurunkan konversi ke metabolit aktif"
           ],
           "catatan": "Kontraindikasi pada kehamilan seperti ACE inhibitor.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/losartan/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/losartan/PNG?image_size=300x300",
+          "merek": [
+            "Cozaar",
+            "Losartan (generik)",
+            "Angioten"
+          ]
         },
         {
           "id": "valsartan",
@@ -192,7 +209,11 @@
             "ACE inhibitor/aliskiren: hindari kombinasi"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/valsartan/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/valsartan/PNG?image_size=300x300",
+          "merek": [
+            "Diovan",
+            "Valsartan (generik)"
+          ]
         },
         {
           "id": "telmisartan",
@@ -224,7 +245,11 @@
             "ACE inhibitor/aliskiren: hindari kombinasi"
           ],
           "catatan": "Waktu paruh terpanjang di antara ARB (± 24 jam), cocok untuk kontrol tekanan darah 24 jam dengan dosis sekali sehari.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/telmisartan/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/telmisartan/PNG?image_size=300x300",
+          "merek": [
+            "Micardis",
+            "Telmisartan (generik)"
+          ]
         }
       ]
     },
@@ -267,7 +292,12 @@
             "Siklosporin: kadar dapat meningkat"
           ],
           "catatan": "Edema perifer terjadi akibat redistribusi cairan lokal, bukan retensi cairan sistemik, sehingga tidak responsif terhadap diuretik.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amlodipine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amlodipine/PNG?image_size=300x300",
+          "merek": [
+            "Norvask",
+            "Amlodipine (generik)",
+            "Tensivask"
+          ]
         },
         {
           "id": "nifedipin",
@@ -302,7 +332,11 @@
             "Magnesium sulfat (pada preeklamsia): risiko hipotensi berat"
           ],
           "catatan": "Kapsul kerja cepat sublingual/oral tidak dianjurkan untuk krisis hipertensi karena risiko penurunan tekanan darah mendadak dan iskemia.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nifedipine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nifedipine/PNG?image_size=300x300",
+          "merek": [
+            "Adalat",
+            "Nifedipine (generik)"
+          ]
         },
         {
           "id": "diltiazem",
@@ -340,7 +374,11 @@
             "Digoksin: kadar digoksin meningkat"
           ],
           "catatan": "Kontraindikasi pada gagal jantung dengan fraksi ejeksi menurun berat dan blok AV derajat tinggi tanpa pacu jantung.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diltiazem/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diltiazem/PNG?image_size=300x300",
+          "merek": [
+            "Herbesser",
+            "Diltiazem (generik)"
+          ]
         },
         {
           "id": "verapamil",
@@ -380,7 +418,11 @@
             "Inhibitor CYP3A4: kadar verapamil meningkat"
           ],
           "catatan": "Kontraindikasi pada gagal jantung dengan fraksi ejeksi menurun, blok AV derajat tinggi, dan sindrom Wolff-Parkinson-White dengan fibrilasi atrium.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/verapamil/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/verapamil/PNG?image_size=300x300",
+          "merek": [
+            "Isoptin",
+            "Verapamil (generik)"
+          ]
         }
       ]
     },
@@ -423,7 +465,11 @@
             "Klonidin: risiko rebound hipertensi bila dihentikan bersamaan"
           ],
           "catatan": "Jangan hentikan mendadak (risiko rebound takikardia dan iskemia).",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bisoprolol/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bisoprolol/PNG?image_size=300x300",
+          "merek": [
+            "Concor",
+            "Bisoprolol (generik)"
+          ]
         },
         {
           "id": "metoprolol",
@@ -463,7 +509,12 @@
             "Klonidin: risiko rebound hipertensi"
           ],
           "catatan": "Tartrat dan suksinat tidak dapat dipertukarkan secara langsung karena profil pelepasan berbeda.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metoprolol/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metoprolol/PNG?image_size=300x300",
+          "merek": [
+            "Cardio Selecta",
+            "Lopresor",
+            "Metoprolol (generik)"
+          ]
         },
         {
           "id": "karvedilol",
@@ -500,7 +551,12 @@
             "Siklosporin dan digoksin: kadar dapat meningkat"
           ],
           "catatan": "Kontraindikasi relatif pada asma bronkial berat karena efek non-selektif.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/carvedilol/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/carvedilol/PNG?image_size=300x300",
+          "merek": [
+            "Bloten",
+            "Carvedilol (generik)",
+            "V-Bloc"
+          ]
         }
       ]
     },
@@ -545,7 +601,10 @@
             "Obat pemanjang QT: risiko aritmia akibat hipokalemia"
           ],
           "catatan": "Sering dikombinasikan dosis rendah dengan ACE inhibitor/ARB dalam satu tablet.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydrochlorothiazide/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydrochlorothiazide/PNG?image_size=300x300",
+          "merek": [
+            "HCT (generik)"
+          ]
         },
         {
           "id": "furosemid",
@@ -584,7 +643,12 @@
             "NSAID: menurunkan efek diuretik"
           ],
           "catatan": "Injeksi IV cepat (> 4 mg/menit) meningkatkan risiko ototoksisitas.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/furosemide/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/furosemide/PNG?image_size=300x300",
+          "merek": [
+            "Lasix",
+            "Farsix",
+            "Furosemide (generik)"
+          ]
         },
         {
           "id": "spironolakton",
@@ -619,7 +683,11 @@
             "Suplemen kalium: hindari kombinasi tanpa indikasi kuat"
           ],
           "catatan": "Eplerenon adalah alternatif selektif tanpa efek antiandrogen bila ginekomastia menjadi masalah.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/spironolactone/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/spironolactone/PNG?image_size=300x300",
+          "merek": [
+            "Aldactone",
+            "Spironolactone (generik)"
+          ]
         }
       ]
     },
@@ -662,7 +730,13 @@
             "Kortikosteroid: risiko perdarahan GI"
           ],
           "catatan": "Dosis rendah untuk pencegahan kardiovaskular berbeda dari dosis analgesik/antiinflamasi yang jauh lebih tinggi.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aspirin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aspirin/PNG?image_size=300x300",
+          "merek": [
+            "Aspilets",
+            "Ascardia",
+            "Miniaspi",
+            "Cardio Aspirin"
+          ]
         },
         {
           "id": "klopidogrel",
@@ -696,7 +770,12 @@
             "NSAID: risiko perdarahan GI"
           ],
           "catatan": "Efektivitas bervariasi pada pasien dengan polimorfisme genetik CYP2C19 (poor metabolizer).",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clopidogrel/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clopidogrel/PNG?image_size=300x300",
+          "merek": [
+            "Plavix",
+            "CPG",
+            "Clopidogrel (generik)"
+          ]
         },
         {
           "id": "tikagrelor",
@@ -730,7 +809,10 @@
             "Simvastatin/lovastatin dosis tinggi: kadar statin meningkat"
           ],
           "catatan": "Dispnea biasanya muncul awal terapi dan tidak selalu memerlukan penghentian obat.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ticagrelor/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ticagrelor/PNG?image_size=300x300",
+          "merek": [
+            "Brilinta"
+          ]
         }
       ]
     },
@@ -773,7 +855,11 @@
             "Antibiotik spektrum luas: dapat meningkatkan INR"
           ],
           "catatan": "Memerlukan pemantauan INR rutin seumur hidup terapi; edukasi pasien tentang interaksi obat-makanan sangat penting.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/warfarin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/warfarin/PNG?image_size=300x300",
+          "merek": [
+            "Simarc",
+            "Warfarin (generik)"
+          ]
         },
         {
           "id": "rivaroxaban",
@@ -806,7 +892,10 @@
             "Antiplatelet dan NSAID: risiko perdarahan aditif"
           ],
           "catatan": "Tidak dianjurkan pada katup jantung mekanik. Tidak memerlukan pemantauan koagulasi rutin.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rivaroxaban/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rivaroxaban/PNG?image_size=300x300",
+          "merek": [
+            "Xarelto"
+          ]
         },
         {
           "id": "heparin",
@@ -841,7 +930,11 @@
             "Nitrogliserin IV dosis tinggi: dapat menurunkan efek heparin"
           ],
           "catatan": "Antidotum: protamin sulfat. HIT adalah komplikasi serius yang memerlukan penghentian segera dan pergantian ke antikoagulan non-heparin.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/heparin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/heparin/PNG?image_size=300x300",
+          "merek": [
+            "Heparin (generik)",
+            "Inviclot"
+          ]
         },
         {
           "id": "enoksaparin",
@@ -876,7 +969,11 @@
             "Antikoagulan lain: hindari kombinasi tanpa indikasi jelas"
           ],
           "catatan": "Tidak memerlukan pemantauan aPTT rutin seperti heparin tak terfraksinasi.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/enoxaparin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/enoxaparin/PNG?image_size=300x300",
+          "merek": [
+            "Lovenox",
+            "Enoxaparin (generik)"
+          ]
         }
       ]
     },
@@ -916,7 +1013,12 @@
             "Jus grapefruit dalam jumlah besar: meningkatkan kadar simvastatin"
           ],
           "catatan": "Di antara statin, simvastatin memiliki interaksi obat CYP3A4 paling banyak.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/simvastatin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/simvastatin/PNG?image_size=300x300",
+          "merek": [
+            "Simvastatin (generik)",
+            "Zocor",
+            "Vosea"
+          ]
         },
         {
           "id": "atorvastatin",
@@ -949,7 +1051,12 @@
             "Jus grapefruit dalam jumlah besar: meningkatkan kadar"
           ],
           "catatan": "Waktu paruh lebih panjang dibanding simvastatin sehingga fleksibel terhadap waktu minum.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/atorvastatin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/atorvastatin/PNG?image_size=300x300",
+          "merek": [
+            "Lipitor",
+            "Atorvastatin (generik)",
+            "Atorsan"
+          ]
         },
         {
           "id": "rosuvastatin",
@@ -982,7 +1089,11 @@
             "Antasida: menurunkan absorpsi bila diminum bersamaan"
           ],
           "catatan": "Metabolisme minimal melalui CYP450, sehingga interaksi obat lebih sedikit dibanding simvastatin/atorvastatin. Populasi Asia memerlukan dosis awal lebih rendah karena kadar plasma lebih tinggi.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rosuvastatin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rosuvastatin/PNG?image_size=300x300",
+          "merek": [
+            "Crestor",
+            "Rosuvastatin (generik)"
+          ]
         }
       ]
     },
@@ -1030,7 +1141,12 @@
             "Obat pemanjang QT lain: risiko torsades de pointes"
           ],
           "catatan": "Waktu paruh sangat panjang (berminggu-minggu) sehingga efek toksik dapat muncul lama setelah obat dihentikan.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amiodarone/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amiodarone/PNG?image_size=300x300",
+          "merek": [
+            "Cordarone",
+            "Tiaryt",
+            "Amiodarone (generik)"
+          ]
         },
         {
           "id": "digoksin",
@@ -1066,7 +1182,11 @@
             "Penyekat beta dan CCB non-dihidropiridin: risiko bradikardia aditif"
           ],
           "catatan": "Rentang terapi sempit; toksisitas dapat mengancam jiwa. Antidotum: digoxin immune Fab pada toksisitas berat.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/digoxin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/digoxin/PNG?image_size=300x300",
+          "merek": [
+            "Digoxin (generik)",
+            "Fargoxin"
+          ]
         }
       ]
     },
@@ -1112,7 +1232,11 @@
             "Heparin IV dosis tinggi: dapat menurunkan efek heparin"
           ],
           "catatan": "Simpan tablet sublingual dalam wadah kaca gelap tertutup rapat karena mudah terurai oleh cahaya dan udara.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nitroglycerin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nitroglycerin/PNG?image_size=300x300",
+          "merek": [
+            "Nitrokaf",
+            "Nitral"
+          ]
         },
         {
           "id": "isosorbid-dinitrat",
@@ -1145,7 +1269,12 @@
             "Alkohol: hipotensi aditif"
           ],
           "catatan": "Jadwal dosis harus disusun dengan periode bebas nitrat (biasanya 10-14 jam) untuk mencegah toleransi.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/isosorbide%20dinitrate/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/isosorbide%20dinitrate/PNG?image_size=300x300",
+          "merek": [
+            "Isosorbide Dinitrate (generik)",
+            "Cedocard",
+            "ISDN"
+          ]
         }
       ]
     }

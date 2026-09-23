@@ -41,7 +41,12 @@
             "Aminoglikosida: risiko hipokalsemia meningkat"
           ],
           "catatan": "Kontraindikasi pada gangguan esofagus (striktur, akalasia) dan ketidakmampuan duduk/berdiri tegak minimal 30 menit.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/alendronate/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/alendronate/PNG?image_size=300x300",
+          "merek": [
+            "Fosamax",
+            "Alendronate (generik)",
+            "Osteomax"
+          ]
         },
         {
           "id": "risedronat",
@@ -76,7 +81,10 @@
             "NSAID: risiko iritasi GI aditif"
           ],
           "catatan": "Sama seperti alendronat, kontraindikasi pada gangguan esofagus.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/risedronic%20acid/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/risedronic%20acid/PNG?image_size=300x300",
+          "merek": [
+            "Actonel"
+          ]
         },
         {
           "id": "zoledronic-acid",
@@ -115,7 +123,11 @@
             "Obat nefrotoksik lain: risiko gangguan ginjal aditif"
           ],
           "catatan": "Kontraindikasi pada CrCl < 35 mL/menit (osteoporosis) dan hipokalsemia yang belum terkoreksi. Pemeriksaan gigi disarankan sebelum memulai terapi jangka panjang untuk mengurangi risiko osteonekrosis rahang.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/zoledronic%20acid/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/zoledronic%20acid/PNG?image_size=300x300",
+          "merek": [
+            "Aclasta",
+            "Zometa (onkologi)"
+          ]
         }
       ]
     },
@@ -160,7 +172,11 @@
             "Kortikosteroid: risiko hipokalsemia aditif"
           ],
           "catatan": "Efek anti-resorpsi cepat hilang setelah dosis terlewat atau dihentikan, menyebabkan rebound peningkatan resorpsi tulang dan risiko fraktur vertebra multipel; pertimbangkan terapi lanjutan (mis. bisfosfonat) bila dihentikan.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Prolia",
+            "Xgeva (onkologi)"
+          ]
         },
         {
           "id": "teriparatide",
@@ -193,7 +209,10 @@
             "Obat yang mempengaruhi kalsium: efek aditif"
           ],
           "catatan": "Kontraindikasi pada penyakit Paget, riwayat radiasi tulang, hiperkalsemia, dan keganasan tulang karena risiko teoritis osteosarkoma. Setelah terapi, dilanjutkan dengan anti-resorptif (bisfosfonat/denosumab) untuk mempertahankan manfaat.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Forteo"
+          ]
         },
         {
           "id": "raloksifen",
@@ -224,7 +243,10 @@
             "Warfarin: dapat menurunkan waktu protrombin"
           ],
           "catatan": "Hentikan minimal 3 hari sebelum imobilisasi lama (operasi, tirah baring) karena risiko tromboemboli vena. Tidak mengatasi hot flashes menopause (justru dapat memperberat).",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/raloxifene/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/raloxifene/PNG?image_size=300x300",
+          "merek": [
+            "Evista"
+          ]
         },
         {
           "id": "kalsium-vitamin-d",
@@ -258,7 +280,12 @@
             "Diuretik tiazid: risiko hiperkalsemia aditif"
           ],
           "catatan": "Kalsium sitrat memiliki absorpsi yang tidak bergantung asam lambung, lebih sesuai untuk pengguna PPI/H2 blocker jangka panjang.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Calcium D-Redoxon",
+            "Osteocal",
+            "CDR"
+          ]
         }
       ]
     },
@@ -300,7 +327,10 @@
             "Inhibitor kolinesterase: memperpanjang efek suksinilkolin"
           ],
           "catatan": "Kontraindikasi pada riwayat hipertermia maligna, luka bakar luas, cedera crush, dan hiperkalemia. Hanya digunakan oleh tenaga anestesi terlatih dengan fasilitas resusitasi lengkap.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/succinylcholine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/succinylcholine/PNG?image_size=300x300",
+          "merek": [
+            "Succinylcholine (generik)"
+          ]
         },
         {
           "id": "rokuronium",
@@ -332,7 +362,11 @@
             "Inhibitor kolinesterase (neostigmin) dan sugammadex: digunakan untuk membalik efek blokade"
           ],
           "catatan": "Sugammadex adalah agen pembalik (reversal) khusus untuk rokuronium dan vekuronium, bekerja lebih cepat dan lebih dapat diprediksi dibanding neostigmin.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rocuronium/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rocuronium/PNG?image_size=300x300",
+          "merek": [
+            "Roculax",
+            "Rocuronium (generik)"
+          ]
         }
       ]
     },
@@ -372,7 +406,11 @@
             "Obat yang menghambat CYP3A4 (pada penggunaan sistemik): kadar meningkat"
           ],
           "catatan": "Hindari aplikasi pada kulit yang tidak utuh atau area yang sangat luas untuk mencegah absorpsi sistemik berlebihan.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lidocaine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lidocaine/PNG?image_size=300x300",
+          "merek": [
+            "Xylocaine",
+            "Lidocaine (generik)"
+          ]
         }
       ]
     }

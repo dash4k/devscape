@@ -39,7 +39,12 @@
             "Obat kationik (simetidin): dapat meningkatkan kadar metformin"
           ],
           "catatan": "Kontraindikasi pada eGFR < 30 mL/menit/1,73m²; kurangi dosis pada eGFR 30-45. Hentikan sementara pada kondisi akut yang berisiko hipoksia/gangguan ginjal akut.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metformin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metformin/PNG?image_size=300x300",
+          "merek": [
+            "Glucophage",
+            "Metformin (generik)",
+            "Glumin"
+          ]
         }
       ]
     },
@@ -76,7 +81,11 @@
             "Alkohol: risiko hipoglikemia dan reaksi mirip disulfiram"
           ],
           "catatan": "Hindari pada lansia dan gangguan ginjal karena risiko hipoglikemia berkepanjangan; gliklazid atau glimepirid lebih disukai bila sulfonilurea tetap diperlukan.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/glyburide/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/glyburide/PNG?image_size=300x300",
+          "merek": [
+            "Daonil",
+            "Glibenclamide (generik)"
+          ]
         },
         {
           "id": "gliklazid",
@@ -106,7 +115,11 @@
             "Penyekat beta: dapat menutupi gejala hipoglikemia"
           ],
           "catatan": "Profil hipoglikemia lebih aman dibanding glibenklamid, sering menjadi pilihan sulfonilurea utama.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gliclazide/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gliclazide/PNG?image_size=300x300",
+          "merek": [
+            "Diamicron",
+            "Gliclazide (generik)"
+          ]
         }
       ]
     },
@@ -143,7 +156,10 @@
             "Risiko hipoglikemia meningkat bila dikombinasi dengan sulfonilurea atau insulin (pertimbangkan penurunan dosis keduanya)"
           ],
           "catatan": "Risiko hipoglikemia rendah bila digunakan sebagai monoterapi karena kerja bergantung glukosa.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sitagliptin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sitagliptin/PNG?image_size=300x300",
+          "merek": [
+            "Januvia"
+          ]
         },
         {
           "id": "empagliflozin",
@@ -180,7 +196,10 @@
             "Insulin dan sulfonilurea: risiko hipoglikemia meningkat"
           ],
           "catatan": "Hentikan sementara sebelum operasi besar atau saat sakit akut (sick day rules) untuk mengurangi risiko ketoasidosis euglikemik.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/empagliflozin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/empagliflozin/PNG?image_size=300x300",
+          "merek": [
+            "Jardiance"
+          ]
         }
       ]
     },
@@ -219,7 +238,11 @@
             "Obat oral lain: pengosongan lambung yang melambat dapat mempengaruhi absorpsi"
           ],
           "catatan": "Kontraindikasi pada riwayat pribadi/keluarga karsinoma tiroid meduler dan sindrom MEN 2.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Victoza",
+            "Saxenda (obesitas)"
+          ]
         },
         {
           "id": "semaglutide",
@@ -255,7 +278,12 @@
             "Warfarin: dapat mempengaruhi INR akibat perubahan penyerapan"
           ],
           "catatan": "Sama seperti liraglutide, kontraindikasi pada riwayat karsinoma tiroid meduler dan MEN 2. Bentuk oral harus diminum saat benar-benar perut kosong.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Ozempic",
+            "Rybelsus",
+            "Wegovy (obesitas)"
+          ]
         }
       ]
     },
@@ -293,7 +321,11 @@
             "Alkohol: risiko hipoglikemia"
           ],
           "catatan": "Profil kerja relatif datar tanpa puncak yang jelas (peakless), sehingga risiko hipoglikemia nokturnal lebih rendah dibanding NPH.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Lantus",
+            "Basaglar"
+          ]
         },
         {
           "id": "insulin-aspart",
@@ -322,7 +354,10 @@
             "Kortikosteroid: meningkatkan kebutuhan insulin"
           ],
           "catatan": "Onset lebih cepat dan durasi lebih singkat dibanding insulin reguler manusia, memungkinkan pemberian lebih dekat ke waktu makan.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "NovoRapid"
+          ]
         }
       ]
     },
@@ -360,7 +395,12 @@
             "Rifampisin dan fenitoin: meningkatkan metabolisme levotiroksin"
           ],
           "catatan": "Konsistensi waktu dan cara minum penting karena variasi kecil dapat mengubah kadar TSH secara bermakna.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levothyroxine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levothyroxine/PNG?image_size=300x300",
+          "merek": [
+            "Euthyrox",
+            "Thyrax",
+            "Levothyroxine (generik)"
+          ]
         },
         {
           "id": "metimazol",
@@ -392,7 +432,11 @@
             "Beta blocker: sering dikombinasikan untuk mengontrol gejala adrenergik hipertiroid"
           ],
           "catatan": "Segera hentikan dan periksa darah bila demam atau sakit tenggorokan muncul karena kemungkinan agranulositosis. Lebih disukai dibanding propiltiourasil kecuali pada trimester pertama kehamilan atau krisis tiroid.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methimazole/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methimazole/PNG?image_size=300x300",
+          "merek": [
+            "Thyrozol",
+            "Methimazole (generik)"
+          ]
         }
       ]
     },
@@ -434,7 +478,11 @@
             "Ketokonazol: menghambat sintesis kortisol endogen, dapat memerlukan penyesuaian"
           ],
           "catatan": "Pasien perlu kartu/gelang identifikasi medis dan edukasi 'sick day rules' (menggandakan/tiga kali lipat dosis saat sakit) serta cara pemberian injeksi darurat untuk mencegah krisis adrenal.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydrocortisone/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydrocortisone/PNG?image_size=300x300",
+          "merek": [
+            "Hydrocortisone (generik)",
+            "Solu-Cortef"
+          ]
         },
         {
           "id": "fludrokortison",
@@ -467,7 +515,10 @@
             "Diuretik: dapat menyebabkan gangguan elektrolit tambahan"
           ],
           "catatan": "Hanya diperlukan pada insufisiensi adrenal primer (Addison), tidak pada insufisiensi sekunder karena aksis renin-angiotensin-aldosteron umumnya masih utuh.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fludrocortisone/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fludrocortisone/PNG?image_size=300x300",
+          "merek": [
+            "Florinef"
+          ]
         }
       ]
     },
@@ -510,7 +561,12 @@
             "Lamotrigin: kadar lamotrigin dapat menurun"
           ],
           "catatan": "Kontraindikasi pada perokok usia > 35 tahun, riwayat tromboemboli, migrain dengan aura, dan hipertensi tidak terkontrol karena peningkatan risiko kardiovaskular.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levonorgestrel/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levonorgestrel/PNG?image_size=300x300",
+          "merek": [
+            "Microgynon",
+            "Diane-35*",
+            "Yasmin"
+          ]
         },
         {
           "id": "pil-progestin",
@@ -540,7 +596,11 @@
             "Penginduksi enzim (rifampisin, karbamazepin): menurunkan efektivitas"
           ],
           "catatan": "Cocok untuk ibu menyusui karena tidak mengandung estrogen yang dapat menurunkan produksi ASI.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/desogestrel/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/desogestrel/PNG?image_size=300x300",
+          "merek": [
+            "Cerazette",
+            "Exluton"
+          ]
         },
         {
           "id": "depo-medroksiprogesteron",
@@ -569,7 +629,11 @@
             "Interaksi obat bermakna minimal"
           ],
           "catatan": "Penggunaan jangka panjang (> 2 tahun) memerlukan pertimbangan risiko-manfaat terkait densitas tulang, terutama pada remaja.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/medroxyprogesterone%20acetate/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/medroxyprogesterone%20acetate/PNG?image_size=300x300",
+          "merek": [
+            "Depo Provera",
+            "Depogeston"
+          ]
         }
       ]
     },
@@ -611,7 +675,10 @@
             "Tamoxifen: interaksi antagonis pada reseptor estrogen"
           ],
           "catatan": "Gunakan dosis efektif terendah untuk durasi tersingkat yang diperlukan karena risiko kardiovaskular dan kanker meningkat dengan durasi penggunaan.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Premarin"
+          ]
         },
         {
           "id": "testosteron",
@@ -647,7 +714,12 @@
             "Insulin dan antidiabetik: dapat meningkatkan sensitivitas insulin"
           ],
           "catatan": "Kontraindikasi pada kanker prostat atau payudara pria yang diketahui/dicurigai. Hindari kontak kulit dengan orang lain (terutama wanita hamil dan anak) pada sediaan gel karena risiko transfer hormon.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/testosterone/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/testosterone/PNG?image_size=300x300",
+          "merek": [
+            "Andriol",
+            "Sustanon",
+            "Testosterone (generik)"
+          ]
         }
       ]
     },
@@ -687,7 +759,11 @@
             "Anestesi umum: dapat memperkuat efek hipotensi"
           ],
           "catatan": "Harus diberikan dengan pemantauan ketat pola kontraksi dan denyut jantung janin karena risiko hiperstimulasi dan gawat janin.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Syntocinon",
+            "Oxytocin (generik)"
+          ]
         },
         {
           "id": "misoprostol",
@@ -722,7 +798,12 @@
             "Oksitosin: efek uterotonik aditif, hati-hati kombinasi"
           ],
           "catatan": "Kontraindikasi relatif pada riwayat seksio sesarea (risiko ruptur uterus) untuk induksi persalinan. Penggunaan harus sesuai indikasi dan pengawasan tenaga terlatih.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/misoprostol/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/misoprostol/PNG?image_size=300x300",
+          "merek": [
+            "Cytotec",
+            "Gastrul",
+            "Misoprostol (generik)"
+          ]
         }
       ]
     },
@@ -760,7 +841,12 @@
             "Interaksi obat bermakna minimal"
           ],
           "catatan": "Umumnya dibatasi maksimal 6 siklus karena manfaat menurun dan risiko kumulatif; evaluasi ulang bila tidak berhasil hamil.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clomiphene/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clomiphene/PNG?image_size=300x300",
+          "merek": [
+            "Clomid",
+            "Clomiphene (generik)",
+            "Profertil"
+          ]
         }
       ]
     }

@@ -36,7 +36,14 @@
             "Karbamazepin, fenitoin, rifampisin (penginduksi enzim): meningkatkan risiko hepatotoksisitas"
           ],
           "catatan": "Antidotum overdosis: N-asetilsistein.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/acetaminophen/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/acetaminophen/PNG?image_size=300x300",
+          "merek": [
+            "Panadol",
+            "Sanmol",
+            "Paramex",
+            "Bodrex",
+            "Tempra (anak)"
+          ]
         }
       ]
     },
@@ -86,7 +93,11 @@
             "Aspirin: risiko perdarahan GI meningkat"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/celecoxib/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/celecoxib/PNG?image_size=300x300",
+          "merek": [
+            "Celebrex",
+            "Celecoxib (generik)"
+          ]
         },
         {
           "id": "ibuprofen",
@@ -131,7 +142,13 @@
             "Kortikosteroid: risiko perdarahan GI meningkat"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ibuprofen/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ibuprofen/PNG?image_size=300x300",
+          "merek": [
+            "Proris",
+            "Bufect",
+            "Farsifen",
+            "Ibuprofen (generik)"
+          ]
         },
         {
           "id": "diklofenak-topikal",
@@ -166,7 +183,11 @@
             "Interaksi sistemik minimal karena absorpsi rendah"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diclofenac/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diclofenac/PNG?image_size=300x300",
+          "merek": [
+            "Voltaren Emulgel",
+            "Kalfoxim Gel"
+          ]
         },
         {
           "id": "indometasin",
@@ -209,7 +230,11 @@
             "ACE inhibitor/ARB/diuretik: efek menurun, risiko gangguan ginjal"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/indomethacin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/indomethacin/PNG?image_size=300x300",
+          "merek": [
+            "Dolo-Indocid",
+            "Indocid"
+          ]
         },
         {
           "id": "naproxen",
@@ -251,7 +276,11 @@
             "Litium dan metotreksat: kadar meningkat"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/naproxen/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/naproxen/PNG?image_size=300x300",
+          "merek": [
+            "Naprex",
+            "Xenifar"
+          ]
         }
       ]
     },
@@ -300,7 +329,12 @@
             "Tiazolidindion: edema dan penambahan berat badan"
           ],
           "catatan": "Sumber menulis efek samping 'kulit berwarna biru'; ini tidak lazim untuk pregabalin dan mohon diverifikasi. Pregabalin tidak memiliki indikasi resmi untuk OA; penggunaannya pada OA adalah off-label dengan bukti terbatas.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pregabalin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pregabalin/PNG?image_size=300x300",
+          "merek": [
+            "Lyrica",
+            "Nervalgin",
+            "Pregabalin (generik)"
+          ]
         }
       ]
     },
@@ -350,7 +384,12 @@
             "Ondansetron: menurunkan efek analgesik tramadol"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tramadol/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tramadol/PNG?image_size=300x300",
+          "merek": [
+            "Tramadol (generik)",
+            "Tramal",
+            "Zydol"
+          ]
         }
       ]
     },
@@ -400,7 +439,11 @@
             "NSAID dan antikoagulan: risiko perdarahan"
           ],
           "catatan": "Hindari pada konsumsi alkohol berat atau penyakit hati kronis.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/duloxetine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/duloxetine/PNG?image_size=300x300",
+          "merek": [
+            "Cymbalta",
+            "Duloxetine (generik)"
+          ]
         }
       ]
     },
@@ -450,7 +493,11 @@
             "Antidiabetik: kebutuhan dosis dapat meningkat sementara"
           ],
           "catatan": "Pilihan obat dan dosis spesifik bervariasi antar klinisi dan pedoman.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Kenacort-A (triamcinolone)",
+            "Depo-Medrol (methylprednisolone)"
+          ]
         },
         {
           "id": "prednison",
@@ -499,7 +546,11 @@
             "Vaksin hidup: hindari pada dosis imunosupresif"
           ],
           "catatan": "Suplementasi kalsium dan vitamin D dipertimbangkan pada pemakaian jangka panjang.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/prednisone/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/prednisone/PNG?image_size=300x300",
+          "merek": [
+            "Prednison (generik)",
+            "Inflason"
+          ]
         },
         {
           "id": "kortikotropin",
@@ -540,7 +591,8 @@
             "Vaksin hidup: hindari"
           ],
           "catatan": "Sumber menulis 'meningkatkan ACTH'; kortikotropin adalah ACTH itu sendiri (eksogen) yang merangsang adrenal. Ketersediaan di Indonesia terbatas.",
-          "gambar": null
+          "gambar": null,
+          "merek": null
         }
       ]
     },
@@ -576,7 +628,12 @@
             "Hindari antiseptik amonium kuaterner (mis. benzalkonium klorida) pada kulit karena dapat mengendapkan hyaluronate"
           ],
           "catatan": "Bukti manfaat inkonsisten; beberapa pedoman (mis. ACR 2019) merekomendasikan tidak menggunakannya secara rutin.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hyaluronic%20acid/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hyaluronic%20acid/PNG?image_size=300x300",
+          "merek": [
+            "Hyalgan",
+            "Ostenil",
+            "Synvisc"
+          ]
         },
         {
           "id": "kondroitin",
@@ -608,7 +665,11 @@
             "Warfarin: kemungkinan peningkatan INR"
           ],
           "catatan": "Bukti manfaat tidak konsisten dan rekomendasi pedoman bervariasi; cek pedoman terbaru.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/chondroitin%20sulfate/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/chondroitin%20sulfate/PNG?image_size=300x300",
+          "merek": [
+            "Condrofit",
+            "Osteo Bi-Flex*"
+          ]
         },
         {
           "id": "glukosamin",
@@ -640,7 +701,12 @@
             "Warfarin: kemungkinan peningkatan INR"
           ],
           "catatan": "Bukti manfaat tidak konsisten; ACR 2019 tidak merekomendasikan glukosamin untuk OA.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/glucosamine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/glucosamine/PNG?image_size=300x300",
+          "merek": [
+            "Glucosamine (generik)",
+            "Osteo Bi-Flex*",
+            "Chondroitin Glucosamine"
+          ]
         }
       ]
     },
@@ -692,7 +758,11 @@
             "Alkohol: meningkatkan risiko hepatotoksisitas"
           ],
           "catatan": "Sumber menulis dihidrofolat direduksi menjadi 'asam folinat'; produk reduksi yang tepat adalah asam tetrahidrofolat. Dosis MINGGUAN, kesalahan dosis harian dapat fatal.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methotrexate/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methotrexate/PNG?image_size=300x300",
+          "merek": [
+            "Methotrexate (generik)",
+            "Trexall"
+          ]
         },
         {
           "id": "leflunomide",
@@ -735,7 +805,11 @@
             "Vaksin hidup: hindari"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/leflunomide/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/leflunomide/PNG?image_size=300x300",
+          "merek": [
+            "Arava",
+            "Leflunomide (generik)"
+          ]
         },
         {
           "id": "sulfasalazine",
@@ -777,7 +851,11 @@
             "Metotreksat: risiko toksisitas hematologi"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sulfasalazine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sulfasalazine/PNG?image_size=300x300",
+          "merek": [
+            "Sulcolon",
+            "Salazopyrin"
+          ]
         }
       ]
     },
@@ -824,7 +902,10 @@
             "Imunosupresan lain: risiko infeksi aditif"
           ],
           "catatan": "Sumber menulis 'Tissue Necrosis Factor'; nama yang benar adalah Tumor Necrosis Factor. Kalimat sumber tentang 'soluble (etanercept), monoclonal --> sisanya' diartikan sebagai etanercept = reseptor terlarut, TNF inhibitor lain = antibodi monoklonal.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Enbrel"
+          ]
         },
         {
           "id": "infliximab",
@@ -867,7 +948,11 @@
             "MTX: mengurangi pembentukan antibodi anti-obat"
           ],
           "catatan": "Sumber menulis 'bDAMRD'; ditulis bDMARD di sini.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Remicade",
+            "Remsima (biosimilar)"
+          ]
         },
         {
           "id": "adalimumab",
@@ -908,7 +993,10 @@
             "MTX: mengurangi pembentukan antibodi anti-obat"
           ],
           "catatan": null,
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Humira"
+          ]
         },
         {
           "id": "golimumab",
@@ -945,7 +1033,10 @@
             "Anakinra dan abatacept: hindari kombinasi"
           ],
           "catatan": "Sumber menulis 'Gollimumab'; nama yang benar golimumab.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Simponi"
+          ]
         },
         {
           "id": "certolizumab",
@@ -982,7 +1073,10 @@
             "Anakinra dan abatacept: hindari kombinasi"
           ],
           "catatan": "Karena tanpa bagian Fc, transfer plasenta minimal sehingga sering dipertimbangkan pada kehamilan.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Cimzia"
+          ]
         },
         {
           "id": "abatacept",
@@ -1018,7 +1112,10 @@
             "Vaksin hidup: kontraindikasi"
           ],
           "catatan": "Formulasi IV mengandung maltosa yang dapat menyebabkan pembacaan gula darah palsu tinggi pada glukometer tertentu.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Orencia"
+          ]
         },
         {
           "id": "rituximab",
@@ -1058,7 +1155,11 @@
             "Imunosupresan lain: risiko infeksi aditif"
           ],
           "catatan": null,
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Rituxan",
+            "MabThera"
+          ]
         },
         {
           "id": "tocilizumab",
@@ -1099,7 +1200,10 @@
             "Imunosupresan lain: risiko infeksi aditif"
           ],
           "catatan": null,
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Actemra"
+          ]
         },
         {
           "id": "anakinra",
@@ -1135,7 +1239,10 @@
             "Vaksin hidup: kontraindikasi"
           ],
           "catatan": "Sumber menulis 'Anti IL-1'; lebih tepat sebagai antagonis reseptor IL-1.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Kineret"
+          ]
         }
       ]
     },
@@ -1184,7 +1291,10 @@
             "Vaksin hidup: hindari"
           ],
           "catatan": "Sumber menulis 'Tofacinitib'; nama yang benar tofacitinib.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tofacitinib/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tofacitinib/PNG?image_size=300x300",
+          "merek": [
+            "Xeljanz"
+          ]
         },
         {
           "id": "baricitinib",
@@ -1225,7 +1335,10 @@
             "Vaksin hidup: hindari"
           ],
           "catatan": "Sumber menulis 'Baricinitib'; nama yang benar baricitinib.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/baricitinib/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/baricitinib/PNG?image_size=300x300",
+          "merek": [
+            "Olumiant"
+          ]
         }
       ]
     },
@@ -1272,7 +1385,11 @@
             "Diltiazem, verapamil: kadar kolkisin meningkat"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/colchicine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/colchicine/PNG?image_size=300x300",
+          "merek": [
+            "Colchicine (generik)",
+            "Colchicine Dexa"
+          ]
         }
       ]
     },
@@ -1316,7 +1433,10 @@
             "Substrat CYP450 sempit: dapat terpengaruh oleh normalisasi sitokin"
           ],
           "catatan": "Sumber menulis 'canakinmab'. Ketersediaan di Indonesia terbatas.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Ilaris"
+          ]
         },
         {
           "id": "rilonacept",
@@ -1347,7 +1467,10 @@
             "Vaksin hidup: kontraindikasi"
           ],
           "catatan": "Sumber menulis 'Rinolacept'. Tidak disetujui untuk gout; ketersediaan terbatas dan mungkin tidak tersedia di Indonesia. Mohon verifikasi konteks penggunaan yang dimaksud.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Arcalyst"
+          ]
         }
       ]
     },
@@ -1396,7 +1519,12 @@
             "Warfarin: efek antikoagulan meningkat"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/allopurinol/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/allopurinol/PNG?image_size=300x300",
+          "merek": [
+            "Allopurinol (generik)",
+            "Zyloric",
+            "Ziloric"
+          ]
         },
         {
           "id": "febuxostat",
@@ -1429,7 +1557,11 @@
             "Azatioprin, merkaptopurin, teofilin: kontraindikasi/hindari (kadar meningkat)"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/febuxostat/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/febuxostat/PNG?image_size=300x300",
+          "merek": [
+            "Feburic",
+            "Adenuric"
+          ]
         }
       ]
     },
@@ -1472,7 +1604,10 @@
             "Metotreksat: kombinasi dapat meningkatkan respons dan mengurangi antibodi anti-obat"
           ],
           "catatan": "Ketersediaan di Indonesia terbatas.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Krystexxa"
+          ]
         },
         {
           "id": "rasburicase",
@@ -1506,7 +1641,10 @@
             "Obat penyebab hemolisis atau methemoglobinemia lain: risiko aditif"
           ],
           "catatan": "Bukan untuk gout kronis.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Fasturtec"
+          ]
         }
       ]
     },
@@ -1552,7 +1690,10 @@
             "Baricitinib: kurangi dosis"
           ],
           "catatan": "Kontraindikasi pada riwayat batu asam urat dan diskrasia darah.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/probenecid/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/probenecid/PNG?image_size=300x300",
+          "merek": [
+            "Benemid"
+          ]
         }
       ]
     }
