@@ -1,0 +1,909 @@
+{
+  "kelas_obat": [
+    {
+      "id": "5ht3-antagonis",
+      "kelas": "5HT-3 Antagonist",
+      "mekanisme": "Antagonis reseptor 5-HT3 selektif yang bekerja menghambat ikatan serotonin pada reseptor 5-HT3 di saraf aferen vagal perifer dan chemoreceptor trigger zone (CTZ) di sistem saraf pusat",
+      "obat": [
+        {
+          "id": "ondansetron",
+          "nama": "Ondansetron",
+          "indikasi": [
+            "Mual dan muntah akibat kemoterapi, radioterapi, dan pasca-operasi"
+          ],
+          "sediaan": [
+            "Tablet oral 4-8 mg",
+            "Rektal (supositoria) 16 mg",
+            "IV 4-8 mg"
+          ],
+          "efek_samping": [
+            "Konstipasi",
+            "Serotonin syndrome",
+            "Mulut kering",
+            "Sakit kepala"
+          ],
+          "tatalaksana": [
+            "Dewasa, muntah sedang: 8 mg, 1-2 jam sebelum terapi",
+            "Dewasa, muntah berat: 24 mg, 1-2 jam sebelum terapi",
+            "Anak (6 bulan - 18 tahun), mual muntah kemoterapi oral: 150 mcg/kgBB segera menjelang terapi (maks 8 mg), diulang setiap 4 jam untuk 2 dosis berikutnya"
+          ],
+          "monitoring": [
+            "Interval QT pada EKG",
+            "ALT/AST"
+          ],
+          "interaksi": [
+            "Tramadol: ondansetron menurunkan efek analgesik tramadol",
+            "Rifampisin: meningkatkan metabolisme ondansetron",
+            "SSRI/SNRI (antidepresan): risiko serotonin syndrome",
+            "Apomorfin: dikontraindikasikan (hipotensi berat)",
+            "Obat pemanjang QT lain (mis. amiodaron): risiko QT memanjang aditif"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ondansetron/PNG?image_size=300x300"
+        },
+        {
+          "id": "granisetron",
+          "nama": "Granisetron",
+          "indikasi": [
+            "Mual dan muntah akibat kemoterapi dan radioterapi"
+          ],
+          "sediaan": [
+            "Larutan injeksi 0,1 mg/mL dan 1 mg/mL",
+            "Injeksi SC extended-release 10 mg/0,4 mL, prefilled syringe single-dose (Sustol)",
+            "Patch transdermal 3,1 mg/24 jam",
+            "Tablet 1 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Konstipasi"
+          ],
+          "tatalaksana": [
+            "IV: 0,01 mg/kg/dosis, infus selama 5 menit atau injeksi langsung selama 30 detik, 30 menit sebelum kemoterapi",
+            "SC: 10 mg, kombinasi dengan antiemetik lain (mis. deksametason 8 mg)",
+            "Transdermal: tempel di lengan atas bagian luar minimal 24 jam, maksimal 48 jam sebelum kemoterapi; dapat dipakai sampai 7 hari",
+            "Oral: 1 mg 1 jam sebelum kemoterapi, lalu 1 mg 12 jam setelah dosis pertama; ATAU 2 mg 1 jam sebelum kemoterapi",
+            "Radioterapi: 2 mg PO, 1 jam sebelum radiasi"
+          ],
+          "monitoring": [
+            "Interval QT"
+          ],
+          "interaksi": [
+            "Obat golongan triptan untuk migrain (agonis reseptor serotonin): risiko serotonin syndrome",
+            "Amiodaron: keduanya memperpanjang QTc, hindari atau gunakan alternatif"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/granisetron/PNG?image_size=300x300"
+        },
+        {
+          "id": "palonosetron",
+          "nama": "Palonosetron",
+          "indikasi": [
+            "Mual dan muntah akibat kemoterapi",
+            "Mual dan muntah pasca-operasi"
+          ],
+          "sediaan": [
+            "IV 0,25 mg/5 mL",
+            "Oral 0,5 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "QT memanjang",
+            "Konstipasi"
+          ],
+          "tatalaksana": [
+            "IV kemoterapi: 0,25 mg single dose via bolus selama 30 detik, sekitar 30 menit sebelum kemoterapi",
+            "IV kemoterapi anak: 0,02 mg/kg, 15-30 menit sebelum kemoterapi",
+            "IV pasca-operasi: 0,075 mg single dose",
+            "Oral: 0,5 mg"
+          ],
+          "monitoring": [
+            "Interval QT pada EKG"
+          ],
+          "interaksi": [
+            "Apomorfin"
+          ],
+          "catatan": "Sumber menulis dosis IV pasca-operasi 0,75 mg; dosis standar adalah 0,075 mg, sudah dikoreksi di sini.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/palonosetron/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "h2-antagonis",
+      "kelas": "H2 antagonist",
+      "mekanisme": "Antagonis reseptor H2 selektif dan reversibel yang bekerja menghambat ikatan histamin pada reseptor H2 di sel parietal lambung, sehingga menurunkan produksi asam lambung",
+      "obat": [
+        {
+          "id": "cimetidine",
+          "nama": "Cimetidine",
+          "generasi": 1,
+          "indikasi": [
+            "Ulkus duodenum dan lambung",
+            "GERD",
+            "Kondisi hipersekresi asam"
+          ],
+          "sediaan": [
+            "Tablet 200 mg, 400 mg, 800 mg",
+            "Injeksi 150 mg/mL"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Pusing",
+            "Diare",
+            "Ginekomastia",
+            "Bingung (terutama lansia)"
+          ],
+          "tatalaksana": [
+            "Oral: 300 mg 4x/hari, atau 400 mg 2x/hari, atau 800 mg sebelum tidur"
+          ],
+          "monitoring": [
+            "Fungsi ginjal (penyesuaian dosis)",
+            "INR bila bersama warfarin"
+          ],
+          "interaksi": [
+            "Inhibitor CYP450 kuat: meningkatkan kadar warfarin, fenitoin, teofilin, lidokain, karbamazepin, dll.",
+            "Menurunkan absorpsi ketokonazol dan itrakonazol"
+          ],
+          "catatan": "Sumber terpotong pada 'bioavailibilats lebih...'. Bioavailabilitas oral cimetidine sekitar 60-70%; mohon cek kelanjutan kalimat aslinya.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cimetidine/PNG?image_size=300x300"
+        },
+        {
+          "id": "ranitidine",
+          "nama": "Ranitidine",
+          "generasi": 2,
+          "indikasi": [
+            "Ulkus duodenum dan lambung",
+            "GERD"
+          ],
+          "sediaan": [
+            "Tablet 150 mg, 300 mg",
+            "Injeksi 25 mg/mL"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Pusing",
+            "Konstipasi atau diare"
+          ],
+          "tatalaksana": [
+            "Oral: 150 mg 2x/hari atau 300 mg sebelum tidur"
+          ],
+          "monitoring": [
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Menurunkan absorpsi ketokonazol, itrakonazol, dan atazanavir"
+          ],
+          "catatan": "Ditarik dari peredaran di banyak negara sejak 2020 karena kontaminasi NDMA.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ranitidine/PNG?image_size=300x300"
+        },
+        {
+          "id": "famotidine",
+          "nama": "Famotidine",
+          "generasi": 2,
+          "indikasi": [
+            "Ulkus duodenum dan lambung",
+            "GERD",
+            "Proteksi lambung selama kemoterapi"
+          ],
+          "sediaan": [
+            "Tablet 20 mg, 40 mg",
+            "Injeksi 10 mg/mL"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Pusing",
+            "Konstipasi atau diare",
+            "QT memanjang (pada gangguan ginjal)"
+          ],
+          "tatalaksana": [
+            "Oral: 20 mg 2x/hari atau 40 mg sebelum tidur",
+            "IV: 20 mg setiap 12 jam"
+          ],
+          "monitoring": [
+            "Fungsi ginjal (kurangi dosis bila CrCl rendah)"
+          ],
+          "interaksi": [
+            "Menurunkan absorpsi ketokonazol, itrakonazol, dan atazanavir"
+          ],
+          "catatan": "Sumber menulis 'chomotherapy' pada kolom sediaan; maksudnya tidak jelas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/famotidine/PNG?image_size=300x300"
+        },
+        {
+          "id": "nizatidine",
+          "nama": "Nizatidine",
+          "generasi": 2,
+          "indikasi": [
+            "Ulkus duodenum dan lambung",
+            "GERD"
+          ],
+          "sediaan": [
+            "Kapsul 150 mg, 300 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Pusing",
+            "Ruam",
+            "Berkeringat"
+          ],
+          "tatalaksana": [
+            "Oral: 150 mg 2x/hari atau 300 mg sebelum tidur"
+          ],
+          "monitoring": [
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Meningkatkan kadar salisilat dosis tinggi",
+            "Menurunkan absorpsi ketokonazol dan itrakonazol"
+          ],
+          "catatan": "Ketersediaan terbatas di banyak negara.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nizatidine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "h1-antagonis",
+      "kelas": "H1 Antagonis",
+      "mekanisme": "Meredakan mual dan muntah dengan cara menghambat sinyal pemicunya di otak melalui penghambatan reseptor H1 histamin",
+      "obat": [
+        {
+          "id": "pyrathiazine",
+          "nama": "Pyrathiazine",
+          "mekanisme": null,
+          "indikasi": [
+            "Mual pada ibu hamil"
+          ],
+          "sediaan": null,
+          "efek_samping": [
+            "Sedasi",
+            "Mulut kering",
+            "Efek antikolinergik"
+          ],
+          "tatalaksana": null,
+          "monitoring": null,
+          "interaksi": [
+            "Depresan SSP lain dan alkohol: sedasi aditif"
+          ],
+          "catatan": "Obat ini jarang dipakai sekarang dan saya tidak punya data dosis yang bisa diverifikasi. Mungkin yang dimaksud pyridoxine (B6), yang dipakai bersama doxylamine untuk mual kehamilan. Mohon dicek.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pyrathiazine/PNG?image_size=300x300"
+        },
+        {
+          "id": "doxylamine",
+          "nama": "Doxylamine",
+          "mekanisme": "Antagonis reseptor H1 selektif yang bekerja menghambat ikatan histamin pada reseptor H1",
+          "indikasi": [
+            "Mual dan muntah pada kehamilan (dikombinasi dengan piridoksin/B6)"
+          ],
+          "sediaan": [
+            "Tablet kombinasi doxylamine 10 mg + piridoksin 10 mg (Diclegis, delayed-release)",
+            "Tablet 25 mg (insomnia)"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Mulut kering",
+            "Pusing",
+            "Konstipasi",
+            "Retensi urin"
+          ],
+          "tatalaksana": [
+            "Awal: 2 tablet (10/10 mg) sebelum tidur; dapat ditingkatkan sampai 4 tablet/hari (1 pagi, 1 siang, 2 malam)"
+          ],
+          "monitoring": [
+            "Tingkat sedasi",
+            "Respons gejala"
+          ],
+          "interaksi": [
+            "Alkohol dan depresan SSP lain: sedasi aditif",
+            "MAOI: memperkuat efek antikolinergik (kontraindikasi)"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/doxylamine/PNG?image_size=300x300"
+        },
+        {
+          "id": "prometazine",
+          "nama": "Prometazine",
+          "mekanisme": "Antagonis reseptor H1 yang bekerja menghambat reseptor histamin H1, muskarinik, dan dopamin",
+          "indikasi": [
+            "Mual dan muntah",
+            "Motion sickness",
+            "Alergi",
+            "Sedasi"
+          ],
+          "sediaan": [
+            "Tablet 12,5 mg, 25 mg",
+            "Injeksi 25 mg/mL",
+            "Supositoria 12,5 mg, 25 mg",
+            "Sirup 5 mg/5 mL"
+          ],
+          "efek_samping": [
+            "Sedasi",
+            "Efek antikolinergik",
+            "Hipotensi",
+            "Gejala ekstrapiramidal",
+            "Kerusakan jaringan berat pada injeksi IV/ekstravasasi"
+          ],
+          "tatalaksana": [
+            "Dewasa: 12,5-25 mg PO/IM/IV/rektal setiap 4-6 jam bila perlu",
+            "Kontraindikasi pada anak < 2 tahun (depresi napas)"
+          ],
+          "monitoring": [
+            "Sedasi dan pernapasan",
+            "Lokasi injeksi IV",
+            "Tekanan darah"
+          ],
+          "interaksi": [
+            "Depresan SSP dan opioid: sedasi dan depresi napas aditif",
+            "Antikolinergik lain: efek aditif",
+            "Obat pemanjang QT"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/promethazine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "d2-antagonis",
+      "kelas": "D2 Antagonist",
+      "mekanisme": "Menghambat reseptor dopamin D2 di CTZ dan saluran cerna; metoclopramide juga bersifat prokinetik (agonis 5-HT4 dan antagonis 5-HT3 pada dosis tinggi)",
+      "obat": [
+        {
+          "id": "metoclopramide",
+          "nama": "Metoclopramide",
+          "indikasi": [
+            "Mual dan muntah (kemoterapi, pasca-operasi)",
+            "Gastroparesis diabetik",
+            "GERD"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg",
+            "Sirup 5 mg/5 mL",
+            "Injeksi 5 mg/mL"
+          ],
+          "efek_samping": [
+            "Gejala ekstrapiramidal",
+            "Tardive dyskinesia",
+            "Mengantuk",
+            "Hiperprolaktinemia",
+            "Diare"
+          ],
+          "tatalaksana": [
+            "Dewasa: 10 mg PO/IV/IM setiap 6-8 jam, 30 menit sebelum makan",
+            "Maks 30 mg/hari (0,5 mg/kgBB/hari)",
+            "Maks pemakaian 12 minggu",
+            "Kontraindikasi pada obstruksi saluran cerna, feokromositoma, epilepsi"
+          ],
+          "monitoring": [
+            "Gejala ekstrapiramidal dan AIMS",
+            "Fungsi ginjal (kurangi dosis)"
+          ],
+          "interaksi": [
+            "Antipsikotik: risiko EPS aditif",
+            "Levodopa: efek saling berlawanan",
+            "SSRI: risiko EPS dan serotonin syndrome",
+            "Menurunkan absorpsi digoksin"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metoclopramide/PNG?image_size=300x300"
+        },
+        {
+          "id": "domperidone",
+          "nama": "Domperidone",
+          "indikasi": [
+            "Mual dan muntah",
+            "Dispepsia fungsional",
+            "Gastroparesis"
+          ],
+          "sediaan": [
+            "Tablet 10 mg",
+            "Suspensi 1 mg/mL"
+          ],
+          "efek_samping": [
+            "Mulut kering",
+            "Sakit kepala",
+            "Hiperprolaktinemia",
+            "QT memanjang dan aritmia ventrikel"
+          ],
+          "tatalaksana": [
+            "Dewasa: 10 mg 3x/hari, 15-30 menit sebelum makan",
+            "Maks 30 mg/hari",
+            "Gunakan dosis efektif terendah, durasi sesingkat mungkin (idealnya ≤ 1 minggu)"
+          ],
+          "monitoring": [
+            "Interval QT",
+            "Elektrolit (K, Mg)"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 (ketokonazol, eritromisin, klaritromisin): kontraindikasi, risiko QT",
+            "Obat pemanjang QT lain"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/domperidone/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "nk1-antagonis",
+      "kelas": "NK1 antagonist",
+      "mekanisme": "Menghambat ikatan substance P pada reseptor neurokinin-1 (NK1) di otak; efektif untuk mual muntah kemoterapi fase akut dan tertunda",
+      "obat": [
+        {
+          "id": "aprepitant",
+          "nama": "Aprepitant",
+          "indikasi": [
+            "Pencegahan mual muntah kemoterapi (akut dan tertunda)",
+            "Mual muntah pasca-operasi"
+          ],
+          "sediaan": [
+            "Kapsul 40 mg, 80 mg, 125 mg"
+          ],
+          "efek_samping": [
+            "Kelelahan",
+            "Konstipasi",
+            "Cegukan",
+            "Diare",
+            "Sakit kepala",
+            "Peningkatan ALT"
+          ],
+          "tatalaksana": [
+            "125 mg PO hari 1 (1 jam sebelum kemoterapi), lalu 80 mg hari 2-3; dikombinasi antagonis 5-HT3 dan deksametason"
+          ],
+          "monitoring": [
+            "INR bila bersama warfarin",
+            "Fungsi hati"
+          ],
+          "interaksi": [
+            "Substrat dan inhibitor moderat/penginduksi CYP3A4",
+            "Warfarin: INR menurun",
+            "Kontrasepsi hormonal: efektivitas menurun",
+            "Deksametason: dosis perlu dikurangi",
+            "Pimozid: kontraindikasi"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aprepitant/PNG?image_size=300x300"
+        },
+        {
+          "id": "fosaprepitant",
+          "nama": "Fosaprepitant",
+          "indikasi": [
+            "Pencegahan mual muntah kemoterapi"
+          ],
+          "sediaan": [
+            "Serbuk injeksi 150 mg (vial)"
+          ],
+          "efek_samping": [
+            "Reaksi di lokasi infus",
+            "Reaksi hipersensitivitas",
+            "Kelelahan",
+            "Konstipasi",
+            "Sakit kepala"
+          ],
+          "tatalaksana": [
+            "150 mg IV single dose pada hari 1, infus 20-30 menit, sekitar 30 menit sebelum kemoterapi"
+          ],
+          "monitoring": [
+            "Reaksi infus dan hipersensitivitas",
+            "INR bila bersama warfarin"
+          ],
+          "interaksi": [
+            "Prodrug aprepitant, interaksi sama dengan aprepitant"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fosaprepitant/PNG?image_size=300x300"
+        },
+        {
+          "id": "rolapitant",
+          "nama": "Rolapitant",
+          "indikasi": [
+            "Pencegahan mual muntah tertunda akibat kemoterapi"
+          ],
+          "sediaan": [
+            "Tablet 90 mg"
+          ],
+          "efek_samping": [
+            "Neutropenia",
+            "Cegukan",
+            "Dispepsia",
+            "Kelelahan"
+          ],
+          "tatalaksana": [
+            "180 mg PO, dalam 2 jam sebelum kemoterapi (waktu paruh sekitar 180 jam)"
+          ],
+          "monitoring": [
+            "Hitung neutrofil"
+          ],
+          "interaksi": [
+            "Inhibitor CYP2D6: hindari tioridazin dan pimozid",
+            "Inhibitor BCRP/P-gp: metotreksat, topotekan"
+          ],
+          "catatan": "Bentuk IV ditarik karena anafilaksis. Ketersediaan terbatas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rolapitant/PNG?image_size=300x300"
+        },
+        {
+          "id": "netupitant",
+          "nama": "Netupitant",
+          "indikasi": [
+            "Pencegahan mual muntah kemoterapi (kombinasi dengan palonosetron)"
+          ],
+          "sediaan": [
+            "Kapsul kombinasi netupitant 300 mg + palonosetron 0,5 mg (Akynzeo)",
+            "IV: fosnetupitant 235 mg + palonosetron 0,25 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Astenia",
+            "Dispepsia",
+            "Konstipasi",
+            "Kelelahan"
+          ],
+          "tatalaksana": [
+            "1 kapsul kombinasi PO, 1 jam sebelum kemoterapi (dosis tunggal)"
+          ],
+          "monitoring": [
+            "Fungsi hati",
+            "Interval QT"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4: kadar substrat meningkat",
+            "Deksametason: dosis dikurangi",
+            "Penginduksi CYP3A4 (rifampisin): kadar netupitant menurun"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/netupitant/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "m1-antagonis",
+      "kelas": "M1 Antagonist",
+      "mekanisme": "Antagonis reseptor muskarinik M1 selektif yang menurunkan sekresi asam lambung dan motilitas",
+      "obat": [
+        {
+          "id": "pirenzepine",
+          "nama": "Pirenzepine",
+          "indikasi": [
+            "Ulkus peptikum (lambung dan duodenum)"
+          ],
+          "sediaan": [
+            "Tablet 25 mg, 50 mg",
+            "Injeksi 10 mg"
+          ],
+          "efek_samping": [
+            "Mulut kering",
+            "Pandangan kabur",
+            "Konstipasi",
+            "Takikardia",
+            "Retensi urin"
+          ],
+          "tatalaksana": [
+            "50 mg PO 2x/hari (sebelum makan)"
+          ],
+          "monitoring": [
+            "Tekanan intraokular",
+            "Gejala retensi urin"
+          ],
+          "interaksi": [
+            "Antikolinergik lain: efek aditif",
+            "Antasida: kurangi absorpsi"
+          ],
+          "catatan": "Tidak tersedia di semua negara; kontraindikasi pada glaukoma sudut sempit dan BPH.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pirenzepine/PNG?image_size=300x300"
+        },
+        {
+          "id": "telenzepine",
+          "nama": "Telenzepine",
+          "indikasi": [
+            "Ulkus peptikum"
+          ],
+          "sediaan": [
+            "Tablet 3 mg"
+          ],
+          "efek_samping": [
+            "Mulut kering",
+            "Pandangan kabur",
+            "Konstipasi"
+          ],
+          "tatalaksana": [
+            "3 mg PO 2x/hari"
+          ],
+          "monitoring": [
+            "Efek antikolinergik"
+          ],
+          "interaksi": [
+            "Antikolinergik lain: efek aditif"
+          ],
+          "catatan": "Lebih poten daripada pirenzepine; sebagian besar masih pada tahap penelitian, penggunaan klinis terbatas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/telenzepine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "cannabidiol",
+      "kelas": "Canabidiol",
+      "mekanisme": "Mekanisme antikejang belum sepenuhnya jelas; tidak bekerja lewat reseptor CB1/CB2 secara langsung",
+      "obat": [
+        {
+          "id": "epidiolex",
+          "nama": "Epidiolex (cannabidiol)",
+          "indikasi": [
+            "Kejang pada sindrom Lennox-Gastaut, Dravet, dan tuberous sclerosis complex"
+          ],
+          "sediaan": [
+            "Larutan oral 100 mg/mL"
+          ],
+          "efek_samping": [
+            "Somnolen",
+            "Nafsu makan menurun",
+            "Diare",
+            "Peningkatan transaminase",
+            "Kelelahan",
+            "Infeksi"
+          ],
+          "tatalaksana": [
+            "Awal 2,5 mg/kg 2x/hari; pemeliharaan 5 mg/kg 2x/hari; maks 10 mg/kg 2x/hari"
+          ],
+          "monitoring": [
+            "ALT/AST dan bilirubin (awal dan berkala)",
+            "Ide bunuh diri",
+            "Sedasi"
+          ],
+          "interaksi": [
+            "Valproat: risiko hepatotoksisitas",
+            "Klobazam: kadar metabolit aktif meningkat, sedasi",
+            "Penginduksi/inhibitor CYP3A4 dan CYP2C19"
+          ],
+          "catatan": "Epidiolex tidak disetujui sebagai antiemetik. Untuk mual muntah kemoterapi, cannabinoid yang dipakai adalah dronabinol atau nabilone.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cannabidiol/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "benzodiazepine",
+      "kelas": "Benzodiazepine",
+      "mekanisme": "Modulator alosterik positif reseptor GABA-A yang meningkatkan efek inhibisi GABA; berguna untuk mual muntah antisipatorik",
+      "obat": [
+        {
+          "id": "alprazolam",
+          "nama": "Alprazolam",
+          "indikasi": [
+            "Mual muntah antisipatorik kemoterapi (adjuvan)",
+            "Ansietas"
+          ],
+          "sediaan": [
+            "Tablet 0,25 mg, 0,5 mg, 1 mg, 2 mg"
+          ],
+          "efek_samping": [
+            "Sedasi",
+            "Pusing",
+            "Ataksia",
+            "Ketergantungan",
+            "Amnesia"
+          ],
+          "tatalaksana": [
+            "0,5-2 mg PO, malam sebelum dan pagi hari kemoterapi"
+          ],
+          "monitoring": [
+            "Sedasi dan pernapasan",
+            "Tanda ketergantungan"
+          ],
+          "interaksi": [
+            "Opioid: depresi napas (boxed warning)",
+            "Alkohol dan depresan SSP",
+            "Inhibitor CYP3A4 (ketokonazol, itrakonazol): kontraindikasi"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/alprazolam/PNG?image_size=300x300"
+        },
+        {
+          "id": "lorazepam",
+          "nama": "Lorazepam",
+          "indikasi": [
+            "Mual muntah antisipatorik dan refrakter kemoterapi (adjuvan)",
+            "Ansietas",
+            "Status epileptikus"
+          ],
+          "sediaan": [
+            "Tablet 0,5 mg, 1 mg, 2 mg",
+            "Injeksi 2 mg/mL dan 4 mg/mL"
+          ],
+          "efek_samping": [
+            "Sedasi",
+            "Pusing",
+            "Ataksia",
+            "Ketergantungan",
+            "Depresi napas"
+          ],
+          "tatalaksana": [
+            "0,5-2 mg PO/SL/IV setiap 6 jam bila perlu, mulai malam sebelum kemoterapi"
+          ],
+          "monitoring": [
+            "Sedasi dan pernapasan",
+            "Tanda ketergantungan"
+          ],
+          "interaksi": [
+            "Opioid: depresi napas (boxed warning)",
+            "Alkohol dan depresan SSP",
+            "Valproat dan probenesid: meningkatkan kadar lorazepam"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lorazepam/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antasida",
+      "kelas": "Antasida",
+      "mekanisme": "Netralisasi asam lambung",
+      "obat": [
+        {
+          "id": "aluminium-hidroksida",
+          "nama": "Aluminium Hidroksida",
+          "indikasi": [
+            "Dispepsia",
+            "Heartburn",
+            "GERD ringan",
+            "Ulkus peptikum (adjuvan)"
+          ],
+          "sediaan": [
+            "Tablet kunyah 300-600 mg",
+            "Suspensi (sering dikombinasi Mg hidroksida ± simetikon)"
+          ],
+          "efek_samping": [
+            "Konstipasi",
+            "Hipofosfatemia",
+            "Akumulasi aluminium pada gagal ginjal"
+          ],
+          "tatalaksana": [
+            "500-1500 mg 3-6x/hari, 1 jam setelah makan dan sebelum tidur"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Fosfat serum"
+          ],
+          "interaksi": [
+            "Mengikat (khelasi) tetrasiklin, fluorokuinolon, levotiroksin, zat besi, bisfosfonat: beri jeda 2 jam",
+            "Menurunkan absorpsi ketokonazol dan itrakonazol"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aluminum%20hydroxide/PNG?image_size=300x300"
+        },
+        {
+          "id": "magnesium-hidroksida",
+          "nama": "Magnesium Hidroksida",
+          "indikasi": [
+            "Dispepsia",
+            "Heartburn",
+            "Konstipasi (laksatif osmotik)"
+          ],
+          "sediaan": [
+            "Suspensi 400 mg/5 mL (milk of magnesia)",
+            "Tablet kunyah"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Hipermagnesemia (terutama gagal ginjal)"
+          ],
+          "tatalaksana": [
+            "5-15 mL suspensi, hingga 4x/hari sesuai kebutuhan"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Magnesium serum"
+          ],
+          "interaksi": [
+            "Sama dengan aluminium hidroksida (khelasi dengan tetrasiklin, fluorokuinolon, levotiroksin, dll.)"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/magnesium%20hydroxide/PNG?image_size=300x300"
+        },
+        {
+          "id": "kalsium-karbonat",
+          "nama": "Kalsium Karbonat",
+          "indikasi": [
+            "Heartburn",
+            "Dispepsia",
+            "Suplemen kalsium"
+          ],
+          "sediaan": [
+            "Tablet kunyah 500 mg"
+          ],
+          "efek_samping": [
+            "Konstipasi",
+            "Hiperkalsemia",
+            "Milk-alkali syndrome (dosis tinggi)",
+            "Acid rebound"
+          ],
+          "tatalaksana": [
+            "500-1500 mg bila perlu; maksimal sesuai label produk"
+          ],
+          "monitoring": [
+            "Kalsium serum",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Menurunkan absorpsi tetrasiklin, fluorokuinolon, levotiroksin, dan zat besi",
+            "Tiazid: risiko hiperkalsemia"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/calcium%20carbonate/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "ppi",
+      "kelas": "PPI",
+      "mekanisme": "Menghambat pompa proton H+/K+ ATPase di sel parietal lambung secara ireversibel sehingga menurunkan sekresi asam",
+      "obat": [
+        {
+          "id": "omeprazole",
+          "nama": "Omeprazole",
+          "indikasi": [
+            "GERD",
+            "Ulkus peptikum",
+            "Eradikasi H. pylori (kombinasi)",
+            "Sindrom Zollinger-Ellison"
+          ],
+          "sediaan": [
+            "Kapsul 10 mg, 20 mg, 40 mg",
+            "Injeksi IV 40 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Diare",
+            "Mual",
+            "Nyeri perut",
+            "Hipomagnesemia dan defisiensi B12 (jangka panjang)",
+            "Risiko fraktur dan infeksi C. difficile"
+          ],
+          "tatalaksana": [
+            "20-40 mg PO 1x/hari, 30 menit sebelum makan pagi",
+            "IV: 40 mg 1x/hari"
+          ],
+          "monitoring": [
+            "Magnesium dan vitamin B12 (jangka panjang)",
+            "Densitas tulang"
+          ],
+          "interaksi": [
+            "Klopidogrel: omeprazole menurunkan aktivasi klopidogrel (hindari)",
+            "Metotreksat: kadar meningkat",
+            "Warfarin dan digoksin",
+            "Atazanavir dan rilpivirin: kontraindikasi"
+          ],
+          "catatan": "Sumber menulis 'gaboleh bumil'. Omeprazole tidak dikontraindikasikan mutlak pada kehamilan; data manusia umumnya menenangkan, tapi pakai hanya bila ada indikasi dan sesuai penilaian dokter.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/omeprazole/PNG?image_size=300x300"
+        },
+        {
+          "id": "lansoprazole",
+          "nama": "Lansoprazole",
+          "indikasi": [
+            "GERD",
+            "Ulkus peptikum",
+            "Eradikasi H. pylori (kombinasi)"
+          ],
+          "sediaan": [
+            "Kapsul 15 mg, 30 mg",
+            "Tablet disintegrasi oral (ODT) 15 mg, 30 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Diare",
+            "Mual",
+            "Nyeri perut",
+            "Hipomagnesemia dan defisiensi B12 (jangka panjang)"
+          ],
+          "tatalaksana": [
+            "15-30 mg PO 1x/hari, 30 menit sebelum makan pagi"
+          ],
+          "monitoring": [
+            "Magnesium dan vitamin B12 (jangka panjang)"
+          ],
+          "interaksi": [
+            "Atazanavir dan rilpivirin: kontraindikasi",
+            "Metotreksat",
+            "Warfarin dan digoksin",
+            "Menurunkan absorpsi ketokonazol"
+          ],
+          "catatan": "Nama di sumber 'lanzoprazole' sudah dikoreksi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lansoprazole/PNG?image_size=300x300"
+        }
+      ]
+    }
+  ]
+}

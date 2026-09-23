@@ -1,0 +1,708 @@
+{
+  "kelas_obat": [
+    {
+      "id": "antikonvulsan",
+      "kelas": "Antikonvulsan (Antiepilepsi)",
+      "mekanisme": "Berbagai mekanisme (blokade kanal natrium/kalsium voltage-gated, penguatan GABA, atau penghambatan glutamat) yang menstabilkan membran neuron dan menekan aktivitas listrik berlebih pada otak",
+      "obat": [
+        {
+          "id": "fenitoin",
+          "nama": "Fenitoin",
+          "mekanisme": "Menghambat kanal natrium voltage-gated secara use-dependent sehingga menstabilkan membran neuron dan mencegah penyebaran aktivitas kejang",
+          "indikasi": [
+            "Kejang tonik-klonik dan parsial",
+            "Status epileptikus",
+            "Profilaksis kejang pasca-bedah saraf"
+          ],
+          "sediaan": [
+            "Kapsul 100 mg",
+            "Tablet kunyah 50 mg",
+            "Suspensi 30 mg/5 mL, 125 mg/5 mL",
+            "Injeksi IV 50 mg/mL"
+          ],
+          "efek_samping": [
+            "Nistagmus dan ataksia",
+            "Hiperplasia gingiva",
+            "Hirsutisme",
+            "Ruam (termasuk SJS/TEN)",
+            "Hepatotoksik",
+            "Osteomalasia (jangka panjang)"
+          ],
+          "tatalaksana": [
+            "Dewasa: 300-400 mg/hari dibagi 1-3 dosis, titrasi bertahap",
+            "Status epileptikus: loading dose 15-20 mg/kgBB IV, kecepatan maks 50 mg/menit",
+            "Target kadar serum 10-20 mcg/mL"
+          ],
+          "monitoring": [
+            "Kadar fenitoin serum",
+            "ALT/AST",
+            "Hitung darah lengkap",
+            "Tekanan darah dan EKG saat loading IV",
+            "Kesehatan gusi dan kulit"
+          ],
+          "interaksi": [
+            "Penginduksi/inhibitor CYP2C9 dan CYP2C19: banyak interaksi dua arah",
+            "Warfarin: efek dapat meningkat atau menurun",
+            "Kontrasepsi hormonal: efektivitas menurun",
+            "Asam valproat: kompleks, dapat meningkatkan fenitoin bebas",
+            "Antasida: menurunkan absorpsi"
+          ],
+          "catatan": "Injeksi IV harus diencerkan dengan NaCl 0,9% (mengendap dengan dekstrosa) dan diberikan perlahan karena risiko aritmia dan hipotensi (purple glove syndrome pada ekstravasasi).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phenytoin/PNG?image_size=300x300"
+        },
+        {
+          "id": "asam-valproat",
+          "nama": "Asam Valproat",
+          "mekanisme": "Meningkatkan kadar GABA di otak dan menghambat kanal natrium serta kanal kalsium tipe-T, sehingga menstabilkan aktivitas neuron",
+          "indikasi": [
+            "Kejang umum dan parsial",
+            "Gangguan bipolar",
+            "Profilaksis migrain"
+          ],
+          "sediaan": [
+            "Tablet salut enterik 250 mg, 500 mg",
+            "Sirup 250 mg/5 mL",
+            "Injeksi IV 100 mg/mL"
+          ],
+          "efek_samping": [
+            "Mual dan gangguan GI",
+            "Tremor",
+            "Penambahan berat badan",
+            "Rambut rontok",
+            "Hepatotoksik",
+            "Pankreatitis",
+            "Trombositopenia",
+            "Teratogenik (defek tabung saraf)"
+          ],
+          "tatalaksana": [
+            "Awal 10-15 mg/kgBB/hari, naikkan bertahap sampai 1000-2000 mg/hari terbagi 2-3 dosis",
+            "Target kadar serum 50-100 mcg/mL"
+          ],
+          "monitoring": [
+            "Kadar valproat serum",
+            "ALT/AST dan amonia",
+            "Hitung darah lengkap dan trombosit",
+            "Fungsi hati sebelum dan selama terapi"
+          ],
+          "interaksi": [
+            "Lamotrigin: valproat meningkatkan kadar lamotrigin drastis, risiko ruam berat",
+            "Karbapenem: menurunkan kadar valproat drastis (hindari)",
+            "Fenitoin dan karbamazepin: interaksi dua arah kompleks",
+            "Aspirin: menggeser ikatan protein, meningkatkan valproat bebas"
+          ],
+          "catatan": "Kontraindikasi pada kehamilan untuk migrain dan sebisa mungkin dihindari pada usia subur karena risiko teratogenik dan gangguan perkembangan anak.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/valproic%20acid/PNG?image_size=300x300"
+        },
+        {
+          "id": "karbamazepin",
+          "nama": "Karbamazepin",
+          "mekanisme": "Menghambat kanal natrium voltage-gated secara use-dependent sehingga menstabilkan membran neuron",
+          "indikasi": [
+            "Kejang parsial dan tonik-klonik",
+            "Neuralgia trigeminal",
+            "Gangguan bipolar"
+          ],
+          "sediaan": [
+            "Tablet 200 mg",
+            "Tablet lepas lambat 200 mg, 400 mg",
+            "Suspensi 100 mg/5 mL"
+          ],
+          "efek_samping": [
+            "Pusing dan ataksia",
+            "Diplopia",
+            "Hiponatremia (SIADH)",
+            "Ruam (termasuk SJS/TEN, terutama HLA-B*1502)",
+            "Agranulositosis dan anemia aplastik (jarang)",
+            "Hepatotoksik"
+          ],
+          "tatalaksana": [
+            "Awal 100-200 mg 1-2x/hari, titrasi bertahap sampai 800-1200 mg/hari terbagi 2-3 dosis",
+            "Target kadar serum 4-12 mcg/mL"
+          ],
+          "monitoring": [
+            "Kadar karbamazepin serum",
+            "Natrium serum",
+            "Hitung darah lengkap",
+            "ALT/AST",
+            "Skrining HLA-B*1502 pada keturunan Asia sebelum terapi"
+          ],
+          "interaksi": [
+            "Autoinduksi metabolisme sendiri (kadar menurun setelah beberapa minggu)",
+            "Penginduksi CYP3A4 kuat: menurunkan kadar kontrasepsi hormonal, warfarin, banyak obat lain",
+            "Inhibitor CYP3A4 (makrolida, azol): meningkatkan kadar karbamazepin",
+            "MAOI: kontraindikasi"
+          ],
+          "catatan": "Skrining HLA-B*1502 dianjurkan pada populasi Asia (termasuk Indonesia) sebelum memulai terapi karena risiko SJS/TEN.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/carbamazepine/PNG?image_size=300x300"
+        },
+        {
+          "id": "lamotrigin",
+          "nama": "Lamotrigin",
+          "mekanisme": "Menghambat kanal natrium voltage-gated dan menurunkan pelepasan glutamat",
+          "indikasi": [
+            "Kejang parsial dan umum (adjuvan atau monoterapi)",
+            "Terapi pemeliharaan gangguan bipolar"
+          ],
+          "sediaan": [
+            "Tablet 25 mg, 50 mg, 100 mg, 200 mg",
+            "Tablet kunyah/dispersi"
+          ],
+          "efek_samping": [
+            "Ruam (termasuk SJS/TEN, risiko lebih tinggi bila titrasi cepat atau bersama valproat)",
+            "Pusing",
+            "Diplopia",
+            "Sakit kepala",
+            "Insomnia"
+          ],
+          "tatalaksana": [
+            "Titrasi sangat bertahap untuk mengurangi risiko ruam: mulai 25 mg/hari, naikkan setiap 1-2 minggu",
+            "Dosis rumatan 100-400 mg/hari terbagi 1-2 dosis",
+            "Dosis awal lebih rendah bila dikombinasi dengan valproat"
+          ],
+          "monitoring": [
+            "Ruam kulit (terutama 8 minggu pertama)",
+            "Respons kejang",
+            "Fungsi hati dan ginjal"
+          ],
+          "interaksi": [
+            "Asam valproat: meningkatkan kadar lamotrigin drastis, risiko ruam berat",
+            "Penginduksi enzim (karbamazepin, fenitoin, rifampisin): menurunkan kadar lamotrigin",
+            "Kontrasepsi hormonal (estrogen): menurunkan kadar lamotrigin"
+          ],
+          "catatan": "Titrasi lambat adalah kunci keamanan; jangan mempercepat dosis meskipun kejang belum terkontrol tanpa arahan dokter.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lamotrigine/PNG?image_size=300x300"
+        },
+        {
+          "id": "levetirasetam",
+          "nama": "Levetirasetam",
+          "mekanisme": "Berikatan dengan protein vesikel sinaptik SV2A sehingga memodulasi pelepasan neurotransmiter dan menstabilkan aktivitas neuron",
+          "indikasi": [
+            "Kejang parsial dan umum (adjuvan atau monoterapi)",
+            "Status epileptikus (lini kedua)"
+          ],
+          "sediaan": [
+            "Tablet 250 mg, 500 mg, 750 mg, 1000 mg",
+            "Larutan oral 100 mg/mL",
+            "Injeksi IV 100 mg/mL"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Pusing",
+            "Perubahan perilaku (iritabilitas, agresi, depresi)",
+            "Sakit kepala",
+            "Kelemahan"
+          ],
+          "tatalaksana": [
+            "Awal 500 mg 2x/hari, dapat dinaikkan sampai 1500 mg 2x/hari",
+            "Status epileptikus: 60 mg/kgBB IV (maks 4500 mg)",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Perubahan perilaku dan mood",
+            "Fungsi ginjal",
+            "Respons kejang"
+          ],
+          "interaksi": [
+            "Interaksi obat minimal karena tidak dimetabolisme signifikan oleh CYP450"
+          ],
+          "catatan": "Salah satu antikonvulsan dengan profil interaksi paling minimal, sering dipilih pada polifarmasi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levetiracetam/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antiparkinson",
+      "kelas": "Antiparkinson",
+      "mekanisme": "Meningkatkan aktivitas dopaminergik atau menyeimbangkan kolinergik-dopaminergik di ganglia basal untuk memperbaiki gejala motorik Parkinson",
+      "obat": [
+        {
+          "id": "levodopa-karbidopa",
+          "nama": "Levodopa-Karbidopa",
+          "mekanisme": "Levodopa adalah prekursor dopamin yang menembus sawar darah otak dan diubah menjadi dopamin; karbidopa menghambat dekarboksilase perifer sehingga lebih banyak levodopa mencapai otak dan efek samping perifer berkurang",
+          "indikasi": [
+            "Penyakit Parkinson (terapi paling efektif untuk gejala motorik)",
+            "Sindrom parkinsonisme lain"
+          ],
+          "sediaan": [
+            "Tablet 25/100 mg, 25/250 mg (karbidopa/levodopa)",
+            "Tablet lepas lambat",
+            "Sediaan larut cepat (dispersible)"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Diskinesia (gerakan involunter, terapi jangka panjang)",
+            "Hipotensi ortostatik",
+            "Halusinasi dan gangguan kontrol impuls",
+            "Fluktuasi motorik (wearing-off)"
+          ],
+          "tatalaksana": [
+            "Awal 25/100 mg 3x/hari, titrasi sesuai respons dan toleransi",
+            "Diminum saat perut kosong (30-60 menit sebelum makan) untuk absorpsi optimal, kecuali mual berat"
+          ],
+          "monitoring": [
+            "Gejala motorik dan fluktuasi respons obat",
+            "Tekanan darah (ortostatik)",
+            "Gejala psikiatri dan kontrol impuls"
+          ],
+          "interaksi": [
+            "Antipsikotik tipikal dan beberapa atipikal: melawan efek levodopa",
+            "MAOI non-selektif: kontraindikasi (krisis hipertensi)",
+            "Piridoksin (B6) dosis tinggi tanpa karbidopa: menurunkan efek levodopa",
+            "Protein makanan tinggi: dapat mengganggu absorpsi levodopa"
+          ],
+          "catatan": "Jangan hentikan mendadak (risiko sindrom mirip neuroleptic malignant syndrome).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levodopa/PNG?image_size=300x300"
+        },
+        {
+          "id": "pramipeksol",
+          "nama": "Pramipeksol",
+          "mekanisme": "Agonis reseptor dopamin D2/D3 non-ergot yang bekerja langsung pada reseptor dopamin",
+          "indikasi": [
+            "Penyakit Parkinson (monoterapi awal atau adjuvan levodopa)",
+            "Sindrom kaki gelisah (restless legs syndrome)"
+          ],
+          "sediaan": [
+            "Tablet 0,125 mg, 0,25 mg, 0,5 mg, 1 mg",
+            "Tablet lepas lambat"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Mengantuk dan serangan tidur mendadak",
+            "Halusinasi",
+            "Gangguan kontrol impuls (judi, belanja, hiperseksualitas)",
+            "Hipotensi ortostatik",
+            "Edema perifer"
+          ],
+          "tatalaksana": [
+            "Awal 0,125 mg 3x/hari, titrasi bertahap setiap 5-7 hari sampai dosis efektif (umumnya 1,5-4,5 mg/hari terbagi 3 dosis)",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Gejala kantuk berlebihan saat beraktivitas (mengemudi)",
+            "Gejala kontrol impuls",
+            "Tekanan darah",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Antipsikotik: efek berlawanan",
+            "Obat sedatif dan alkohol: sedasi aditif",
+            "Simetidin dan obat yang disekresi tubulus ginjal: kadar pramipeksol meningkat"
+          ],
+          "catatan": "Pasien perlu diberi tahu risiko serangan tidur mendadak sebelum mengemudi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pramipexole/PNG?image_size=300x300"
+        },
+        {
+          "id": "trihexyphenidyl",
+          "nama": "Triheksifenidil",
+          "mekanisme": "Antagonis reseptor muskarinik yang menyeimbangkan aktivitas kolinergik berlebih akibat defisit dopamin, terutama membantu tremor",
+          "indikasi": [
+            "Parkinson dengan tremor dominan (terutama pada pasien lebih muda)",
+            "Gejala ekstrapiramidal akibat obat antipsikotik"
+          ],
+          "sediaan": [
+            "Tablet 2 mg, 5 mg"
+          ],
+          "efek_samping": [
+            "Mulut kering",
+            "Pandangan kabur",
+            "Konstipasi",
+            "Retensi urin",
+            "Kebingungan dan gangguan kognitif (terutama lansia)"
+          ],
+          "tatalaksana": [
+            "Awal 1 mg/hari, titrasi bertahap sampai 6-10 mg/hari terbagi beberapa dosis"
+          ],
+          "monitoring": [
+            "Fungsi kognitif (terutama lansia)",
+            "Gejala retensi urin",
+            "Tekanan intraokular"
+          ],
+          "interaksi": [
+            "Antikolinergik lain (antihistamin, antidepresan trisiklik): efek aditif",
+            "Digoksin: absorpsi dapat berubah",
+            "Haloperidol: kadar dapat menurun"
+          ],
+          "catatan": "Hindari atau gunakan hati-hati pada lansia karena risiko gangguan kognitif dan glaukoma sudut sempit.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/trihexyphenidyl/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antidemensia",
+      "kelas": "Antidemensia",
+      "mekanisme": "Meningkatkan neurotransmisi kolinergik atau memodulasi glutamat untuk memperlambat penurunan kognitif pada demensia",
+      "obat": [
+        {
+          "id": "donepezil",
+          "nama": "Donepezil",
+          "mekanisme": "Menghambat asetilkolinesterase secara reversibel sehingga meningkatkan kadar asetilkolin di sinaps saraf pusat",
+          "indikasi": [
+            "Demensia Alzheimer ringan hingga berat"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg",
+            "Tablet dispersi 5 mg, 10 mg, 23 mg"
+          ],
+          "efek_samping": [
+            "Mual dan diare",
+            "Insomnia dan mimpi buruk",
+            "Bradikardia",
+            "Kram otot",
+            "Penurunan berat badan"
+          ],
+          "tatalaksana": [
+            "Awal 5 mg 1x malam hari selama 4-6 minggu, lalu naikkan menjadi 10 mg/hari sesuai toleransi"
+          ],
+          "monitoring": [
+            "Frekuensi nadi (risiko bradikardia)",
+            "Fungsi kognitif dan perilaku",
+            "Berat badan"
+          ],
+          "interaksi": [
+            "Obat bradikardik (penyekat beta, digoksin): efek aditif",
+            "Antikolinergik: efek saling melawan",
+            "Inhibitor/penginduksi CYP2D6 dan CYP3A4: dapat mengubah kadar"
+          ],
+          "catatan": "Hati-hati pada pasien dengan gangguan konduksi jantung atau asma/PPOK berat (efek kolinergik pada bronkus).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/donepezil/PNG?image_size=300x300"
+        },
+        {
+          "id": "memantin",
+          "nama": "Memantin",
+          "mekanisme": "Antagonis reseptor NMDA non-kompetitif yang mengatur aktivitas glutamat berlebih sehingga mengurangi eksitotoksisitas neuron",
+          "indikasi": [
+            "Demensia Alzheimer sedang hingga berat"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg",
+            "Tablet lepas lambat 7 mg, 14 mg, 21 mg, 28 mg"
+          ],
+          "efek_samping": [
+            "Pusing",
+            "Sakit kepala",
+            "Konstipasi",
+            "Kebingungan",
+            "Hipertensi"
+          ],
+          "tatalaksana": [
+            "Awal 5 mg 1x/hari, naikkan 5 mg per minggu sampai 10 mg 2x/hari (atau lepas lambat 28 mg 1x/hari)",
+            "Sesuaikan dosis pada gangguan ginjal berat"
+          ],
+          "monitoring": [
+            "Fungsi kognitif",
+            "Fungsi ginjal",
+            "Tekanan darah"
+          ],
+          "interaksi": [
+            "Obat yang mengalkalinisasi urin (inhibitor karbonat anhidrase, natrium bikarbonat): menurunkan ekskresi memantin",
+            "Obat NMDA lain (amantadin, dekstrometorfan): efek SSP aditif"
+          ],
+          "catatan": "Sering dikombinasikan dengan donepezil pada demensia sedang-berat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/memantine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antimigrain",
+      "kelas": "Antimigrain",
+      "mekanisme": "Agonis reseptor serotonin 5-HT1B/1D yang menyebabkan vasokonstriksi pembuluh darah kranial dan menghambat pelepasan neuropeptida penyebab nyeri (untuk golongan triptan)",
+      "obat": [
+        {
+          "id": "sumatriptan",
+          "nama": "Sumatriptan",
+          "indikasi": [
+            "Serangan migrain akut (dengan atau tanpa aura)",
+            "Cluster headache akut (injeksi)"
+          ],
+          "sediaan": [
+            "Tablet 25 mg, 50 mg, 100 mg",
+            "Injeksi SC 6 mg/0,5 mL",
+            "Semprot hidung 20 mg/dosis"
+          ],
+          "efek_samping": [
+            "Rasa tertekan/sesak di dada atau tenggorokan",
+            "Kesemutan",
+            "Mengantuk",
+            "Peningkatan tekanan darah sementara",
+            "Vasospasme koroner (jarang)"
+          ],
+          "tatalaksana": [
+            "Oral: 50-100 mg saat onset serangan, dapat diulang setelah 2 jam bila perlu (maks 200 mg/hari)",
+            "SC: 6 mg, dapat diulang setelah 1 jam (maks 12 mg/hari)"
+          ],
+          "monitoring": [
+            "Frekuensi serangan dan penggunaan (hindari overuse)",
+            "Gejala kardiovaskular",
+            "Tekanan darah pada pasien berisiko"
+          ],
+          "interaksi": [
+            "MAOI: kontraindikasi",
+            "SSRI/SNRI: risiko serotonin syndrome",
+            "Ergotamin: hindari dalam 24 jam (vasospasme aditif)",
+            "Obat vasokonstriktor lain"
+          ],
+          "catatan": "Kontraindikasi pada penyakit jantung koroner, riwayat stroke, dan hipertensi tidak terkontrol. Penggunaan berlebihan dapat menyebabkan medication-overuse headache.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sumatriptan/PNG?image_size=300x300"
+        },
+        {
+          "id": "ergotamin",
+          "nama": "Ergotamin",
+          "indikasi": [
+            "Serangan migrain akut (bila triptan tidak tersedia atau tidak efektif)",
+            "Cluster headache"
+          ],
+          "sediaan": [
+            "Tablet 1 mg (sering kombinasi dengan kafein)",
+            "Suppositoria"
+          ],
+          "efek_samping": [
+            "Mual dan muntah",
+            "Vasospasme perifer (kaki dingin, nyeri)",
+            "Nyeri dada",
+            "Fibrosis retroperitoneal (penggunaan lama)"
+          ],
+          "tatalaksana": [
+            "1-2 mg saat onset, dapat diulang setelah 30 menit bila perlu, maks 6 mg/serangan dan 10 mg/minggu"
+          ],
+          "monitoring": [
+            "Gejala vaskular perifer",
+            "Frekuensi penggunaan (risiko ergotism)"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat (makrolida, azol, ritonavir): kontraindikasi, risiko ergotism berat",
+            "Triptan: hindari dalam 24 jam",
+            "Obat vasokonstriktor lain: efek aditif"
+          ],
+          "catatan": "Sebagian besar sudah digantikan oleh triptan karena profil keamanan yang lebih baik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ergotamine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "pelemas-otot",
+      "kelas": "Pelemas Otot (Muscle Relaxant)",
+      "mekanisme": "Menekan aktivitas neuron motorik di susunan saraf pusat (sentral) sehingga menurunkan tonus dan spasme otot rangka",
+      "obat": [
+        {
+          "id": "eperisone",
+          "nama": "Eperison",
+          "mekanisme": "Bekerja sentral pada refleks spinal dan perifer pada otot polos pembuluh darah sehingga menurunkan tonus otot rangka dan memperbaiki sirkulasi",
+          "indikasi": [
+            "Spasme otot pada nyeri punggung dan leher",
+            "Spastisitas akibat gangguan serebrovaskular atau serviko-brakial"
+          ],
+          "sediaan": [
+            "Tablet 50 mg"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Pusing",
+            "Kelemahan otot",
+            "Mual",
+            "Ruam"
+          ],
+          "tatalaksana": [
+            "Dewasa: 50 mg 3x/hari setelah makan"
+          ],
+          "monitoring": [
+            "Respons nyeri dan spasme",
+            "Tingkat sedasi"
+          ],
+          "interaksi": [
+            "Depresan SSP lain: sedasi aditif",
+            "Obat antihipertensi: efek hipotensi dapat meningkat"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/eperisone/PNG?image_size=300x300"
+        },
+        {
+          "id": "tizanidin",
+          "nama": "Tizanidin",
+          "mekanisme": "Agonis reseptor alfa-2 adrenergik di medula spinalis yang menghambat pelepasan asam amino eksitatorik sehingga menekan refleks polisinaptik",
+          "indikasi": [
+            "Spastisitas akibat cedera medula spinalis, stroke, atau multiple sclerosis",
+            "Nyeri punggung dengan spasme otot akut"
+          ],
+          "sediaan": [
+            "Tablet 2 mg, 4 mg"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Mulut kering",
+            "Hipotensi",
+            "Kelemahan",
+            "Hepatotoksik (jarang)"
+          ],
+          "tatalaksana": [
+            "Awal 2 mg, dapat diulang setiap 6-8 jam, titrasi bertahap sampai maks 36 mg/hari"
+          ],
+          "monitoring": [
+            "Tekanan darah (terutama saat titrasi)",
+            "Fungsi hati",
+            "Tingkat sedasi"
+          ],
+          "interaksi": [
+            "Fluorokuinolon (siprofloksasin): kontraindikasi, meningkatkan kadar tizanidin drastis",
+            "Inhibitor CYP1A2 (fluvoksamin): kontraindikasi",
+            "Antihipertensi: hipotensi aditif",
+            "Alkohol dan depresan SSP: sedasi aditif"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tizanidine/PNG?image_size=300x300"
+        },
+        {
+          "id": "baklofen",
+          "nama": "Baklofen",
+          "mekanisme": "Agonis reseptor GABA-B di medula spinalis yang menghambat pelepasan neurotransmiter eksitatorik sehingga menekan refleks spastik",
+          "indikasi": [
+            "Spastisitas akibat multiple sclerosis atau cedera medula spinalis",
+            "Cegukan kronik (off-label)"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 25 mg",
+            "Larutan intratekal (untuk pompa implan)"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Kelemahan otot",
+            "Pusing",
+            "Mual",
+            "Kebingungan (lansia)",
+            "Gejala putus obat berat bila dihentikan mendadak (halusinasi, kejang)"
+          ],
+          "tatalaksana": [
+            "Awal 5 mg 3x/hari, titrasi bertahap sampai 20 mg 3-4x/hari sesuai respons",
+            "Turunkan dosis bertahap saat menghentikan"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Tingkat sedasi dan kekuatan otot",
+            "Tanda putus obat saat tapering"
+          ],
+          "interaksi": [
+            "Depresan SSP dan opioid: sedasi dan depresi napas aditif",
+            "Antihipertensi: hipotensi aditif"
+          ],
+          "catatan": "Jangan hentikan mendadak, terutama pada pompa intratekal, karena risiko sindrom putus obat yang mengancam jiwa.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/baclofen/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "neuroprotektif-stroke",
+      "kelas": "Neuroprotektif dan Terapi Stroke Akut",
+      "mekanisme": "Memulihkan aliran darah otak (trombolitik) atau mendukung fungsi neuron pasca-iskemia (neuroprotektif/nootropik)",
+      "obat": [
+        {
+          "id": "alteplase",
+          "nama": "Alteplase (rtPA)",
+          "mekanisme": "Aktivator plasminogen jaringan rekombinan yang mengubah plasminogen menjadi plasmin sehingga melarutkan bekuan fibrin",
+          "indikasi": [
+            "Stroke iskemik akut (dalam jendela waktu 3-4,5 jam sejak onset)",
+            "Infark miokard akut",
+            "Emboli paru masif"
+          ],
+          "sediaan": [
+            "Serbuk injeksi IV 50 mg (vial)"
+          ],
+          "efek_samping": [
+            "Perdarahan (termasuk perdarahan intrakranial)",
+            "Angioedema orolingual",
+            "Hipotensi",
+            "Reaksi alergi"
+          ],
+          "tatalaksana": [
+            "Stroke: 0,9 mg/kgBB IV (maks 90 mg), 10% sebagai bolus dalam 1 menit, sisanya infus selama 60 menit",
+            "Harus dimulai sesegera mungkin dalam jendela waktu yang ditentukan setelah menyingkirkan perdarahan pada CT scan"
+          ],
+          "monitoring": [
+            "Tekanan darah ketat (target < 180/105 mmHg)",
+            "Tanda perdarahan dan status neurologis",
+            "CT scan ulang bila perburukan"
+          ],
+          "interaksi": [
+            "Antikoagulan dan antiplatelet: risiko perdarahan aditif, umumnya dihindari 24 jam pertama",
+            "ACE inhibitor: risiko angioedema meningkat"
+          ],
+          "catatan": "Waktu adalah otak; keterlambatan pemberian menurunkan manfaat dan meningkatkan risiko. Banyak kontraindikasi harus disingkirkan sebelum pemberian.",
+          "gambar": null
+        },
+        {
+          "id": "citicoline",
+          "nama": "Citicoline",
+          "mekanisme": "Prekursor fosfatidilkolin yang mendukung perbaikan membran sel neuron dan diduga memiliki efek neuroprotektif pasca-cedera otak",
+          "indikasi": [
+            "Terapi tambahan pada stroke iskemik dan cedera kepala (bukti manfaat terbatas dan bervariasi antar pedoman)",
+            "Gangguan kognitif pasca-stroke"
+          ],
+          "sediaan": [
+            "Kapsul 500 mg",
+            "Injeksi IV/IM 500 mg/4 mL"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Insomnia",
+            "Diare",
+            "Hipotensi (IV cepat)"
+          ],
+          "tatalaksana": [
+            "Oral: 500-1000 mg 1-2x/hari",
+            "IV: 500-1000 mg/hari"
+          ],
+          "monitoring": [
+            "Status neurologis dan kognitif",
+            "Tekanan darah pada pemberian IV"
+          ],
+          "interaksi": [
+            "Levodopa: dapat meningkatkan efek dopaminergik"
+          ],
+          "catatan": "Bukti manfaat pada stroke akut masih diperdebatkan; beberapa pedoman internasional tidak merekomendasikannya secara rutin.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/citicoline/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "analgesik-neuropati",
+      "kelas": "Analgesik untuk Nyeri Neuropatik",
+      "mekanisme": "Menghambat kanal kalsium voltage-gated (subunit alfa2-delta) sehingga menurunkan pelepasan neurotransmiter eksitatorik penyebab nyeri neuropatik",
+      "obat": [
+        {
+          "id": "gabapentin",
+          "nama": "Gabapentin",
+          "indikasi": [
+            "Nyeri neuropatik (neuropati diabetik, neuralgia pasca-herpes)",
+            "Kejang parsial (adjuvan)",
+            "Sindrom kaki gelisah"
+          ],
+          "sediaan": [
+            "Kapsul/tablet 100 mg, 300 mg, 400 mg, 600 mg, 800 mg",
+            "Larutan oral 250 mg/5 mL"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Pusing",
+            "Edema perifer",
+            "Ataksia",
+            "Penambahan berat badan"
+          ],
+          "tatalaksana": [
+            "Awal 300 mg malam hari, titrasi bertahap sampai 900-3600 mg/hari terbagi 3 dosis",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Sedasi dan fungsi kognitif",
+            "Fungsi ginjal",
+            "Edema perifer"
+          ],
+          "interaksi": [
+            "Opioid: depresi napas aditif (peringatan FDA)",
+            "Antasida yang mengandung aluminium/magnesium: menurunkan absorpsi",
+            "Alkohol dan depresan SSP: sedasi aditif"
+          ],
+          "catatan": "Berbeda dari pregabalin dalam farmakokinetik (absorpsi gabapentin tidak linear/dose-dependent).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gabapentin/PNG?image_size=300x300"
+        }
+      ]
+    }
+  ]
+}
