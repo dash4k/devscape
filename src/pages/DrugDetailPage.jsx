@@ -73,6 +73,7 @@ const DrugDetailPage = () => {
           </section>
         )}
 
+        <InfoSection id="merek" title="Nama Dagang / Merek" items={drug.merek} />
         <InfoSection id="indikasi" title="Indikasi" items={drug.indikasi} />
         <InfoSection id="sediaan" title="Sediaan" items={drug.sediaan} />
         <InfoSection id="tatalaksana" title="Tatalaksana / Dosis" items={drug.tatalaksana} />

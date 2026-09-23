@@ -44,7 +44,12 @@
             "MAOI dan antidepresan trisiklik: efek kardiovaskular meningkat"
           ],
           "catatan": "Penggunaan reliever > 2 hari/minggu (di luar latihan fisik) menandakan asma tidak terkontrol.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/albuterol/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/albuterol/PNG?image_size=300x300",
+          "merek": [
+            "Ventolin",
+            "Salbutamol (generik)",
+            "Asmasoho"
+          ]
         },
         {
           "id": "terbutalin",
@@ -81,7 +86,10 @@
             "Diuretik dan kortikosteroid: risiko hipokalemia"
           ],
           "catatan": "Formulasi injeksi/oral tidak dianjurkan sebagai tokolitik jangka panjang (peringatan FDA).",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/terbutaline/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/terbutaline/PNG?image_size=300x300",
+          "merek": [
+            "Bricasma"
+          ]
         }
       ]
     },
@@ -124,7 +132,10 @@
             "Obat pemanjang QT"
           ],
           "catatan": "Pada asma, jangan digunakan sebagai monoterapi tanpa ICS (peningkatan risiko kematian terkait asma).",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/salmeterol/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/salmeterol/PNG?image_size=300x300",
+          "merek": [
+            "Serevent"
+          ]
         },
         {
           "id": "formoterol",
@@ -161,7 +172,11 @@
             "Obat pemanjang QT"
           ],
           "catatan": "Sama seperti salmeterol, tidak untuk monoterapi pada asma.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/formoterol/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/formoterol/PNG?image_size=300x300",
+          "merek": [
+            "Foradil",
+            "Oxis"
+          ]
         }
       ]
     },
@@ -202,7 +217,11 @@
             "Antikolinergik lain: efek aditif"
           ],
           "catatan": "Hati-hati pada glaukoma sudut sempit, BPH, dan obstruksi leher kandung kemih. Lindungi mata saat nebulisasi dengan masker.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ipratropium%20bromide/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ipratropium%20bromide/PNG?image_size=300x300",
+          "merek": [
+            "Atrovent",
+            "Combivent (kombinasi)"
+          ]
         },
         {
           "id": "tiotropium",
@@ -236,7 +255,10 @@
             "Antikolinergik lain (ipratropium): hindari kombinasi"
           ],
           "catatan": "Kapsul HandiHaler hanya untuk inhalasi, jangan ditelan.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tiotropium%20bromide/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tiotropium%20bromide/PNG?image_size=300x300",
+          "merek": [
+            "Spiriva"
+          ]
         }
       ]
     },
@@ -278,7 +300,11 @@
             "Inhibitor CYP3A4 kuat (ketokonazol, ritonavir, itrakonazol): meningkatkan paparan sistemik"
           ],
           "catatan": "Efek penuh dicapai setelah beberapa hari-minggu. Tidak untuk serangan akut.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/budesonide/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/budesonide/PNG?image_size=300x300",
+          "merek": [
+            "Pulmicort",
+            "Symbicort (kombinasi)"
+          ]
         },
         {
           "id": "flutikason",
@@ -313,7 +339,11 @@
             "Ritonavir dan inhibitor CYP3A4 kuat: risiko sindrom Cushing dan supresi adrenal"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fluticasone%20propionate/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fluticasone%20propionate/PNG?image_size=300x300",
+          "merek": [
+            "Flixotide",
+            "Seretide (kombinasi)"
+          ]
         },
         {
           "id": "beklometason",
@@ -344,7 +374,11 @@
             "Interaksi sistemik minimal pada dosis normal"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/beclomethasone%20dipropionate/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/beclomethasone%20dipropionate/PNG?image_size=300x300",
+          "merek": [
+            "Becotide",
+            "Inflammide"
+          ]
         }
       ]
     },
@@ -387,7 +421,11 @@
             "Gemfibrozil: meningkatkan kadar montelukast"
           ],
           "catatan": "Boxed warning FDA: efek neuropsikiatri serius; pertimbangkan risiko dan manfaat, terutama pada asma ringan atau rinitis alergi.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/montelukast/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/montelukast/PNG?image_size=300x300",
+          "merek": [
+            "Singulair",
+            "Montelukast (generik)"
+          ]
         }
       ]
     },
@@ -431,7 +469,12 @@
             "Litium: kadar litium menurun"
           ],
           "catatan": "Rentang terapi sempit; kadar > 20 mcg/mL berisiko toksik.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/theophylline/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/theophylline/PNG?image_size=300x300",
+          "merek": [
+            "Theophylline (generik)",
+            "Bronsolvan",
+            "Retaphyl"
+          ]
         },
         {
           "id": "aminofilin",
@@ -465,7 +508,10 @@
             "Sama dengan teofilin (siprofloksasin, eritromisin, simetidin meningkatkan kadar; rifampisin, fenitoin menurunkan)"
           ],
           "catatan": "Dosis dihitung berdasarkan berat badan ideal; infus harus lambat.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aminophylline/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aminophylline/PNG?image_size=300x300",
+          "merek": [
+            "Aminophylline (generik)"
+          ]
         }
       ]
     },
@@ -506,7 +552,10 @@
             "Teofilin: tidak dianjurkan bersama"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/roflumilast/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/roflumilast/PNG?image_size=300x300",
+          "merek": [
+            "Daxas"
+          ]
         }
       ]
     },
@@ -548,7 +597,11 @@
             "Nitrogliserin: potensiasi vasodilatasi dan hipotensi"
           ],
           "catatan": "Hati-hati pada asma dan riwayat ulkus lambung.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/acetylcysteine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/acetylcysteine/PNG?image_size=300x300",
+          "merek": [
+            "Fluimucil",
+            "Acetylcysteine (generik)"
+          ]
         },
         {
           "id": "ambroksol",
@@ -581,7 +634,12 @@
             "Antibiotik (amoksisilin, eritromisin, doksisiklin): meningkatkan penetrasi ke jaringan paru"
           ],
           "catatan": "Tidak dianjurkan pada anak < 2 tahun. Sumber berbeda dalam batas usia; cek label produk.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ambroxol/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ambroxol/PNG?image_size=300x300",
+          "merek": [
+            "Mucosolvan",
+            "Ambroxol (generik)",
+            "Mucera"
+          ]
         },
         {
           "id": "bromheksin",
@@ -613,7 +671,11 @@
             "Antitusif: hindari kombinasi"
           ],
           "catatan": "Hati-hati pada riwayat ulkus lambung.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bromhexine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bromhexine/PNG?image_size=300x300",
+          "merek": [
+            "Bisolvon",
+            "Bromhexine (generik)"
+          ]
         }
       ]
     },
@@ -652,7 +714,11 @@
             "Tidak ada interaksi obat bermakna"
           ],
           "catatan": "Bukti efektivitas terbatas.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/guaifenesin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/guaifenesin/PNG?image_size=300x300",
+          "merek": [
+            "OBH Combi (kombinasi)",
+            "Guaifenesin (generik)"
+          ]
         }
       ]
     },
@@ -693,7 +759,11 @@
             "Alkohol dan depresan SSP: sedasi aditif"
           ],
           "catatan": "Hindari pada batuk produktif dan pada asma dengan dahak banyak.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dextromethorphan/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dextromethorphan/PNG?image_size=300x300",
+          "merek": [
+            "Dextrometorphan (generik)",
+            "Woods Antitussive"
+          ]
         },
         {
           "id": "kodein",
@@ -729,7 +799,11 @@
             "MAOI: hindari"
           ],
           "catatan": "Metabolisme CYP2D6 bervariasi; ultra-rapid metabolizer berisiko toksisitas opioid, termasuk pada ibu menyusui.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/codeine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/codeine/PNG?image_size=300x300",
+          "merek": [
+            "Codein (generik)",
+            "Codipront (kombinasi)"
+          ]
         }
       ]
     },
@@ -769,7 +843,10 @@
             "Interaksi obat bermakna belum dilaporkan"
           ],
           "catatan": "Ketersediaan dan indikasi resmi berbeda antar negara.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Xolair"
+          ]
         },
         {
           "id": "mepolizumab",
@@ -803,7 +880,10 @@
             "Interaksi obat bermakna belum dilaporkan"
           ],
           "catatan": "Tata laksana infeksi parasit (helminth) sebelum memulai terapi. Ketersediaan terbatas.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Nucala"
+          ]
         }
       ]
     }

@@ -43,7 +43,10 @@
             "Tetrasiklin: teoritis mengurangi efek bakterisidal"
           ],
           "catatan": "Benzatin penisilin tidak boleh diberikan IV (risiko henti jantung).",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/penicillin%20G/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/penicillin%20G/PNG?image_size=300x300",
+          "merek": [
+            "Penicillin G (generik)"
+          ]
         },
         {
           "id": "amoksisilin",
@@ -86,7 +89,12 @@
             "Probenesid: meningkatkan kadar amoksisilin"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amoxicillin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amoxicillin/PNG?image_size=300x300",
+          "merek": [
+            "Amoxsan",
+            "Amoxicillin (generik)",
+            "Kalmoxillin"
+          ]
         },
         {
           "id": "ampisilin",
@@ -126,7 +134,11 @@
             "Metotreksat: kadar meningkat"
           ],
           "catatan": "Ruam makulopapular sangat sering pada infeksi virus Epstein-Barr.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ampicillin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ampicillin/PNG?image_size=300x300",
+          "merek": [
+            "Ampicillin (generik)",
+            "Binotal"
+          ]
         },
         {
           "id": "amoksisilin-klavulanat",
@@ -167,7 +179,12 @@
             "Mikofenolat: menurunkan kadar metabolit aktif"
           ],
           "catatan": "Minum bersama makanan mengurangi keluhan GI.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amoxicillin%20clavulanate/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amoxicillin%20clavulanate/PNG?image_size=300x300",
+          "merek": [
+            "Clavamox",
+            "Augmentin",
+            "Amoxiclav"
+          ]
         },
         {
           "id": "piperasilin-tazobaktam",
@@ -208,7 +225,11 @@
             "Aminoglikosida: inaktivasi in vitro bila dicampur, beri terpisah"
           ],
           "catatan": "Simpan untuk infeksi berat/nosokomial (stewardship).",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/piperacillin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/piperacillin/PNG?image_size=300x300",
+          "merek": [
+            "Tazocin",
+            "Piperacillin Tazobactam (generik)"
+          ]
         }
       ]
     },
@@ -252,7 +273,11 @@
             "Warfarin: INR dapat meningkat"
           ],
           "catatan": "Reaktivitas silang dengan alergi penisilin rendah (± 1-2%), tetapi hindari pada alergi penisilin tipe berat.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefadroxil/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefadroxil/PNG?image_size=300x300",
+          "merek": [
+            "Cefat",
+            "Cefadroxil (generik)"
+          ]
         },
         {
           "id": "sefazolin",
@@ -289,7 +314,11 @@
             "Warfarin: efek antikoagulan dapat meningkat"
           ],
           "catatan": "Tidak menembus CSS, tidak untuk meningitis.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefazolin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefazolin/PNG?image_size=300x300",
+          "merek": [
+            "Cefazolin (generik)",
+            "Vicefro"
+          ]
         },
         {
           "id": "sefaleksin",
@@ -323,7 +352,11 @@
             "Probenesid: meningkatkan kadar sefaleksin"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cephalexin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cephalexin/PNG?image_size=300x300",
+          "merek": [
+            "Cephalexin (generik)",
+            "Cefspan*"
+          ]
         },
         {
           "id": "sefuroksim",
@@ -363,7 +396,11 @@
             "Warfarin: efek dapat meningkat"
           ],
           "catatan": "Absorpsi oral lebih baik bersama makanan.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefuroxime/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefuroxime/PNG?image_size=300x300",
+          "merek": [
+            "Zinnat",
+            "Cefuroxime (generik)"
+          ]
         },
         {
           "id": "sefiksim",
@@ -401,7 +438,12 @@
             "Antasida: dapat mengurangi absorpsi"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefixime/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefixime/PNG?image_size=300x300",
+          "merek": [
+            "Cefixime (generik)",
+            "Cefspan",
+            "Fixiphar"
+          ]
         },
         {
           "id": "seftriakson",
@@ -443,7 +485,12 @@
             "Aminoglikosida: jangan dicampur dalam satu jalur"
           ],
           "catatan": "Kontraindikasi pada neonatus hiperbilirubinemia atau yang mendapat infus kalsium.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ceftriaxone/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ceftriaxone/PNG?image_size=300x300",
+          "merek": [
+            "Ceftriaxone (generik)",
+            "Terfacef",
+            "Cefaxon"
+          ]
         },
         {
           "id": "sefotaksim",
@@ -478,7 +525,11 @@
             "Aminoglikosida: risiko nefrotoksisitas aditif"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefotaxime/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefotaxime/PNG?image_size=300x300",
+          "merek": [
+            "Cefotaxime (generik)",
+            "Claforan"
+          ]
         },
         {
           "id": "seftazidim",
@@ -514,7 +565,11 @@
             "Kloramfenikol: antagonisme"
           ],
           "catatan": "Aktivitas terhadap gram-positif lemah.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ceftazidime/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ceftazidime/PNG?image_size=300x300",
+          "merek": [
+            "Fortum",
+            "Ceftazidime (generik)"
+          ]
         },
         {
           "id": "sefepim",
@@ -551,7 +606,11 @@
             "Warfarin: INR dapat meningkat"
           ],
           "catatan": "Neurotoksisitas sering terjadi bila dosis tidak disesuaikan pada gangguan ginjal.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefepime/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefepime/PNG?image_size=300x300",
+          "merek": [
+            "Maxipime",
+            "Cefepime (generik)"
+          ]
         }
       ]
     },
@@ -597,7 +656,11 @@
             "Probenesid: meningkatkan kadar meropenem"
           ],
           "catatan": "Simpan untuk infeksi berat atau resisten (stewardship). Risiko silang alergi dengan penisilin rendah.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/meropenem/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/meropenem/PNG?image_size=300x300",
+          "merek": [
+            "Meropenem (generik)",
+            "Mepem"
+          ]
         },
         {
           "id": "imipenem-cilastatin",
@@ -633,7 +696,10 @@
             "Teofilin: risiko kejang"
           ],
           "catatan": "Tidak dianjurkan untuk meningitis (risiko kejang).",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/imipenem/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/imipenem/PNG?image_size=300x300",
+          "merek": [
+            "Tienam"
+          ]
         },
         {
           "id": "ertapenem",
@@ -667,7 +733,10 @@
             "Probenesid: meningkatkan kadar ertapenem"
           ],
           "catatan": "Tidak aktif terhadap Pseudomonas dan Acinetobacter.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ertapenem/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ertapenem/PNG?image_size=300x300",
+          "merek": [
+            "Invanz"
+          ]
         }
       ]
     },
@@ -714,7 +783,12 @@
             "Antasida: menurunkan kadar puncak"
           ],
           "catatan": "Resistensi makrolida meningkat pada Streptococcus pneumoniae dan Mycoplasma di banyak wilayah.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/azithromycin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/azithromycin/PNG?image_size=300x300",
+          "merek": [
+            "Zithromax",
+            "Azithromycin (generik)",
+            "Zibramax"
+          ]
         },
         {
           "id": "klaritromisin",
@@ -751,7 +825,11 @@
             "Obat pemanjang QT: risiko aditif"
           ],
           "catatan": "Interaksi obat terbanyak di antara makrolida.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clarithromycin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clarithromycin/PNG?image_size=300x300",
+          "merek": [
+            "Klacid",
+            "Clarithromycin (generik)"
+          ]
         },
         {
           "id": "eritromisin",
@@ -788,7 +866,11 @@
             "Obat pemanjang QT: risiko aditif"
           ],
           "catatan": "Efek prokinetik pada motilitas lambung menyebabkan keluhan GI.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/erythromycin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/erythromycin/PNG?image_size=300x300",
+          "merek": [
+            "Erythromycin (generik)",
+            "Erysanbe"
+          ]
         }
       ]
     },
@@ -835,7 +917,11 @@
             "Retinoid oral: risiko hipertensi intrakranial"
           ],
           "catatan": "Umumnya dihindari pada kehamilan dan anak < 8 tahun (kecuali kondisi berat seperti riketsiosis).",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/doxycycline/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/doxycycline/PNG?image_size=300x300",
+          "merek": [
+            "Doxycycline (generik)",
+            "Vibramycin"
+          ]
         }
       ]
     },
@@ -881,7 +967,11 @@
             "Pelemas otot dan magnesium: blokade neuromuskular meningkat"
           ],
           "catatan": "Rentang terapi sempit. Kontraindikasi relatif pada kehamilan (ototoksisitas janin).",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gentamicin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gentamicin/PNG?image_size=300x300",
+          "merek": [
+            "Gentamicin (generik)",
+            "Sagestam"
+          ]
         },
         {
           "id": "amikasin",
@@ -918,7 +1008,11 @@
             "Pelemas otot: blokade neuromuskular meningkat"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amikacin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amikacin/PNG?image_size=300x300",
+          "merek": [
+            "Amikacin (generik)",
+            "Amikin"
+          ]
         }
       ]
     },
@@ -975,7 +1069,12 @@
             "Tizanidin: kontraindikasi"
           ],
           "catatan": "Boxed warning: tendinitis, neuropati perifer, efek SSP, dan eksaserbasi miastenia gravis. Umumnya dihindari untuk infeksi ringan bila ada alternatif.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ciprofloxacin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ciprofloxacin/PNG?image_size=300x300",
+          "merek": [
+            "Ciprofloxacin (generik)",
+            "Baquinor",
+            "Nipoxal"
+          ]
         },
         {
           "id": "levofloksasin",
@@ -1020,7 +1119,12 @@
             "Obat pemanjang QT: risiko aditif"
           ],
           "catatan": "Boxed warning sama dengan fluorokuinolon lain. Aktif terhadap TB, sehingga dapat menutupi diagnosis TB bila diberikan tanpa indikasi jelas.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levofloxacin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levofloxacin/PNG?image_size=300x300",
+          "merek": [
+            "Levofloxacin (generik)",
+            "Cravit",
+            "Farlev"
+          ]
         },
         {
           "id": "moksifloksasin",
@@ -1062,7 +1166,11 @@
             "Antidiabetik: disglikemia"
           ],
           "catatan": "Konsentrasi di urin rendah sehingga tidak dipakai untuk ISK.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/moxifloxacin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/moxifloxacin/PNG?image_size=300x300",
+          "merek": [
+            "Avelox",
+            "Vigamox (tetes mata)"
+          ]
         }
       ]
     },
@@ -1109,7 +1217,11 @@
             "Penginduksi CYP3A4 (rifampisin): menurunkan kadar klindamisin"
           ],
           "catatan": "Hentikan dan evaluasi C. difficile bila muncul diare berat.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clindamycin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clindamycin/PNG?image_size=300x300",
+          "merek": [
+            "Clindamycin (generik)",
+            "Dalacin C"
+          ]
         }
       ]
     },
@@ -1155,7 +1267,11 @@
             "Anestesi umum: risiko reaksi infus pada anak"
           ],
           "catatan": "Vankomisin oral tidak diabsorpsi sistemik dan tidak efektif untuk infeksi sistemik. Red man syndrome diatasi dengan memperlambat infus dan antihistamin.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/vancomycin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/vancomycin/PNG?image_size=300x300",
+          "merek": [
+            "Vancomycin (generik)",
+            "Vanceril*"
+          ]
         }
       ]
     },
@@ -1211,7 +1327,12 @@
             "Siklosporin: nefrotoksisitas"
           ],
           "catatan": "Hindari pada trimester pertama dan akhir kehamilan, bayi < 2 bulan, dan defisiensi G6PD (risiko hemolisis).",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sulfamethoxazole/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sulfamethoxazole/PNG?image_size=300x300",
+          "merek": [
+            "Bactrim",
+            "Cotrimoxazole (generik)",
+            "Sanprima"
+          ]
         }
       ]
     },
@@ -1266,7 +1387,12 @@
             "Busulfan dan fenitoin: kadar berubah"
           ],
           "catatan": "Umumnya dihindari pada trimester pertama kecuali indikasi kuat.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metronidazole/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metronidazole/PNG?image_size=300x300",
+          "merek": [
+            "Flagyl",
+            "Metronidazole (generik)",
+            "Trichodazol"
+          ]
         }
       ]
     },
@@ -1311,7 +1437,10 @@
             "Kuinolon: antagonisme in vitro"
           ],
           "catatan": "Tidak untuk pielonefritis atau infeksi sistemik. Hindari pada kehamilan aterm dan bayi < 1 bulan.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nitrofurantoin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nitrofurantoin/PNG?image_size=300x300",
+          "merek": [
+            "Furadantin"
+          ]
         },
         {
           "id": "linezolid",
@@ -1352,7 +1481,11 @@
             "Simpatomimetik/pseudoefedrin dan makanan tinggi tiramin: krisis hipertensi"
           ],
           "catatan": "Bioavailabilitas oral hampir 100%, sehingga IV dapat diganti oral bila saluran cerna berfungsi. Simpan untuk infeksi resisten (stewardship).",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/linezolid/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/linezolid/PNG?image_size=300x300",
+          "merek": [
+            "Zyvox",
+            "Linezolid (generik)"
+          ]
         }
       ]
     },
@@ -1400,7 +1533,11 @@
             "Isoniazid dan pirazinamid: hepatotoksisitas aditif"
           ],
           "catatan": "Berikan perempuan dengan kontrasepsi hormonal informasi bahwa efektivitasnya turun; gunakan metode alternatif.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rifampin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rifampin/PNG?image_size=300x300",
+          "merek": [
+            "Rifampicin (generik)",
+            "Rifampin"
+          ]
         },
         {
           "id": "isoniazid",
@@ -1439,7 +1576,10 @@
             "Disulfiram: gangguan perilaku"
           ],
           "catatan": "Asetilator lambat berisiko lebih tinggi neuropati dan hepatotoksisitas.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/isoniazid/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/isoniazid/PNG?image_size=300x300",
+          "merek": [
+            "INH (generik)"
+          ]
         },
         {
           "id": "etambutol",
@@ -1473,7 +1613,10 @@
             "Obat neurotoksik lain: efek aditif"
           ],
           "catatan": "Hentikan segera bila ada keluhan penglihatan. Sulit dinilai pada anak kecil yang tidak dapat melaporkan gejala penglihatan.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ethambutol/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ethambutol/PNG?image_size=300x300",
+          "merek": [
+            "Ethambutol (generik)"
+          ]
         },
         {
           "id": "pirazinamid",
@@ -1508,7 +1651,10 @@
             "Siklosporin: kadar dapat menurun"
           ],
           "catatan": "Hati-hati pada gout dan penyakit hati. Tidak dianjurkan pada TB pada kehamilan di sebagian pedoman bila alternatif ada; ikuti pedoman nasional.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pyrazinamide/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pyrazinamide/PNG?image_size=300x300",
+          "merek": [
+            "Pyrazinamide (generik)"
+          ]
         }
       ]
     }

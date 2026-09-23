@@ -39,7 +39,12 @@
             "Teofilin: dapat menurunkan bersihan cetirizine"
           ],
           "catatan": "Meski tergolong generasi kedua, cetirizine memiliki sedasi ringan yang lebih terasa dibanding loratadine atau fexofenadine.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cetirizine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cetirizine/PNG?image_size=300x300",
+          "merek": [
+            "Cetirizine (generik)",
+            "Zyrtec",
+            "Incidal-OD"
+          ]
         },
         {
           "id": "loratadine",
@@ -69,7 +74,11 @@
             "Inhibitor CYP3A4 dan CYP2D6 (ketokonazol, eritromisin): meningkatkan kadar loratadine, umumnya tanpa signifikansi klinis besar"
           ],
           "catatan": "Salah satu antihistamin dengan profil sedasi paling rendah, cocok untuk penggunaan siang hari.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/loratadine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/loratadine/PNG?image_size=300x300",
+          "merek": [
+            "Loratadine (generik)",
+            "Clarityne"
+          ]
         },
         {
           "id": "difenhidramin",
@@ -108,7 +117,11 @@
             "Antikolinergik lain: efek aditif"
           ],
           "catatan": "Hindari pada lansia bila memungkinkan (kriteria Beers) karena risiko kebingungan dan jatuh.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diphenhydramine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diphenhydramine/PNG?image_size=300x300",
+          "merek": [
+            "Benadryl",
+            "Diphenhydramine (generik)"
+          ]
         }
       ]
     },
@@ -152,7 +165,12 @@
             "MAOI dan antidepresan trisiklik: dapat memperkuat efek pressor"
           ],
           "catatan": "Injeksi IM di paha anterolateral adalah rute dan lokasi pilihan pada anafilaksis; jangan tunda pemberian karena ragu-ragu, karena keterlambatan meningkatkan risiko fatal.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/epinephrine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/epinephrine/PNG?image_size=300x300",
+          "merek": [
+            "Epinephrine (generik)",
+            "Adrenalin",
+            "EpiPen"
+          ]
         }
       ]
     },
@@ -193,7 +211,11 @@
             "Teh dan kopi: menurunkan absorpsi besi"
           ],
           "catatan": "Simpan jauh dari jangkauan anak karena overdosis besi pada anak dapat fatal.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ferrous%20sulfate/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ferrous%20sulfate/PNG?image_size=300x300",
+          "merek": [
+            "Sangobion*",
+            "Ferrous Sulfate (generik)"
+          ]
         },
         {
           "id": "vitamin-b12",
@@ -226,7 +248,11 @@
             "Kloramfenikol: dapat mengganggu respons hematologis terhadap B12"
           ],
           "catatan": "Anemia pernisiosa akibat kekurangan faktor intrinsik memerlukan terapi seumur hidup, biasanya melalui rute injeksi atau oral dosis sangat tinggi.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cyanocobalamin/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cyanocobalamin/PNG?image_size=300x300",
+          "merek": [
+            "Neurobion*",
+            "Cobazim"
+          ]
         },
         {
           "id": "asam-folat",
@@ -256,7 +282,11 @@
             "Metotreksat: folat mengurangi efek samping tanpa mengurangi efikasi bila dosis dan jadwal tepat"
           ],
           "catatan": "Jangan memberikan asam folat dosis tinggi tanpa memastikan status B12 terlebih dahulu, karena dapat menutupi anemia megaloblastik akibat defisiensi B12 sementara kerusakan saraf tetap berlanjut.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/folic%20acid/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/folic%20acid/PNG?image_size=300x300",
+          "merek": [
+            "Folic Acid (generik)",
+            "Folamil*"
+          ]
         }
       ]
     },
@@ -295,7 +325,11 @@
             "Litium: dapat memperkuat pelepasan neutrofil"
           ],
           "catatan": "Nyeri tulang dapat diatasi dengan analgesik non-opioid (parasetamol) tanpa perlu menghentikan terapi.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Neupogen",
+            "Leucogen"
+          ]
         }
       ]
     },
@@ -337,7 +371,11 @@
             "Diuretik: risiko dehidrasi dan gagal ginjal aditif"
           ],
           "catatan": "Periksa kadar IgA sebelum terapi pertama karena pasien dengan defisiensi IgA berisiko anafilaksis akibat antibodi anti-IgA.",
-          "gambar": null
+          "gambar": null,
+          "merek": [
+            "Gamunex",
+            "Octagam"
+          ]
         }
       ]
     },
@@ -385,7 +423,11 @@
             "NSAID dan aminoglikosida: nefrotoksisitas aditif"
           ],
           "catatan": "Rentang terapi sempit; pemantauan kadar obat rutin wajib dilakukan sepanjang terapi.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cyclosporine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cyclosporine/PNG?image_size=300x300",
+          "merek": [
+            "Sandimmun",
+            "Cyclosporine (generik)"
+          ]
         },
         {
           "id": "azatioprin",
@@ -419,7 +461,11 @@
             "Warfarin: efek dapat berubah"
           ],
           "catatan": "Pasien dengan defisiensi TPMT (thiopurine methyltransferase) berisiko tinggi mielosupresi berat pada dosis standar.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/azathioprine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/azathioprine/PNG?image_size=300x300",
+          "merek": [
+            "Imuran",
+            "Azathioprine (generik)"
+          ]
         },
         {
           "id": "mikofenolat-mofetil",
@@ -456,7 +502,11 @@
             "Asiklovir dan gansiklovir: kadar keduanya dapat meningkat"
           ],
           "catatan": "Program pencegahan kehamilan wajib (REMS) karena risiko teratogenik tinggi; kontrasepsi efektif diperlukan selama dan setelah terapi.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/mycophenolate%20mofetil/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/mycophenolate%20mofetil/PNG?image_size=300x300",
+          "merek": [
+            "CellCept",
+            "Mycophenolate Mofetil (generik)"
+          ]
         },
         {
           "id": "takrolimus",
@@ -494,7 +544,11 @@
             "Obat nefrotoksik lain (aminoglikosida, NSAID): efek aditif"
           ],
           "catatan": "Rentang terapi sempit seperti siklosporin; pemantauan kadar obat rutin wajib.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tacrolimus/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tacrolimus/PNG?image_size=300x300",
+          "merek": [
+            "Prograf",
+            "Tacrolimus (generik)"
+          ]
         }
       ]
     },
@@ -533,7 +587,11 @@
             "Warfarin: efek antikoagulan berlawanan langsung (tujuan terapi)"
           ],
           "catatan": "Pemberian IV harus sangat lambat (encerkan dan infus perlahan) untuk mengurangi risiko reaksi anafilaktoid.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phytonadione/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phytonadione/PNG?image_size=300x300",
+          "merek": [
+            "Vitamin K1 (generik)",
+            "Kaywan"
+          ]
         },
         {
           "id": "protamin-sulfat",
@@ -563,7 +621,10 @@
             "Heparin: efek berlawanan langsung (tujuan terapi)"
           ],
           "catatan": "Pemberian terlalu cepat dapat menyebabkan hipotensi berat; pasien dengan alergi ikan atau riwayat penggunaan insulin protamin berisiko reaksi anafilaktoid lebih tinggi.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/protamine%20sulfate/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/protamine%20sulfate/PNG?image_size=300x300",
+          "merek": [
+            "Protamine Sulfate (generik)"
+          ]
         }
       ]
     },
@@ -606,7 +667,12 @@
             "Faktor koagulasi konsentrat: risiko trombosis aditif"
           ],
           "catatan": "Kontraindikasi pada riwayat tromboemboli aktif dan perdarahan subarachnoid (dapat meningkatkan risiko iskemia serebral).",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tranexamic%20acid/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tranexamic%20acid/PNG?image_size=300x300",
+          "merek": [
+            "Kalnex",
+            "Transamin",
+            "Tranexamic Acid (generik)"
+          ]
         }
       ]
     }
