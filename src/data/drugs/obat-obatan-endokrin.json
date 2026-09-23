@@ -1,0 +1,768 @@
+{
+  "kelas_obat": [
+    {
+      "id": "antidiabetes-biguanid",
+      "kelas": "Antidiabetes: Biguanid",
+      "mekanisme": "Menurunkan produksi glukosa hati (glukoneogenesis) dan meningkatkan sensitivitas jaringan perifer terhadap insulin, tanpa merangsang sekresi insulin",
+      "obat": [
+        {
+          "id": "metformin",
+          "nama": "Metformin",
+          "indikasi": [
+            "Diabetes melitus tipe 2 (lini pertama)",
+            "Sindrom ovarium polikistik (off-label)",
+            "Prediabetes (pada kelompok risiko tinggi)"
+          ],
+          "sediaan": [
+            "Tablet 500 mg, 850 mg, 1000 mg",
+            "Tablet lepas lambat (XR) 500 mg, 750 mg, 1000 mg"
+          ],
+          "efek_samping": [
+            "Mual dan diare (sering, terutama awal terapi)",
+            "Rasa logam di mulut",
+            "Defisiensi vitamin B12 (jangka panjang)",
+            "Asidosis laktat (jarang, terutama pada gangguan ginjal berat)"
+          ],
+          "tatalaksana": [
+            "Awal 500 mg 1-2x/hari bersama makanan, titrasi bertahap sampai 2000-2550 mg/hari",
+            "Mulai dengan dosis rendah dan naikkan perlahan untuk mengurangi keluhan GI"
+          ],
+          "monitoring": [
+            "Fungsi ginjal (eGFR) sebelum dan berkala selama terapi",
+            "HbA1c",
+            "Vitamin B12 (jangka panjang)",
+            "Tanda asidosis laktat pada kondisi berisiko"
+          ],
+          "interaksi": [
+            "Kontras iodin: hentikan sementara sebelum dan sesudah prosedur pada gangguan ginjal",
+            "Alkohol: meningkatkan risiko asidosis laktat",
+            "Obat kationik (simetidin): dapat meningkatkan kadar metformin"
+          ],
+          "catatan": "Kontraindikasi pada eGFR < 30 mL/menit/1,73m²; kurangi dosis pada eGFR 30-45. Hentikan sementara pada kondisi akut yang berisiko hipoksia/gangguan ginjal akut.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metformin/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antidiabetes-sulfonilurea",
+      "kelas": "Antidiabetes: Sulfonilurea",
+      "mekanisme": "Merangsang sekresi insulin dari sel beta pankreas dengan menutup kanal kalium ATP-sensitif, menyebabkan depolarisasi sel dan pelepasan insulin",
+      "obat": [
+        {
+          "id": "glibenklamid",
+          "nama": "Glibenklamid (Gliburid)",
+          "indikasi": [
+            "Diabetes melitus tipe 2 (bila metformin tidak cukup atau tidak toleran)"
+          ],
+          "sediaan": [
+            "Tablet 5 mg"
+          ],
+          "efek_samping": [
+            "Hipoglikemia (risiko tertinggi di antara sulfonilurea)",
+            "Penambahan berat badan",
+            "Ruam"
+          ],
+          "tatalaksana": [
+            "Awal 2,5-5 mg 1x/hari sebelum makan pagi, titrasi sampai maks 20 mg/hari"
+          ],
+          "monitoring": [
+            "Glukosa darah (terutama risiko hipoglikemia)",
+            "HbA1c",
+            "Fungsi ginjal dan hati"
+          ],
+          "interaksi": [
+            "Kotrimoksazol dan flukonazol: risiko hipoglikemia berat",
+            "Penyekat beta: dapat menutupi gejala hipoglikemia",
+            "Alkohol: risiko hipoglikemia dan reaksi mirip disulfiram"
+          ],
+          "catatan": "Hindari pada lansia dan gangguan ginjal karena risiko hipoglikemia berkepanjangan; gliklazid atau glimepirid lebih disukai bila sulfonilurea tetap diperlukan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/glyburide/PNG?image_size=300x300"
+        },
+        {
+          "id": "gliklazid",
+          "nama": "Gliklazid",
+          "indikasi": [
+            "Diabetes melitus tipe 2"
+          ],
+          "sediaan": [
+            "Tablet 80 mg",
+            "Tablet lepas lambat (MR) 30 mg, 60 mg"
+          ],
+          "efek_samping": [
+            "Hipoglikemia (risiko lebih rendah dibanding glibenklamid)",
+            "Penambahan berat badan ringan",
+            "Gangguan GI ringan"
+          ],
+          "tatalaksana": [
+            "Lepas lambat: awal 30 mg 1x/hari saat sarapan, titrasi sampai maks 120 mg/hari"
+          ],
+          "monitoring": [
+            "Glukosa darah",
+            "HbA1c",
+            "Fungsi ginjal dan hati"
+          ],
+          "interaksi": [
+            "Kotrimoksazol dan flukonazol: risiko hipoglikemia",
+            "Penyekat beta: dapat menutupi gejala hipoglikemia"
+          ],
+          "catatan": "Profil hipoglikemia lebih aman dibanding glibenklamid, sering menjadi pilihan sulfonilurea utama.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gliclazide/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antidiabetes-dpp4-sglt2",
+      "kelas": "Antidiabetes: DPP-4 Inhibitor dan SGLT2 Inhibitor",
+      "mekanisme": "DPP-4 inhibitor memperpanjang kerja inkretin (GLP-1, GIP) endogen sehingga meningkatkan sekresi insulin bergantung glukosa; SGLT2 inhibitor menghambat reabsorpsi glukosa di tubulus proksimal ginjal sehingga glukosa diekskresikan lewat urin",
+      "obat": [
+        {
+          "id": "sitagliptin",
+          "nama": "Sitagliptin",
+          "mekanisme": "Menghambat enzim DPP-4 sehingga memperpanjang kerja GLP-1 dan GIP endogen, meningkatkan sekresi insulin bergantung glukosa dan menekan glukagon",
+          "indikasi": [
+            "Diabetes melitus tipe 2 (adjuvan atau kombinasi)"
+          ],
+          "sediaan": [
+            "Tablet 25 mg, 50 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Nasofaringitis",
+            "Sakit kepala",
+            "Pankreatitis akut (jarang)",
+            "Nyeri sendi"
+          ],
+          "tatalaksana": [
+            "100 mg 1x/hari, sesuaikan dosis pada gangguan ginjal (50 mg atau 25 mg)"
+          ],
+          "monitoring": [
+            "Glukosa darah dan HbA1c",
+            "Fungsi ginjal",
+            "Gejala pankreatitis"
+          ],
+          "interaksi": [
+            "Risiko hipoglikemia meningkat bila dikombinasi dengan sulfonilurea atau insulin (pertimbangkan penurunan dosis keduanya)"
+          ],
+          "catatan": "Risiko hipoglikemia rendah bila digunakan sebagai monoterapi karena kerja bergantung glukosa.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sitagliptin/PNG?image_size=300x300"
+        },
+        {
+          "id": "empagliflozin",
+          "nama": "Empagliflozin",
+          "mekanisme": "Menghambat SGLT2 di tubulus proksimal ginjal sehingga reabsorpsi glukosa berkurang dan ekskresi glukosa lewat urin meningkat; juga memberi manfaat kardiorenal independen dari efek glikemik",
+          "indikasi": [
+            "Diabetes melitus tipe 2",
+            "Gagal jantung (dengan atau tanpa diabetes)",
+            "Penyakit ginjal kronik (manfaat kardiorenal)"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 25 mg"
+          ],
+          "efek_samping": [
+            "Infeksi jamur genital",
+            "Infeksi saluran kemih",
+            "Poliuria",
+            "Hipotensi (deplesi volume)",
+            "Ketoasidosis diabetik euglikemik (jarang)",
+            "Fraktur dan amputasi (kelas terkait, lebih jarang pada empagliflozin)"
+          ],
+          "tatalaksana": [
+            "10 mg 1x/hari, dapat dinaikkan sampai 25 mg/hari",
+            "Tidak dianjurkan pada eGFR sangat rendah tergantung indikasi"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Tanda infeksi genital dan saluran kemih",
+            "Status volume/hidrasi",
+            "Tanda ketoasidosis meskipun glukosa tidak terlalu tinggi"
+          ],
+          "interaksi": [
+            "Diuretik: risiko deplesi volume dan hipotensi aditif",
+            "Insulin dan sulfonilurea: risiko hipoglikemia meningkat"
+          ],
+          "catatan": "Hentikan sementara sebelum operasi besar atau saat sakit akut (sick day rules) untuk mengurangi risiko ketoasidosis euglikemik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/empagliflozin/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antidiabetes-glp1",
+      "kelas": "Antidiabetes: GLP-1 Receptor Agonist",
+      "mekanisme": "Agonis reseptor GLP-1 yang meningkatkan sekresi insulin bergantung glukosa, menekan sekresi glukagon, memperlambat pengosongan lambung, dan meningkatkan rasa kenyang",
+      "obat": [
+        {
+          "id": "liraglutide",
+          "nama": "Liraglutide",
+          "indikasi": [
+            "Diabetes melitus tipe 2",
+            "Manajemen berat badan kronik pada obesitas (dosis lebih tinggi, produk berbeda)"
+          ],
+          "sediaan": [
+            "Pen injeksi SC 6 mg/mL (18 mg/3 mL)"
+          ],
+          "efek_samping": [
+            "Mual dan muntah (sering, terutama awal terapi)",
+            "Diare",
+            "Pankreatitis akut (jarang)",
+            "Risiko tumor sel C tiroid pada studi hewan (boxed warning)"
+          ],
+          "tatalaksana": [
+            "Awal 0,6 mg SC 1x/hari selama 1 minggu, naikkan bertahap sampai 1,8 mg/hari untuk diabetes"
+          ],
+          "monitoring": [
+            "Glukosa darah dan HbA1c",
+            "Berat badan",
+            "Gejala pankreatitis",
+            "Riwayat keluarga kanker tiroid meduler"
+          ],
+          "interaksi": [
+            "Insulin dan sulfonilurea: risiko hipoglikemia meningkat",
+            "Obat oral lain: pengosongan lambung yang melambat dapat mempengaruhi absorpsi"
+          ],
+          "catatan": "Kontraindikasi pada riwayat pribadi/keluarga karsinoma tiroid meduler dan sindrom MEN 2.",
+          "gambar": null
+        },
+        {
+          "id": "semaglutide",
+          "nama": "Semaglutide",
+          "indikasi": [
+            "Diabetes melitus tipe 2",
+            "Manajemen berat badan kronik pada obesitas (dosis lebih tinggi, produk berbeda)",
+            "Pengurangan risiko kardiovaskular pada diabetes dengan penyakit kardiovaskular"
+          ],
+          "sediaan": [
+            "Pen injeksi SC 0,25/0,5/1/2 mg per dosis (mingguan)",
+            "Tablet oral 3 mg, 7 mg, 14 mg"
+          ],
+          "efek_samping": [
+            "Mual dan muntah",
+            "Diare",
+            "Pankreatitis akut (jarang)",
+            "Risiko tumor sel C tiroid pada studi hewan (boxed warning)",
+            "Retinopati diabetik memburuk (pada perbaikan glikemik cepat)"
+          ],
+          "tatalaksana": [
+            "SC: awal 0,25 mg 1x/minggu selama 4 minggu, titrasi bertahap sampai 1-2 mg/minggu",
+            "Oral: awal 3 mg 1x/hari saat perut kosong dengan sedikit air, titrasi bertahap"
+          ],
+          "monitoring": [
+            "Glukosa darah dan HbA1c",
+            "Berat badan",
+            "Riwayat keluarga kanker tiroid meduler",
+            "Pemeriksaan mata pada riwayat retinopati"
+          ],
+          "interaksi": [
+            "Insulin dan sulfonilurea: risiko hipoglikemia meningkat",
+            "Warfarin: dapat mempengaruhi INR akibat perubahan penyerapan"
+          ],
+          "catatan": "Sama seperti liraglutide, kontraindikasi pada riwayat karsinoma tiroid meduler dan MEN 2. Bentuk oral harus diminum saat benar-benar perut kosong.",
+          "gambar": null
+        }
+      ]
+    },
+    {
+      "id": "insulin",
+      "kelas": "Insulin",
+      "mekanisme": "Berikatan dengan reseptor insulin pada sel target sehingga meningkatkan ambilan glukosa oleh otot dan jaringan lemak serta menekan produksi glukosa hati",
+      "obat": [
+        {
+          "id": "insulin-glargine",
+          "nama": "Insulin Glargine (kerja panjang)",
+          "indikasi": [
+            "Diabetes melitus tipe 1 dan tipe 2 yang memerlukan insulin basal"
+          ],
+          "sediaan": [
+            "Pen/vial injeksi SC 100 unit/mL, 300 unit/mL"
+          ],
+          "efek_samping": [
+            "Hipoglikemia",
+            "Penambahan berat badan",
+            "Lipohipertrofi di lokasi injeksi",
+            "Reaksi lokal"
+          ],
+          "tatalaksana": [
+            "Dosis awal 0,1-0,2 unit/kgBB/hari SC 1x/hari (waktu tetap setiap hari), dititrasi berdasarkan glukosa darah puasa"
+          ],
+          "monitoring": [
+            "Glukosa darah puasa dan HbA1c",
+            "Tanda hipoglikemia",
+            "Lokasi injeksi (rotasi untuk mencegah lipohipertrofi)"
+          ],
+          "interaksi": [
+            "Penyekat beta: dapat menutupi gejala hipoglikemia",
+            "Kortikosteroid: meningkatkan kebutuhan insulin",
+            "Alkohol: risiko hipoglikemia"
+          ],
+          "catatan": "Profil kerja relatif datar tanpa puncak yang jelas (peakless), sehingga risiko hipoglikemia nokturnal lebih rendah dibanding NPH.",
+          "gambar": null
+        },
+        {
+          "id": "insulin-aspart",
+          "nama": "Insulin Aspart (kerja cepat)",
+          "indikasi": [
+            "Kontrol glukosa prandial pada diabetes tipe 1 dan tipe 2",
+            "Insulin pump (CSII)"
+          ],
+          "sediaan": [
+            "Pen/vial injeksi SC 100 unit/mL"
+          ],
+          "efek_samping": [
+            "Hipoglikemia",
+            "Reaksi lokal di tempat injeksi",
+            "Lipohipertrofi"
+          ],
+          "tatalaksana": [
+            "Diberikan 5-15 menit sebelum makan, dosis disesuaikan dengan asupan karbohidrat dan kadar glukosa"
+          ],
+          "monitoring": [
+            "Glukosa darah sebelum dan sesudah makan",
+            "Tanda hipoglikemia"
+          ],
+          "interaksi": [
+            "Penyekat beta: menutupi gejala hipoglikemia",
+            "Kortikosteroid: meningkatkan kebutuhan insulin"
+          ],
+          "catatan": "Onset lebih cepat dan durasi lebih singkat dibanding insulin reguler manusia, memungkinkan pemberian lebih dekat ke waktu makan.",
+          "gambar": null
+        }
+      ]
+    },
+    {
+      "id": "hormon-tiroid",
+      "kelas": "Hormon Tiroid dan Antitiroid",
+      "mekanisme": "Levotiroksin menggantikan hormon tiroid endogen (T4) yang kekurangan; obat antitiroid menghambat sintesis hormon tiroid pada kelenjar tiroid yang overaktif",
+      "obat": [
+        {
+          "id": "levotiroksin",
+          "nama": "Levotiroksin",
+          "indikasi": [
+            "Hipotiroidisme (terapi pengganti seumur hidup)",
+            "Supresi TSH pada nodul tiroid atau pasca-tiroidektomi kanker tiroid"
+          ],
+          "sediaan": [
+            "Tablet 25 mcg, 50 mcg, 75 mcg, 100 mcg, 150 mcg"
+          ],
+          "efek_samping": [
+            "Gejala hipertiroid bila dosis berlebih (palpitasi, tremor, insomnia, penurunan berat badan)",
+            "Aritmia dan osteoporosis (dosis berlebih jangka panjang)"
+          ],
+          "tatalaksana": [
+            "Dewasa: 1,6 mcg/kgBB/hari (dosis lebih rendah pada lansia atau penyakit jantung), diminum saat perut kosong pagi hari 30-60 menit sebelum makan"
+          ],
+          "monitoring": [
+            "TSH (setiap 6-8 minggu saat titrasi, lalu tahunan)",
+            "T4 bebas pada kondisi tertentu",
+            "Gejala klinis hipo/hipertiroid"
+          ],
+          "interaksi": [
+            "Kalsium, zat besi, antasida, sukralfat: menurunkan absorpsi, beri jeda ≥ 4 jam",
+            "Kolestiramin: menurunkan absorpsi",
+            "Warfarin: dapat meningkatkan efek antikoagulan",
+            "Rifampisin dan fenitoin: meningkatkan metabolisme levotiroksin"
+          ],
+          "catatan": "Konsistensi waktu dan cara minum penting karena variasi kecil dapat mengubah kadar TSH secara bermakna.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levothyroxine/PNG?image_size=300x300"
+        },
+        {
+          "id": "metimazol",
+          "nama": "Metimazol (Tiamazol)",
+          "mekanisme": "Menghambat enzim tiroid peroksidase sehingga mengganggu organifikasi iodin dan sintesis hormon tiroid",
+          "indikasi": [
+            "Hipertiroidisme (penyakit Graves, goiter multinodular toksik)",
+            "Persiapan pra-operasi atau terapi iodin radioaktif"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg"
+          ],
+          "efek_samping": [
+            "Ruam",
+            "Agranulositosis (jarang tapi serius)",
+            "Hepatotoksik (kolestatik)",
+            "Artralgia"
+          ],
+          "tatalaksana": [
+            "Awal 10-30 mg/hari terbagi 1-3 dosis sesuai keparahan, dosis rumatan diturunkan bertahap setelah eutiroid"
+          ],
+          "monitoring": [
+            "Fungsi tiroid (TSH, T4 bebas) setiap 4-6 minggu saat titrasi",
+            "Hitung darah lengkap (terutama bila demam atau sakit tenggorokan)",
+            "Fungsi hati"
+          ],
+          "interaksi": [
+            "Warfarin: dapat mengurangi efek antikoagulan (berbeda dari levotiroksin)",
+            "Beta blocker: sering dikombinasikan untuk mengontrol gejala adrenergik hipertiroid"
+          ],
+          "catatan": "Segera hentikan dan periksa darah bila demam atau sakit tenggorokan muncul karena kemungkinan agranulositosis. Lebih disukai dibanding propiltiourasil kecuali pada trimester pertama kehamilan atau krisis tiroid.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methimazole/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "kortikosteroid-endokrin",
+      "kelas": "Kortikosteroid untuk Terapi Pengganti Endokrin",
+      "mekanisme": "Menggantikan hormon glukokortikoid dan/atau mineralokortikoid endogen yang kekurangan akibat insufisiensi adrenal",
+      "obat": [
+        {
+          "id": "hidrokortison",
+          "nama": "Hidrokortison",
+          "indikasi": [
+            "Insufisiensi adrenal primer dan sekunder (terapi pengganti)",
+            "Krisis adrenal (dosis stres)",
+            "Hiperplasia adrenal kongenital"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 20 mg",
+            "Injeksi IV/IM 100 mg (natrium suksinat)"
+          ],
+          "efek_samping": [
+            "Gejala Cushingoid (dosis berlebih)",
+            "Hiperglikemia",
+            "Hipertensi",
+            "Osteoporosis (jangka panjang)",
+            "Insomnia"
+          ],
+          "tatalaksana": [
+            "Terapi pengganti: 15-25 mg/hari terbagi 2-3 dosis, dosis lebih tinggi di pagi hari meniru ritme kortisol alami",
+            "Krisis adrenal: 100 mg IV bolus, dilanjutkan 100-200 mg/24 jam infus atau terbagi"
+          ],
+          "monitoring": [
+            "Gejala klinis kecukupan dosis (energi, berat badan, tekanan darah)",
+            "Elektrolit",
+            "Glukosa darah"
+          ],
+          "interaksi": [
+            "Penginduksi CYP3A4 (rifampisin, fenitoin): menurunkan efek hidrokortison, perlu peningkatan dosis",
+            "Ketokonazol: menghambat sintesis kortisol endogen, dapat memerlukan penyesuaian"
+          ],
+          "catatan": "Pasien perlu kartu/gelang identifikasi medis dan edukasi 'sick day rules' (menggandakan/tiga kali lipat dosis saat sakit) serta cara pemberian injeksi darurat untuk mencegah krisis adrenal.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydrocortisone/PNG?image_size=300x300"
+        },
+        {
+          "id": "fludrokortison",
+          "nama": "Fludrokortison",
+          "mekanisme": "Mineralokortikoid sintetik poten yang berikatan dengan reseptor aldosteron di tubulus ginjal, meningkatkan reabsorpsi natrium dan ekskresi kalium",
+          "indikasi": [
+            "Insufisiensi adrenal primer (terapi pengganti mineralokortikoid)",
+            "Hipotensi ortostatik berat (off-label)"
+          ],
+          "sediaan": [
+            "Tablet 0,1 mg"
+          ],
+          "efek_samping": [
+            "Hipertensi",
+            "Hipokalemia",
+            "Edema",
+            "Sakit kepala"
+          ],
+          "tatalaksana": [
+            "0,05-0,2 mg 1x/hari pagi hari"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Elektrolit (Na, K)",
+            "Tanda edema",
+            "Aktivitas renin plasma (panduan titrasi)"
+          ],
+          "interaksi": [
+            "NSAID: menurunkan efek",
+            "Diuretik: dapat menyebabkan gangguan elektrolit tambahan"
+          ],
+          "catatan": "Hanya diperlukan pada insufisiensi adrenal primer (Addison), tidak pada insufisiensi sekunder karena aksis renin-angiotensin-aldosteron umumnya masih utuh.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fludrocortisone/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "kontrasepsi-hormonal",
+      "kelas": "Kontrasepsi Hormonal",
+      "mekanisme": "Kombinasi estrogen-progestin atau progestin saja yang menekan ovulasi melalui umpan balik negatif pada aksis hipotalamus-hipofisis, serta mengentalkan lendir serviks dan menipiskan endometrium",
+      "obat": [
+        {
+          "id": "pil-kombinasi",
+          "nama": "Pil KB Kombinasi (Etinilestradiol-Levonorgestrel)",
+          "indikasi": [
+            "Kontrasepsi",
+            "Regulasi siklus menstruasi",
+            "Terapi akne dan hirsutisme (produk tertentu)",
+            "Manajemen nyeri endometriosis"
+          ],
+          "sediaan": [
+            "Tablet kombinasi 21 atau 28 hari (etinilestradiol 20-35 mcg + levonorgestrel)"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Nyeri payudara",
+            "Perdarahan bercak (breakthrough bleeding)",
+            "Tromboemboli vena",
+            "Peningkatan tekanan darah"
+          ],
+          "tatalaksana": [
+            "1 tablet 1x/hari pada waktu yang sama, mulai hari pertama menstruasi atau sesuai instruksi",
+            "Bila lupa 1 tablet, minum segera setelah ingat"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Gejala tromboemboli (nyeri kaki, sesak napas)",
+            "Riwayat merokok dan usia (faktor risiko kardiovaskular)"
+          ],
+          "interaksi": [
+            "Rifampisin, penginduksi enzim (karbamazepin, fenitoin): menurunkan efektivitas kontrasepsi",
+            "Antibiotik spektrum luas: teoritis dapat menurunkan efektivitas (bukti terbatas)",
+            "Lamotrigin: kadar lamotrigin dapat menurun"
+          ],
+          "catatan": "Kontraindikasi pada perokok usia > 35 tahun, riwayat tromboemboli, migrain dengan aura, dan hipertensi tidak terkontrol karena peningkatan risiko kardiovaskular.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levonorgestrel/PNG?image_size=300x300"
+        },
+        {
+          "id": "pil-progestin",
+          "nama": "Pil KB Progestin Saja (Mini Pill)",
+          "indikasi": [
+            "Kontrasepsi pada ibu menyusui",
+            "Kontrasepsi pada wanita dengan kontraindikasi estrogen"
+          ],
+          "sediaan": [
+            "Tablet desogestrel 75 mcg",
+            "Tablet levonorgestrel 30 mcg"
+          ],
+          "efek_samping": [
+            "Perdarahan tidak teratur",
+            "Sakit kepala",
+            "Nyeri payudara",
+            "Jerawat"
+          ],
+          "tatalaksana": [
+            "1 tablet 1x/hari tanpa jeda, pada waktu yang sama setiap hari (jendela toleransi lebih sempit dibanding kombinasi)"
+          ],
+          "monitoring": [
+            "Pola perdarahan",
+            "Kemungkinan kehamilan bila terlambat menstruasi"
+          ],
+          "interaksi": [
+            "Penginduksi enzim (rifampisin, karbamazepin): menurunkan efektivitas"
+          ],
+          "catatan": "Cocok untuk ibu menyusui karena tidak mengandung estrogen yang dapat menurunkan produksi ASI.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/desogestrel/PNG?image_size=300x300"
+        },
+        {
+          "id": "depo-medroksiprogesteron",
+          "nama": "Depo Medroksiprogesteron Asetat (DMPA)",
+          "indikasi": [
+            "Kontrasepsi jangka panjang (injeksi)"
+          ],
+          "sediaan": [
+            "Injeksi IM/SC 150 mg/mL"
+          ],
+          "efek_samping": [
+            "Perdarahan tidak teratur atau amenore",
+            "Penambahan berat badan",
+            "Penurunan densitas tulang (reversibel setelah dihentikan)",
+            "Penundaan kembalinya kesuburan (hingga 6-12 bulan)"
+          ],
+          "tatalaksana": [
+            "150 mg IM (atau 104 mg SC) setiap 12-13 minggu"
+          ],
+          "monitoring": [
+            "Berat badan",
+            "Pola perdarahan",
+            "Densitas tulang pada penggunaan sangat lama (> 2 tahun)"
+          ],
+          "interaksi": [
+            "Interaksi obat bermakna minimal"
+          ],
+          "catatan": "Penggunaan jangka panjang (> 2 tahun) memerlukan pertimbangan risiko-manfaat terkait densitas tulang, terutama pada remaja.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/medroxyprogesterone%20acetate/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "terapi-menopause-andropause",
+      "kelas": "Terapi Hormon Menopause dan Andropause",
+      "mekanisme": "Menggantikan hormon seks yang menurun (estrogen pada menopause, testosteron pada hipogonadisme pria) untuk meredakan gejala defisiensi hormon",
+      "obat": [
+        {
+          "id": "estrogen-terkonjugasi",
+          "nama": "Estrogen Terkonjugasi",
+          "indikasi": [
+            "Terapi hormon menopause untuk gejala vasomotor (hot flashes)",
+            "Atrofi vagina",
+            "Pencegahan osteoporosis pasca-menopause (bila indikasi lain juga ada)"
+          ],
+          "sediaan": [
+            "Tablet oral 0,3 mg, 0,625 mg, 1,25 mg",
+            "Krim vagina"
+          ],
+          "efek_samping": [
+            "Nyeri payudara",
+            "Mual",
+            "Tromboemboli vena",
+            "Peningkatan risiko kanker payudara dan endometrium (bila tanpa progestin pada wanita dengan rahim utuh)",
+            "Peningkatan risiko stroke"
+          ],
+          "tatalaksana": [
+            "Oral: 0,3-0,625 mg 1x/hari, dosis efektif terendah untuk durasi sesingkat mungkin",
+            "Wanita dengan rahim utuh harus dikombinasi dengan progestin untuk proteksi endometrium"
+          ],
+          "monitoring": [
+            "Gejala tromboemboli",
+            "Mammografi rutin",
+            "Evaluasi ulang kebutuhan terapi setiap tahun"
+          ],
+          "interaksi": [
+            "Penginduksi enzim (rifampisin, karbamazepin): menurunkan efektivitas",
+            "Tamoxifen: interaksi antagonis pada reseptor estrogen"
+          ],
+          "catatan": "Gunakan dosis efektif terendah untuk durasi tersingkat yang diperlukan karena risiko kardiovaskular dan kanker meningkat dengan durasi penggunaan.",
+          "gambar": null
+        },
+        {
+          "id": "testosteron",
+          "nama": "Testosteron (terapi pengganti)",
+          "indikasi": [
+            "Hipogonadisme pria (defisiensi testosteron terbukti secara laboratorium dan klinis)"
+          ],
+          "sediaan": [
+            "Gel topikal 1%, 1,62%",
+            "Injeksi IM testosteron enantat/cypionate 200 mg/mL",
+            "Patch transdermal"
+          ],
+          "efek_samping": [
+            "Eritrositosis (peningkatan hematokrit)",
+            "Jerawat",
+            "Ginekomastia",
+            "Penekanan spermatogenesis dan infertilitas",
+            "Apnea tidur memburuk",
+            "Risiko kardiovaskular (masih diperdebatkan)"
+          ],
+          "tatalaksana": [
+            "Gel: 25-100 mg/hari dioleskan pada kulit kering",
+            "Injeksi IM: 75-100 mg setiap minggu atau 150-200 mg setiap 2 minggu"
+          ],
+          "monitoring": [
+            "Kadar testosteron serum (target rentang normal-tengah)",
+            "Hematokrit/hemoglobin",
+            "PSA dan pemeriksaan prostat pada pria > 40 tahun",
+            "Gejala apnea tidur"
+          ],
+          "interaksi": [
+            "Antikoagulan (warfarin): dapat meningkatkan efek antikoagulan",
+            "Insulin dan antidiabetik: dapat meningkatkan sensitivitas insulin"
+          ],
+          "catatan": "Kontraindikasi pada kanker prostat atau payudara pria yang diketahui/dicurigai. Hindari kontak kulit dengan orang lain (terutama wanita hamil dan anak) pada sediaan gel karena risiko transfer hormon.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/testosterone/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "oksitosik-tokolitik",
+      "kelas": "Oksitosik dan Tokolitik",
+      "mekanisme": "Oksitosik merangsang kontraksi otot polos uterus melalui reseptor oksitosin; tokolitik menghambat kontraksi uterus melalui berbagai jalur (beta-2 agonis, penghambat kanal kalsium, antagonis oksitosin)",
+      "obat": [
+        {
+          "id": "oksitosin",
+          "nama": "Oksitosin",
+          "mekanisme": "Berikatan dengan reseptor oksitosin pada miometrium sehingga merangsang kontraksi uterus ritmis",
+          "indikasi": [
+            "Induksi dan augmentasi persalinan",
+            "Pencegahan dan tata laksana perdarahan pasca-persalinan (atonia uteri)"
+          ],
+          "sediaan": [
+            "Injeksi IV/IM 10 unit/mL"
+          ],
+          "efek_samping": [
+            "Kontraksi uterus berlebihan (hiperstimulasi)",
+            "Hipotensi (bolus IV cepat)",
+            "Intoksikasi air/hiponatremia (infus lama dosis tinggi dengan cairan hipotonik)",
+            "Gawat janin akibat hiperstimulasi"
+          ],
+          "tatalaksana": [
+            "Induksi persalinan: infus IV mulai 1-2 mU/menit, dititrasi bertahap sesuai pola kontraksi",
+            "Perdarahan pasca-persalinan: 10 unit IM atau infus IV setelah kelahiran plasenta"
+          ],
+          "monitoring": [
+            "Pola kontraksi uterus dan denyut jantung janin (kardiotokografi)",
+            "Tekanan darah",
+            "Keseimbangan cairan dan elektrolit pada infus lama"
+          ],
+          "interaksi": [
+            "Vasokonstriktor lain: risiko hipertensi aditif",
+            "Anestesi umum: dapat memperkuat efek hipotensi"
+          ],
+          "catatan": "Harus diberikan dengan pemantauan ketat pola kontraksi dan denyut jantung janin karena risiko hiperstimulasi dan gawat janin.",
+          "gambar": null
+        },
+        {
+          "id": "misoprostol",
+          "nama": "Misoprostol",
+          "mekanisme": "Analog prostaglandin E1 yang menyebabkan pematangan serviks dan kontraksi uterus, serta memiliki efek protektif mukosa lambung",
+          "indikasi": [
+            "Induksi persalinan dan pematangan serviks",
+            "Tata laksana perdarahan pasca-persalinan",
+            "Manajemen keguguran inkomplit/missed abortion",
+            "Pencegahan ulkus akibat NSAID (indikasi terpisah)"
+          ],
+          "sediaan": [
+            "Tablet oral/vaginal/sublingual 200 mcg"
+          ],
+          "efek_samping": [
+            "Kram perut",
+            "Diare",
+            "Mual",
+            "Demam dan menggigil (dosis tinggi)",
+            "Hiperstimulasi uterus"
+          ],
+          "tatalaksana": [
+            "Induksi persalinan: 25 mcg vaginal setiap 3-6 jam sesuai protokol",
+            "Perdarahan pasca-persalinan: 600-800 mcg oral/sublingual/rektal dosis tunggal"
+          ],
+          "monitoring": [
+            "Pola kontraksi uterus dan denyut jantung janin",
+            "Suhu tubuh",
+            "Tanda perdarahan"
+          ],
+          "interaksi": [
+            "Oksitosin: efek uterotonik aditif, hati-hati kombinasi"
+          ],
+          "catatan": "Kontraindikasi relatif pada riwayat seksio sesarea (risiko ruptur uterus) untuk induksi persalinan. Penggunaan harus sesuai indikasi dan pengawasan tenaga terlatih.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/misoprostol/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "terapi-infertilitas",
+      "kelas": "Terapi Infertilitas",
+      "mekanisme": "Merangsang perkembangan folikel ovarium dan ovulasi melalui modulasi aksis hipotalamus-hipofisis-ovarium atau pemberian gonadotropin eksogen",
+      "obat": [
+        {
+          "id": "klomifen",
+          "nama": "Klomifen Sitrat",
+          "mekanisme": "Antagonis reseptor estrogen di hipotalamus yang memblok umpan balik negatif estrogen, meningkatkan sekresi GnRH dan gonadotropin (FSH/LH) sehingga merangsang perkembangan folikel",
+          "indikasi": [
+            "Induksi ovulasi pada infertilitas anovulasi (termasuk sindrom ovarium polikistik)"
+          ],
+          "sediaan": [
+            "Tablet 50 mg"
+          ],
+          "efek_samping": [
+            "Hot flashes",
+            "Kembung dan nyeri panggul",
+            "Gangguan penglihatan (jarang, hentikan bila terjadi)",
+            "Kehamilan multipel",
+            "Ovarian hyperstimulation syndrome (jarang)"
+          ],
+          "tatalaksana": [
+            "50 mg/hari selama 5 hari, dimulai hari ke-3-5 siklus menstruasi; dapat dinaikkan menjadi 100 mg pada siklus berikutnya bila tidak ovulasi"
+          ],
+          "monitoring": [
+            "Ovulasi (suhu basal, USG folikel)",
+            "Gejala hiperstimulasi ovarium",
+            "Gangguan penglihatan"
+          ],
+          "interaksi": [
+            "Interaksi obat bermakna minimal"
+          ],
+          "catatan": "Umumnya dibatasi maksimal 6 siklus karena manfaat menurun dan risiko kumulatif; evaluasi ulang bila tidak berhasil hamil.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clomiphene/PNG?image_size=300x300"
+        }
+      ]
+    }
+  ]
+}

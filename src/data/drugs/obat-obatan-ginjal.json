@@ -1,0 +1,522 @@
+{
+  "kelas_obat": [
+    {
+      "id": "diuretik-hemat-kalium",
+      "kelas": "Diuretik Hemat Kalium (Non-Antagonis Aldosteron)",
+      "mekanisme": "Menghambat kanal natrium epitel (ENaC) di tubulus kolektivus secara langsung, tanpa melalui reseptor aldosteron, sehingga menurunkan reabsorpsi natrium dan sekresi kalium",
+      "obat": [
+        {
+          "id": "amilorid",
+          "nama": "Amilorid",
+          "indikasi": [
+            "Hipertensi dan edema (kombinasi dengan diuretik lain untuk mencegah hipokalemia)",
+            "Diabetes insipidus akibat litium"
+          ],
+          "sediaan": [
+            "Tablet 5 mg",
+            "Kombinasi dengan hidroklorotiazid (5 mg/50 mg)"
+          ],
+          "efek_samping": [
+            "Hiperkalemia",
+            "Mual",
+            "Pusing",
+            "Ruam"
+          ],
+          "tatalaksana": [
+            "5-10 mg 1x/hari, biasanya dikombinasikan dengan diuretik tiazid atau loop"
+          ],
+          "monitoring": [
+            "Kalium serum",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "ACE inhibitor/ARB: risiko hiperkalemia aditif",
+            "Suplemen kalium: hindari kombinasi",
+            "Litium: kadar litium dapat meningkat"
+          ],
+          "catatan": "Jarang digunakan sebagai monoterapi; biasanya dalam kombinasi tetap dengan tiazid.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amiloride/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "alfa-blocker-uro",
+      "kelas": "Alfa-1 Blocker (Urologi)",
+      "mekanisme": "Antagonis reseptor alfa-1 adrenergik selektif pada otot polos leher kandung kemih dan prostat sehingga menurunkan resistensi aliran urin tanpa efek signifikan pada tekanan darah sistemik (untuk yang uroselektif)",
+      "obat": [
+        {
+          "id": "tamsulosin",
+          "nama": "Tamsulosin",
+          "indikasi": [
+            "Hiperplasia prostat jinak (BPH) simtomatik",
+            "Memfasilitasi pengeluaran batu ureter distal (medical expulsive therapy)"
+          ],
+          "sediaan": [
+            "Kapsul lepas lambat 0,4 mg"
+          ],
+          "efek_samping": [
+            "Pusing",
+            "Ejakulasi retrograd/abnormal",
+            "Hidung tersumbat",
+            "Intraoperative floppy iris syndrome (pada operasi katarak)"
+          ],
+          "tatalaksana": [
+            "0,4 mg 1x/hari, 30 menit setelah makan yang sama setiap hari",
+            "Dapat dinaikkan sampai 0,8 mg/hari bila respons kurang"
+          ],
+          "monitoring": [
+            "Gejala saluran kemih bawah (skor IPSS)",
+            "Tekanan darah ortostatik (terutama dosis awal)"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 dan CYP2D6 kuat: meningkatkan kadar tamsulosin",
+            "Inhibitor PDE-5 (sildenafil): risiko hipotensi aditif",
+            "Antihipertensi lain: efek hipotensi dapat bertambah"
+          ],
+          "catatan": "Beri tahu dokter mata sebelum operasi katarak karena risiko intraoperative floppy iris syndrome, meskipun obat sudah dihentikan sebelumnya.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tamsulosin/PNG?image_size=300x300"
+        },
+        {
+          "id": "doksazosin",
+          "nama": "Doksazosin",
+          "indikasi": [
+            "Hiperplasia prostat jinak (BPH)",
+            "Hipertensi (alfa-blocker non-selektif urologi)"
+          ],
+          "sediaan": [
+            "Tablet 1 mg, 2 mg, 4 mg, 8 mg"
+          ],
+          "efek_samping": [
+            "Hipotensi ortostatik (terutama dosis pertama)",
+            "Pusing",
+            "Edema perifer",
+            "Kelelahan"
+          ],
+          "tatalaksana": [
+            "Awal 1 mg malam hari (fenomena dosis pertama), titrasi bertahap sampai 8 mg/hari"
+          ],
+          "monitoring": [
+            "Tekanan darah ortostatik",
+            "Gejala BPH (skor IPSS)"
+          ],
+          "interaksi": [
+            "Inhibitor PDE-5: risiko hipotensi berat",
+            "Antihipertensi lain: efek aditif"
+          ],
+          "catatan": "Dosis pertama sebaiknya diberikan malam hari saat akan tidur untuk mengurangi risiko sinkop akibat hipotensi ortostatik berat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/doxazosin/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "5-ari",
+      "kelas": "5-Alpha Reductase Inhibitor",
+      "mekanisme": "Menghambat enzim 5-alfa reduktase yang mengubah testosteron menjadi dihidrotestosteron (DHT), sehingga mengecilkan volume prostat secara bertahap",
+      "obat": [
+        {
+          "id": "finasteride",
+          "nama": "Finasteride",
+          "indikasi": [
+            "Hiperplasia prostat jinak (BPH) dengan prostat membesar",
+            "Alopesia androgenik pria (dosis lebih rendah)"
+          ],
+          "sediaan": [
+            "Tablet 5 mg (BPH)",
+            "Tablet 1 mg (alopesia)"
+          ],
+          "efek_samping": [
+            "Disfungsi ereksi",
+            "Penurunan libido",
+            "Ginekomastia",
+            "Penurunan volume ejakulat"
+          ],
+          "tatalaksana": [
+            "BPH: 5 mg 1x/hari, efek klinis penuh baru terlihat setelah 6-12 bulan"
+          ],
+          "monitoring": [
+            "Gejala BPH (skor IPSS)",
+            "PSA (finasteride dapat menurunkan PSA hingga 50%, sesuaikan interpretasi)",
+            "Fungsi seksual"
+          ],
+          "interaksi": [
+            "Interaksi obat bermakna minimal"
+          ],
+          "catatan": "Wanita hamil tidak boleh menyentuh tablet yang pecah/hancur karena risiko teratogenik pada janin laki-laki (feminisasi genitalia eksterna).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/finasteride/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antikolinergik-kandung-kemih",
+      "kelas": "Antikolinergik untuk Kandung Kemih Overaktif",
+      "mekanisme": "Antagonis reseptor muskarinik M3 pada otot detrusor kandung kemih sehingga mengurangi kontraksi involunter dan meningkatkan kapasitas kandung kemih",
+      "obat": [
+        {
+          "id": "oksibutinin",
+          "nama": "Oksibutinin",
+          "indikasi": [
+            "Kandung kemih overaktif (urgensi, frekuensi, inkontinensia urgensi)",
+            "Enuresis nokturnal (anak, off-label)"
+          ],
+          "sediaan": [
+            "Tablet 5 mg",
+            "Tablet lepas lambat 5 mg, 10 mg, 15 mg",
+            "Patch transdermal 3,9 mg/24 jam"
+          ],
+          "efek_samping": [
+            "Mulut kering",
+            "Konstipasi",
+            "Pandangan kabur",
+            "Retensi urin",
+            "Kebingungan (terutama lansia)",
+            "Panas berlebih (anhidrosis, penting pada anak/cuaca panas)"
+          ],
+          "tatalaksana": [
+            "Tablet biasa: 5 mg 2-3x/hari, maks 20 mg/hari",
+            "Lepas lambat: 5-10 mg 1x/hari, dapat dinaikkan sampai 30 mg/hari"
+          ],
+          "monitoring": [
+            "Gejala antikolinergik",
+            "Fungsi kognitif pada lansia",
+            "Residu urin pasca-berkemih"
+          ],
+          "interaksi": [
+            "Antikolinergik lain: efek aditif (beban antikolinergik meningkat)",
+            "Inhibitor CYP3A4: meningkatkan kadar oksibutinin"
+          ],
+          "catatan": "Hati-hati pada lansia karena risiko gangguan kognitif; pertimbangkan beta-3 agonis (mirabegron) sebagai alternatif dengan efek antikolinergik lebih sedikit.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/oxybutynin/PNG?image_size=300x300"
+        },
+        {
+          "id": "mirabegron",
+          "nama": "Mirabegron",
+          "mekanisme": "Agonis reseptor beta-3 adrenergik pada otot detrusor kandung kemih sehingga menyebabkan relaksasi selama fase pengisian tanpa efek antikolinergik",
+          "indikasi": [
+            "Kandung kemih overaktif (alternatif pada pasien yang tidak toleran efek antikolinergik)"
+          ],
+          "sediaan": [
+            "Tablet lepas lambat 25 mg, 50 mg"
+          ],
+          "efek_samping": [
+            "Hipertensi",
+            "Nasofaringitis",
+            "Infeksi saluran kemih",
+            "Sakit kepala",
+            "Takikardia"
+          ],
+          "tatalaksana": [
+            "Awal 25 mg 1x/hari, dapat dinaikkan sampai 50 mg/hari sesuai respons dan toleransi"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Gejala kandung kemih overaktif",
+            "Fungsi hati/ginjal (penyesuaian dosis)"
+          ],
+          "interaksi": [
+            "Digoksin: kadar digoksin dapat meningkat",
+            "Inhibitor CYP2D6 (metoprolol, desipramin): kadar dapat meningkat",
+            "Antikolinergik: dapat dikombinasikan pada kasus refrakter"
+          ],
+          "catatan": "Tidak memiliki efek antikolinergik, sehingga lebih disukai pada lansia dengan risiko gangguan kognitif.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/mirabegron/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "analgesik-saluran-kemih",
+      "kelas": "Analgesik dan Alkalinizer Saluran Kemih",
+      "mekanisme": "Bekerja lokal pada mukosa saluran kemih (analgesik) atau mengubah pH urin (alkalinizer) untuk meredakan gejala atau mendukung ekskresi/pelarutan kristal",
+      "obat": [
+        {
+          "id": "fenazopiridin",
+          "nama": "Fenazopiridin",
+          "mekanisme": "Bekerja sebagai analgesik topikal lokal pada mukosa saluran kemih dengan mekanisme pasti belum jelas, meredakan nyeri, rasa terbakar, dan urgensi",
+          "indikasi": [
+            "Peredaan simtomatik nyeri, rasa terbakar, urgensi, dan frekuensi akibat iritasi saluran kemih bawah (sistitis, pasca-prosedur urologi)"
+          ],
+          "sediaan": [
+            "Tablet 100 mg, 200 mg"
+          ],
+          "efek_samping": [
+            "Urin berwarna oranye-merah (dapat menodai pakaian dan lensa kontak)",
+            "Sakit kepala",
+            "Pusing",
+            "Methemoglobinemia (dosis tinggi atau defisiensi G6PD)"
+          ],
+          "tatalaksana": [
+            "100-200 mg 3x/hari setelah makan, maksimal 2 hari bersamaan dengan antibiotik yang sesuai"
+          ],
+          "monitoring": [
+            "Gejala methemoglobinemia (sianosis, sesak) pada dosis tinggi",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Tidak ada interaksi obat bermakna yang signifikan"
+          ],
+          "catatan": "Hanya untuk peredaan gejala sementara, bukan pengganti antibiotik pada infeksi saluran kemih bakteri. Hindari pada gangguan ginjal berat dan defisiensi G6PD.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phenazopyridine/PNG?image_size=300x300"
+        },
+        {
+          "id": "kalium-sitrat",
+          "nama": "Kalium Sitrat",
+          "mekanisme": "Dimetabolisme menjadi bikarbonat sehingga mengalkalinisasi urin dan meningkatkan ekskresi sitrat, yang menghambat pembentukan dan pertumbuhan kristal kalsium",
+          "indikasi": [
+            "Pencegahan batu ginjal kalsium oksalat dan asam urat berulang",
+            "Asidosis tubulus ginjal (renal tubular acidosis)"
+          ],
+          "sediaan": [
+            "Tablet lepas lambat 540 mg, 1080 mg",
+            "Larutan/kristal oral"
+          ],
+          "efek_samping": [
+            "Nyeri perut",
+            "Diare",
+            "Hiperkalemia (terutama pada gangguan ginjal)",
+            "Iritasi saluran cerna"
+          ],
+          "tatalaksana": [
+            "10-20 mEq 2-3x/hari bersama makanan untuk mengurangi iritasi GI",
+            "Dosis disesuaikan berdasarkan pH urin dan ekskresi sitrat urin"
+          ],
+          "monitoring": [
+            "pH urin",
+            "Kalium serum",
+            "Fungsi ginjal",
+            "Sitrat urin 24 jam"
+          ],
+          "interaksi": [
+            "ACE inhibitor/ARB dan diuretik hemat kalium: risiko hiperkalemia aditif",
+            "Aluminium hidroksida: dapat meningkatkan absorpsi aluminium"
+          ],
+          "catatan": "Kontraindikasi pada gagal ginjal berat, hiperkalemia, dan infeksi saluran kemih akibat bakteri pemecah urea (dapat memperburuk pembentukan batu struvite).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/potassium%20citrate/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "pengikat-fosfat",
+      "kelas": "Pengikat Fosfat (Phosphate Binder)",
+      "mekanisme": "Mengikat fosfat dari makanan di saluran cerna sehingga membentuk kompleks tidak larut yang dikeluarkan melalui feses, menurunkan absorpsi fosfat pada pasien penyakit ginjal kronik",
+      "obat": [
+        {
+          "id": "kalsium-karbonat-ginjal",
+          "nama": "Kalsium Karbonat (sebagai pengikat fosfat)",
+          "indikasi": [
+            "Hiperfosfatemia pada penyakit ginjal kronik (terutama dialisis)"
+          ],
+          "sediaan": [
+            "Tablet kunyah 500 mg, 1250 mg"
+          ],
+          "efek_samping": [
+            "Hiperkalsemia",
+            "Konstipasi",
+            "Kalsifikasi vaskular (penggunaan jangka panjang dosis tinggi)"
+          ],
+          "tatalaksana": [
+            "500-1500 mg (elemental kalsium) dikunyah bersama setiap kali makan, dosis dititrasi berdasarkan kadar fosfat"
+          ],
+          "monitoring": [
+            "Fosfat serum",
+            "Kalsium serum",
+            "Produk kalsium-fosfat (Ca x P)",
+            "Hormon paratiroid (PTH)"
+          ],
+          "interaksi": [
+            "Levotiroksin, tetrasiklin, fluorokuinolon: kalsium menghambat absorpsi, beri jeda",
+            "Aktif vitamin D: risiko hiperkalsemia aditif"
+          ],
+          "catatan": "Batasi total asupan kalsium elemental (termasuk dari makanan dan suplemen) untuk mengurangi risiko kalsifikasi vaskular pada pasien dialisis.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/calcium%20carbonate/PNG?image_size=300x300"
+        },
+        {
+          "id": "sevelamer",
+          "nama": "Sevelamer",
+          "indikasi": [
+            "Hiperfosfatemia pada penyakit ginjal kronik (terutama dialisis), terutama bila ingin menghindari beban kalsium tambahan"
+          ],
+          "sediaan": [
+            "Tablet 800 mg (sevelamer karbonat/hidroklorida)",
+            "Serbuk sachet"
+          ],
+          "efek_samping": [
+            "Kembung",
+            "Mual",
+            "Konstipasi atau diare",
+            "Penurunan penyerapan vitamin larut lemak (jarang bermakna klinis)"
+          ],
+          "tatalaksana": [
+            "800-1600 mg 3x/hari bersama makanan, dosis dititrasi berdasarkan kadar fosfat"
+          ],
+          "monitoring": [
+            "Fosfat serum",
+            "Bikarbonat serum (sevelamer HCl dapat memperberat asidosis)",
+            "Profil lipid (dapat menurunkan LDL sebagai efek tambahan)"
+          ],
+          "interaksi": [
+            "Siprofloksasin: menurunkan absorpsi",
+            "Levotiroksin dan obat lain: beri jeda pemberian karena potensi mengikat obat lain di saluran cerna"
+          ],
+          "catatan": "Tidak mengandung kalsium atau aluminium, sehingga menjadi pilihan pada pasien dengan risiko hiperkalsemia atau kalsifikasi vaskular.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sevelamer/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "vitamin-d-aktif-ginjal",
+      "kelas": "Vitamin D Aktif dan Analog (Penyakit Ginjal Kronik)",
+      "mekanisme": "Bentuk aktif vitamin D yang langsung berikatan dengan reseptor vitamin D tanpa memerlukan hidroksilasi ginjal, menekan sekresi hormon paratiroid dan meningkatkan absorpsi kalsium",
+      "obat": [
+        {
+          "id": "kalsitriol",
+          "nama": "Kalsitriol",
+          "indikasi": [
+            "Hiperparatiroidisme sekunder akibat penyakit ginjal kronik",
+            "Hipokalsemia pada hipoparatiroidisme",
+            "Osteodistrofi ginjal"
+          ],
+          "sediaan": [
+            "Kapsul 0,25 mcg, 0,5 mcg",
+            "Injeksi IV 1 mcg/mL, 2 mcg/mL"
+          ],
+          "efek_samping": [
+            "Hiperkalsemia",
+            "Hiperfosfatemia",
+            "Mual",
+            "Sakit kepala"
+          ],
+          "tatalaksana": [
+            "Oral: 0,25 mcg 1x/hari, titrasi berdasarkan kadar PTH dan kalsium",
+            "IV (pasien dialisis): 0,5-4 mcg, 3x/minggu saat dialisis"
+          ],
+          "monitoring": [
+            "Kalsium dan fosfat serum (awal 2x/minggu saat titrasi, lalu rutin)",
+            "Hormon paratiroid (PTH)",
+            "Produk kalsium-fosfat"
+          ],
+          "interaksi": [
+            "Pengikat fosfat mengandung magnesium: risiko hipermagnesemia",
+            "Digoksin: hiperkalsemia meningkatkan risiko toksisitas digoksin",
+            "Kolestiramin: menurunkan absorpsi kalsitriol"
+          ],
+          "catatan": "Hentikan atau kurangi dosis bila terjadi hiperkalsemia; pastikan kadar fosfat terkontrol sebelum memulai untuk menghindari kalsifikasi metastatik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/calcitriol/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "pde5-inhibitor",
+      "kelas": "PDE-5 Inhibitor",
+      "mekanisme": "Menghambat fosfodiesterase tipe 5 sehingga meningkatkan kadar cGMP di korpus kavernosum penis, memperkuat efek relaksasi otot polos oleh nitrat oksida dan meningkatkan aliran darah",
+      "obat": [
+        {
+          "id": "sildenafil",
+          "nama": "Sildenafil",
+          "indikasi": [
+            "Disfungsi ereksi",
+            "Hipertensi arteri pulmonal (sediaan dan dosis berbeda)"
+          ],
+          "sediaan": [
+            "Tablet 25 mg, 50 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Flushing",
+            "Dispepsia",
+            "Gangguan penglihatan (warna kebiruan)",
+            "Hidung tersumbat",
+            "Priapismus (jarang)"
+          ],
+          "tatalaksana": [
+            "25-100 mg, diminum 30-60 menit sebelum aktivitas seksual, maksimal 1x/hari"
+          ],
+          "monitoring": [
+            "Tekanan darah pada pasien yang memakai antihipertensi",
+            "Gejala kardiovaskular saat aktivitas seksual",
+            "Gangguan penglihatan mendadak (segera hentikan)"
+          ],
+          "interaksi": [
+            "Nitrat (nitrogliserin, isosorbid): kontraindikasi absolut, risiko hipotensi berat yang mengancam jiwa",
+            "Alfa-blocker: risiko hipotensi aditif, beri jeda waktu",
+            "Inhibitor CYP3A4 kuat: meningkatkan kadar sildenafil"
+          ],
+          "catatan": "Kontraindikasi mutlak dengan segala bentuk nitrat, termasuk penggunaan sesekali untuk angina. Tanyakan riwayat penyakit jantung sebelum meresepkan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sildenafil/PNG?image_size=300x300"
+        },
+        {
+          "id": "tadalafil",
+          "nama": "Tadalafil",
+          "indikasi": [
+            "Disfungsi ereksi",
+            "Hiperplasia prostat jinak (BPH) dengan atau tanpa disfungsi ereksi",
+            "Hipertensi arteri pulmonal"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg, 20 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Dispepsia",
+            "Nyeri punggung dan mialgia (khas tadalafil)",
+            "Flushing",
+            "Hidung tersumbat"
+          ],
+          "tatalaksana": [
+            "Sesuai kebutuhan: 10-20 mg sebelum aktivitas seksual (efek dapat bertahan hingga 36 jam)",
+            "Harian (BPH atau disfungsi ereksi kronik): 2,5-5 mg 1x/hari"
+          ],
+          "monitoring": [
+            "Tekanan darah pada pasien yang memakai antihipertensi/alfa-blocker",
+            "Fungsi ginjal (penyesuaian dosis)"
+          ],
+          "interaksi": [
+            "Nitrat: kontraindikasi absolut",
+            "Alfa-blocker: risiko hipotensi, mulai dengan dosis alfa-blocker stabil terlebih dahulu",
+            "Inhibitor CYP3A4 kuat: meningkatkan kadar tadalafil"
+          ],
+          "catatan": "Waktu paruh jauh lebih panjang dibanding sildenafil, sehingga sering disebut sebagai pilihan untuk penggunaan yang lebih fleksibel atau dosis harian rendah.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tadalafil/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "eritropoiesis-stimulating-agent",
+      "kelas": "Erythropoiesis-Stimulating Agent (ESA)",
+      "mekanisme": "Analog rekombinan eritropoietin yang berikatan dengan reseptor eritropoietin pada prekursor eritroid di sumsum tulang, merangsang proliferasi dan diferensiasi menjadi sel darah merah",
+      "obat": [
+        {
+          "id": "epoetin-alfa",
+          "nama": "Epoetin Alfa",
+          "indikasi": [
+            "Anemia akibat penyakit ginjal kronik (termasuk dialisis)",
+            "Anemia akibat kemoterapi (indikasi terpisah)",
+            "Persiapan transfusi autologus"
+          ],
+          "sediaan": [
+            "Injeksi SC/IV 2000 unit/mL, 4000 unit/mL, 10000 unit/mL"
+          ],
+          "efek_samping": [
+            "Hipertensi",
+            "Tromboemboli (boxed warning)",
+            "Sakit kepala",
+            "Peningkatan risiko kejadian kardiovaskular bila target Hb terlalu tinggi",
+            "Pure red cell aplasia (sangat jarang)"
+          ],
+          "tatalaksana": [
+            "Awal 50-100 unit/kgBB SC/IV 3x/minggu, dosis dititrasi untuk mencapai target Hb 10-11,5 g/dL (hindari > 11,5-12 g/dL)"
+          ],
+          "monitoring": [
+            "Hemoglobin (setiap 2-4 minggu saat titrasi)",
+            "Tekanan darah",
+            "Cadangan besi (feritin, saturasi transferin) sebelum dan selama terapi",
+            "Tanda tromboemboli"
+          ],
+          "interaksi": [
+            "Tidak ada interaksi obat bermakna yang signifikan, namun defisiensi besi mengurangi efektivitas"
+          ],
+          "catatan": "Boxed warning: risiko kematian, kejadian kardiovaskular serius, stroke, dan progresi tumor bila target hemoglobin melebihi batas yang dianjurkan. Pastikan cadangan besi cukup sebelum dan selama terapi.",
+          "gambar": null
+        }
+      ]
+    }
+  ]
+}

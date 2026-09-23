@@ -1,0 +1,614 @@
+{
+  "kelas_obat": [
+    {
+      "id": "antihistamin-h1",
+      "kelas": "Antihistamin H1",
+      "mekanisme": "Antagonis reseptor H1 histamin yang menghambat efek histamin pada pembuluh darah, otot polos bronkus, dan ujung saraf sensorik, sehingga meredakan gejala alergi",
+      "obat": [
+        {
+          "id": "cetirizine",
+          "nama": "Cetirizine",
+          "mekanisme": "Antihistamin H1 generasi kedua yang minimal menembus sawar darah otak sehingga efek sedasi lebih rendah dibanding generasi pertama",
+          "indikasi": [
+            "Rinitis alergi",
+            "Urtikaria kronik dan akut",
+            "Konjungtivitis alergi"
+          ],
+          "sediaan": [
+            "Tablet 10 mg",
+            "Sirup 5 mg/5 mL",
+            "Tetes oral 10 mg/mL"
+          ],
+          "efek_samping": [
+            "Mengantuk ringan (lebih ringan dibanding generasi pertama)",
+            "Mulut kering",
+            "Sakit kepala",
+            "Kelelahan"
+          ],
+          "tatalaksana": [
+            "Dewasa: 10 mg 1x/hari",
+            "Anak 2-5 tahun: 2,5 mg 1-2x/hari; 6-11 tahun: 5-10 mg 1x/hari",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Respons gejala alergi",
+            "Tingkat sedasi"
+          ],
+          "interaksi": [
+            "Alkohol dan depresan SSP: sedasi aditif (meski lebih ringan)",
+            "Teofilin: dapat menurunkan bersihan cetirizine"
+          ],
+          "catatan": "Meski tergolong generasi kedua, cetirizine memiliki sedasi ringan yang lebih terasa dibanding loratadine atau fexofenadine.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cetirizine/PNG?image_size=300x300"
+        },
+        {
+          "id": "loratadine",
+          "nama": "Loratadine",
+          "mekanisme": "Antihistamin H1 generasi kedua non-sedatif yang selektif pada reseptor H1 perifer",
+          "indikasi": [
+            "Rinitis alergi",
+            "Urtikaria kronik idiopatik"
+          ],
+          "sediaan": [
+            "Tablet 10 mg",
+            "Sirup 5 mg/5 mL"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Mulut kering",
+            "Kelelahan (jarang)"
+          ],
+          "tatalaksana": [
+            "Dewasa dan anak ≥ 6 tahun: 10 mg 1x/hari",
+            "Anak 2-5 tahun: 5 mg 1x/hari"
+          ],
+          "monitoring": [
+            "Respons gejala alergi"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 dan CYP2D6 (ketokonazol, eritromisin): meningkatkan kadar loratadine, umumnya tanpa signifikansi klinis besar"
+          ],
+          "catatan": "Salah satu antihistamin dengan profil sedasi paling rendah, cocok untuk penggunaan siang hari.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/loratadine/PNG?image_size=300x300"
+        },
+        {
+          "id": "difenhidramin",
+          "nama": "Difenhidramin",
+          "mekanisme": "Antihistamin H1 generasi pertama yang menembus sawar darah otak sehingga menimbulkan sedasi signifikan, juga memiliki efek antikolinergik",
+          "indikasi": [
+            "Reaksi alergi akut (termasuk anafilaksis, sebagai adjuvan)",
+            "Insomnia jangka pendek",
+            "Mabuk perjalanan (motion sickness)",
+            "Gejala ekstrapiramidal akibat obat"
+          ],
+          "sediaan": [
+            "Tablet/kapsul 25 mg, 50 mg",
+            "Sirup 12,5 mg/5 mL",
+            "Injeksi IV/IM 50 mg/mL"
+          ],
+          "efek_samping": [
+            "Mengantuk (signifikan)",
+            "Mulut kering",
+            "Pandangan kabur",
+            "Retensi urin",
+            "Kebingungan (lansia)"
+          ],
+          "tatalaksana": [
+            "Dewasa: 25-50 mg setiap 4-6 jam bila perlu, maks 300 mg/hari",
+            "Reaksi alergi akut/anafilaksis: 25-50 mg IV/IM"
+          ],
+          "monitoring": [
+            "Tingkat sedasi",
+            "Gejala antikolinergik",
+            "Fungsi kognitif pada lansia"
+          ],
+          "interaksi": [
+            "Depresan SSP dan alkohol: sedasi aditif",
+            "MAOI: memperkuat efek antikolinergik",
+            "Antikolinergik lain: efek aditif"
+          ],
+          "catatan": "Hindari pada lansia bila memungkinkan (kriteria Beers) karena risiko kebingungan dan jatuh.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diphenhydramine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "epinefrin-anafilaksis",
+      "kelas": "Epinefrin untuk Anafilaksis",
+      "mekanisme": "Agonis reseptor alfa dan beta adrenergik yang menyebabkan vasokonstriksi (melawan hipotensi), bronkodilatasi, dan menstabilkan sel mast, merupakan terapi lini pertama anafilaksis",
+      "obat": [
+        {
+          "id": "epinefrin",
+          "nama": "Epinefrin (Adrenalin)",
+          "indikasi": [
+            "Anafilaksis (terapi lini pertama)",
+            "Henti jantung (ACLS)",
+            "Syok septik/kardiogenik (vasopresor)",
+            "Asma berat refrakter"
+          ],
+          "sediaan": [
+            "Auto-injector IM 0,15 mg, 0,3 mg",
+            "Ampul injeksi 1 mg/mL (1:1000)",
+            "Ampul injeksi 0,1 mg/mL (1:10000, untuk IV)"
+          ],
+          "efek_samping": [
+            "Palpitasi dan takikardia",
+            "Tremor",
+            "Ansietas",
+            "Hipertensi",
+            "Aritmia (dosis berlebih atau IV cepat)"
+          ],
+          "tatalaksana": [
+            "Anafilaksis dewasa: 0,3-0,5 mg IM (paha anterolateral), dapat diulang setiap 5-15 menit bila perlu",
+            "Anak: 0,01 mg/kgBB IM (maks 0,3 mg), auto-injector 0,15 mg untuk BB 15-30 kg"
+          ],
+          "monitoring": [
+            "Tekanan darah dan frekuensi nadi",
+            "Gejala anafilaksis (jalan napas, sirkulasi)",
+            "EKG pada pemberian berulang"
+          ],
+          "interaksi": [
+            "Penyekat beta: dapat melawan efek epinefrin, mungkin memerlukan glukagon tambahan pada anafilaksis refrakter",
+            "MAOI dan antidepresan trisiklik: dapat memperkuat efek pressor"
+          ],
+          "catatan": "Injeksi IM di paha anterolateral adalah rute dan lokasi pilihan pada anafilaksis; jangan tunda pemberian karena ragu-ragu, karena keterlambatan meningkatkan risiko fatal.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/epinephrine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "hematinik",
+      "kelas": "Hematinik (Suplementasi Zat Besi, B12, Asam Folat)",
+      "mekanisme": "Menyediakan substrat esensial untuk eritropoiesis: zat besi untuk sintesis hemoglobin, vitamin B12 dan asam folat untuk sintesis DNA pada prekursor eritrosit",
+      "obat": [
+        {
+          "id": "ferrous-sulfate",
+          "nama": "Ferrous Sulfate (Besi Sulfat)",
+          "indikasi": [
+            "Anemia defisiensi besi",
+            "Profilaksis pada kehamilan dan kelompok risiko"
+          ],
+          "sediaan": [
+            "Tablet 300 mg (60 mg besi elemental)",
+            "Sirup 150 mg/5 mL"
+          ],
+          "efek_samping": [
+            "Konstipasi",
+            "Mual dan nyeri perut",
+            "Feses berwarna hitam (normal, bukan tanda bahaya)",
+            "Iritasi lambung"
+          ],
+          "tatalaksana": [
+            "Dewasa: 60-120 mg besi elemental/hari (1-2 tablet), diminum saat perut kosong untuk absorpsi optimal (dapat dengan makanan ringan bila iritasi lambung)",
+            "Anak: 3-6 mg/kgBB/hari besi elemental terbagi 1-3 dosis"
+          ],
+          "monitoring": [
+            "Hemoglobin dan indeks eritrosit (setiap 2-4 minggu)",
+            "Feritin serum",
+            "Kepatuhan minum obat (efek samping GI sering menyebabkan berhenti sendiri)"
+          ],
+          "interaksi": [
+            "Antasida, PPI, tetrasiklin, fluorokuinolon, levotiroksin: menurunkan absorpsi besi atau obat lain, beri jeda ≥ 2 jam",
+            "Vitamin C: meningkatkan absorpsi besi",
+            "Teh dan kopi: menurunkan absorpsi besi"
+          ],
+          "catatan": "Simpan jauh dari jangkauan anak karena overdosis besi pada anak dapat fatal.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ferrous%20sulfate/PNG?image_size=300x300"
+        },
+        {
+          "id": "vitamin-b12",
+          "nama": "Vitamin B12 (Sianokobalamin/Hidroksokobalamin)",
+          "indikasi": [
+            "Anemia defisiensi B12 (termasuk anemia pernisiosa)",
+            "Neuropati akibat defisiensi B12",
+            "Profilaksis pada vegetarian/vegan ketat dan pasca-bedah bariatrik"
+          ],
+          "sediaan": [
+            "Tablet 500 mcg, 1000 mcg",
+            "Injeksi IM 1000 mcg/mL"
+          ],
+          "efek_samping": [
+            "Reaksi alergi (jarang)",
+            "Diare ringan",
+            "Rasa gatal sementara pasca-injeksi"
+          ],
+          "tatalaksana": [
+            "Defisiensi berat/anemia pernisiosa: 1000 mcg IM setiap hari selama 1 minggu, lalu mingguan selama 1 bulan, lalu bulanan seumur hidup (pada anemia pernisiosa)",
+            "Oral dosis tinggi (1000-2000 mcg/hari) dapat menjadi alternatif pada beberapa kasus karena absorpsi pasif"
+          ],
+          "monitoring": [
+            "Hemoglobin dan MCV",
+            "Kadar B12 serum",
+            "Gejala neurologis (harus membaik, meski dapat menetap bila terlambat diobati)"
+          ],
+          "interaksi": [
+            "Metformin dan PPI jangka panjang: dapat menurunkan absorpsi B12 (perlu suplementasi)",
+            "Kloramfenikol: dapat mengganggu respons hematologis terhadap B12"
+          ],
+          "catatan": "Anemia pernisiosa akibat kekurangan faktor intrinsik memerlukan terapi seumur hidup, biasanya melalui rute injeksi atau oral dosis sangat tinggi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cyanocobalamin/PNG?image_size=300x300"
+        },
+        {
+          "id": "asam-folat",
+          "nama": "Asam Folat",
+          "indikasi": [
+            "Anemia defisiensi folat",
+            "Pencegahan defek tabung saraf pada kehamilan",
+            "Suplementasi bersama metotreksat"
+          ],
+          "sediaan": [
+            "Tablet 400 mcg, 1 mg, 5 mg"
+          ],
+          "efek_samping": [
+            "Umumnya ditoleransi baik",
+            "Reaksi alergi (jarang)"
+          ],
+          "tatalaksana": [
+            "Anemia defisiensi folat: 1-5 mg/hari",
+            "Kehamilan (pencegahan defek tabung saraf): 400-800 mcg/hari dimulai sebelum konsepsi"
+          ],
+          "monitoring": [
+            "Hemoglobin dan MCV",
+            "Kadar B12 (folat dapat menutupi gejala hematologis defisiensi B12 tanpa mencegah kerusakan neurologis)"
+          ],
+          "interaksi": [
+            "Fenitoin: kadar fenitoin dapat menurun",
+            "Metotreksat: folat mengurangi efek samping tanpa mengurangi efikasi bila dosis dan jadwal tepat"
+          ],
+          "catatan": "Jangan memberikan asam folat dosis tinggi tanpa memastikan status B12 terlebih dahulu, karena dapat menutupi anemia megaloblastik akibat defisiensi B12 sementara kerusakan saraf tetap berlanjut.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/folic%20acid/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "csf",
+      "kelas": "Colony-Stimulating Factor (CSF)",
+      "mekanisme": "Analog rekombinan faktor pertumbuhan hematopoietik yang merangsang proliferasi dan diferensiasi prekursor granulosit di sumsum tulang",
+      "obat": [
+        {
+          "id": "filgrastim",
+          "nama": "Filgrastim (G-CSF)",
+          "indikasi": [
+            "Neutropenia akibat kemoterapi",
+            "Mobilisasi sel punca sebelum transplantasi",
+            "Neutropenia kongenital berat"
+          ],
+          "sediaan": [
+            "Injeksi SC/IV 300 mcg/mL, 480 mcg/1,6 mL"
+          ],
+          "efek_samping": [
+            "Nyeri tulang (sangat sering)",
+            "Sakit kepala",
+            "Splenomegali dan ruptur limpa (jarang)",
+            "Sindrom distres pernapasan akut (jarang)"
+          ],
+          "tatalaksana": [
+            "5 mcg/kgBB SC/IV 1x/hari, dimulai 24-72 jam setelah kemoterapi selesai, dilanjutkan sampai hitung neutrofil pulih"
+          ],
+          "monitoring": [
+            "Hitung darah lengkap dan hitung neutrofil absolut (ANC)",
+            "Nyeri tulang",
+            "Gejala nyeri perut kiri atas (curiga ruptur limpa)"
+          ],
+          "interaksi": [
+            "Kemoterapi mielosupresif: jangan berikan bersamaan (beri jeda minimal 24 jam sebelum/sesudah kemoterapi)",
+            "Litium: dapat memperkuat pelepasan neutrofil"
+          ],
+          "catatan": "Nyeri tulang dapat diatasi dengan analgesik non-opioid (parasetamol) tanpa perlu menghentikan terapi.",
+          "gambar": null
+        }
+      ]
+    },
+    {
+      "id": "imunoglobulin",
+      "kelas": "Imunoglobulin",
+      "mekanisme": "Sediaan antibodi poliklonal dari plasma donor yang memberi proteksi pasif terhadap patogen tertentu atau memodulasi sistem imun pada penyakit autoimun",
+      "obat": [
+        {
+          "id": "ivig",
+          "nama": "Immunoglobulin Intravena (IVIG)",
+          "indikasi": [
+            "Defisiensi imun primer dan sekunder",
+            "Penyakit autoimun (Guillain-Barré, penyakit Kawasaki, ITP)",
+            "Profilaksis infeksi pada transplantasi sumsum tulang"
+          ],
+          "sediaan": [
+            "Infus IV 5%, 10% (vial berbagai ukuran)"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Demam dan menggigil (reaksi infus)",
+            "Gagal ginjal akut (terutama produk berbasis sukrosa)",
+            "Trombosis (terkait viskositas)",
+            "Meningitis aseptik"
+          ],
+          "tatalaksana": [
+            "Dosis dan kecepatan infus bervariasi menurut indikasi, contoh: defisiensi imun 400-600 mg/kgBB setiap 3-4 minggu; ITP 1 g/kgBB/hari selama 1-2 hari",
+            "Mulai infus lambat, tingkatkan bertahap sesuai toleransi"
+          ],
+          "monitoring": [
+            "Tanda vital selama infus",
+            "Fungsi ginjal",
+            "Tanda trombosis",
+            "Kadar IgA sebelum terapi (risiko anafilaksis pada defisiensi IgA)"
+          ],
+          "interaksi": [
+            "Vaksin hidup: tunda 3-11 bulan setelah IVIG karena dapat mengganggu respons imun vaksin",
+            "Diuretik: risiko dehidrasi dan gagal ginjal aditif"
+          ],
+          "catatan": "Periksa kadar IgA sebelum terapi pertama karena pasien dengan defisiensi IgA berisiko anafilaksis akibat antibodi anti-IgA.",
+          "gambar": null
+        }
+      ]
+    },
+    {
+      "id": "imunosupresan-sistemik",
+      "kelas": "Imunosupresan Sistemik",
+      "mekanisme": "Menekan aktivasi dan proliferasi sel T dan/atau sel B melalui berbagai jalur untuk mencegah penolakan transplantasi atau mengendalikan penyakit autoimun",
+      "obat": [
+        {
+          "id": "siklosporin",
+          "nama": "Siklosporin",
+          "mekanisme": "Berikatan dengan siklofilin membentuk kompleks yang menghambat kalsineurin, sehingga mencegah aktivasi faktor transkripsi NFAT dan produksi IL-2 oleh sel T",
+          "indikasi": [
+            "Pencegahan penolakan transplantasi organ",
+            "Penyakit autoimun berat (psoriasis, artritis reumatoid refrakter, sindrom nefrotik)"
+          ],
+          "sediaan": [
+            "Kapsul 25 mg, 100 mg",
+            "Larutan oral 100 mg/mL",
+            "Injeksi IV 50 mg/mL"
+          ],
+          "efek_samping": [
+            "Nefrotoksisitas",
+            "Hipertensi",
+            "Hiperkalemia",
+            "Hirsutisme",
+            "Hiperplasia gingiva",
+            "Tremor",
+            "Peningkatan risiko infeksi dan keganasan"
+          ],
+          "tatalaksana": [
+            "Transplantasi: dosis awal 10-15 mg/kgBB/hari terbagi 2 dosis, dititrasi berdasarkan kadar serum dan fungsi organ",
+            "Dosis rumatan bervariasi luas antar indikasi dan organ transplantasi"
+          ],
+          "monitoring": [
+            "Kadar siklosporin serum (palung)",
+            "Fungsi ginjal dan tekanan darah",
+            "Kalium dan magnesium serum",
+            "Profil lipid"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat (ketokonazol, diltiazem, makrolida): meningkatkan kadar siklosporin",
+            "Penginduksi CYP3A4 (rifampisin, karbamazepin): menurunkan kadar",
+            "Statin: risiko miopati meningkat",
+            "NSAID dan aminoglikosida: nefrotoksisitas aditif"
+          ],
+          "catatan": "Rentang terapi sempit; pemantauan kadar obat rutin wajib dilakukan sepanjang terapi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cyclosporine/PNG?image_size=300x300"
+        },
+        {
+          "id": "azatioprin",
+          "nama": "Azatioprin",
+          "mekanisme": "Prodrug tiopurin yang diubah menjadi 6-merkaptopurin dan metabolit aktif yang menghambat sintesis purin, menekan proliferasi limfosit",
+          "indikasi": [
+            "Pencegahan penolakan transplantasi organ",
+            "Penyakit autoimun (artritis reumatoid, lupus, penyakit radang usus)"
+          ],
+          "sediaan": [
+            "Tablet 50 mg"
+          ],
+          "efek_samping": [
+            "Mielosupresi",
+            "Hepatotoksik",
+            "Mual dan muntah",
+            "Peningkatan risiko infeksi dan keganasan (terutama limfoma dan kanker kulit)"
+          ],
+          "tatalaksana": [
+            "Awal 1-3 mg/kgBB/hari, disesuaikan berdasarkan respons dan toleransi",
+            "Pertimbangkan pemeriksaan aktivitas enzim TPMT sebelum memulai untuk memandu dosis"
+          ],
+          "monitoring": [
+            "Hitung darah lengkap (mingguan awal terapi, lalu bulanan)",
+            "ALT/AST",
+            "Aktivitas TPMT/genotipe sebelum terapi bila tersedia"
+          ],
+          "interaksi": [
+            "Allopurinol dan febuxostat: menghambat metabolisme azatioprin, risiko mielosupresi berat (kurangi dosis azatioprin 65-75% bila kombinasi tak terhindarkan)",
+            "ACE inhibitor: risiko anemia dan leukopenia meningkat",
+            "Warfarin: efek dapat berubah"
+          ],
+          "catatan": "Pasien dengan defisiensi TPMT (thiopurine methyltransferase) berisiko tinggi mielosupresi berat pada dosis standar.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/azathioprine/PNG?image_size=300x300"
+        },
+        {
+          "id": "mikofenolat-mofetil",
+          "nama": "Mikofenolat Mofetil",
+          "mekanisme": "Prodrug yang diubah menjadi asam mikofenolat, penghambat selektif inosin monofosfat dehidrogenase (IMPDH) yang menekan proliferasi limfosit T dan B",
+          "indikasi": [
+            "Pencegahan penolakan transplantasi organ (kombinasi dengan siklosporin/takrolimus)",
+            "Lupus nefritis",
+            "Penyakit autoimun berat lainnya"
+          ],
+          "sediaan": [
+            "Kapsul/tablet 250 mg, 500 mg",
+            "Suspensi oral 200 mg/mL"
+          ],
+          "efek_samping": [
+            "Diare dan gangguan GI (sering)",
+            "Mielosupresi",
+            "Peningkatan risiko infeksi (terutama infeksi CMV)",
+            "Teratogenik"
+          ],
+          "tatalaksana": [
+            "Transplantasi: 1-1,5 g 2x/hari",
+            "Lupus nefritis: dosis bervariasi sesuai fase induksi/rumatan"
+          ],
+          "monitoring": [
+            "Hitung darah lengkap",
+            "Fungsi ginjal",
+            "Tanda infeksi",
+            "Tes kehamilan sebelum dan selama terapi pada wanita usia subur"
+          ],
+          "interaksi": [
+            "Antasida yang mengandung magnesium/aluminium: menurunkan absorpsi",
+            "Kolestiramin: menurunkan absorpsi signifikan",
+            "Asiklovir dan gansiklovir: kadar keduanya dapat meningkat"
+          ],
+          "catatan": "Program pencegahan kehamilan wajib (REMS) karena risiko teratogenik tinggi; kontrasepsi efektif diperlukan selama dan setelah terapi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/mycophenolate%20mofetil/PNG?image_size=300x300"
+        },
+        {
+          "id": "takrolimus",
+          "nama": "Takrolimus",
+          "mekanisme": "Berikatan dengan FKBP-12 membentuk kompleks yang menghambat kalsineurin, mencegah aktivasi sel T melalui jalur yang serupa dengan siklosporin namun lebih poten",
+          "indikasi": [
+            "Pencegahan penolakan transplantasi organ (lini pertama pada banyak protokol)",
+            "Dermatitis atopik (salep, topikal)"
+          ],
+          "sediaan": [
+            "Kapsul 0,5 mg, 1 mg, 5 mg",
+            "Injeksi IV 5 mg/mL",
+            "Salep topikal 0,03%, 0,1%"
+          ],
+          "efek_samping": [
+            "Nefrotoksisitas",
+            "Neurotoksisitas (tremor, sakit kepala, kejang)",
+            "Hiperglikemia (lebih sering dibanding siklosporin)",
+            "Hipertensi",
+            "Peningkatan risiko infeksi dan keganasan"
+          ],
+          "tatalaksana": [
+            "Transplantasi: dosis awal 0,1-0,2 mg/kgBB/hari terbagi 2 dosis, dititrasi berdasarkan kadar serum"
+          ],
+          "monitoring": [
+            "Kadar takrolimus serum (palung)",
+            "Fungsi ginjal",
+            "Glukosa darah",
+            "Tekanan darah"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat: meningkatkan kadar takrolimus signifikan",
+            "Penginduksi CYP3A4: menurunkan kadar",
+            "Siklosporin: jangan dikombinasikan (nefrotoksisitas aditif berat)",
+            "Obat nefrotoksik lain (aminoglikosida, NSAID): efek aditif"
+          ],
+          "catatan": "Rentang terapi sempit seperti siklosporin; pemantauan kadar obat rutin wajib.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tacrolimus/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "reversal-antikoagulan",
+      "kelas": "Agen Pembalik Antikoagulan (Reversal Agent)",
+      "mekanisme": "Menetralkan atau membalikkan efek antikoagulan spesifik untuk menghentikan perdarahan aktif atau mempersiapkan prosedur darurat",
+      "obat": [
+        {
+          "id": "vitamin-k",
+          "nama": "Vitamin K (Fitomenadion)",
+          "mekanisme": "Kofaktor yang diperlukan untuk sintesis faktor koagulasi II, VII, IX, X di hati; membalikkan efek antikoagulan warfarin dengan memulihkan sintesis faktor tersebut",
+          "indikasi": [
+            "Pembalikan efek warfarin pada perdarahan atau INR sangat tinggi",
+            "Perdarahan akibat defisiensi vitamin K",
+            "Profilaksis perdarahan pada bayi baru lahir"
+          ],
+          "sediaan": [
+            "Tablet 10 mg",
+            "Injeksi IV/IM/SC 10 mg/mL"
+          ],
+          "efek_samping": [
+            "Reaksi anafilaktoid (IV cepat, jarang tapi serius)",
+            "Nyeri di lokasi injeksi"
+          ],
+          "tatalaksana": [
+            "INR tinggi tanpa perdarahan: 1-2,5 mg oral",
+            "Perdarahan mayor akibat warfarin: 5-10 mg IV lambat (bersama konsentrat faktor koagulasi bila perdarahan mengancam jiwa)",
+            "Profilaksis bayi baru lahir: 1 mg IM dosis tunggal"
+          ],
+          "monitoring": [
+            "INR (setelah 6-24 jam pemberian)",
+            "Tanda reaksi anafilaktoid selama infus IV"
+          ],
+          "interaksi": [
+            "Warfarin: efek antikoagulan berlawanan langsung (tujuan terapi)"
+          ],
+          "catatan": "Pemberian IV harus sangat lambat (encerkan dan infus perlahan) untuk mengurangi risiko reaksi anafilaktoid.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phytonadione/PNG?image_size=300x300"
+        },
+        {
+          "id": "protamin-sulfat",
+          "nama": "Protamin Sulfat",
+          "mekanisme": "Protein bermuatan positif yang berikatan dengan heparin (bermuatan negatif) membentuk kompleks stabil tanpa aktivitas antikoagulan, menetralkan efek heparin",
+          "indikasi": [
+            "Pembalikan efek heparin tak terfraksinasi (dan sebagian efek LMWH) pada perdarahan atau sebelum prosedur darurat"
+          ],
+          "sediaan": [
+            "Injeksi IV 10 mg/mL"
+          ],
+          "efek_samping": [
+            "Hipotensi (infus cepat)",
+            "Reaksi anafilaktoid (terutama pada alergi ikan atau riwayat vasektomi/pemakaian insulin protamin)",
+            "Bradikardia"
+          ],
+          "tatalaksana": [
+            "1 mg protamin menetralkan sekitar 100 unit heparin yang diberikan dalam beberapa jam terakhir, dosis dihitung berdasarkan jumlah heparin dan waktu sejak pemberian",
+            "Infus IV lambat (maks 50 mg dalam 10 menit)"
+          ],
+          "monitoring": [
+            "aPTT setelah pemberian",
+            "Tekanan darah selama infus",
+            "Tanda reaksi alergi"
+          ],
+          "interaksi": [
+            "Heparin: efek berlawanan langsung (tujuan terapi)"
+          ],
+          "catatan": "Pemberian terlalu cepat dapat menyebabkan hipotensi berat; pasien dengan alergi ikan atau riwayat penggunaan insulin protamin berisiko reaksi anafilaktoid lebih tinggi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/protamine%20sulfate/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antifibrinolitik",
+      "kelas": "Antifibrinolitik",
+      "mekanisme": "Menghambat aktivasi plasminogen menjadi plasmin sehingga mencegah degradasi fibrin dan mengurangi perdarahan",
+      "obat": [
+        {
+          "id": "asam-traneksamat",
+          "nama": "Asam Traneksamat",
+          "indikasi": [
+            "Perdarahan menstruasi berat (menorrhagia)",
+            "Perdarahan pasca-operasi dan trauma",
+            "Perdarahan pada hemofilia dan gangguan koagulasi lain (adjuvan)",
+            "Epistaksis berulang"
+          ],
+          "sediaan": [
+            "Tablet 500 mg",
+            "Injeksi IV 100 mg/mL"
+          ],
+          "efek_samping": [
+            "Mual dan diare",
+            "Sakit kepala",
+            "Risiko tromboemboli (terutama pada faktor risiko yang sudah ada)",
+            "Gangguan penglihatan warna (jarang, dosis tinggi jangka panjang)"
+          ],
+          "tatalaksana": [
+            "Menorrhagia: 1000 mg 3-4x/hari selama menstruasi (maks 4 hari)",
+            "Trauma (dalam 3 jam onset): 1 g IV selama 10 menit, dilanjutkan 1 g infus selama 8 jam",
+            "Perdarahan pasca-operasi: dosis bervariasi sesuai protokol bedah"
+          ],
+          "monitoring": [
+            "Tanda tromboemboli",
+            "Fungsi ginjal (sesuaikan dosis)",
+            "Gejala penglihatan pada terapi jangka panjang"
+          ],
+          "interaksi": [
+            "Kontrasepsi hormonal dan terapi hormon: risiko tromboemboli aditif",
+            "Faktor koagulasi konsentrat: risiko trombosis aditif"
+          ],
+          "catatan": "Kontraindikasi pada riwayat tromboemboli aktif dan perdarahan subarachnoid (dapat meningkatkan risiko iskemia serebral).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tranexamic%20acid/PNG?image_size=300x300"
+        }
+      ]
+    }
+  ]
+}

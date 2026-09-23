@@ -1,0 +1,380 @@
+{
+  "kelas_obat": [
+    {
+      "id": "bisfosfonat",
+      "kelas": "Bisfosfonat",
+      "mekanisme": "Berikatan dengan hidroksiapatit tulang dan dihambat oleh osteoklas saat resorpsi, menghambat jalur mevalonat (bisfosfonat mengandung nitrogen) sehingga osteoklas mengalami apoptosis dan resorpsi tulang menurun",
+      "obat": [
+        {
+          "id": "alendronat",
+          "nama": "Alendronat",
+          "indikasi": [
+            "Osteoporosis pasca-menopause",
+            "Osteoporosis pada pria",
+            "Osteoporosis akibat glukokortikoid",
+            "Penyakit Paget tulang"
+          ],
+          "sediaan": [
+            "Tablet 10 mg (harian)",
+            "Tablet 70 mg (mingguan)"
+          ],
+          "efek_samping": [
+            "Esofagitis dan iritasi esofagus",
+            "Nyeri perut",
+            "Osteonekrosis rahang (jarang)",
+            "Fraktur femur atipikal (penggunaan lama)",
+            "Nyeri muskuloskeletal"
+          ],
+          "tatalaksana": [
+            "70 mg 1x/minggu atau 10 mg 1x/hari",
+            "Minum dengan segelas penuh air putih saat perut kosong pagi hari, tetap tegak (duduk/berdiri) dan tidak makan/minum lain selama minimal 30 menit"
+          ],
+          "monitoring": [
+            "Densitas mineral tulang (DXA) berkala",
+            "Kalsium dan vitamin D serum",
+            "Gejala esofagus",
+            "Evaluasi ulang setelah 3-5 tahun (drug holiday)"
+          ],
+          "interaksi": [
+            "Kalsium, zat besi, antasida, susu: menurunkan absorpsi drastis, beri jeda ≥ 30 menit",
+            "NSAID: risiko iritasi GI aditif",
+            "Aminoglikosida: risiko hipokalsemia meningkat"
+          ],
+          "catatan": "Kontraindikasi pada gangguan esofagus (striktur, akalasia) dan ketidakmampuan duduk/berdiri tegak minimal 30 menit.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/alendronate/PNG?image_size=300x300"
+        },
+        {
+          "id": "risedronat",
+          "nama": "Risedronat",
+          "indikasi": [
+            "Osteoporosis pasca-menopause",
+            "Osteoporosis akibat glukokortikoid",
+            "Penyakit Paget tulang"
+          ],
+          "sediaan": [
+            "Tablet 5 mg (harian)",
+            "Tablet 35 mg (mingguan)",
+            "Tablet 150 mg (bulanan)"
+          ],
+          "efek_samping": [
+            "Esofagitis dan iritasi esofagus",
+            "Nyeri perut",
+            "Osteonekrosis rahang (jarang)",
+            "Fraktur femur atipikal (penggunaan lama)"
+          ],
+          "tatalaksana": [
+            "35 mg 1x/minggu atau 150 mg 1x/bulan",
+            "Minum saat perut kosong dengan air putih, tetap tegak minimal 30 menit"
+          ],
+          "monitoring": [
+            "Densitas mineral tulang berkala",
+            "Kalsium dan vitamin D serum",
+            "Gejala esofagus"
+          ],
+          "interaksi": [
+            "Kalsium, zat besi, antasida: menurunkan absorpsi, beri jeda ≥ 30 menit",
+            "NSAID: risiko iritasi GI aditif"
+          ],
+          "catatan": "Sama seperti alendronat, kontraindikasi pada gangguan esofagus.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/risedronic%20acid/PNG?image_size=300x300"
+        },
+        {
+          "id": "zoledronic-acid",
+          "nama": "Asam Zoledronat",
+          "indikasi": [
+            "Osteoporosis pasca-menopause dan pada pria",
+            "Osteoporosis akibat glukokortikoid",
+            "Penyakit Paget tulang",
+            "Hiperkalsemia keganasan",
+            "Metastasis tulang (dosis lebih tinggi)"
+          ],
+          "sediaan": [
+            "Infus IV 5 mg/100 mL (osteoporosis)",
+            "Infus IV 4 mg/5 mL (onkologi)"
+          ],
+          "efek_samping": [
+            "Reaksi fase akut (demam, nyeri otot dan sendi, 1-3 hari pasca-infus pertama)",
+            "Hipokalsemia",
+            "Gangguan fungsi ginjal",
+            "Osteonekrosis rahang",
+            "Fraktur femur atipikal"
+          ],
+          "tatalaksana": [
+            "Osteoporosis: 5 mg IV infus selama ≥ 15 menit, 1x/tahun",
+            "Pastikan hidrasi cukup dan kadar kalsium/vitamin D adekuat sebelum infus"
+          ],
+          "monitoring": [
+            "Fungsi ginjal (sebelum setiap dosis)",
+            "Kalsium serum",
+            "Gejala reaksi fase akut",
+            "Kesehatan gigi dan mulut sebelum terapi jangka panjang"
+          ],
+          "interaksi": [
+            "Aminoglikosida: risiko hipokalsemia aditif",
+            "Diuretik loop: risiko hipokalsemia",
+            "Obat nefrotoksik lain: risiko gangguan ginjal aditif"
+          ],
+          "catatan": "Kontraindikasi pada CrCl < 35 mL/menit (osteoporosis) dan hipokalsemia yang belum terkoreksi. Pemeriksaan gigi disarankan sebelum memulai terapi jangka panjang untuk mengurangi risiko osteonekrosis rahang.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/zoledronic%20acid/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "anti-osteoporosis-lain",
+      "kelas": "Terapi Osteoporosis Non-Bisfosfonat",
+      "mekanisme": "Bekerja melalui jalur RANKL, hormon paratiroid, atau reseptor estrogen untuk menghambat resorpsi tulang atau merangsang pembentukan tulang baru",
+      "obat": [
+        {
+          "id": "denosumab",
+          "nama": "Denosumab",
+          "mekanisme": "Antibodi monoklonal anti-RANKL yang menghambat pembentukan, fungsi, dan kelangsungan hidup osteoklas sehingga menekan resorpsi tulang",
+          "indikasi": [
+            "Osteoporosis pasca-menopause dengan risiko fraktur tinggi",
+            "Osteoporosis pada pria",
+            "Osteoporosis akibat terapi hormon pada kanker payudara/prostat",
+            "Metastasis tulang (dosis lebih tinggi, produk berbeda)"
+          ],
+          "sediaan": [
+            "Prefilled syringe SC 60 mg/mL (Prolia)"
+          ],
+          "efek_samping": [
+            "Hipokalsemia",
+            "Nyeri muskuloskeletal",
+            "Infeksi kulit (selulitis)",
+            "Osteonekrosis rahang",
+            "Fraktur femur atipikal",
+            "Peningkatan risiko fraktur multipel setelah penghentian mendadak"
+          ],
+          "tatalaksana": [
+            "60 mg SC setiap 6 bulan",
+            "Pastikan asupan kalsium dan vitamin D adekuat selama terapi"
+          ],
+          "monitoring": [
+            "Kalsium serum (terutama pada gangguan ginjal)",
+            "Fungsi ginjal",
+            "Kesehatan gigi dan mulut",
+            "Kepatuhan jadwal (tidak boleh terlambat signifikan)"
+          ],
+          "interaksi": [
+            "Imunosupresan: risiko infeksi kulit meningkat",
+            "Kortikosteroid: risiko hipokalsemia aditif"
+          ],
+          "catatan": "Efek anti-resorpsi cepat hilang setelah dosis terlewat atau dihentikan, menyebabkan rebound peningkatan resorpsi tulang dan risiko fraktur vertebra multipel; pertimbangkan terapi lanjutan (mis. bisfosfonat) bila dihentikan.",
+          "gambar": null
+        },
+        {
+          "id": "teriparatide",
+          "nama": "Teriparatide",
+          "mekanisme": "Fragmen rekombinan hormon paratiroid (PTH 1-34) yang, bila diberikan secara intermiten, merangsang pembentukan tulang baru oleh osteoblas lebih dominan dibanding resorpsi (efek anabolik)",
+          "indikasi": [
+            "Osteoporosis berat dengan risiko fraktur sangat tinggi (pasca-menopause, pria, akibat glukokortikoid)"
+          ],
+          "sediaan": [
+            "Pen injeksi SC 20 mcg/dosis (pen 2,4 mL)"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Pusing dan hipotensi ortostatik (setelah injeksi)",
+            "Kram kaki",
+            "Hiperkalsemia ringan",
+            "Risiko osteosarkoma (pada studi hewan dosis tinggi)"
+          ],
+          "tatalaksana": [
+            "20 mcg SC 1x/hari, injeksi pertama sebaiknya dalam posisi duduk/berbaring karena risiko hipotensi",
+            "Durasi terapi maksimal 2 tahun (seumur hidup)"
+          ],
+          "monitoring": [
+            "Kalsium serum",
+            "Tekanan darah setelah dosis awal",
+            "Densitas tulang setelah terapi"
+          ],
+          "interaksi": [
+            "Digoksin: hiperkalsemia dapat meningkatkan risiko toksisitas digoksin",
+            "Obat yang mempengaruhi kalsium: efek aditif"
+          ],
+          "catatan": "Kontraindikasi pada penyakit Paget, riwayat radiasi tulang, hiperkalsemia, dan keganasan tulang karena risiko teoritis osteosarkoma. Setelah terapi, dilanjutkan dengan anti-resorptif (bisfosfonat/denosumab) untuk mempertahankan manfaat.",
+          "gambar": null
+        },
+        {
+          "id": "raloksifen",
+          "nama": "Raloksifen",
+          "mekanisme": "Selective Estrogen Receptor Modulator (SERM) yang bekerja sebagai agonis estrogen pada tulang (menurunkan resorpsi) namun antagonis pada jaringan payudara dan endometrium",
+          "indikasi": [
+            "Osteoporosis pasca-menopause",
+            "Pencegahan kanker payudara invasif pada wanita pasca-menopause risiko tinggi (indikasi terpisah)"
+          ],
+          "sediaan": [
+            "Tablet 60 mg"
+          ],
+          "efek_samping": [
+            "Hot flashes",
+            "Kram kaki",
+            "Tromboemboli vena (boxed warning)",
+            "Peningkatan risiko stroke fatal pada wanita risiko kardiovaskular tinggi"
+          ],
+          "tatalaksana": [
+            "60 mg 1x/hari, dapat diminum kapan saja tanpa memperhatikan makanan"
+          ],
+          "monitoring": [
+            "Gejala tromboemboli vena (bengkak kaki, nyeri dada)",
+            "Densitas tulang berkala"
+          ],
+          "interaksi": [
+            "Kolestiramin: menurunkan absorpsi raloksifen signifikan",
+            "Warfarin: dapat menurunkan waktu protrombin"
+          ],
+          "catatan": "Hentikan minimal 3 hari sebelum imobilisasi lama (operasi, tirah baring) karena risiko tromboemboli vena. Tidak mengatasi hot flashes menopause (justru dapat memperberat).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/raloxifene/PNG?image_size=300x300"
+        },
+        {
+          "id": "kalsium-vitamin-d",
+          "nama": "Kalsium dan Vitamin D (Suplementasi)",
+          "mekanisme": "Kalsium adalah komponen utama matriks tulang; vitamin D meningkatkan absorpsi kalsium di usus dan mendukung mineralisasi tulang",
+          "indikasi": [
+            "Terapi tambahan wajib pada semua terapi osteoporosis",
+            "Pencegahan osteoporosis pada kelompok risiko (lansia, menopause, terapi glukokortikoid jangka panjang)",
+            "Defisiensi vitamin D"
+          ],
+          "sediaan": [
+            "Kalsium karbonat/sitrat tablet 500-600 mg elemental",
+            "Vitamin D3 (kolekalsiferol) tablet/tetes 400 IU, 1000 IU, 5000 IU"
+          ],
+          "efek_samping": [
+            "Konstipasi (kalsium)",
+            "Kembung",
+            "Hiperkalsemia dan batu ginjal (dosis berlebih jangka panjang)"
+          ],
+          "tatalaksana": [
+            "Kalsium: 1000-1200 mg/hari elemental (terbagi, maks 500-600 mg per dosis untuk absorpsi optimal)",
+            "Vitamin D: 800-2000 IU/hari sesuai kadar 25(OH)D; dosis muat lebih tinggi bila defisiensi berat"
+          ],
+          "monitoring": [
+            "Kalsium serum dan urin 24 jam (dosis tinggi jangka panjang)",
+            "Kadar 25(OH)D vitamin D",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Bisfosfonat, levotiroksin, tetrasiklin, fluorokuinolon: kalsium menghambat absorpsi, beri jeda ≥ 2 jam",
+            "Diuretik tiazid: risiko hiperkalsemia aditif"
+          ],
+          "catatan": "Kalsium sitrat memiliki absorpsi yang tidak bergantung asam lambung, lebih sesuai untuk pengguna PPI/H2 blocker jangka panjang.",
+          "gambar": null
+        }
+      ]
+    },
+    {
+      "id": "pelemas-otot-perifer",
+      "kelas": "Pelemas Otot Perifer (Neuromuscular Blocker)",
+      "mekanisme": "Bekerja langsung pada taut neuromuskular (bukan sentral) untuk menghambat transmisi sinyal saraf ke otot rangka, digunakan terutama dalam anestesi dan perawatan kritis",
+      "obat": [
+        {
+          "id": "suksinilkolin",
+          "nama": "Suksinilkolin",
+          "mekanisme": "Agonis reseptor nikotinik depolarisasi yang menyebabkan depolarisasi berkepanjangan pada taut neuromuskular sehingga otot tidak dapat berkontraksi lagi (blokade depolarisasi)",
+          "indikasi": [
+            "Relaksasi otot untuk intubasi endotrakeal cepat (rapid sequence intubation)",
+            "Relaksasi otot durasi singkat selama prosedur bedah"
+          ],
+          "sediaan": [
+            "Injeksi IV 20 mg/mL, 50 mg/mL"
+          ],
+          "efek_samping": [
+            "Hiperkalemia (terutama pada luka bakar, trauma otot, imobilisasi lama)",
+            "Hipertermia maligna (reaksi langka namun fatal)",
+            "Fasikulasi otot",
+            "Bradikardia (terutama dosis kedua atau pada anak)",
+            "Nyeri otot pasca-operasi"
+          ],
+          "tatalaksana": [
+            "Intubasi: 1-1,5 mg/kgBB IV, onset cepat (30-60 detik), durasi singkat (5-10 menit)"
+          ],
+          "monitoring": [
+            "Kalium serum pada pasien risiko",
+            "Suhu tubuh (tanda hipertermia maligna)",
+            "Frekuensi jantung",
+            "Fungsi neuromuskular"
+          ],
+          "interaksi": [
+            "Digoksin: risiko aritmia meningkat akibat perubahan kalium",
+            "Aminoglikosida dan magnesium: memperpanjang blokade neuromuskular",
+            "Inhibitor kolinesterase: memperpanjang efek suksinilkolin"
+          ],
+          "catatan": "Kontraindikasi pada riwayat hipertermia maligna, luka bakar luas, cedera crush, dan hiperkalemia. Hanya digunakan oleh tenaga anestesi terlatih dengan fasilitas resusitasi lengkap.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/succinylcholine/PNG?image_size=300x300"
+        },
+        {
+          "id": "rokuronium",
+          "nama": "Rokuronium",
+          "mekanisme": "Antagonis kompetitif (non-depolarisasi) reseptor nikotinik pada taut neuromuskular sehingga asetilkolin tidak dapat berikatan dan otot mengalami relaksasi",
+          "indikasi": [
+            "Relaksasi otot untuk intubasi endotrakeal",
+            "Relaksasi otot selama prosedur bedah (durasi menengah)"
+          ],
+          "sediaan": [
+            "Injeksi IV 10 mg/mL"
+          ],
+          "efek_samping": [
+            "Reaksi anafilaksis (jarang)",
+            "Takikardia ringan",
+            "Kelemahan otot residual pasca-operasi"
+          ],
+          "tatalaksana": [
+            "Intubasi: 0,6-1,2 mg/kgBB IV",
+            "Rumatan: dosis tambahan atau infus sesuai kebutuhan bedah"
+          ],
+          "monitoring": [
+            "Fungsi neuromuskular (train-of-four monitoring)",
+            "Tanda reaksi alergi",
+            "Pemulihan fungsi otot pasca-operasi"
+          ],
+          "interaksi": [
+            "Aminoglikosida, magnesium, CCB: memperkuat dan memperpanjang blokade",
+            "Inhibitor kolinesterase (neostigmin) dan sugammadex: digunakan untuk membalik efek blokade"
+          ],
+          "catatan": "Sugammadex adalah agen pembalik (reversal) khusus untuk rokuronium dan vekuronium, bekerja lebih cepat dan lebih dapat diprediksi dibanding neostigmin.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rocuronium/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "anestesi-lokal-muskuloskeletal",
+      "kelas": "Anestesi Lokal untuk Nyeri Muskuloskeletal",
+      "mekanisme": "Menghambat kanal natrium voltage-gated pada membran saraf sehingga mencegah propagasi impuls nyeri dari area yang diberi anestesi",
+      "obat": [
+        {
+          "id": "lidokain-topikal",
+          "nama": "Lidokain (topikal/infiltrasi)",
+          "indikasi": [
+            "Nyeri muskuloskeletal lokal (patch)",
+            "Anestesi infiltrasi sebelum prosedur (injeksi sendi, aspirasi)",
+            "Neuralgia pasca-herpes (patch)"
+          ],
+          "sediaan": [
+            "Patch 5%",
+            "Gel/krim topikal 2-5%",
+            "Larutan injeksi 1%, 2% (dengan/tanpa epinefrin)"
+          ],
+          "efek_samping": [
+            "Iritasi kulit di lokasi aplikasi",
+            "Kebas sementara",
+            "Toksisitas sistemik bila diserap berlebihan (pusing, kejang, aritmia, jarang pada penggunaan topikal wajar)"
+          ],
+          "tatalaksana": [
+            "Patch: tempel pada area nyeri hingga 12 jam dalam periode 24 jam",
+            "Infiltrasi: dosis maksimal 4,5 mg/kgBB tanpa epinefrin, 7 mg/kgBB dengan epinefrin"
+          ],
+          "monitoring": [
+            "Reaksi kulit lokal",
+            "Gejala toksisitas sistemik pada dosis besar/area luas"
+          ],
+          "interaksi": [
+            "Antiaritmia kelas I lain: risiko toksisitas kardiak aditif",
+            "Obat yang menghambat CYP3A4 (pada penggunaan sistemik): kadar meningkat"
+          ],
+          "catatan": "Hindari aplikasi pada kulit yang tidak utuh atau area yang sangat luas untuk mencegah absorpsi sistemik berlebihan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lidocaine/PNG?image_size=300x300"
+        }
+      ]
+    }
+  ]
+}

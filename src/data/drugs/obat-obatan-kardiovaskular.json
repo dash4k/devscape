@@ -1,0 +1,1153 @@
+{
+  "kelas_obat": [
+    {
+      "id": "ace-inhibitor",
+      "kelas": "ACE Inhibitor",
+      "mekanisme": "Menghambat enzim pengubah angiotensin (ACE) sehingga konversi angiotensin I menjadi angiotensin II berkurang, menurunkan vasokonstriksi, sekresi aldosteron, dan retensi natrium-air",
+      "obat": [
+        {
+          "id": "kaptopril",
+          "nama": "Kaptopril",
+          "indikasi": [
+            "Hipertensi",
+            "Gagal jantung",
+            "Pasca-infark miokard",
+            "Nefropati diabetik"
+          ],
+          "sediaan": [
+            "Tablet 12,5 mg, 25 mg, 50 mg"
+          ],
+          "efek_samping": [
+            "Batuk kering",
+            "Hiperkalemia",
+            "Hipotensi",
+            "Angioedema",
+            "Gangguan fungsi ginjal",
+            "Gangguan pengecapan"
+          ],
+          "tatalaksana": [
+            "Hipertensi: awal 25 mg 2-3x/hari, dapat dinaikkan sampai 150 mg/hari terbagi 2-3 dosis",
+            "Diminum 1 jam sebelum makan (absorpsi menurun bila bersama makanan)",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Kalium serum",
+            "Kreatinin/fungsi ginjal",
+            "Tekanan darah",
+            "Tanda angioedema"
+          ],
+          "interaksi": [
+            "Diuretik hemat kalium dan suplemen kalium: risiko hiperkalemia",
+            "NSAID: menurunkan efek antihipertensi dan risiko gangguan ginjal",
+            "Litium: kadar litium meningkat",
+            "ARB atau aliskiren: hindari kombinasi (risiko hiperkalemia dan gangguan ginjal)"
+          ],
+          "catatan": "Kontraindikasi pada kehamilan (teratogenik trimester 2-3) dan riwayat angioedema akibat ACE inhibitor.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/captopril/PNG?image_size=300x300"
+        },
+        {
+          "id": "lisinopril",
+          "nama": "Lisinopril",
+          "indikasi": [
+            "Hipertensi",
+            "Gagal jantung",
+            "Pasca-infark miokard"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg, 20 mg"
+          ],
+          "efek_samping": [
+            "Batuk kering",
+            "Hiperkalemia",
+            "Hipotensi",
+            "Angioedema",
+            "Gangguan fungsi ginjal"
+          ],
+          "tatalaksana": [
+            "Hipertensi: awal 10 mg 1x/hari, dapat dinaikkan sampai 40 mg/hari",
+            "Gagal jantung: awal 2,5-5 mg 1x/hari, titrasi bertahap",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Kalium serum",
+            "Kreatinin/fungsi ginjal",
+            "Tekanan darah"
+          ],
+          "interaksi": [
+            "Diuretik hemat kalium: hiperkalemia",
+            "NSAID: menurunkan efek dan risiko ginjal",
+            "ARB/aliskiren: hindari kombinasi"
+          ],
+          "catatan": "Tidak memerlukan konversi hepatik (bukan prodrug), sehingga onset lebih dapat diprediksi pada gangguan hati.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lisinopril/PNG?image_size=300x300"
+        },
+        {
+          "id": "ramipril",
+          "nama": "Ramipril",
+          "indikasi": [
+            "Hipertensi",
+            "Gagal jantung",
+            "Pencegahan kardiovaskular pada pasien risiko tinggi",
+            "Nefropati diabetik"
+          ],
+          "sediaan": [
+            "Kapsul/tablet 2,5 mg, 5 mg, 10 mg"
+          ],
+          "efek_samping": [
+            "Batuk kering",
+            "Hiperkalemia",
+            "Hipotensi",
+            "Angioedema",
+            "Gangguan fungsi ginjal"
+          ],
+          "tatalaksana": [
+            "Awal 2,5 mg 1x/hari, titrasi bertahap sampai 10 mg/hari",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Kalium serum",
+            "Kreatinin/fungsi ginjal",
+            "Tekanan darah"
+          ],
+          "interaksi": [
+            "Diuretik hemat kalium: hiperkalemia",
+            "NSAID: menurunkan efek dan risiko ginjal",
+            "ARB/aliskiren: hindari kombinasi"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ramipril/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "arb",
+      "kelas": "ARB (Angiotensin Receptor Blocker)",
+      "mekanisme": "Antagonis reseptor AT1 angiotensin II secara selektif sehingga mencegah vasokonstriksi dan sekresi aldosteron tanpa mempengaruhi jalur bradikinin (risiko batuk lebih rendah dibanding ACE inhibitor)",
+      "obat": [
+        {
+          "id": "losartan",
+          "nama": "Losartan",
+          "indikasi": [
+            "Hipertensi (terutama pada intoleransi ACE inhibitor)",
+            "Nefropati diabetik",
+            "Gagal jantung (alternatif ACE inhibitor)"
+          ],
+          "sediaan": [
+            "Tablet 25 mg, 50 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Pusing",
+            "Hiperkalemia",
+            "Hipotensi",
+            "Gangguan fungsi ginjal",
+            "Angioedema (jarang)"
+          ],
+          "tatalaksana": [
+            "Awal 50 mg 1x/hari, dapat dinaikkan sampai 100 mg/hari",
+            "Sesuaikan dosis pada gangguan hati/ginjal"
+          ],
+          "monitoring": [
+            "Kalium serum",
+            "Kreatinin/fungsi ginjal",
+            "Tekanan darah"
+          ],
+          "interaksi": [
+            "Diuretik hemat kalium: hiperkalemia",
+            "NSAID: menurunkan efek dan risiko ginjal",
+            "ACE inhibitor/aliskiren: hindari kombinasi",
+            "Rifampisin: menurunkan konversi ke metabolit aktif"
+          ],
+          "catatan": "Kontraindikasi pada kehamilan seperti ACE inhibitor.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/losartan/PNG?image_size=300x300"
+        },
+        {
+          "id": "valsartan",
+          "nama": "Valsartan",
+          "indikasi": [
+            "Hipertensi",
+            "Gagal jantung",
+            "Pasca-infark miokard"
+          ],
+          "sediaan": [
+            "Tablet/kapsul 40 mg, 80 mg, 160 mg, 320 mg"
+          ],
+          "efek_samping": [
+            "Pusing",
+            "Hiperkalemia",
+            "Hipotensi",
+            "Gangguan fungsi ginjal"
+          ],
+          "tatalaksana": [
+            "Hipertensi: awal 80 mg 1x/hari, dapat dinaikkan sampai 320 mg/hari",
+            "Gagal jantung: awal 40 mg 2x/hari, titrasi bertahap sampai 160 mg 2x/hari"
+          ],
+          "monitoring": [
+            "Kalium serum",
+            "Kreatinin/fungsi ginjal",
+            "Tekanan darah"
+          ],
+          "interaksi": [
+            "Diuretik hemat kalium: hiperkalemia",
+            "NSAID: menurunkan efek",
+            "ACE inhibitor/aliskiren: hindari kombinasi"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/valsartan/PNG?image_size=300x300"
+        },
+        {
+          "id": "telmisartan",
+          "nama": "Telmisartan",
+          "indikasi": [
+            "Hipertensi",
+            "Pencegahan kardiovaskular pada pasien risiko tinggi"
+          ],
+          "sediaan": [
+            "Tablet 40 mg, 80 mg"
+          ],
+          "efek_samping": [
+            "Pusing",
+            "Hiperkalemia",
+            "Gangguan fungsi ginjal",
+            "Nyeri punggung"
+          ],
+          "tatalaksana": [
+            "Awal 40 mg 1x/hari, dapat dinaikkan sampai 80 mg/hari"
+          ],
+          "monitoring": [
+            "Kalium serum",
+            "Kreatinin/fungsi ginjal",
+            "Tekanan darah"
+          ],
+          "interaksi": [
+            "Digoksin: kadar digoksin dapat meningkat",
+            "Diuretik hemat kalium: hiperkalemia",
+            "ACE inhibitor/aliskiren: hindari kombinasi"
+          ],
+          "catatan": "Waktu paruh terpanjang di antara ARB (± 24 jam), cocok untuk kontrol tekanan darah 24 jam dengan dosis sekali sehari.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/telmisartan/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "ccb",
+      "kelas": "Calcium Channel Blocker (CCB)",
+      "mekanisme": "Menghambat kanal kalsium tipe-L pada otot polos pembuluh darah (dihidropiridin) atau pada jantung (non-dihidropiridin) sehingga terjadi vasodilatasi dan/atau penurunan kontraktilitas serta konduksi jantung",
+      "obat": [
+        {
+          "id": "amlodipin",
+          "nama": "Amlodipin",
+          "mekanisme": "CCB dihidropiridin yang selektif bekerja pada otot polos pembuluh darah sehingga menyebabkan vasodilatasi arteri perifer",
+          "indikasi": [
+            "Hipertensi",
+            "Angina stabil kronik",
+            "Angina vasospastik (Prinzmetal)"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg"
+          ],
+          "efek_samping": [
+            "Edema perifer (paling khas)",
+            "Sakit kepala",
+            "Flushing",
+            "Pusing",
+            "Palpitasi"
+          ],
+          "tatalaksana": [
+            "Awal 5 mg 1x/hari, dapat dinaikkan sampai 10 mg/hari",
+            "Awal 2,5 mg pada lansia atau gangguan hati"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Edema perifer",
+            "Frekuensi nadi"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat (ketokonazol, klaritromisin): meningkatkan kadar amlodipin",
+            "Simvastatin: batasi dosis simvastatin maks 20 mg/hari",
+            "Siklosporin: kadar dapat meningkat"
+          ],
+          "catatan": "Edema perifer terjadi akibat redistribusi cairan lokal, bukan retensi cairan sistemik, sehingga tidak responsif terhadap diuretik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amlodipine/PNG?image_size=300x300"
+        },
+        {
+          "id": "nifedipin",
+          "nama": "Nifedipin",
+          "mekanisme": "CCB dihidropiridin yang menyebabkan vasodilatasi arteri perifer dan koroner",
+          "indikasi": [
+            "Hipertensi (sediaan lepas lambat)",
+            "Angina stabil dan vasospastik",
+            "Fenomena Raynaud"
+          ],
+          "sediaan": [
+            "Tablet lepas lambat (GITS/ER) 30 mg, 60 mg",
+            "Kapsul kerja cepat 5 mg, 10 mg (tidak dianjurkan untuk hipertensi kronik)"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Flushing",
+            "Edema perifer",
+            "Takikardia refleks (bentuk kerja cepat)"
+          ],
+          "tatalaksana": [
+            "Lepas lambat: 30-60 mg 1x/hari, maks 90-120 mg/hari"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Frekuensi nadi",
+            "Edema perifer"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat: meningkatkan kadar nifedipin",
+            "Penyekat beta: dapat memperburuk gagal jantung pada pasien rentan",
+            "Magnesium sulfat (pada preeklamsia): risiko hipotensi berat"
+          ],
+          "catatan": "Kapsul kerja cepat sublingual/oral tidak dianjurkan untuk krisis hipertensi karena risiko penurunan tekanan darah mendadak dan iskemia.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nifedipine/PNG?image_size=300x300"
+        },
+        {
+          "id": "diltiazem",
+          "nama": "Diltiazem",
+          "mekanisme": "CCB non-dihidropiridin yang bekerja pada pembuluh darah dan jantung sehingga menurunkan kontraktilitas, memperlambat konduksi AV node, dan menyebabkan vasodilatasi",
+          "indikasi": [
+            "Hipertensi",
+            "Angina stabil",
+            "Fibrilasi atrium (kontrol laju)",
+            "Takikardia supraventrikular paroksismal"
+          ],
+          "sediaan": [
+            "Tablet lepas lambat 90 mg, 120 mg, 180 mg, 240 mg",
+            "Injeksi IV 5 mg/mL"
+          ],
+          "efek_samping": [
+            "Bradikardia",
+            "Blok AV",
+            "Edema perifer",
+            "Konstipasi",
+            "Hipotensi"
+          ],
+          "tatalaksana": [
+            "Oral: 120-360 mg/hari (lepas lambat) terbagi sesuai formulasi",
+            "IV (kontrol laju akut): 0,25 mg/kgBB bolus selama 2 menit, dapat diikuti infus 5-15 mg/jam"
+          ],
+          "monitoring": [
+            "Frekuensi nadi dan EKG",
+            "Tekanan darah",
+            "Fungsi hati"
+          ],
+          "interaksi": [
+            "Penyekat beta: risiko bradikardia dan blok AV aditif",
+            "Inhibitor/substrat CYP3A4: banyak interaksi (statin, siklosporin)",
+            "Digoksin: kadar digoksin meningkat"
+          ],
+          "catatan": "Kontraindikasi pada gagal jantung dengan fraksi ejeksi menurun berat dan blok AV derajat tinggi tanpa pacu jantung.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diltiazem/PNG?image_size=300x300"
+        },
+        {
+          "id": "verapamil",
+          "nama": "Verapamil",
+          "mekanisme": "CCB non-dihidropiridin dengan efek inotropik dan kronotropik negatif paling kuat di antara CCB, memperlambat konduksi AV node",
+          "indikasi": [
+            "Hipertensi",
+            "Angina",
+            "Takikardia supraventrikular paroksismal",
+            "Fibrilasi/flutter atrium (kontrol laju)",
+            "Profilaksis migrain (off-label)"
+          ],
+          "sediaan": [
+            "Tablet lepas lambat 120 mg, 180 mg, 240 mg",
+            "Injeksi IV 2,5 mg/mL"
+          ],
+          "efek_samping": [
+            "Konstipasi (paling khas)",
+            "Bradikardia",
+            "Blok AV",
+            "Hipotensi",
+            "Edema perifer"
+          ],
+          "tatalaksana": [
+            "Oral: 120-480 mg/hari terbagi sesuai formulasi",
+            "IV (SVT): 5-10 mg bolus selama 2 menit, dapat diulang setelah 15-30 menit"
+          ],
+          "monitoring": [
+            "Frekuensi nadi dan EKG",
+            "Tekanan darah",
+            "Fungsi hati"
+          ],
+          "interaksi": [
+            "Penyekat beta: risiko bradikardia dan blok AV berat (hindari IV bersama)",
+            "Digoksin: kadar digoksin meningkat signifikan",
+            "Statin (simvastatin): risiko miopati meningkat",
+            "Inhibitor CYP3A4: kadar verapamil meningkat"
+          ],
+          "catatan": "Kontraindikasi pada gagal jantung dengan fraksi ejeksi menurun, blok AV derajat tinggi, dan sindrom Wolff-Parkinson-White dengan fibrilasi atrium.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/verapamil/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "penyekat-beta",
+      "kelas": "Penyekat Beta (Beta Blocker)",
+      "mekanisme": "Antagonis reseptor beta-adrenergik yang menurunkan frekuensi jantung, kontraktilitas, dan pelepasan renin, sehingga menurunkan tekanan darah dan kebutuhan oksigen miokard",
+      "obat": [
+        {
+          "id": "bisoprolol",
+          "nama": "Bisoprolol",
+          "mekanisme": "Penyekat beta-1 selektif (kardioselektif)",
+          "indikasi": [
+            "Hipertensi",
+            "Gagal jantung dengan fraksi ejeksi menurun",
+            "Angina stabil"
+          ],
+          "sediaan": [
+            "Tablet 2,5 mg, 5 mg, 10 mg"
+          ],
+          "efek_samping": [
+            "Bradikardia",
+            "Kelelahan",
+            "Hipotensi",
+            "Pusing",
+            "Bronkospasme (dosis tinggi)"
+          ],
+          "tatalaksana": [
+            "Hipertensi: awal 5 mg 1x/hari, dapat dinaikkan sampai 20 mg/hari",
+            "Gagal jantung: awal 1,25 mg 1x/hari, titrasi sangat bertahap sampai target 10 mg/hari"
+          ],
+          "monitoring": [
+            "Frekuensi nadi dan tekanan darah",
+            "Tanda perburukan gagal jantung saat titrasi",
+            "Gejala bronkospasme pada PPOK/asma"
+          ],
+          "interaksi": [
+            "CCB non-dihidropiridin (verapamil, diltiazem): risiko bradikardia dan blok AV berat",
+            "Insulin dan sulfonilurea: dapat menutupi gejala hipoglikemia",
+            "Klonidin: risiko rebound hipertensi bila dihentikan bersamaan"
+          ],
+          "catatan": "Jangan hentikan mendadak (risiko rebound takikardia dan iskemia).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bisoprolol/PNG?image_size=300x300"
+        },
+        {
+          "id": "metoprolol",
+          "nama": "Metoprolol",
+          "mekanisme": "Penyekat beta-1 selektif (kardioselektif)",
+          "indikasi": [
+            "Hipertensi",
+            "Angina",
+            "Gagal jantung dengan fraksi ejeksi menurun (suksinat/ER)",
+            "Pasca-infark miokard",
+            "Kontrol laju pada fibrilasi atrium"
+          ],
+          "sediaan": [
+            "Tablet tartrat (kerja singkat) 50 mg, 100 mg",
+            "Tablet suksinat lepas lambat (ER) 25 mg, 50 mg, 100 mg",
+            "Injeksi IV 1 mg/mL"
+          ],
+          "efek_samping": [
+            "Bradikardia",
+            "Kelelahan",
+            "Hipotensi",
+            "Depresi",
+            "Bronkospasme (dosis tinggi)"
+          ],
+          "tatalaksana": [
+            "Hipertensi (tartrat): 50-100 mg 2x/hari",
+            "Gagal jantung (suksinat ER): awal 12,5-25 mg 1x/hari, titrasi bertahap sampai 200 mg/hari"
+          ],
+          "monitoring": [
+            "Frekuensi nadi dan tekanan darah",
+            "Tanda perburukan gagal jantung",
+            "Gejala depresi"
+          ],
+          "interaksi": [
+            "CCB non-dihidropiridin: bradikardia dan blok AV",
+            "Inhibitor CYP2D6 (fluoksetin, paroksetin): kadar metoprolol meningkat",
+            "Klonidin: risiko rebound hipertensi"
+          ],
+          "catatan": "Tartrat dan suksinat tidak dapat dipertukarkan secara langsung karena profil pelepasan berbeda.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metoprolol/PNG?image_size=300x300"
+        },
+        {
+          "id": "karvedilol",
+          "nama": "Karvedilol",
+          "mekanisme": "Penyekat beta non-selektif dengan tambahan blokade reseptor alfa-1, sehingga menurunkan resistensi vaskular perifer selain efek pada jantung",
+          "indikasi": [
+            "Gagal jantung dengan fraksi ejeksi menurun",
+            "Hipertensi",
+            "Pasca-infark miokard dengan disfungsi ventrikel kiri"
+          ],
+          "sediaan": [
+            "Tablet 3,125 mg, 6,25 mg, 12,5 mg, 25 mg"
+          ],
+          "efek_samping": [
+            "Pusing",
+            "Hipotensi ortostatik",
+            "Bradikardia",
+            "Kelelahan",
+            "Edema"
+          ],
+          "tatalaksana": [
+            "Gagal jantung: awal 3,125 mg 2x/hari, dobel dosis setiap 2 minggu sesuai toleransi sampai target (25-50 mg 2x/hari)",
+            "Diminum bersama makanan untuk mengurangi hipotensi ortostatik"
+          ],
+          "monitoring": [
+            "Tekanan darah (ortostatik)",
+            "Frekuensi nadi",
+            "Tanda perburukan gagal jantung saat titrasi",
+            "Berat badan dan retensi cairan"
+          ],
+          "interaksi": [
+            "CCB non-dihidropiridin: bradikardia dan blok AV",
+            "Rifampisin: menurunkan kadar karvedilol",
+            "Siklosporin dan digoksin: kadar dapat meningkat"
+          ],
+          "catatan": "Kontraindikasi relatif pada asma bronkial berat karena efek non-selektif.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/carvedilol/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "diuretik-kardiovaskular",
+      "kelas": "Diuretik",
+      "mekanisme": "Meningkatkan ekskresi natrium dan air melalui ginjal sehingga menurunkan volume plasma dan preload jantung",
+      "obat": [
+        {
+          "id": "hidroklorotiazid",
+          "nama": "Hidroklorotiazid (HCT)",
+          "mekanisme": "Diuretik tiazid yang menghambat kotransporter Na-Cl di tubulus distal sehingga meningkatkan ekskresi natrium, klorida, dan air",
+          "indikasi": [
+            "Hipertensi (lini pertama)",
+            "Edema ringan"
+          ],
+          "sediaan": [
+            "Tablet 12,5 mg, 25 mg, 50 mg"
+          ],
+          "efek_samping": [
+            "Hipokalemia",
+            "Hiponatremia",
+            "Hiperurisemia",
+            "Hiperglikemia",
+            "Dislipidemia ringan",
+            "Fotosensitivitas"
+          ],
+          "tatalaksana": [
+            "Hipertensi: 12,5-25 mg 1x/hari pagi hari",
+            "Tidak efektif pada CrCl < 30 mL/menit"
+          ],
+          "monitoring": [
+            "Elektrolit (K, Na)",
+            "Asam urat",
+            "Glukosa darah",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Litium: kadar litium meningkat",
+            "Digoksin: hipokalemia meningkatkan risiko toksisitas digoksin",
+            "NSAID: menurunkan efek antihipertensi",
+            "Obat pemanjang QT: risiko aritmia akibat hipokalemia"
+          ],
+          "catatan": "Sering dikombinasikan dosis rendah dengan ACE inhibitor/ARB dalam satu tablet.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydrochlorothiazide/PNG?image_size=300x300"
+        },
+        {
+          "id": "furosemid",
+          "nama": "Furosemid",
+          "mekanisme": "Diuretik loop yang menghambat kotransporter Na-K-2Cl di ansa Henle asendens, menghasilkan diuresis kuat",
+          "indikasi": [
+            "Edema pada gagal jantung, sirosis, dan penyakit ginjal",
+            "Hipertensi (terutama dengan gangguan ginjal)",
+            "Edema paru akut"
+          ],
+          "sediaan": [
+            "Tablet 40 mg",
+            "Injeksi IV 10 mg/mL"
+          ],
+          "efek_samping": [
+            "Hipokalemia",
+            "Hiponatremia",
+            "Dehidrasi dan hipotensi",
+            "Ototoksisitas (dosis tinggi/IV cepat)",
+            "Hiperurisemia"
+          ],
+          "tatalaksana": [
+            "Oral: 20-80 mg 1-2x/hari, dosis dititrasi sesuai respons",
+            "IV (edema paru akut): 40 mg bolus lambat, dapat diulang atau dilanjutkan infus"
+          ],
+          "monitoring": [
+            "Elektrolit (K, Na, Mg)",
+            "Fungsi ginjal",
+            "Berat badan dan status cairan",
+            "Tekanan darah"
+          ],
+          "interaksi": [
+            "Aminoglikosida: ototoksisitas aditif",
+            "Digoksin: hipokalemia meningkatkan risiko toksisitas",
+            "Litium: kadar litium meningkat",
+            "NSAID: menurunkan efek diuretik"
+          ],
+          "catatan": "Injeksi IV cepat (> 4 mg/menit) meningkatkan risiko ototoksisitas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/furosemide/PNG?image_size=300x300"
+        },
+        {
+          "id": "spironolakton",
+          "nama": "Spironolakton",
+          "mekanisme": "Antagonis reseptor aldosteron (mineralokortikoid) di tubulus distal sehingga bersifat hemat kalium sambil meningkatkan ekskresi natrium",
+          "indikasi": [
+            "Gagal jantung dengan fraksi ejeksi menurun (antagonis reseptor mineralokortikoid)",
+            "Hipertensi resisten",
+            "Hiperaldosteronisme primer",
+            "Asites pada sirosis"
+          ],
+          "sediaan": [
+            "Tablet 25 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Hiperkalemia",
+            "Ginekomastia dan gangguan menstruasi (efek antiandrogen)",
+            "Gangguan fungsi ginjal"
+          ],
+          "tatalaksana": [
+            "Gagal jantung: 12,5-25 mg 1x/hari, dapat dinaikkan sampai 50 mg/hari",
+            "Hindari pada kalium serum awal > 5,0 mmol/L atau eGFR < 30 mL/menit/1,73m²"
+          ],
+          "monitoring": [
+            "Kalium serum (ketat, terutama awal terapi)",
+            "Fungsi ginjal",
+            "Gejala ginekomastia"
+          ],
+          "interaksi": [
+            "ACE inhibitor/ARB: risiko hiperkalemia aditif (kombinasi umum tapi perlu pemantauan ketat)",
+            "NSAID: risiko hiperkalemia dan gangguan ginjal",
+            "Suplemen kalium: hindari kombinasi tanpa indikasi kuat"
+          ],
+          "catatan": "Eplerenon adalah alternatif selektif tanpa efek antiandrogen bila ginekomastia menjadi masalah.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/spironolactone/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antiplatelet",
+      "kelas": "Antiplatelet",
+      "mekanisme": "Menghambat agregasi trombosit melalui berbagai jalur (COX-1, reseptor ADP P2Y12) sehingga mencegah pembentukan trombus arteri",
+      "obat": [
+        {
+          "id": "aspirin-kardiovaskular",
+          "nama": "Aspirin (dosis rendah)",
+          "mekanisme": "Menghambat COX-1 trombosit secara ireversibel sehingga menurunkan produksi tromboksan A2, mengurangi agregasi trombosit",
+          "indikasi": [
+            "Pencegahan sekunder penyakit kardiovaskular (pasca-infark miokard, stroke iskemik)",
+            "Sindrom koroner akut",
+            "Pencegahan primer pada pasien risiko tinggi tertentu"
+          ],
+          "sediaan": [
+            "Tablet salut enterik 80 mg, 100 mg",
+            "Tablet kunyah 81 mg (untuk kejadian akut)"
+          ],
+          "efek_samping": [
+            "Dispepsia",
+            "Perdarahan saluran cerna",
+            "Perdarahan intrakranial (jarang)",
+            "Reaksi alergi/asma akibat aspirin"
+          ],
+          "tatalaksana": [
+            "Pencegahan sekunder: 75-100 mg 1x/hari",
+            "Sindrom koroner akut: 162-325 mg dikunyah segera saat dicurigai, dilanjutkan dosis rendah harian"
+          ],
+          "monitoring": [
+            "Tanda perdarahan GI",
+            "Hemoglobin bila ada gejala anemia"
+          ],
+          "interaksi": [
+            "Antikoagulan (warfarin, DOAC): risiko perdarahan aditif",
+            "NSAID lain: dapat mengganggu efek antiplatelet aspirin bila diberikan bersamaan",
+            "Metotreksat: kadar meningkat",
+            "Kortikosteroid: risiko perdarahan GI"
+          ],
+          "catatan": "Dosis rendah untuk pencegahan kardiovaskular berbeda dari dosis analgesik/antiinflamasi yang jauh lebih tinggi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aspirin/PNG?image_size=300x300"
+        },
+        {
+          "id": "klopidogrel",
+          "nama": "Klopidogrel",
+          "mekanisme": "Prodrug yang diaktivasi oleh CYP2C19 menjadi metabolit aktif yang menghambat reseptor P2Y12 ADP pada trombosit secara ireversibel",
+          "indikasi": [
+            "Sindrom koroner akut (dual antiplatelet dengan aspirin)",
+            "Pasca-pemasangan stent koroner",
+            "Pencegahan sekunder stroke iskemik dan penyakit arteri perifer"
+          ],
+          "sediaan": [
+            "Tablet 75 mg, 300 mg"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Dispepsia",
+            "Ruam",
+            "Trombotic thrombocytopenic purpura (sangat jarang)"
+          ],
+          "tatalaksana": [
+            "Loading dose: 300-600 mg pada sindrom koroner akut atau sebelum PCI",
+            "Rumatan: 75 mg 1x/hari"
+          ],
+          "monitoring": [
+            "Tanda perdarahan",
+            "Hitung darah lengkap bila ada gejala TTP"
+          ],
+          "interaksi": [
+            "Omeprazole dan esomeprazole (inhibitor CYP2C19 kuat): dapat menurunkan aktivasi klopidogrel, pertimbangkan PPI alternatif (pantoprazole)",
+            "Antikoagulan: risiko perdarahan aditif",
+            "NSAID: risiko perdarahan GI"
+          ],
+          "catatan": "Efektivitas bervariasi pada pasien dengan polimorfisme genetik CYP2C19 (poor metabolizer).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clopidogrel/PNG?image_size=300x300"
+        },
+        {
+          "id": "tikagrelor",
+          "nama": "Tikagrelor",
+          "mekanisme": "Antagonis reseptor P2Y12 yang bekerja langsung (bukan prodrug) dan reversibel, tidak bergantung pada aktivasi CYP2C19",
+          "indikasi": [
+            "Sindrom koroner akut (dual antiplatelet dengan aspirin)",
+            "Pasca-infark miokard dengan risiko tinggi"
+          ],
+          "sediaan": [
+            "Tablet 60 mg, 90 mg"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Sesak napas (dispnea, khas dan biasanya ringan)",
+            "Bradiaritmia",
+            "Peningkatan asam urat"
+          ],
+          "tatalaksana": [
+            "Loading dose: 180 mg, dilanjutkan 90 mg 2x/hari (atau 60 mg 2x/hari setelah 1 tahun untuk terapi jangka panjang)",
+            "Dosis aspirin bersamaan sebaiknya tidak melebihi 100 mg/hari"
+          ],
+          "monitoring": [
+            "Tanda perdarahan",
+            "Gejala dispnea",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Inhibitor/penginduksi CYP3A4 kuat: mengubah kadar tikagrelor signifikan",
+            "Aspirin dosis tinggi (> 100 mg): menurunkan efektivitas tikagrelor",
+            "Simvastatin/lovastatin dosis tinggi: kadar statin meningkat"
+          ],
+          "catatan": "Dispnea biasanya muncul awal terapi dan tidak selalu memerlukan penghentian obat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ticagrelor/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antikoagulan",
+      "kelas": "Antikoagulan",
+      "mekanisme": "Menghambat faktor koagulasi (trombin, faktor Xa) atau sintesis faktor koagulasi bergantung vitamin K sehingga mencegah pembentukan dan perluasan trombus",
+      "obat": [
+        {
+          "id": "warfarin",
+          "nama": "Warfarin",
+          "mekanisme": "Menghambat vitamin K epoxide reductase sehingga mengurangi sintesis faktor koagulasi II, VII, IX, X yang bergantung vitamin K",
+          "indikasi": [
+            "Fibrilasi atrium (pencegahan stroke)",
+            "Trombosis vena dalam dan emboli paru",
+            "Katup jantung mekanik",
+            "Pencegahan tromboemboli pasca-bedah tertentu"
+          ],
+          "sediaan": [
+            "Tablet 1 mg, 2 mg, 5 mg"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Nekrosis kulit (jarang, awal terapi pada defisiensi protein C)",
+            "Purple toe syndrome"
+          ],
+          "tatalaksana": [
+            "Dosis awal 2-5 mg/hari, titrasi berdasarkan INR",
+            "Target INR umumnya 2-3 (2,5-3,5 untuk katup mekanik tertentu)"
+          ],
+          "monitoring": [
+            "INR (rutin, lebih sering saat awal terapi atau perubahan dosis)",
+            "Tanda perdarahan",
+            "Interaksi obat dan makanan"
+          ],
+          "interaksi": [
+            "Banyak obat mengubah metabolisme CYP2C9 (amiodaron, metronidazol, flukonazol meningkatkan INR; rifampisin, karbamazepin menurunkan INR)",
+            "Makanan tinggi vitamin K (sayuran hijau): menurunkan efek warfarin, jaga konsistensi asupan",
+            "NSAID dan aspirin: risiko perdarahan aditif",
+            "Antibiotik spektrum luas: dapat meningkatkan INR"
+          ],
+          "catatan": "Memerlukan pemantauan INR rutin seumur hidup terapi; edukasi pasien tentang interaksi obat-makanan sangat penting.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/warfarin/PNG?image_size=300x300"
+        },
+        {
+          "id": "rivaroxaban",
+          "nama": "Rivaroxaban",
+          "mekanisme": "Inhibitor langsung faktor Xa (DOAC/NOAC) yang tidak memerlukan pemantauan INR rutin",
+          "indikasi": [
+            "Fibrilasi atrium non-valvular (pencegahan stroke)",
+            "Trombosis vena dalam dan emboli paru",
+            "Pencegahan tromboemboli vena pasca-bedah ortopedi"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 15 mg, 20 mg"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Anemia",
+            "Mual"
+          ],
+          "tatalaksana": [
+            "Fibrilasi atrium: 20 mg 1x/hari bersama makanan (15 mg bila CrCl 15-50 mL/menit)",
+            "DVT/PE akut: 15 mg 2x/hari selama 21 hari, lalu 20 mg 1x/hari"
+          ],
+          "monitoring": [
+            "Fungsi ginjal (dosis bergantung CrCl)",
+            "Tanda perdarahan",
+            "Hemoglobin"
+          ],
+          "interaksi": [
+            "Inhibitor/penginduksi kuat CYP3A4 dan P-gp (ketokonazol, ritonavir, rifampisin): menghindari kombinasi",
+            "Antiplatelet dan NSAID: risiko perdarahan aditif"
+          ],
+          "catatan": "Tidak dianjurkan pada katup jantung mekanik. Tidak memerlukan pemantauan koagulasi rutin.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rivaroxaban/PNG?image_size=300x300"
+        },
+        {
+          "id": "heparin",
+          "nama": "Heparin (Unfractionated Heparin)",
+          "mekanisme": "Mengikat antitrombin III dan mempercepat kerjanya dalam menghambat trombin (faktor IIa) dan faktor Xa",
+          "indikasi": [
+            "Trombosis vena dalam dan emboli paru akut",
+            "Sindrom koroner akut",
+            "Antikoagulasi selama prosedur (PCI, bypass jantung)",
+            "Jembatan (bridging) sebelum warfarin efektif"
+          ],
+          "sediaan": [
+            "Injeksi IV/SC 1000 unit/mL, 5000 unit/mL, 25000 unit/mL"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Trombositopenia akibat heparin (HIT)",
+            "Osteoporosis (penggunaan lama)",
+            "Hiperkalemia (jarang)"
+          ],
+          "tatalaksana": [
+            "IV: bolus 60-80 unit/kgBB, dilanjutkan infus 12-18 unit/kgBB/jam, dititrasi berdasarkan aPTT",
+            "Profilaksis SC: 5000 unit setiap 8-12 jam"
+          ],
+          "monitoring": [
+            "aPTT (untuk dosis terapeutik IV)",
+            "Hitung trombosit (risiko HIT, terutama hari 5-10)",
+            "Tanda perdarahan"
+          ],
+          "interaksi": [
+            "Antiplatelet dan NSAID: risiko perdarahan aditif",
+            "Nitrogliserin IV dosis tinggi: dapat menurunkan efek heparin"
+          ],
+          "catatan": "Antidotum: protamin sulfat. HIT adalah komplikasi serius yang memerlukan penghentian segera dan pergantian ke antikoagulan non-heparin.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/heparin/PNG?image_size=300x300"
+        },
+        {
+          "id": "enoksaparin",
+          "nama": "Enoksaparin",
+          "mekanisme": "Heparin berat molekul rendah (LMWH) yang lebih selektif menghambat faktor Xa dibanding trombin, dengan farmakokinetik lebih dapat diprediksi dibanding heparin tak terfraksinasi",
+          "indikasi": [
+            "Profilaksis dan terapi trombosis vena dalam dan emboli paru",
+            "Sindrom koroner akut",
+            "Jembatan (bridging) antikoagulasi"
+          ],
+          "sediaan": [
+            "Injeksi SC prefilled syringe 20 mg/0,2 mL, 40 mg/0,4 mL, 60 mg/0,6 mL, 80 mg/0,8 mL"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Memar di lokasi injeksi",
+            "Trombositopenia akibat heparin (lebih jarang dibanding UFH)"
+          ],
+          "tatalaksana": [
+            "Profilaksis: 40 mg SC 1x/hari",
+            "Terapi: 1 mg/kgBB SC setiap 12 jam (atau 1,5 mg/kgBB 1x/hari)",
+            "Sesuaikan dosis pada CrCl < 30 mL/menit"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Hitung trombosit",
+            "Tanda perdarahan",
+            "Anti-Xa pada populasi khusus (obesitas berat, gangguan ginjal, kehamilan)"
+          ],
+          "interaksi": [
+            "Antiplatelet dan NSAID: risiko perdarahan aditif",
+            "Antikoagulan lain: hindari kombinasi tanpa indikasi jelas"
+          ],
+          "catatan": "Tidak memerlukan pemantauan aPTT rutin seperti heparin tak terfraksinasi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/enoxaparin/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "statin",
+      "kelas": "Statin",
+      "mekanisme": "Menghambat enzim HMG-CoA reduktase sehingga menurunkan sintesis kolesterol di hati dan meningkatkan ekspresi reseptor LDL, menurunkan kadar LDL plasma",
+      "obat": [
+        {
+          "id": "simvastatin",
+          "nama": "Simvastatin",
+          "indikasi": [
+            "Hiperkolesterolemia",
+            "Pencegahan primer dan sekunder penyakit kardiovaskular aterosklerotik"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 20 mg, 40 mg"
+          ],
+          "efek_samping": [
+            "Mialgia",
+            "Peningkatan enzim hati",
+            "Miopati dan rabdomiolisis (dosis tinggi atau interaksi)",
+            "Dispepsia"
+          ],
+          "tatalaksana": [
+            "Awal 10-20 mg malam hari, dapat dinaikkan sampai 40 mg/hari (dosis 80 mg tidak dianjurkan karena risiko miopati)"
+          ],
+          "monitoring": [
+            "Profil lipid",
+            "ALT/AST (baseline, ulangi bila ada gejala)",
+            "Gejala nyeri otot"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat (klaritromisin, itrakonazol, siklosporin): kontraindikasi atau batasi dosis maks 20 mg",
+            "Amlodipin: batasi dosis simvastatin maks 20 mg/hari",
+            "Diltiazem/verapamil: batasi dosis simvastatin maks 10 mg/hari",
+            "Jus grapefruit dalam jumlah besar: meningkatkan kadar simvastatin"
+          ],
+          "catatan": "Di antara statin, simvastatin memiliki interaksi obat CYP3A4 paling banyak.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/simvastatin/PNG?image_size=300x300"
+        },
+        {
+          "id": "atorvastatin",
+          "nama": "Atorvastatin",
+          "indikasi": [
+            "Hiperkolesterolemia",
+            "Pencegahan primer dan sekunder penyakit kardiovaskular aterosklerotik",
+            "Sindrom koroner akut (dosis tinggi)"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 20 mg, 40 mg, 80 mg"
+          ],
+          "efek_samping": [
+            "Mialgia",
+            "Peningkatan enzim hati",
+            "Miopati dan rabdomiolisis (jarang)",
+            "Dispepsia"
+          ],
+          "tatalaksana": [
+            "Awal 10-20 mg 1x/hari (dapat diminum kapan saja, tidak harus malam), sampai 80 mg/hari sesuai target LDL dan risiko"
+          ],
+          "monitoring": [
+            "Profil lipid",
+            "ALT/AST",
+            "Gejala nyeri otot"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat: meningkatkan kadar atorvastatin",
+            "Siklosporin: batasi dosis atorvastatin",
+            "Jus grapefruit dalam jumlah besar: meningkatkan kadar"
+          ],
+          "catatan": "Waktu paruh lebih panjang dibanding simvastatin sehingga fleksibel terhadap waktu minum.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/atorvastatin/PNG?image_size=300x300"
+        },
+        {
+          "id": "rosuvastatin",
+          "nama": "Rosuvastatin",
+          "indikasi": [
+            "Hiperkolesterolemia",
+            "Pencegahan primer dan sekunder penyakit kardiovaskular aterosklerotik"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg, 20 mg, 40 mg"
+          ],
+          "efek_samping": [
+            "Mialgia",
+            "Peningkatan enzim hati",
+            "Miopati (jarang)",
+            "Proteinuria (dosis tinggi)"
+          ],
+          "tatalaksana": [
+            "Awal 10-20 mg 1x/hari, sampai 40 mg/hari sesuai target LDL",
+            "Dosis awal lebih rendah (5 mg) pada populasi Asia dan gangguan ginjal"
+          ],
+          "monitoring": [
+            "Profil lipid",
+            "ALT/AST",
+            "Fungsi ginjal pada dosis tinggi"
+          ],
+          "interaksi": [
+            "Siklosporin: kadar rosuvastatin meningkat signifikan",
+            "Gemfibrozil: risiko miopati meningkat",
+            "Antasida: menurunkan absorpsi bila diminum bersamaan"
+          ],
+          "catatan": "Metabolisme minimal melalui CYP450, sehingga interaksi obat lebih sedikit dibanding simvastatin/atorvastatin. Populasi Asia memerlukan dosis awal lebih rendah karena kadar plasma lebih tinggi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rosuvastatin/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antiaritmia",
+      "kelas": "Antiaritmia",
+      "mekanisme": "Memodulasi kanal ion jantung (natrium, kalium, kalsium) atau reseptor adrenergik untuk mengendalikan pembentukan dan konduksi impuls listrik jantung",
+      "obat": [
+        {
+          "id": "amiodaron",
+          "nama": "Amiodaron",
+          "mekanisme": "Antiaritmia kelas III yang menghambat kanal kalium (memperpanjang repolarisasi), dengan efek tambahan pada kanal natrium, kalsium, dan reseptor beta",
+          "indikasi": [
+            "Fibrilasi atrium (kontrol irama)",
+            "Takikardia ventrikel dan fibrilasi ventrikel",
+            "Aritmia refrakter lainnya"
+          ],
+          "sediaan": [
+            "Tablet 200 mg",
+            "Injeksi IV 50 mg/mL"
+          ],
+          "efek_samping": [
+            "Toksisitas paru (fibrosis)",
+            "Disfungsi tiroid (hipo/hipertiroid)",
+            "Hepatotoksik",
+            "Deposit kornea",
+            "Fotosensitivitas dan perubahan warna kulit (blue-gray)",
+            "Pemanjangan QT"
+          ],
+          "tatalaksana": [
+            "Loading oral: 800-1600 mg/hari terbagi selama 1-3 minggu, lalu rumatan 200-400 mg/hari",
+            "IV (aritmia akut): bolus 150 mg selama 10 menit, dilanjutkan infus"
+          ],
+          "monitoring": [
+            "Fungsi tiroid (TSH) setiap 6 bulan",
+            "Fungsi hati",
+            "Foto toraks dan fungsi paru berkala",
+            "Pemeriksaan mata (deposit kornea)",
+            "Interval QT dan EKG"
+          ],
+          "interaksi": [
+            "Warfarin: meningkatkan INR signifikan, sering perlu penurunan dosis warfarin",
+            "Digoksin: kadar digoksin meningkat, kurangi dosis",
+            "Statin (simvastatin): risiko miopati meningkat",
+            "Obat pemanjang QT lain: risiko torsades de pointes"
+          ],
+          "catatan": "Waktu paruh sangat panjang (berminggu-minggu) sehingga efek toksik dapat muncul lama setelah obat dihentikan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amiodarone/PNG?image_size=300x300"
+        },
+        {
+          "id": "digoksin",
+          "nama": "Digoksin",
+          "mekanisme": "Menghambat pompa Na+/K+-ATPase pada sel miokard sehingga meningkatkan kalsium intrasel (efek inotropik positif) dan meningkatkan tonus vagal (memperlambat konduksi AV node)",
+          "indikasi": [
+            "Gagal jantung dengan fraksi ejeksi menurun (simtomatik)",
+            "Kontrol laju pada fibrilasi atrium"
+          ],
+          "sediaan": [
+            "Tablet 0,125 mg, 0,25 mg",
+            "Injeksi IV 0,25 mg/mL"
+          ],
+          "efek_samping": [
+            "Mual dan muntah",
+            "Gangguan penglihatan (halo kuning-hijau)",
+            "Aritmia (termasuk blok AV dan ekstrasistol ventrikel)",
+            "Kebingungan (terutama lansia)"
+          ],
+          "tatalaksana": [
+            "Rumatan: 0,125-0,25 mg 1x/hari (dosis lebih rendah pada lansia dan gangguan ginjal)",
+            "Target kadar serum 0,5-0,9 ng/mL untuk gagal jantung"
+          ],
+          "monitoring": [
+            "Kadar digoksin serum",
+            "Kalium, magnesium, dan kalsium serum",
+            "Fungsi ginjal",
+            "EKG dan gejala toksisitas"
+          ],
+          "interaksi": [
+            "Amiodaron, verapamil, klaritromisin: meningkatkan kadar digoksin signifikan",
+            "Diuretik (menyebabkan hipokalemia): meningkatkan risiko toksisitas digoksin",
+            "Penyekat beta dan CCB non-dihidropiridin: risiko bradikardia aditif"
+          ],
+          "catatan": "Rentang terapi sempit; toksisitas dapat mengancam jiwa. Antidotum: digoxin immune Fab pada toksisitas berat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/digoxin/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antiangina-vasodilator",
+      "kelas": "Antiangina dan Vasodilator",
+      "mekanisme": "Melepaskan nitrat oksida yang menyebabkan vasodilatasi vena dan arteri sehingga menurunkan preload, afterload, dan kebutuhan oksigen miokard",
+      "obat": [
+        {
+          "id": "nitrogliserin",
+          "nama": "Nitrogliserin (Gliseril Trinitrat)",
+          "indikasi": [
+            "Serangan angina akut",
+            "Profilaksis angina sebelum aktivitas pencetus",
+            "Gagal jantung akut dan krisis hipertensi (IV)"
+          ],
+          "sediaan": [
+            "Tablet sublingual 0,4 mg, 0,5 mg",
+            "Spray sublingual 0,4 mg/dosis",
+            "Patch transdermal 5 mg/24 jam, 10 mg/24 jam",
+            "Infus IV 5 mg/mL"
+          ],
+          "efek_samping": [
+            "Sakit kepala berdenyut (sangat sering)",
+            "Hipotensi ortostatik",
+            "Flushing",
+            "Takikardia refleks",
+            "Toleransi pada penggunaan terus-menerus"
+          ],
+          "tatalaksana": [
+            "Sublingual: 0,4-0,5 mg saat serangan, dapat diulang setiap 5 menit sampai 3 dosis, cari pertolongan bila nyeri tidak reda",
+            "Patch: pasang 12-14 jam/hari dengan periode bebas nitrat untuk mencegah toleransi",
+            "IV: mulai 5-10 mcg/menit, titrasi sesuai respons"
+          ],
+          "monitoring": [
+            "Tekanan darah dan frekuensi nadi",
+            "Respons nyeri dada",
+            "Sakit kepala"
+          ],
+          "interaksi": [
+            "Inhibitor PDE-5 (sildenafil, tadalafil): kontraindikasi absolut, risiko hipotensi berat yang mengancam jiwa",
+            "Alkohol: hipotensi aditif",
+            "Heparin IV dosis tinggi: dapat menurunkan efek heparin"
+          ],
+          "catatan": "Simpan tablet sublingual dalam wadah kaca gelap tertutup rapat karena mudah terurai oleh cahaya dan udara.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nitroglycerin/PNG?image_size=300x300"
+        },
+        {
+          "id": "isosorbid-dinitrat",
+          "nama": "Isosorbid Dinitrat",
+          "indikasi": [
+            "Profilaksis dan terapi angina",
+            "Terapi tambahan pada gagal jantung (dengan hidralazin)"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg",
+            "Tablet sublingual 5 mg",
+            "Tablet lepas lambat 40 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Hipotensi ortostatik",
+            "Flushing",
+            "Toleransi pada penggunaan terus-menerus"
+          ],
+          "tatalaksana": [
+            "Oral: 10-40 mg 2-3x/hari dengan jadwal asimetris (mis. jam 8 pagi, 1 siang) untuk periode bebas nitrat",
+            "Sublingual: 5-10 mg saat serangan angina"
+          ],
+          "monitoring": [
+            "Tekanan darah dan frekuensi nadi",
+            "Respons nyeri dada"
+          ],
+          "interaksi": [
+            "Inhibitor PDE-5: kontraindikasi absolut",
+            "Alkohol: hipotensi aditif"
+          ],
+          "catatan": "Jadwal dosis harus disusun dengan periode bebas nitrat (biasanya 10-14 jam) untuk mencegah toleransi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/isosorbide%20dinitrate/PNG?image_size=300x300"
+        }
+      ]
+    }
+  ]
+}

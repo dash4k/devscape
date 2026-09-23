@@ -1,22 +1,12 @@
-import antibiotik from '../data/obat-obatan-antibiotik.json';
-import pencernaan from '../data/obat-obatan-pencernaan.json';
-import pernapasan from '../data/obat-obatan-pernapasan.json';
-import tulang from '../data/obat-obatan-tulang.json';
+import { rawDrugs } from '../data/drugs.js';
 
 import { Link } from 'react-router-dom';
 import DrugCard from './DrugCard.jsx';
 
 const DrugList = ({ type }) => {
-  const drugs = {
-    'antibiotik': antibiotik,
-    'pencernaan': pencernaan,
-    'pernapasan': pernapasan,
-    'tulang': tulang
-  };
-
   return (
     <div className="flex flex-col gap-6">
-      {drugs[type].kelas_obat.map((kelas) => (
+      {rawDrugs[type].kelas_obat.map((kelas) => (
         <section key={kelas.id} className="w-full border-t-2 border-dashed border-text-muted pt-8 pb-8 first:border-t-0 first:pt-0">
           <h2 className="text-label-lg font-black text-text-primary mb-2 text-center">
             {kelas.kelas}
