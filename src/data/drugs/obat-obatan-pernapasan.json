@@ -46,9 +46,10 @@
           "catatan": "Penggunaan reliever > 2 hari/minggu (di luar latihan fisik) menandakan asma tidak terkontrol.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/albuterol/PNG?image_size=300x300",
           "merek": [
-            "Ventolin",
             "Salbutamol (generik)",
-            "Asmasoho"
+            "Ventolin",
+            "Lasal",
+            "Velutin"
           ]
         },
         {
@@ -88,7 +89,9 @@
           "catatan": "Formulasi injeksi/oral tidak dianjurkan sebagai tokolitik jangka panjang (peringatan FDA).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/terbutaline/PNG?image_size=300x300",
           "merek": [
-            "Bricasma"
+            "Bricasma",
+            "Lasmalin",
+            "Molasma"
           ]
         }
       ]
@@ -134,7 +137,7 @@
           "catatan": "Pada asma, jangan digunakan sebagai monoterapi tanpa ICS (peningkatan risiko kematian terkait asma).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/salmeterol/PNG?image_size=300x300",
           "merek": [
-            "Serevent"
+            "Seretide (kombinasi dengan flutikason)"
           ]
         },
         {
@@ -174,8 +177,8 @@
           "catatan": "Sama seperti salmeterol, tidak untuk monoterapi pada asma.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/formoterol/PNG?image_size=300x300",
           "merek": [
-            "Foradil",
-            "Oxis"
+            "Symbicort (kombinasi dengan budesonide)",
+            "Innovair (kombinasi)"
           ]
         }
       ]
@@ -220,7 +223,9 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ipratropium%20bromide/PNG?image_size=300x300",
           "merek": [
             "Atrovent",
-            "Combivent (kombinasi)"
+            "Combivent (kombinasi)",
+            "Respivent (kombinasi)",
+            "Meprovent (kombinasi)"
           ]
         },
         {
@@ -303,7 +308,9 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/budesonide/PNG?image_size=300x300",
           "merek": [
             "Pulmicort",
-            "Symbicort (kombinasi)"
+            "Symbicort (kombinasi)",
+            "Budenofalk (oral, untuk Crohn)",
+            "Obucort"
           ]
         },
         {
@@ -342,7 +349,8 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fluticasone%20propionate/PNG?image_size=300x300",
           "merek": [
             "Flixotide",
-            "Seretide (kombinasi)"
+            "Seretide (kombinasi)",
+            "Avamyx (nasal)"
           ]
         },
         {
@@ -376,8 +384,7 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/beclomethasone%20dipropionate/PNG?image_size=300x300",
           "merek": [
-            "Becotide",
-            "Inflammide"
+            "Innovair (kombinasi)"
           ]
         }
       ]
@@ -423,8 +430,9 @@
           "catatan": "Boxed warning FDA: efek neuropsikiatri serius; pertimbangkan risiko dan manfaat, terutama pada asma ringan atau rinitis alergi.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/montelukast/PNG?image_size=300x300",
           "merek": [
+            "Monarin",
             "Singulair",
-            "Montelukast (generik)"
+            "Rymont"
           ]
         }
       ]
@@ -471,9 +479,7 @@
           "catatan": "Rentang terapi sempit; kadar > 20 mcg/mL berisiko toksik.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/theophylline/PNG?image_size=300x300",
           "merek": [
-            "Theophylline (generik)",
-            "Bronsolvan",
-            "Retaphyl"
+            "Theobron"
           ]
         },
         {
@@ -510,7 +516,8 @@
           "catatan": "Dosis dihitung berdasarkan berat badan ideal; infus harus lambat.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aminophylline/PNG?image_size=300x300",
           "merek": [
-            "Aminophylline (generik)"
+            "Aminofilin (generik)",
+            "Decafil"
           ]
         }
       ]
@@ -553,9 +560,7 @@
           ],
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/roflumilast/PNG?image_size=300x300",
-          "merek": [
-            "Daxas"
-          ]
+          "merek": null
         }
       ]
     },
@@ -599,8 +604,12 @@
           "catatan": "Hati-hati pada asma dan riwayat ulkus lambung.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/acetylcysteine/PNG?image_size=300x300",
           "merek": [
+            "Asetilsistein (generik)",
             "Fluimucil",
-            "Acetylcysteine (generik)"
+            "Acetin",
+            "N-Ace",
+            "Resfar",
+            "Hidonac"
           ]
         },
         {
@@ -636,9 +645,9 @@
           "catatan": "Tidak dianjurkan pada anak < 2 tahun. Sumber berbeda dalam batas usia; cek label produk.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ambroxol/PNG?image_size=300x300",
           "merek": [
-            "Mucosolvan",
-            "Ambroxol (generik)",
-            "Mucera"
+            "Ambroksol (generik)",
+            "Mucopect",
+            "Mucos"
           ]
         },
         {
@@ -673,8 +682,7 @@
           "catatan": "Hati-hati pada riwayat ulkus lambung.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bromhexine/PNG?image_size=300x300",
           "merek": [
-            "Bisolvon",
-            "Bromhexine (generik)"
+            "Bisolvon"
           ]
         }
       ]
@@ -717,7 +725,7 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/guaifenesin/PNG?image_size=300x300",
           "merek": [
             "OBH Combi (kombinasi)",
-            "Guaifenesin (generik)"
+            "Lasal Ekspektoran (kombinasi)"
           ]
         }
       ]
@@ -761,8 +769,10 @@
           "catatan": "Hindari pada batuk produktif dan pada asma dengan dahak banyak.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dextromethorphan/PNG?image_size=300x300",
           "merek": [
-            "Dextrometorphan (generik)",
-            "Woods Antitussive"
+            "Vicks F44 (kombinasi)",
+            "Bodrex Flu & Batuk (kombinasi)",
+            "Procold (kombinasi)",
+            "Sanadryl DMP (kombinasi)"
           ]
         },
         {
@@ -801,7 +811,8 @@
           "catatan": "Metabolisme CYP2D6 bervariasi; ultra-rapid metabolizer berisiko toksisitas opioid, termasuk pada ibu menyusui.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/codeine/PNG?image_size=300x300",
           "merek": [
-            "Codein (generik)",
+            "Kodein (generik)",
+            "Codikaf",
             "Codipront (kombinasi)"
           ]
         }
@@ -844,9 +855,7 @@
           ],
           "catatan": "Ketersediaan dan indikasi resmi berbeda antar negara.",
           "gambar": null,
-          "merek": [
-            "Xolair"
-          ]
+          "merek": null
         },
         {
           "id": "mepolizumab",
@@ -881,9 +890,7 @@
           ],
           "catatan": "Tata laksana infeksi parasit (helminth) sebelum memulai terapi. Ketersediaan terbatas.",
           "gambar": null,
-          "merek": [
-            "Nucala"
-          ]
+          "merek": null
         }
       ]
     }

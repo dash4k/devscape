@@ -50,8 +50,8 @@
           "catatan": "Injeksi IV harus diencerkan dengan NaCl 0,9% (mengendap dengan dekstrosa) dan diberikan perlahan karena risiko aritmia dan hipotensi (purple glove syndrome pada ekstravasasi).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phenytoin/PNG?image_size=300x300",
           "merek": [
-            "Phenytoin (generik)",
-            "Dilantin"
+            "Fenitoin (generik)",
+            "Decatona"
           ]
         },
         {
@@ -97,9 +97,10 @@
           "catatan": "Kontraindikasi pada kehamilan untuk migrain dan sebisa mungkin dihindari pada usia subur karena risiko teratogenik dan gangguan perkembangan anak.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/valproic%20acid/PNG?image_size=300x300",
           "merek": [
-            "Depakene",
-            "Depakote (divalproex)",
-            "Valproic Acid (generik)"
+            "Depakote",
+            "Divalproex Sodium (generik)",
+            "Valproat Syr",
+            "Vellepsy"
           ]
         },
         {
@@ -144,8 +145,7 @@
           "catatan": "Skrining HLA-B*1502 dianjurkan pada populasi Asia (termasuk Indonesia) sebelum memulai terapi karena risiko SJS/TEN.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/carbamazepine/PNG?image_size=300x300",
           "merek": [
-            "Tegretol",
-            "Carbamazepine (generik)"
+            "Karbamazepin (generik)"
           ]
         },
         {
@@ -185,8 +185,7 @@
           "catatan": "Titrasi lambat adalah kunci keamanan; jangan mempercepat dosis meskipun kejang belum terkontrol tanpa arahan dokter.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lamotrigine/PNG?image_size=300x300",
           "merek": [
-            "Lamictal",
-            "Lamotrigine (generik)"
+            "Lamictal"
           ]
         },
         {
@@ -225,8 +224,9 @@
           "catatan": "Salah satu antikonvulsan dengan profil interaksi paling minimal, sering dipilih pada polifarmasi.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levetiracetam/PNG?image_size=300x300",
           "merek": [
+            "Levetirasetam (generik)",
             "Keppra",
-            "Levetiracetam (generik)"
+            "Levexa"
           ]
         }
       ]
@@ -274,8 +274,10 @@
           "catatan": "Jangan hentikan mendadak (risiko sindrom mirip neuroleptic malignant syndrome).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levodopa/PNG?image_size=300x300",
           "merek": [
-            "Sinemet",
-            "Levazide"
+            "Madopar (levodopa/benserazide)",
+            "Levopar (levodopa/benserazide)",
+            "Levazide",
+            "Stalevo (dengan entacapone)"
           ]
         },
         {
@@ -317,7 +319,7 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pramipexole/PNG?image_size=300x300",
           "merek": [
             "Sifrol",
-            "Pramipexole (generik)"
+            "Pramifrol ER"
           ]
         },
         {
@@ -354,8 +356,8 @@
           "catatan": "Hindari atau gunakan hati-hati pada lansia karena risiko gangguan kognitif dan glaukoma sudut sempit.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/trihexyphenidyl/PNG?image_size=300x300",
           "merek": [
-            "Arkine",
-            "Trihexyphenidyl (generik)"
+            "Triheksifenidil (generik)",
+            "Hexymer"
           ]
         }
       ]
@@ -399,8 +401,9 @@
           "catatan": "Hati-hati pada pasien dengan gangguan konduksi jantung atau asma/PPOK berat (efek kolinergik pada bronkus).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/donepezil/PNG?image_size=300x300",
           "merek": [
-            "Aricept",
-            "Donepezil (generik)"
+            "Aricept Evess",
+            "Alzim",
+            "Fepezil"
           ]
         },
         {
@@ -437,8 +440,7 @@
           "catatan": "Sering dikombinasikan dengan donepezil pada demensia sedang-berat.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/memantine/PNG?image_size=300x300",
           "merek": [
-            "Ebixa",
-            "Memantine (generik)"
+            "Abixa"
           ]
         }
       ]
@@ -484,10 +486,7 @@
           ],
           "catatan": "Kontraindikasi pada penyakit jantung koroner, riwayat stroke, dan hipertensi tidak terkontrol. Penggunaan berlebihan dapat menyebabkan medication-overuse headache.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sumatriptan/PNG?image_size=300x300",
-          "merek": [
-            "Sumatran",
-            "Imigran"
-          ]
+          "merek": null
         },
         {
           "id": "ergotamin",
@@ -521,8 +520,8 @@
           "catatan": "Sebagian besar sudah digantikan oleh triptan karena profil keamanan yang lebih baik.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ergotamine/PNG?image_size=300x300",
           "merek": [
-            "Cafergot (kombinasi)",
-            "Bellapheen"
+            "Ergotamine Caffeine (kombinasi)",
+            "Ericaf (kombinasi)"
           ]
         }
       ]
@@ -564,8 +563,8 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/eperisone/PNG?image_size=300x300",
           "merek": [
-            "Myonal",
-            "Eperisone (generik)"
+            "Eperison (generik)",
+            "Myonal"
           ]
         },
         {
@@ -603,8 +602,8 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tizanidine/PNG?image_size=300x300",
           "merek": [
-            "Sirdalud",
-            "Tizanidine (generik)"
+            "Tizanidine (generik)",
+            "Zitanid"
           ]
         },
         {
@@ -643,8 +642,7 @@
           "catatan": "Jangan hentikan mendadak, terutama pada pompa intratekal, karena risiko sindrom putus obat yang mengancam jiwa.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/baclofen/PNG?image_size=300x300",
           "merek": [
-            "Lioresal",
-            "Baclofen (generik)"
+            "Lioresal"
           ]
         }
       ]
@@ -724,8 +722,7 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/citicoline/PNG?image_size=300x300",
           "merek": [
             "Citicoline (generik)",
-            "Nicholin",
-            "Ceraxon"
+            "RG Choline"
           ]
         }
       ]
@@ -771,8 +768,8 @@
           "catatan": "Berbeda dari pregabalin dalam farmakokinetik (absorpsi gabapentin tidak linear/dose-dependent).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gabapentin/PNG?image_size=300x300",
           "merek": [
-            "Neurontin",
-            "Gabapentin (generik)"
+            "Gabapentin (generik)",
+            "Alpentin"
           ]
         }
       ]

@@ -43,9 +43,7 @@
           "catatan": "Kontraindikasi pada gangguan esofagus (striktur, akalasia) dan ketidakmampuan duduk/berdiri tegak minimal 30 menit.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/alendronate/PNG?image_size=300x300",
           "merek": [
-            "Fosamax",
-            "Alendronate (generik)",
-            "Osteomax"
+            "Alovell"
           ]
         },
         {
@@ -82,9 +80,7 @@
           ],
           "catatan": "Sama seperti alendronat, kontraindikasi pada gangguan esofagus.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/risedronic%20acid/PNG?image_size=300x300",
-          "merek": [
-            "Actonel"
-          ]
+          "merek": null
         },
         {
           "id": "zoledronic-acid",
@@ -126,7 +122,8 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/zoledronic%20acid/PNG?image_size=300x300",
           "merek": [
             "Aclasta",
-            "Zometa (onkologi)"
+            "Zometa",
+            "Zoltero"
           ]
         }
       ]
@@ -174,8 +171,7 @@
           "catatan": "Efek anti-resorpsi cepat hilang setelah dosis terlewat atau dihentikan, menyebabkan rebound peningkatan resorpsi tulang dan risiko fraktur vertebra multipel; pertimbangkan terapi lanjutan (mis. bisfosfonat) bila dihentikan.",
           "gambar": null,
           "merek": [
-            "Prolia",
-            "Xgeva (onkologi)"
+            "Corora"
           ]
         },
         {
@@ -210,9 +206,7 @@
           ],
           "catatan": "Kontraindikasi pada penyakit Paget, riwayat radiasi tulang, hiperkalsemia, dan keganasan tulang karena risiko teoritis osteosarkoma. Setelah terapi, dilanjutkan dengan anti-resorptif (bisfosfonat/denosumab) untuk mempertahankan manfaat.",
           "gambar": null,
-          "merek": [
-            "Forteo"
-          ]
+          "merek": null
         },
         {
           "id": "raloksifen",
@@ -244,9 +238,7 @@
           ],
           "catatan": "Hentikan minimal 3 hari sebelum imobilisasi lama (operasi, tirah baring) karena risiko tromboemboli vena. Tidak mengatasi hot flashes menopause (justru dapat memperberat).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/raloxifene/PNG?image_size=300x300",
-          "merek": [
-            "Evista"
-          ]
+          "merek": null
         },
         {
           "id": "kalsium-vitamin-d",
@@ -282,9 +274,9 @@
           "catatan": "Kalsium sitrat memiliki absorpsi yang tidak bergantung asam lambung, lebih sesuai untuk pengguna PPI/H2 blocker jangka panjang.",
           "gambar": null,
           "merek": [
-            "Calcium D-Redoxon",
-            "Osteocal",
-            "CDR"
+            "Cavit D3",
+            "K2-Bone",
+            "Ossoral"
           ]
         }
       ]
@@ -328,9 +320,7 @@
           ],
           "catatan": "Kontraindikasi pada riwayat hipertermia maligna, luka bakar luas, cedera crush, dan hiperkalemia. Hanya digunakan oleh tenaga anestesi terlatih dengan fasilitas resusitasi lengkap.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/succinylcholine/PNG?image_size=300x300",
-          "merek": [
-            "Succinylcholine (generik)"
-          ]
+          "merek": null
         },
         {
           "id": "rokuronium",
@@ -365,7 +355,10 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rocuronium/PNG?image_size=300x300",
           "merek": [
             "Roculax",
-            "Rocuronium (generik)"
+            "Rocum",
+            "Noveron",
+            "Belnium",
+            "Nupovel"
           ]
         }
       ]
@@ -409,7 +402,7 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lidocaine/PNG?image_size=300x300",
           "merek": [
             "Xylocaine",
-            "Lidocaine (generik)"
+            "Lidokain (generik)"
           ]
         }
       ]
