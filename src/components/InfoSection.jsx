@@ -6,7 +6,11 @@ const InfoSection = ({ id, title, items }) => {
       <h2 id={id} className="text-label-lg font-black text-text-primary">
         {title}
       </h2>
-      <ul className="list-disc pl-5 flex flex-col gap-1 text-body-md text-text-primary">
+      <ul className={`list-disc pl-5 text-body-md text-text-primary ${
+        id === 'merek'
+          ? `grid grid-cols-${Math.ceil(items.length / 22)} gap-3`
+          : 'flex flex-col gap-1'
+      }`}>
         {items.map((item, i) => (
           <li key={i}>{item}</li>
         ))}
