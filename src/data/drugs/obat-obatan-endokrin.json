@@ -41,9 +41,9 @@
           "catatan": "Kontraindikasi pada eGFR < 30 mL/menit/1,73m²; kurangi dosis pada eGFR 30-45. Hentikan sementara pada kondisi akut yang berisiko hipoksia/gangguan ginjal akut.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metformin/PNG?image_size=300x300",
           "merek": [
-            "Glucophage",
             "Metformin (generik)",
-            "Glumin"
+            "Glucophage",
+            "Glucophage XR"
           ]
         }
       ]
@@ -83,8 +83,8 @@
           "catatan": "Hindari pada lansia dan gangguan ginjal karena risiko hipoglikemia berkepanjangan; gliklazid atau glimepirid lebih disukai bila sulfonilurea tetap diperlukan.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/glyburide/PNG?image_size=300x300",
           "merek": [
-            "Daonil",
-            "Glibenclamide (generik)"
+            "Glibenklamid (generik)",
+            "Harmida"
           ]
         },
         {
@@ -117,8 +117,9 @@
           "catatan": "Profil hipoglikemia lebih aman dibanding glibenklamid, sering menjadi pilihan sulfonilurea utama.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gliclazide/PNG?image_size=300x300",
           "merek": [
-            "Diamicron",
-            "Gliclazide (generik)"
+            "Gliklazid (generik)",
+            "Diamicron MR",
+            "Fonylin MR"
           ]
         }
       ]
@@ -158,7 +159,9 @@
           "catatan": "Risiko hipoglikemia rendah bila digunakan sebagai monoterapi karena kerja bergantung glukosa.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sitagliptin/PNG?image_size=300x300",
           "merek": [
-            "Januvia"
+            "Januvia",
+            "Fliptin",
+            "Sitagliptin (generik)"
           ]
         },
         {
@@ -240,8 +243,7 @@
           "catatan": "Kontraindikasi pada riwayat pribadi/keluarga karsinoma tiroid meduler dan sindrom MEN 2.",
           "gambar": null,
           "merek": [
-            "Victoza",
-            "Saxenda (obesitas)"
+            "Victoza"
           ]
         },
         {
@@ -280,9 +282,7 @@
           "catatan": "Sama seperti liraglutide, kontraindikasi pada riwayat karsinoma tiroid meduler dan MEN 2. Bentuk oral harus diminum saat benar-benar perut kosong.",
           "gambar": null,
           "merek": [
-            "Ozempic",
-            "Rybelsus",
-            "Wegovy (obesitas)"
+            "Ozempic"
           ]
         }
       ]
@@ -324,7 +324,8 @@
           "gambar": null,
           "merek": [
             "Lantus",
-            "Basaglar"
+            "Lantus XR",
+            "Insulin Glargine Generik"
           ]
         },
         {
@@ -356,7 +357,9 @@
           "catatan": "Onset lebih cepat dan durasi lebih singkat dibanding insulin reguler manusia, memungkinkan pemberian lebih dekat ke waktu makan.",
           "gambar": null,
           "merek": [
-            "NovoRapid"
+            "Novorapid",
+            "Novomix (kombinasi biphasic)",
+            "Ryzodeg (kombinasi)"
           ]
         }
       ]
@@ -397,9 +400,7 @@
           "catatan": "Konsistensi waktu dan cara minum penting karena variasi kecil dapat mengubah kadar TSH secara bermakna.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levothyroxine/PNG?image_size=300x300",
           "merek": [
-            "Euthyrox",
-            "Thyrax",
-            "Levothyroxine (generik)"
+            "Euthyrox"
           ]
         },
         {
@@ -434,8 +435,7 @@
           "catatan": "Segera hentikan dan periksa darah bila demam atau sakit tenggorokan muncul karena kemungkinan agranulositosis. Lebih disukai dibanding propiltiourasil kecuali pada trimester pertama kehamilan atau krisis tiroid.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methimazole/PNG?image_size=300x300",
           "merek": [
-            "Thyrozol",
-            "Methimazole (generik)"
+            "Thyrozol"
           ]
         }
       ]
@@ -480,8 +480,8 @@
           "catatan": "Pasien perlu kartu/gelang identifikasi medis dan edukasi 'sick day rules' (menggandakan/tiga kali lipat dosis saat sakit) serta cara pemberian injeksi darurat untuk mencegah krisis adrenal.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydrocortisone/PNG?image_size=300x300",
           "merek": [
-            "Hydrocortisone (generik)",
-            "Solu-Cortef"
+            "Hidrokortison (generik)",
+            "Fartison"
           ]
         },
         {
@@ -516,9 +516,7 @@
           ],
           "catatan": "Hanya diperlukan pada insufisiensi adrenal primer (Addison), tidak pada insufisiensi sekunder karena aksis renin-angiotensin-aldosteron umumnya masih utuh.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fludrocortisone/PNG?image_size=300x300",
-          "merek": [
-            "Florinef"
-          ]
+          "merek": null
         }
       ]
     },
@@ -564,8 +562,9 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levonorgestrel/PNG?image_size=300x300",
           "merek": [
             "Microgynon",
-            "Diane-35*",
-            "Yasmin"
+            "Yasmin",
+            "Mercilon",
+            "Diane-35"
           ]
         },
         {
@@ -598,8 +597,9 @@
           "catatan": "Cocok untuk ibu menyusui karena tidak mengandung estrogen yang dapat menurunkan produksi ASI.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/desogestrel/PNG?image_size=300x300",
           "merek": [
-            "Cerazette",
-            "Exluton"
+            "Microlut",
+            "Desirett",
+            "Andalan Laktasi (linestrenol)"
           ]
         },
         {
@@ -631,8 +631,8 @@
           "catatan": "Penggunaan jangka panjang (> 2 tahun) memerlukan pertimbangan risiko-manfaat terkait densitas tulang, terutama pada remaja.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/medroxyprogesterone%20acetate/PNG?image_size=300x300",
           "merek": [
-            "Depo Provera",
-            "Depogeston"
+            "Andalan Injectable",
+            "Medroksiprogesteron Asetat (generik, program BKKBN)"
           ]
         }
       ]
@@ -676,9 +676,7 @@
           ],
           "catatan": "Gunakan dosis efektif terendah untuk durasi tersingkat yang diperlukan karena risiko kardiovaskular dan kanker meningkat dengan durasi penggunaan.",
           "gambar": null,
-          "merek": [
-            "Premarin"
-          ]
+          "merek": null
         },
         {
           "id": "testosteron",
@@ -716,9 +714,7 @@
           "catatan": "Kontraindikasi pada kanker prostat atau payudara pria yang diketahui/dicurigai. Hindari kontak kulit dengan orang lain (terutama wanita hamil dan anak) pada sediaan gel karena risiko transfer hormon.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/testosterone/PNG?image_size=300x300",
           "merek": [
-            "Andriol",
-            "Sustanon",
-            "Testosterone (generik)"
+            "Sustanon"
           ]
         }
       ]
@@ -761,8 +757,9 @@
           "catatan": "Harus diberikan dengan pemantauan ketat pola kontraksi dan denyut jantung janin karena risiko hiperstimulasi dan gawat janin.",
           "gambar": null,
           "merek": [
+            "Oksitosin (generik)",
             "Syntocinon",
-            "Oxytocin (generik)"
+            "Santocyn"
           ]
         },
         {
@@ -800,9 +797,8 @@
           "catatan": "Kontraindikasi relatif pada riwayat seksio sesarea (risiko ruptur uterus) untuk induksi persalinan. Penggunaan harus sesuai indikasi dan pengawasan tenaga terlatih.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/misoprostol/PNG?image_size=300x300",
           "merek": [
-            "Cytotec",
-            "Gastrul",
-            "Misoprostol (generik)"
+            "Misoprostol (generik)",
+            "Naprostol"
           ]
         }
       ]
@@ -843,9 +839,8 @@
           "catatan": "Umumnya dibatasi maksimal 6 siklus karena manfaat menurun dan risiko kumulatif; evaluasi ulang bila tidak berhasil hamil.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clomiphene/PNG?image_size=300x300",
           "merek": [
-            "Clomid",
-            "Clomiphene (generik)",
-            "Profertil"
+            "Profertil",
+            "Clovertil"
           ]
         }
       ]

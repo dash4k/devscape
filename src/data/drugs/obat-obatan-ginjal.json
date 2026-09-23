@@ -77,8 +77,11 @@
           "catatan": "Beri tahu dokter mata sebelum operasi katarak karena risiko intraoperative floppy iris syndrome, meskipun obat sudah dihentikan sebelumnya.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tamsulosin/PNG?image_size=300x300",
           "merek": [
+            "Tamsulosin (generik)",
             "Harnal",
-            "Tamsulosin (generik)"
+            "Harnal D",
+            "Harnal OCAS",
+            "Prostam SR"
           ]
         },
         {
@@ -111,8 +114,7 @@
           "catatan": "Dosis pertama sebaiknya diberikan malam hari saat akan tidur untuk mengurangi risiko sinkop akibat hipotensi ortostatik berat.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/doxazosin/PNG?image_size=300x300",
           "merek": [
-            "Cardura",
-            "Doxazosin (generik)"
+            "Tensidox"
           ]
         }
       ]
@@ -153,8 +155,7 @@
           "catatan": "Wanita hamil tidak boleh menyentuh tablet yang pecah/hancur karena risiko teratogenik pada janin laki-laki (feminisasi genitalia eksterna).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/finasteride/PNG?image_size=300x300",
           "merek": [
-            "Proscar",
-            "Finasteride (generik)"
+            "Reprosid"
           ]
         }
       ]
@@ -199,9 +200,7 @@
           ],
           "catatan": "Hati-hati pada lansia karena risiko gangguan kognitif; pertimbangkan beta-3 agonis (mirabegron) sebagai alternatif dengan efek antikolinergik lebih sedikit.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/oxybutynin/PNG?image_size=300x300",
-          "merek": [
-            "Ditropan"
-          ]
+          "merek": null
         },
         {
           "id": "mirabegron",
@@ -275,7 +274,8 @@
           "catatan": "Hanya untuk peredaan gejala sementara, bukan pengganti antibiotik pada infeksi saluran kemih bakteri. Hindari pada gangguan ginjal berat dan defisiensi G6PD.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phenazopyridine/PNG?image_size=300x300",
           "merek": [
-            "Pyridium"
+            "Urogetix",
+            "Nexurin"
           ]
         },
         {
@@ -312,9 +312,7 @@
           ],
           "catatan": "Kontraindikasi pada gagal ginjal berat, hiperkalemia, dan infeksi saluran kemih akibat bakteri pemecah urea (dapat memperburuk pembentukan batu struvite).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/potassium%20citrate/PNG?image_size=300x300",
-          "merek": [
-            "Kalium Citrate (generik)"
-          ]
+          "merek": null
         }
       ]
     },
@@ -353,7 +351,7 @@
           "catatan": "Batasi total asupan kalsium elemental (termasuk dari makanan dan suplemen) untuk mengurangi risiko kalsifikasi vaskular pada pasien dialisis.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/calcium%20carbonate/PNG?image_size=300x300",
           "merek": [
-            "Calcium Carbonate (generik)"
+            "Formical-B"
           ]
         },
         {
@@ -387,7 +385,6 @@
           "catatan": "Tidak mengandung kalsium atau aluminium, sehingga menjadi pilihan pada pasien dengan risiko hiperkalsemia atau kalsifikasi vaskular.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sevelamer/PNG?image_size=300x300",
           "merek": [
-            "Renagel",
             "Renvela"
           ]
         }
@@ -433,8 +430,10 @@
           "catatan": "Hentikan atau kurangi dosis bila terjadi hiperkalsemia; pastikan kadar fosfat terkontrol sebelum memulai untuk menghindari kalsifikasi metastatik.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/calcitriol/PNG?image_size=300x300",
           "merek": [
-            "Rocaltrol",
-            "Calcitriol (generik)"
+            "Kolkatriol",
+            "Kolkatriol Forte",
+            "Oscal",
+            "Ostovel"
           ]
         }
       ]
@@ -478,8 +477,9 @@
           "catatan": "Kontraindikasi mutlak dengan segala bentuk nitrat, termasuk penggunaan sesekali untuk angina. Tanyakan riwayat penyakit jantung sebelum meresepkan.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sildenafil/PNG?image_size=300x300",
           "merek": [
+            "Sildenafil (generik)",
             "Viagra",
-            "Sildenafil (generik)"
+            "Revatio"
           ]
         },
         {
@@ -516,8 +516,7 @@
           "catatan": "Waktu paruh jauh lebih panjang dibanding sildenafil, sehingga sering disebut sebagai pilihan untuk penggunaan yang lebih fleksibel atau dosis harian rendah.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tadalafil/PNG?image_size=300x300",
           "merek": [
-            "Cialis",
-            "Tadalafil (generik)"
+            "Cialis"
           ]
         }
       ]
@@ -560,9 +559,9 @@
           "catatan": "Boxed warning: risiko kematian, kejadian kardiovaskular serius, stroke, dan progresi tumor bila target hemoglobin melebihi batas yang dianjurkan. Pastikan cadangan besi cukup sebelum dan selama terapi.",
           "gambar": null,
           "merek": [
-            "Epogen",
-            "Eprex",
-            "Recormon (epoetin beta)"
+            "Hemapo",
+            "Efesa",
+            "Renogen"
           ]
         }
       ]

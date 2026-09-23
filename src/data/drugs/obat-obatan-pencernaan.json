@@ -39,7 +39,12 @@
             "Obat pemanjang QT lain (mis. amiodaron): risiko QT memanjang aditif"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ondansetron/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ondansetron/PNG?image_size=300x300",
+          "merek": [
+            "Ondansetron (generik)",
+            "Ondavell",
+            "Trovensis"
+          ]
         },
         {
           "id": "granisetron",
@@ -72,7 +77,11 @@
             "Amiodaron: keduanya memperpanjang QTc, hindari atau gunakan alternatif"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/granisetron/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/granisetron/PNG?image_size=300x300",
+          "merek": [
+            "Granisetron (generik)",
+            "Granon"
+          ]
         },
         {
           "id": "palonosetron",
@@ -103,7 +112,8 @@
             "Apomorfin"
           ],
           "catatan": "Sumber menulis dosis IV pasca-operasi 0,75 mg; dosis standar adalah 0,075 mg, sudah dikoreksi di sini.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/palonosetron/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/palonosetron/PNG?image_size=300x300",
+          "merek": null
         }
       ]
     },
@@ -144,7 +154,8 @@
             "Menurunkan absorpsi ketokonazol dan itrakonazol"
           ],
           "catatan": "Sumber terpotong pada 'bioavailibilats lebih...'. Bioavailabilitas oral cimetidine sekitar 60-70%; mohon cek kelanjutan kalimat aslinya.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cimetidine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cimetidine/PNG?image_size=300x300",
+          "merek": null
         },
         {
           "id": "ranitidine",
@@ -173,7 +184,12 @@
             "Menurunkan absorpsi ketokonazol, itrakonazol, dan atazanavir"
           ],
           "catatan": "Ditarik dari peredaran di banyak negara sejak 2020 karena kontaminasi NDMA.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ranitidine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ranitidine/PNG?image_size=300x300",
+          "merek": [
+            "Ranitidin (generik)",
+            "Ranicho",
+            "Ranivel"
+          ]
         },
         {
           "id": "famotidine",
@@ -205,7 +221,8 @@
             "Menurunkan absorpsi ketokonazol, itrakonazol, dan atazanavir"
           ],
           "catatan": "Sumber menulis 'chomotherapy' pada kolom sediaan; maksudnya tidak jelas.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/famotidine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/famotidine/PNG?image_size=300x300",
+          "merek": null
         },
         {
           "id": "nizatidine",
@@ -235,7 +252,8 @@
             "Menurunkan absorpsi ketokonazol dan itrakonazol"
           ],
           "catatan": "Ketersediaan terbatas di banyak negara.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nizatidine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nizatidine/PNG?image_size=300x300",
+          "merek": null
         }
       ]
     },
@@ -263,7 +281,10 @@
             "Depresan SSP lain dan alkohol: sedasi aditif"
           ],
           "catatan": "Obat ini jarang dipakai sekarang dan saya tidak punya data dosis yang bisa diverifikasi. Mungkin yang dimaksud pyridoxine (B6), yang dipakai bersama doxylamine untuk mual kehamilan. Mohon dicek.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pyrathiazine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pyrathiazine/PNG?image_size=300x300",
+          "merek": [
+            "Anvomer B6"
+          ]
         },
         {
           "id": "doxylamine",
@@ -295,7 +316,8 @@
             "MAOI: memperkuat efek antikolinergik (kontraindikasi)"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/doxylamine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/doxylamine/PNG?image_size=300x300",
+          "merek": null
         },
         {
           "id": "prometazine",
@@ -335,7 +357,8 @@
             "Obat pemanjang QT"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/promethazine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/promethazine/PNG?image_size=300x300",
+          "merek": null
         }
       ]
     },
@@ -381,7 +404,13 @@
             "Menurunkan absorpsi digoksin"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metoclopramide/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metoclopramide/PNG?image_size=300x300",
+          "merek": [
+            "Metoklopramid (generik)",
+            "Primperan",
+            "Gavistal",
+            "Primpen"
+          ]
         },
         {
           "id": "domperidone",
@@ -415,7 +444,14 @@
             "Obat pemanjang QT lain"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/domperidone/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/domperidone/PNG?image_size=300x300",
+          "merek": [
+            "Domperidon (generik)",
+            "Vometa",
+            "Vometa FT",
+            "Monell",
+            "Vesperum"
+          ]
         }
       ]
     },
@@ -457,7 +493,8 @@
             "Pimozid: kontraindikasi"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aprepitant/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aprepitant/PNG?image_size=300x300",
+          "merek": null
         },
         {
           "id": "fosaprepitant",
@@ -486,7 +523,8 @@
             "Prodrug aprepitant, interaksi sama dengan aprepitant"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fosaprepitant/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fosaprepitant/PNG?image_size=300x300",
+          "merek": null
         },
         {
           "id": "rolapitant",
@@ -514,7 +552,8 @@
             "Inhibitor BCRP/P-gp: metotreksat, topotekan"
           ],
           "catatan": "Bentuk IV ditarik karena anafilaksis. Ketersediaan terbatas.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rolapitant/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rolapitant/PNG?image_size=300x300",
+          "merek": null
         },
         {
           "id": "netupitant",
@@ -546,7 +585,8 @@
             "Penginduksi CYP3A4 (rifampisin): kadar netupitant menurun"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/netupitant/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/netupitant/PNG?image_size=300x300",
+          "merek": null
         }
       ]
     },
@@ -584,7 +624,8 @@
             "Antasida: kurangi absorpsi"
           ],
           "catatan": "Tidak tersedia di semua negara; kontraindikasi pada glaukoma sudut sempit dan BPH.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pirenzepine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pirenzepine/PNG?image_size=300x300",
+          "merek": null
         },
         {
           "id": "telenzepine",
@@ -610,7 +651,8 @@
             "Antikolinergik lain: efek aditif"
           ],
           "catatan": "Lebih poten daripada pirenzepine; sebagian besar masih pada tahap penelitian, penggunaan klinis terbatas.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/telenzepine/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/telenzepine/PNG?image_size=300x300",
+          "merek": null
         }
       ]
     },
@@ -650,7 +692,8 @@
             "Penginduksi/inhibitor CYP3A4 dan CYP2C19"
           ],
           "catatan": "Epidiolex tidak disetujui sebagai antiemetik. Untuk mual muntah kemoterapi, cannabinoid yang dipakai adalah dronabinol atau nabilone.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cannabidiol/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cannabidiol/PNG?image_size=300x300",
+          "merek": null
         }
       ]
     },
@@ -689,7 +732,13 @@
             "Inhibitor CYP3A4 (ketokonazol, itrakonazol): kontraindikasi"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/alprazolam/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/alprazolam/PNG?image_size=300x300",
+          "merek": [
+            "Alprazolam (generik)",
+            "Xanax",
+            "Alganax",
+            "Frixitas XR"
+          ]
         },
         {
           "id": "lorazepam",
@@ -723,7 +772,13 @@
             "Valproat dan probenesid: meningkatkan kadar lorazepam"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lorazepam/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lorazepam/PNG?image_size=300x300",
+          "merek": [
+            "Lorazepam (generik)",
+            "Ativan",
+            "Merlopam",
+            "Renaquil"
+          ]
         }
       ]
     },
@@ -762,7 +817,12 @@
             "Menurunkan absorpsi ketokonazol dan itrakonazol"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aluminum%20hydroxide/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aluminum%20hydroxide/PNG?image_size=300x300",
+          "merek": [
+            "Antasida Doen",
+            "Mylanta",
+            "Sanmag"
+          ]
         },
         {
           "id": "magnesium-hidroksida",
@@ -791,7 +851,12 @@
             "Sama dengan aluminium hidroksida (khelasi dengan tetrasiklin, fluorokuinolon, levotiroksin, dll.)"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/magnesium%20hydroxide/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/magnesium%20hydroxide/PNG?image_size=300x300",
+          "merek": [
+            "Promag",
+            "Mylanta",
+            "Antasida Doen"
+          ]
         },
         {
           "id": "kalsium-karbonat",
@@ -822,7 +887,11 @@
             "Tiazid: risiko hiperkalsemia"
           ],
           "catatan": null,
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/calcium%20carbonate/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/calcium%20carbonate/PNG?image_size=300x300",
+          "merek": [
+            "Kalsium Karbonat (generik)",
+            "Formical-B"
+          ]
         }
       ]
     },
@@ -867,7 +936,12 @@
             "Atazanavir dan rilpivirin: kontraindikasi"
           ],
           "catatan": "Sumber menulis 'gaboleh bumil'. Omeprazole tidak dikontraindikasikan mutlak pada kehamilan; data manusia umumnya menenangkan, tapi pakai hanya bila ada indikasi dan sesuai penilaian dokter.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/omeprazole/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/omeprazole/PNG?image_size=300x300",
+          "merek": [
+            "Omeprazol (generik)",
+            "OMZ",
+            "Pumpitor"
+          ]
         },
         {
           "id": "lansoprazole",
@@ -901,7 +975,12 @@
             "Menurunkan absorpsi ketokonazol"
           ],
           "catatan": "Nama di sumber 'lanzoprazole' sudah dikoreksi.",
-          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lansoprazole/PNG?image_size=300x300"
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lansoprazole/PNG?image_size=300x300",
+          "merek": [
+            "Lansoprazole (generik)",
+            "Prosogan",
+            "Prosogan FD"
+          ]
         }
       ]
     }
