@@ -36,7 +36,10 @@
           ],
           "catatan": "Jarang digunakan sebagai monoterapi; biasanya dalam kombinasi tetap dengan tiazid.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amiloride/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Lorinid",
+            "Lorinid Mite"
+          ]
         }
       ]
     },
@@ -77,11 +80,17 @@
           "catatan": "Beri tahu dokter mata sebelum operasi katarak karena risiko intraoperative floppy iris syndrome, meskipun obat sudah dihentikan sebelumnya.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tamsulosin/PNG?image_size=300x300",
           "merek": [
-            "Tamsulosin (generik)",
+            "Duodart",
+            "Farlosin SR",
             "Harnal",
             "Harnal D",
+            "Harnal Ocas",
             "Harnal OCAS",
-            "Prostam SR"
+            "Prostam SR",
+            "Simlosin",
+            "Tamsin SR",
+            "Tamsulosin (generik)",
+            "Tamsulosin Hydrochloride"
           ]
         },
         {
@@ -155,7 +164,17 @@
           "catatan": "Wanita hamil tidak boleh menyentuh tablet yang pecah/hancur karena risiko teratogenik pada janin laki-laki (feminisasi genitalia eksterna).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/finasteride/PNG?image_size=300x300",
           "merek": [
-            "Reprosid"
+            "Alopros",
+            "Finasterid",
+            "Finasteride",
+            "Finazide",
+            "Finpro",
+            "Propecia",
+            "Proscar",
+            "Prostacom",
+            "Reprosid",
+            "Reprostom",
+            "Sanbe-Hair"
           ]
         }
       ]
@@ -274,8 +293,8 @@
           "catatan": "Hanya untuk peredaan gejala sementara, bukan pengganti antibiotik pada infeksi saluran kemih bakteri. Hindari pada gangguan ginjal berat dan defisiensi G6PD.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phenazopyridine/PNG?image_size=300x300",
           "merek": [
-            "Urogetix",
-            "Nexurin"
+            "Nexurin",
+            "Urogetix"
           ]
         },
         {
@@ -385,6 +404,8 @@
           "catatan": "Tidak mengandung kalsium atau aluminium, sehingga menjadi pilihan pada pasien dengan risiko hiperkalsemia atau kalsifikasi vaskular.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sevelamer/PNG?image_size=300x300",
           "merek": [
+            "Fosbin",
+            "Renafos",
             "Renvela"
           ]
         }
@@ -477,9 +498,23 @@
           "catatan": "Kontraindikasi mutlak dengan segala bentuk nitrat, termasuk penggunaan sesekali untuk angina. Tanyakan riwayat penyakit jantung sebelum meresepkan.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sildenafil/PNG?image_size=300x300",
           "merek": [
+            "Amigra 100",
+            "Camastil",
+            "Caprenafil 100",
+            "Ericfil",
+            "Gramax",
+            "Revatio",
+            "Rozgra",
+            "Sanbenafil",
+            "Sidox",
             "Sildenafil (generik)",
+            "Sildenafil Citrate",
+            "Siltero",
+            "Topgra",
+            "Viajoy 100",
             "Viagra",
-            "Revatio"
+            "Viastar Blue",
+            "Zifagra"
           ]
         },
         {
@@ -516,7 +551,13 @@
           "catatan": "Waktu paruh jauh lebih panjang dibanding sildenafil, sehingga sering disebut sebagai pilihan untuk penggunaan yang lebih fleksibel atau dosis harian rendah.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tadalafil/PNG?image_size=300x300",
           "merek": [
-            "Cialis"
+            "Caliberi",
+            "Cialis",
+            "Ciastar Yellow",
+            "Maxlis",
+            "Modafil",
+            "Promel",
+            "Tadox"
           ]
         }
       ]
@@ -559,8 +600,14 @@
           "catatan": "Boxed warning: risiko kematian, kejadian kardiovaskular serius, stroke, dan progresi tumor bila target hemoglobin melebihi batas yang dianjurkan. Pastikan cadangan besi cukup sebelum dan selama terapi.",
           "gambar": null,
           "merek": [
-            "Hemapo",
             "Efesa",
+            "Epodion",
+            "Eprex 10000",
+            "Eprex 2000",
+            "Eprex 4000",
+            "Hemapo",
+            "Prrex 40000",
+            "Recormon 5000",
             "Renogen"
           ]
         }

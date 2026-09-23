@@ -46,10 +46,25 @@
           "catatan": "Penggunaan reliever > 2 hari/minggu (di luar latihan fisik) menandakan asma tidak terkontrol.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/albuterol/PNG?image_size=300x300",
           "merek": [
-            "Salbutamol (generik)",
-            "Ventolin",
+            "Astharol",
+            "Bronchosal",
+            "Dilatamol",
+            "Fartolin Ekspektoran",
+            "Fartolin Inhaler",
+            "Glisend",
+            "Inasma",
             "Lasal",
-            "Velutin"
+            "Proast",
+            "Salbron",
+            "Salbron Ekspektoran",
+            "Salbugen Ekspektoran",
+            "Salbuven Expectorant",
+            "Salbutamol (generik)",
+            "Salbutamol Sulfate",
+            "Velutin",
+            "Ventolin",
+            "Ventolin Expectorant",
+            "Ventolin Inhaler"
           ]
         },
         {
@@ -137,7 +152,15 @@
           "catatan": "Pada asma, jangan digunakan sebagai monoterapi tanpa ICS (peningkatan risiko kematian terkait asma).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/salmeterol/PNG?image_size=300x300",
           "merek": [
-            "Seretide (kombinasi dengan flutikason)"
+            "Flusal 250",
+            "Flutias 50",
+            "Flutias 125",
+            "Respitide",
+            "Salmeflo",
+            "Seretide (kombinasi dengan flutikason)",
+            "Seretide 50",
+            "Seretide Diskus",
+            "Seretide Diskus 100"
           ]
         },
         {
@@ -177,8 +200,8 @@
           "catatan": "Sama seperti salmeterol, tidak untuk monoterapi pada asma.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/formoterol/PNG?image_size=300x300",
           "merek": [
-            "Symbicort (kombinasi dengan budesonide)",
-            "Innovair (kombinasi)"
+            "Innovair (kombinasi)",
+            "Symbicort (kombinasi dengan budesonide)"
           ]
         }
       ]
@@ -223,9 +246,13 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ipratropium%20bromide/PNG?image_size=300x300",
           "merek": [
             "Atrovent",
+            "Combivent",
             "Combivent (kombinasi)",
-            "Respivent (kombinasi)",
-            "Meprovent (kombinasi)"
+            "Ipratropium Bromide",
+            "Lasalcom",
+            "Meprovent (kombinasi)",
+            "Midatro",
+            "Respivent (kombinasi)"
           ]
         },
         {
@@ -262,7 +289,9 @@
           "catatan": "Kapsul HandiHaler hanya untuk inhalasi, jangan ditelan.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tiotropium%20bromide/PNG?image_size=300x300",
           "merek": [
-            "Spiriva"
+            "Spiolto Respimat",
+            "Spiriva",
+            "Spiriva Respimat"
           ]
         }
       ]
@@ -307,10 +336,13 @@
           "catatan": "Efek penuh dicapai setelah beberapa hari-minggu. Tidak untuk serangan akut.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/budesonide/PNG?image_size=300x300",
           "merek": [
-            "Pulmicort",
-            "Symbicort (kombinasi)",
+            "Budenofalk",
             "Budenofalk (oral, untuk Crohn)",
-            "Obucort"
+            "Cortiment",
+            "Menticor",
+            "Obucort",
+            "Pulmicort",
+            "Symbicort (kombinasi)"
           ]
         },
         {
@@ -348,9 +380,9 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fluticasone%20propionate/PNG?image_size=300x300",
           "merek": [
+            "Avamyx (nasal)",
             "Flixotide",
-            "Seretide (kombinasi)",
-            "Avamyx (nasal)"
+            "Seretide (kombinasi)"
           ]
         },
         {
@@ -430,9 +462,14 @@
           "catatan": "Boxed warning FDA: efek neuropsikiatri serius; pertimbangkan risiko dan manfaat, terutama pada asma ringan atau rinitis alergi.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/montelukast/PNG?image_size=300x300",
           "merek": [
+            "Aspira",
+            "Bloktiene",
+            "Diplukast",
+            "Isivas",
             "Monarin",
-            "Singulair",
-            "Rymont"
+            "Montelukast Sodium",
+            "Rymont",
+            "Singulair"
           ]
         }
       ]
@@ -479,7 +516,19 @@
           "catatan": "Rentang terapi sempit; kadar > 20 mcg/mL berisiko toksik.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/theophylline/PNG?image_size=300x300",
           "merek": [
-            "Theobron"
+            "Asmasolon",
+            "Bronsolvan",
+            "Bufabron",
+            "Etatheolin",
+            "Euphyllin Retard",
+            "Euphyllin Retard Mite",
+            "Kontrasma",
+            "Nitrasma",
+            "Retaphyl SR",
+            "Samcolat",
+            "Teosal",
+            "Theobron",
+            "Velcasma XR"
           ]
         },
         {
@@ -517,7 +566,10 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aminophylline/PNG?image_size=300x300",
           "merek": [
             "Aminofilin (generik)",
-            "Decafil"
+            "Aminophylline",
+            "Decafil",
+            "Erphafillin",
+            "Phaminov"
           ]
         }
       ]
@@ -560,7 +612,9 @@
           ],
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/roflumilast/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Forespi"
+          ]
         }
       ]
     },
@@ -604,12 +658,12 @@
           "catatan": "Hati-hati pada asma dan riwayat ulkus lambung.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/acetylcysteine/PNG?image_size=300x300",
           "merek": [
+            "Acetin",
             "Asetilsistein (generik)",
             "Fluimucil",
-            "Acetin",
+            "Hidonac",
             "N-Ace",
-            "Resfar",
-            "Hidonac"
+            "Resfar"
           ]
         },
         {
@@ -724,8 +778,44 @@
           "catatan": "Bukti efektivitas terbatas.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/guaifenesin/PNG?image_size=300x300",
           "merek": [
+            "Actifed Hijau",
+            "Allerin",
+            "Anacetine",
+            "Anakonidin",
+            "Benadryl Wet Cough",
+            "Bisolvon Extra",
+            "Bromifar Plus",
+            "Bufabat",
+            "Cohistan Expectorant",
+            "Comtusi",
+            "Coparcetin",
+            "Dextral",
+            "Dextrosin",
+            "Erfaflu Strawberry Sirup",
+            "Flutamol",
+            "Fluza",
+            "Grantusif",
+            "Goxo",
+            "Hufagripp Flu & Batuk",
+            "Hufagripp Forte",
+            "Iafed",
+            "Ifarsyl",
+            "Intunal",
+            "Itrabat",
+            "Komix",
+            "Konidin",
+            "Lasal Ekspektoran (kombinasi)",
+            "Meffu Ekspektoran",
+            "Mextril",
+            "Mixadin",
             "OBH Combi (kombinasi)",
-            "Lasal Ekspektoran (kombinasi)"
+            "Promedex",
+            "Siladex Mucolytic Expectorant",
+            "Tera-F",
+            "Triaminic Ekspektoran & Pilek",
+            "Triaminic Ekspektoran & Pilek Sirup",
+            "Vedrin Ekspektoran",
+            "Woods Peppermint Expectorant"
           ]
         }
       ]
@@ -769,10 +859,10 @@
           "catatan": "Hindari pada batuk produktif dan pada asma dengan dahak banyak.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dextromethorphan/PNG?image_size=300x300",
           "merek": [
-            "Vicks F44 (kombinasi)",
             "Bodrex Flu & Batuk (kombinasi)",
             "Procold (kombinasi)",
-            "Sanadryl DMP (kombinasi)"
+            "Sanadryl DMP (kombinasi)",
+            "Vicks F44 (kombinasi)"
           ]
         },
         {
@@ -811,9 +901,9 @@
           "catatan": "Metabolisme CYP2D6 bervariasi; ultra-rapid metabolizer berisiko toksisitas opioid, termasuk pada ibu menyusui.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/codeine/PNG?image_size=300x300",
           "merek": [
-            "Kodein (generik)",
             "Codikaf",
-            "Codipront (kombinasi)"
+            "Codipront (kombinasi)",
+            "Kodein (generik)"
           ]
         }
       ]
@@ -855,7 +945,9 @@
           ],
           "catatan": "Ketersediaan dan indikasi resmi berbeda antar negara.",
           "gambar": null,
-          "merek": null
+          "merek": [
+            "Xolair"
+          ]
         },
         {
           "id": "mepolizumab",
@@ -890,7 +982,9 @@
           ],
           "catatan": "Tata laksana infeksi parasit (helminth) sebelum memulai terapi. Ketersediaan terbatas.",
           "gambar": null,
-          "merek": null
+          "merek": [
+            "Nucala"
+          ]
         }
       ]
     }

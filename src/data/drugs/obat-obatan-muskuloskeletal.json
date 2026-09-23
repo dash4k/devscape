@@ -80,7 +80,12 @@
           ],
           "catatan": "Sama seperti alendronat, kontraindikasi pada gangguan esofagus.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/risedronic%20acid/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Actonel",
+            "Osteonate OAW",
+            "Ristonat",
+            "Dronate"
+          ]
         },
         {
           "id": "zoledronic-acid",
@@ -122,8 +127,13 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/zoledronic%20acid/PNG?image_size=300x300",
           "merek": [
             "Aclasta",
+            "Bonmet",
+            "Fondronic",
+            "Zoledronic Acid Monohydrate",
+            "Zolenic",
+            "Zoltero",
             "Zometa",
-            "Zoltero"
+            "Zyfoss"
           ]
         }
       ]
@@ -206,7 +216,9 @@
           ],
           "catatan": "Kontraindikasi pada penyakit Paget, riwayat radiasi tulang, hiperkalsemia, dan keganasan tulang karena risiko teoritis osteosarkoma. Setelah terapi, dilanjutkan dengan anti-resorptif (bisfosfonat/denosumab) untuk mempertahankan manfaat.",
           "gambar": null,
-          "merek": null
+          "merek": [
+            "FORTEO / FORSTEO"
+          ]
         },
         {
           "id": "raloksifen",
@@ -238,7 +250,9 @@
           ],
           "catatan": "Hentikan minimal 3 hari sebelum imobilisasi lama (operasi, tirah baring) karena risiko tromboemboli vena. Tidak mengatasi hot flashes menopause (justru dapat memperberat).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/raloxifene/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Evista"
+          ]
         },
         {
           "id": "kalsium-vitamin-d",
@@ -320,7 +334,9 @@
           ],
           "catatan": "Kontraindikasi pada riwayat hipertermia maligna, luka bakar luas, cedera crush, dan hiperkalemia. Hanya digunakan oleh tenaga anestesi terlatih dengan fasilitas resusitasi lengkap.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/succinylcholine/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Suksinilkolin (Generik)"
+          ]
         },
         {
           "id": "rokuronium",
@@ -354,11 +370,11 @@
           "catatan": "Sugammadex adalah agen pembalik (reversal) khusus untuk rokuronium dan vekuronium, bekerja lebih cepat dan lebih dapat diprediksi dibanding neostigmin.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rocuronium/PNG?image_size=300x300",
           "merek": [
-            "Roculax",
-            "Rocum",
-            "Noveron",
             "Belnium",
-            "Nupovel"
+            "Noveron",
+            "Nupovel",
+            "Roculax",
+            "Rocum"
           ]
         }
       ]
@@ -401,8 +417,8 @@
           "catatan": "Hindari aplikasi pada kulit yang tidak utuh atau area yang sangat luas untuk mencegah absorpsi sistemik berlebihan.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lidocaine/PNG?image_size=300x300",
           "merek": [
-            "Xylocaine",
-            "Lidokain (generik)"
+            "Lidokain (generik)",
+            "Xylocaine"
           ]
         }
       ]

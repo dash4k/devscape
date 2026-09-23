@@ -45,8 +45,8 @@
           "catatan": "Benzatin penisilin tidak boleh diberikan IV (risiko henti jantung).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/penicillin%20G/PNG?image_size=300x300",
           "merek": [
-            "Procain Penicillin G",
-            "Benzathine Benzylpenicillin (bentuk depot)"
+            "Benzathine Benzylpenicillin (bentuk depot)",
+            "Procain Penicillin G"
           ]
         },
         {
@@ -137,8 +137,8 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ampicillin/PNG?image_size=300x300",
           "merek": [
             "Ampisilin (generik)",
-            "Viccillin",
-            "Sanpicillin"
+            "Sanpicillin",
+            "Viccillin"
           ]
         },
         {
@@ -228,9 +228,9 @@
           "catatan": "Simpan untuk infeksi berat/nosokomial (stewardship).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/piperacillin/PNG?image_size=300x300",
           "merek": [
-            "Tazocin",
             "Tamicil",
-            "Tazam"
+            "Tazam",
+            "Tazocin"
           ]
         }
       ]
@@ -277,8 +277,8 @@
           "catatan": "Reaktivitas silang dengan alergi penisilin rendah (± 1-2%), tetapi hindari pada alergi penisilin tipe berat.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefadroxil/PNG?image_size=300x300",
           "merek": [
-            "Sefadroksil (generik)",
-            "Opicef"
+            "Opicef",
+            "Sefadroksil (generik)"
           ]
         },
         {
@@ -439,8 +439,8 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefixime/PNG?image_size=300x300",
           "merek": [
-            "Sefiksim (generik)",
-            "Nixaven"
+            "Nixaven",
+            "Sefiksim (generik)"
           ]
         },
         {
@@ -485,8 +485,8 @@
           "catatan": "Kontraindikasi pada neonatus hiperbilirubinemia atau yang mendapat infus kalsium.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ceftriaxone/PNG?image_size=300x300",
           "merek": [
-            "Seftriakson (generik)",
-            "Broadced"
+            "Broadced",
+            "Seftriakson (generik)"
           ]
         },
         {
@@ -524,8 +524,8 @@
           "catatan": null,
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cefotaxime/PNG?image_size=300x300",
           "merek": [
-            "Sefotaksim (generik)",
             "Kalfoxim",
+            "Sefotaksim (generik)",
             "Taxegram"
           ]
         },
@@ -654,8 +654,20 @@
           "catatan": "Simpan untuk infeksi berat atau resisten (stewardship). Risiko silang alergi dengan penisilin rendah.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/meropenem/PNG?image_size=300x300",
           "merek": [
+            "Carpenem",
+            "Lanmer",
+            "Lexapenem",
+            "Merobat",
+            "Merocef",
+            "Merofen",
+            "Merokaf",
+            "Meronem",
             "Meropenem (generik)",
-            "Meronem"
+            "Meropenem Trihydrate",
+            "Merosan",
+            "Merotik",
+            "Rimero",
+            "Simpenem"
           ]
         },
         {
@@ -694,8 +706,15 @@
           "catatan": "Tidak dianjurkan untuk meningitis (risiko kejang).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/imipenem/PNG?image_size=300x300",
           "merek": [
+            "Fiocilas",
+            "Imiclast",
             "Imipenem Cilastatin (generik)",
-            "Imiclast"
+            "Imipex",
+            "Pelascap",
+            "Pelastin",
+            "Tienam",
+            "Timipen",
+            "Xerxes IV"
           ]
         },
         {
@@ -731,7 +750,9 @@
           ],
           "catatan": "Tidak aktif terhadap Pseudomonas dan Acinetobacter.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ertapenem/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Invanz"
+          ]
         }
       ]
     },
@@ -781,10 +802,10 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/azithromycin/PNG?image_size=300x300",
           "merek": [
             "Azitromisin (generik)",
-            "Zistic",
+            "Azivol",
             "Azomax",
             "Zibramax",
-            "Azivol",
+            "Zistic",
             "Zithromax"
           ]
         },
@@ -917,8 +938,8 @@
           "catatan": "Umumnya dihindari pada kehamilan dan anak < 8 tahun (kecuali kondisi berat seperti riketsiosis).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/doxycycline/PNG?image_size=300x300",
           "merek": [
-            "Doksisiklin (generik)",
             "Dohixat",
+            "Doksisiklin (generik)",
             "Interdoxin"
           ]
         }
@@ -1070,9 +1091,9 @@
           "catatan": "Boxed warning: tendinitis, neuropati perifer, efek SSP, dan eksaserbasi miastenia gravis. Umumnya dihindari untuk infeksi ringan bila ada alternatif.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ciprofloxacin/PNG?image_size=300x300",
           "merek": [
-            "Siprofloksasin (generik)",
+            "Ciproxin",
             "Civell MR",
-            "Ciproxin"
+            "Siprofloksasin (generik)"
           ]
         },
         {
@@ -1120,9 +1141,9 @@
           "catatan": "Boxed warning sama dengan fluorokuinolon lain. Aktif terhadap TB, sehingga dapat menutupi diagnosis TB bila diberikan tanpa indikasi jelas.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levofloxacin/PNG?image_size=300x300",
           "merek": [
-            "Levofloksasin (generik)",
             "Cravit",
-            "Lekuicin"
+            "Lekuicin",
+            "Levofloksasin (generik)"
           ]
         },
         {
@@ -1167,10 +1188,10 @@
           "catatan": "Konsentrasi di urin rendah sehingga tidak dipakai untuk ISK.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/moxifloxacin/PNG?image_size=300x300",
           "merek": [
-            "Moksifloksasin (generik)",
             "Avelox",
-            "Respira",
-            "Moximed"
+            "Moksifloksasin (generik)",
+            "Moximed",
+            "Respira"
           ]
         }
       ]
@@ -1220,8 +1241,8 @@
           "catatan": "Hentikan dan evaluasi C. difficile bila muncul diare berat.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clindamycin/PNG?image_size=300x300",
           "merek": [
-            "Klindamisin (generik)",
             "Dalacin C",
+            "Klindamisin (generik)",
             "Prolic"
           ]
         }
@@ -1271,9 +1292,9 @@
           "catatan": "Vankomisin oral tidak diabsorpsi sistemik dan tidak efektif untuk infeksi sistemik. Red man syndrome diatasi dengan memperlambat infus dan antihistamin.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/vancomycin/PNG?image_size=300x300",
           "merek": [
-            "Vankomisin (generik)",
             "Vancep",
-            "Vanconex"
+            "Vanconex",
+            "Vankomisin (generik)"
           ]
         }
       ]
@@ -1332,9 +1353,28 @@
           "catatan": "Hindari pada trimester pertama dan akhir kehamilan, bayi < 2 bulan, dan defisiensi G6PD (risiko hemolisis).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sulfamethoxazole/PNG?image_size=300x300",
           "merek": [
+            "Cotrimoxazole",
+            "Decatrim",
+            "Etamoxul",
+            "Infatrim",
+            "Infatrim Forte",
             "Kotrimoksazol (generik)",
+            "Mesaprim",
+            "Miratrim",
+            "Miratrim Forte",
+            "Moxalas",
+            "Novatrim",
+            "Omegtrim",
             "Primadex Forte",
-            "Infatrim Forte"
+            "Primavon",
+            "Ratrim Forte",
+            "Saltrim",
+            "Sanprima",
+            "Sanprima Forte",
+            "Sisoprim",
+            "Sisoprim Forte",
+            "Sultrimmix",
+            "Yekaprim Forte"
           ]
         }
       ]
@@ -1392,8 +1432,8 @@
           "catatan": "Umumnya dihindari pada trimester pertama kecuali indikasi kuat.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metronidazole/PNG?image_size=300x300",
           "merek": [
-            "Metronidazol (generik)",
             "Flagyl",
+            "Metronidazol (generik)",
             "Trogyl",
             "Vagizol (ovula)"
           ]
@@ -1442,7 +1482,11 @@
           ],
           "catatan": "Tidak untuk pielonefritis atau infeksi sistemik. Hindari pada kehamilan aterm dan bayi < 1 bulan.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nitrofurantoin/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Cleanaren",
+            "Nitrofurantoin",
+            "Urfadyn"
+          ]
         },
         {
           "id": "linezolid",
@@ -1485,6 +1529,8 @@
           "catatan": "Bioavailabilitas oral hampir 100%, sehingga IV dapat diganti oral bila saluran cerna berfungsi. Simpan untuk infeksi resisten (stewardship).",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/linezolid/PNG?image_size=300x300",
           "merek": [
+            "Kabizolid",
+            "Linetero",
             "Linezolid (generik)",
             "Zyvox"
           ]
@@ -1580,8 +1626,8 @@
           "catatan": "Asetilator lambat berisiko lebih tinggi neuropati dan hepatotoksisitas.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/isoniazid/PNG?image_size=300x300",
           "merek": [
-            "Isoniazid (generik)",
-            "Inoxin (kombinasi dengan B6)"
+            "Inoxin (kombinasi dengan B6)",
+            "Isoniazid (generik)"
           ]
         },
         {
@@ -1618,8 +1664,8 @@
           "catatan": "Hentikan segera bila ada keluhan penglihatan. Sulit dinilai pada anak kecil yang tidak dapat melaporkan gejala penglihatan.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ethambutol/PNG?image_size=300x300",
           "merek": [
-            "Etambutol (generik)",
-            "Arsitam"
+            "Arsitam",
+            "Etambutol (generik)"
           ]
         },
         {

@@ -41,9 +41,38 @@
           "catatan": "Kontraindikasi pada eGFR < 30 mL/menit/1,73m²; kurangi dosis pada eGFR 30-45. Hentikan sementara pada kondisi akut yang berisiko hipoksia/gangguan ginjal akut.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metformin/PNG?image_size=300x300",
           "merek": [
-            "Metformin (generik)",
+            "Actosmet",
+            "Adecco",
+            "Amaryl M",
+            "Benofomin",
+            "Diabit",
+            "Diafac",
+            "Diaglifozmet XR",
+            "Diaformin XR",
+            "Eraphage",
+            "Forbetes",
+            "Galvusmet",
+            "Glikos",
             "Glucophage",
-            "Glucophage XR"
+            "Glucophage XR",
+            "Glucovance",
+            "Glucotika",
+            "Gludepatic",
+            "Glufor",
+            "Glumin",
+            "Glumin XR",
+            "Gradiab",
+            "Janumet",
+            "Janumet XR",
+            "Kombiglyze XR",
+            "Metformin (generik)",
+            "Metformin HCl",
+            "Nevox XR",
+            "Trajenta Duo",
+            "Tudiab",
+            "Xigduo",
+            "Zendiab",
+            "Zipio M"
           ]
         }
       ]
@@ -117,9 +146,9 @@
           "catatan": "Profil hipoglikemia lebih aman dibanding glibenklamid, sering menjadi pilihan sulfonilurea utama.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gliclazide/PNG?image_size=300x300",
           "merek": [
-            "Gliklazid (generik)",
             "Diamicron MR",
-            "Fonylin MR"
+            "Fonylin MR",
+            "Gliklazid (generik)"
           ]
         }
       ]
@@ -159,9 +188,15 @@
           "catatan": "Risiko hipoglikemia rendah bila digunakan sebagai monoterapi karena kerja bergantung glukosa.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sitagliptin/PNG?image_size=300x300",
           "merek": [
-            "Januvia",
             "Fliptin",
-            "Sitagliptin (generik)"
+            "Gliptikaf",
+            "Janumet",
+            "Janumet XR",
+            "Januvia",
+            "Pansiptin",
+            "Sitagliptin (generik)",
+            "Sitapic",
+            "Sitazit"
           ]
         },
         {
@@ -201,7 +236,9 @@
           "catatan": "Hentikan sementara sebelum operasi besar atau saat sakit akut (sick day rules) untuk mengurangi risiko ketoasidosis euglikemik.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/empagliflozin/PNG?image_size=300x300",
           "merek": [
-            "Jardiance"
+            "Glyxambi",
+            "Jardiance",
+            "Jardiance Duo"
           ]
         }
       ]
@@ -282,7 +319,9 @@
           "catatan": "Sama seperti liraglutide, kontraindikasi pada riwayat karsinoma tiroid meduler dan MEN 2. Bentuk oral harus diminum saat benar-benar perut kosong.",
           "gambar": null,
           "merek": [
-            "Ozempic"
+            "Ozempic",
+            "Rybelsus",
+            "Wegovy"
           ]
         }
       ]
@@ -323,9 +362,9 @@
           "catatan": "Profil kerja relatif datar tanpa puncak yang jelas (peakless), sehingga risiko hipoglikemia nokturnal lebih rendah dibanding NPH.",
           "gambar": null,
           "merek": [
+            "Insulin Glargine Generik",
             "Lantus",
-            "Lantus XR",
-            "Insulin Glargine Generik"
+            "Lantus XR"
           ]
         },
         {
@@ -357,8 +396,8 @@
           "catatan": "Onset lebih cepat dan durasi lebih singkat dibanding insulin reguler manusia, memungkinkan pemberian lebih dekat ke waktu makan.",
           "gambar": null,
           "merek": [
-            "Novorapid",
             "Novomix (kombinasi biphasic)",
+            "Novorapid",
             "Ryzodeg (kombinasi)"
           ]
         }
@@ -480,8 +519,8 @@
           "catatan": "Pasien perlu kartu/gelang identifikasi medis dan edukasi 'sick day rules' (menggandakan/tiga kali lipat dosis saat sakit) serta cara pemberian injeksi darurat untuk mencegah krisis adrenal.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydrocortisone/PNG?image_size=300x300",
           "merek": [
-            "Hidrokortison (generik)",
-            "Fartison"
+            "Fartison",
+            "Hidrokortison (generik)"
           ]
         },
         {
@@ -516,7 +555,11 @@
           ],
           "catatan": "Hanya diperlukan pada insufisiensi adrenal primer (Addison), tidak pada insufisiensi sekunder karena aksis renin-angiotensin-aldosteron umumnya masih utuh.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fludrocortisone/PNG?image_size=300x300",
-          "merek": null
+          "merek": [
+            "Sydnacort (Oral)",
+            "Otilon",
+            "Otopain"
+          ]
         }
       ]
     },
@@ -561,10 +604,10 @@
           "catatan": "Kontraindikasi pada perokok usia > 35 tahun, riwayat tromboemboli, migrain dengan aura, dan hipertensi tidak terkontrol karena peningkatan risiko kardiovaskular.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/levonorgestrel/PNG?image_size=300x300",
           "merek": [
-            "Microgynon",
-            "Yasmin",
+            "Diane-35",
             "Mercilon",
-            "Diane-35"
+            "Microgynon",
+            "Yasmin"
           ]
         },
         {
@@ -597,9 +640,9 @@
           "catatan": "Cocok untuk ibu menyusui karena tidak mengandung estrogen yang dapat menurunkan produksi ASI.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/desogestrel/PNG?image_size=300x300",
           "merek": [
-            "Microlut",
+            "Andalan Laktasi (linestrenol)",
             "Desirett",
-            "Andalan Laktasi (linestrenol)"
+            "Microlut"
           ]
         },
         {
@@ -676,7 +719,9 @@
           ],
           "catatan": "Gunakan dosis efektif terendah untuk durasi tersingkat yang diperlukan karena risiko kardiovaskular dan kanker meningkat dengan durasi penggunaan.",
           "gambar": null,
-          "merek": null
+          "merek": [
+            "Esthero"
+          ]
         },
         {
           "id": "testosteron",
@@ -757,9 +802,15 @@
           "catatan": "Harus diberikan dengan pemantauan ketat pola kontraksi dan denyut jantung janin karena risiko hiperstimulasi dan gawat janin.",
           "gambar": null,
           "merek": [
+            "Decatosin",
+            "Induxin",
             "Oksitosin (generik)",
+            "Oxyla",
+            "Oxytocin",
+            "Protocin",
+            "Santocyn",
             "Syntocinon",
-            "Santocyn"
+            "Tiacinon"
           ]
         },
         {
@@ -797,8 +848,21 @@
           "catatan": "Kontraindikasi relatif pada riwayat seksio sesarea (risiko ruptur uterus) untuk induksi persalinan. Penggunaan harus sesuai indikasi dan pengawasan tenaga terlatih.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/misoprostol/PNG?image_size=300x300",
           "merek": [
+            "Cytostol",
+            "Gastrul",
+            "Inflesco",
+            "Invitec",
+            "Mipros",
+            "Misoprostol",
             "Misoprostol (generik)",
-            "Naprostol"
+            "Misotab",
+            "Naprostol",
+            "Neoprost",
+            "Noprostol",
+            "Nusoter",
+            "Proster",
+            "Protecid",
+            "Sopros"
           ]
         }
       ]
@@ -839,8 +903,8 @@
           "catatan": "Umumnya dibatasi maksimal 6 siklus karena manfaat menurun dan risiko kumulatif; evaluasi ulang bila tidak berhasil hamil.",
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clomiphene/PNG?image_size=300x300",
           "merek": [
-            "Profertil",
-            "Clovertil"
+            "Clovertil",
+            "Profertil"
           ]
         }
       ]
