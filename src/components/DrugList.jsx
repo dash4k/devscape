@@ -1,13 +1,11 @@
-import { rawDrugs } from '../data/drugs.js';
-
 import { Link } from 'react-router-dom';
 import DrugCard from './DrugCard.jsx';
 
-const DrugList = ({ type }) => {
+const DrugList = ({ drugs }) => {
   return (
     <div className="flex flex-col gap-6">
-      {rawDrugs[type].kelas_obat.map((kelas) => (
-        <section key={kelas.id} className="w-full border-t-2 border-dashed border-text-muted pt-8 pb-8 first:border-t-0 first:pt-0">
+      {drugs.kelas_obat.map((kelas) => (
+        <section id={kelas.id} key={kelas.id} className="w-full border-t-2 border-dashed border-text-muted scroll-mt-20 py-12 first:border-t-0 first:pt-0">
           <h2 className="text-label-lg font-black text-text-primary mb-2 text-center">
             {kelas.kelas}
           </h2>

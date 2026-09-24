@@ -3,11 +3,15 @@ import React from 'react';
 import { Link, matchPath, useLocation } from 'react-router-dom';
 import { FaMoon, FaRegSun, FaAlignJustify, FaSearch } from 'react-icons/fa';
 
+import ThemeContext from '../contexts/ThemeContext.js';
+
 import Logo from './Logo.jsx';
 import SearchBar from './SearchBar.jsx';
 import NavbarLink from './NavbarLink.jsx';
 
-const NavBar = ({ theme, setTheme, onValidRoutes }) => {
+const NavBar = ({ onValidRoutes }) => {
+  const { theme, toggleTheme } = React.useContext(ThemeContext);
+
   const location = useLocation();
   const isActive = (path) =>
     !!matchPath({ path, end: path === '/' }, location.pathname);
@@ -74,7 +78,7 @@ const NavBar = ({ theme, setTheme, onValidRoutes }) => {
               </button>
               <button
                 className="text-text-muted cursor-pointer"
-                onClick={setTheme}
+                onClick={toggleTheme}
               >
                 { theme === 'light' ? <FaRegSun /> : <FaMoon />}
               </button>

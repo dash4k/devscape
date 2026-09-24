@@ -50,8 +50,8 @@ function App() {
   const onValidRoutes = validRoutes.some((path) => matchPath({ path, end: true }, location.pathname));
 
   return (
-    <ThemeContext.Provider value={theme}>
-      <NavBar theme={theme} setTheme={toggleTheme} onValidRoutes={onValidRoutes} />
+    <ThemeContext.Provider value={{ theme, toggleTheme }}>
+      <NavBar onValidRoutes={onValidRoutes} />
       <main className="mt-25 w-4/5 mx-auto">
         <AnimatePresence mode='wait'>
           <motion.div

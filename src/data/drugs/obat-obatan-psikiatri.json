@@ -1,0 +1,907 @@
+{
+  "kelas_obat": [
+    {
+      "id": "antipsikotik-tipikal",
+      "kelas": "Antipsikotik Tipikal (Generasi Pertama)",
+      "mekanisme": "Antagonis reseptor dopamin D2 di jalur mesolimbik yang mengurangi gejala psikotik positif, tetapi juga memblok D2 di jalur nigrostriatal sehingga berisiko efek ekstrapiramidal",
+      "obat": [
+        {
+          "id": "haloperidol",
+          "nama": "Haloperidol",
+          "indikasi": [
+            "Skizofrenia dan gangguan psikotik akut",
+            "Agitasi berat",
+            "Sindrom Tourette"
+          ],
+          "sediaan": [
+            "Tablet 0,5 mg, 1,5 mg, 5 mg",
+            "Larutan tetes oral 2 mg/mL",
+            "Injeksi IM 5 mg/mL",
+            "Injeksi depot (dekanoat) 50 mg/mL"
+          ],
+          "efek_samping": [
+            "Gejala ekstrapiramidal (distonia, akatisia, parkinsonisme)",
+            "Tardive dyskinesia (jangka panjang)",
+            "Sedasi",
+            "Pemanjangan QT",
+            "Sindrom neuroleptik maligna (jarang, serius)"
+          ],
+          "tatalaksana": [
+            "Oral: 0,5-5 mg 2-3x/hari sesuai keparahan",
+            "IM akut: 2-10 mg, dapat diulang",
+            "Depot: 50-200 mg setiap 4 minggu untuk terapi jangka panjang"
+          ],
+          "monitoring": [
+            "Gejala ekstrapiramidal",
+            "Interval QT",
+            "Suhu tubuh dan kekakuan otot (NMS)",
+            "Fungsi hati"
+          ],
+          "interaksi": [
+            "Obat pemanjang QT lain: risiko aritmia aditif",
+            "Depresan SSP: sedasi aditif",
+            "Karbamazepin: menurunkan kadar haloperidol"
+          ],
+          "catatan": "Merek dagang: Haldol Decanoas (dekanoat), Lodomer, Sikzonoate (dekanoat).",
+          "merek": [
+            "Haloperidol (generik)",
+            "Haldol Decanoas",
+            "Lodomer",
+            "Sikzonoate"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/haloperidol/PNG?image_size=300x300"
+        },
+        {
+          "id": "klorpromazin",
+          "nama": "Klorpromazin",
+          "indikasi": [
+            "Skizofrenia",
+            "Mania akut",
+            "Mual muntah berat (adjuvan)",
+            "Cegukan persisten"
+          ],
+          "sediaan": [
+            "Tablet 25 mg, 100 mg",
+            "Injeksi IM 25 mg/mL"
+          ],
+          "efek_samping": [
+            "Sedasi kuat",
+            "Hipotensi ortostatik",
+            "Gejala ekstrapiramidal",
+            "Fotosensitivitas",
+            "Efek antikolinergik"
+          ],
+          "tatalaksana": [
+            "25-100 mg 2-4x/hari, dosis dimulai rendah dan dititrasi"
+          ],
+          "monitoring": [
+            "Tekanan darah (ortostatik)",
+            "Gejala ekstrapiramidal",
+            "Fungsi hati"
+          ],
+          "interaksi": [
+            "Depresan SSP: sedasi aditif",
+            "Antihipertensi: hipotensi aditif",
+            "Obat pemanjang QT"
+          ],
+          "catatan": "Merek dagang: Cepezet.",
+          "merek": [
+            "Cepezet"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/chlorpromazine/PNG?image_size=300x300"
+        },
+        {
+          "id": "trifluoperazin",
+          "nama": "Trifluoperazine",
+          "indikasi": [
+            "Skizofrenia",
+            "Ansietas berat jangka pendek (dosis rendah)"
+          ],
+          "sediaan": [
+            "Tablet 5 mg"
+          ],
+          "efek_samping": [
+            "Gejala ekstrapiramidal",
+            "Sedasi",
+            "Hipotensi ortostatik"
+          ],
+          "tatalaksana": [
+            "2-5 mg 2x/hari, titrasi sesuai respons"
+          ],
+          "monitoring": [
+            "Gejala ekstrapiramidal",
+            "Tekanan darah"
+          ],
+          "interaksi": [
+            "Depresan SSP: sedasi aditif"
+          ],
+          "catatan": "Merek dagang: Stelazine, Stelosi.",
+          "merek": [
+            "Stelazine",
+            "Stelosi"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/trifluoperazine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antipsikotik-atipikal",
+      "kelas": "Antipsikotik Atipikal (Generasi Kedua)",
+      "mekanisme": "Antagonis reseptor dopamin D2 dan serotonin 5-HT2A, memberikan efek antipsikotik dengan risiko ekstrapiramidal lebih rendah dibanding generasi pertama",
+      "obat": [
+        {
+          "id": "risperidon",
+          "nama": "Risperidone",
+          "indikasi": [
+            "Skizofrenia",
+            "Gangguan bipolar (episode manik)",
+            "Iritabilitas pada autisme"
+          ],
+          "sediaan": [
+            "Tablet 1 mg, 2 mg, 3 mg"
+          ],
+          "efek_samping": [
+            "Peningkatan berat badan",
+            "Hiperprolaktinemia",
+            "Gejala ekstrapiramidal (dosis tinggi)",
+            "Sedasi",
+            "Hipotensi ortostatik"
+          ],
+          "tatalaksana": [
+            "Awal 1-2 mg/hari, titrasi bertahap sampai 4-6 mg/hari terbagi 1-2 dosis"
+          ],
+          "monitoring": [
+            "Berat badan dan profil metabolik",
+            "Prolaktin bila ada gejala",
+            "Gejala ekstrapiramidal"
+          ],
+          "interaksi": [
+            "Inhibitor CYP2D6 (fluoksetin, paroksetin): meningkatkan kadar risperidon",
+            "Karbamazepin: menurunkan kadar"
+          ],
+          "catatan": null,
+          "merek": [
+            "Risperidone (generik)"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/risperidone/PNG?image_size=300x300"
+        },
+        {
+          "id": "olanzapin",
+          "nama": "Olanzapine",
+          "indikasi": [
+            "Skizofrenia",
+            "Gangguan bipolar",
+            "Mual muntah kemoterapi (adjuvan, dosis rendah)"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg",
+            "Injeksi IM 10 mg (untuk agitasi akut)"
+          ],
+          "efek_samping": [
+            "Peningkatan berat badan signifikan",
+            "Hiperglikemia dan dislipidemia",
+            "Sedasi",
+            "Efek antikolinergik ringan"
+          ],
+          "tatalaksana": [
+            "Awal 5-10 mg 1x/hari, titrasi sampai 20 mg/hari"
+          ],
+          "monitoring": [
+            "Berat badan, glukosa, dan profil lipid berkala",
+            "Lingkar pinggang"
+          ],
+          "interaksi": [
+            "Merokok: menurunkan kadar olanzapine (induksi CYP1A2)",
+            "Fluvoxamine: meningkatkan kadar",
+            "Depresan SSP: sedasi aditif"
+          ],
+          "catatan": "Merek dagang: Sopavel. Risiko metabolik tertinggi di antara antipsikotik atipikal.",
+          "merek": [
+            "Olanzapine (generik)",
+            "Sopavel",
+            "Zyprexa"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/olanzapine/PNG?image_size=300x300"
+        },
+        {
+          "id": "quetiapin",
+          "nama": "Quetiapine",
+          "indikasi": [
+            "Skizofrenia",
+            "Gangguan bipolar (manik dan depresi)",
+            "Depresi mayor (adjuvan)",
+            "Insomnia (dosis rendah, off-label)"
+          ],
+          "sediaan": [
+            "Tablet 25 mg, 100 mg, 200 mg",
+            "Tablet lepas lambat (XR) 50 mg, 200 mg, 300 mg, 400 mg"
+          ],
+          "efek_samping": [
+            "Sedasi (sering)",
+            "Peningkatan berat badan",
+            "Hipotensi ortostatik",
+            "Dislipidemia"
+          ],
+          "tatalaksana": [
+            "Skizofrenia: titrasi sampai 300-800 mg/hari",
+            "Dosis rendah untuk insomnia: 25-100 mg malam hari (off-label)"
+          ],
+          "monitoring": [
+            "Berat badan dan profil metabolik",
+            "Tekanan darah ortostatik"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat: meningkatkan kadar quetiapine drastis",
+            "Depresan SSP: sedasi aditif"
+          ],
+          "catatan": "Merek dagang: Seroquel, Seroquel XR, Quetvel, Soroquin XR.",
+          "merek": [
+            "Quetiapine (generik)",
+            "Seroquel",
+            "Seroquel XR",
+            "Quetvel",
+            "Soroquin XR"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/quetiapine/PNG?image_size=300x300"
+        },
+        {
+          "id": "aripiprazol",
+          "nama": "Aripiprazole",
+          "indikasi": [
+            "Skizofrenia",
+            "Gangguan bipolar",
+            "Depresi mayor (adjuvan)",
+            "Iritabilitas pada autisme"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg, 15 mg",
+            "Tablet cepat larut (discmelt)",
+            "Larutan oral 1 mg/mL"
+          ],
+          "efek_samping": [
+            "Akatisia (khas)",
+            "Insomnia",
+            "Mual",
+            "Risiko metabolik lebih rendah dibanding olanzapine/quetiapine"
+          ],
+          "tatalaksana": [
+            "Awal 10-15 mg 1x/hari, dapat dinaikkan sampai 30 mg/hari"
+          ],
+          "monitoring": [
+            "Gejala akatisia",
+            "Berat badan (risiko lebih rendah, tetap dipantau)"
+          ],
+          "interaksi": [
+            "Inhibitor CYP2D6/CYP3A4: kadar dapat meningkat, kurangi dosis",
+            "Depresan SSP: sedasi aditif"
+          ],
+          "catatan": "Merek dagang: Abilify, Abilify Discmelt, Aripiprazol (generik).",
+          "merek": [
+            "Aripiprazol (generik)",
+            "Abilify",
+            "Abilify Discmelt"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aripiprazole/PNG?image_size=300x300"
+        },
+        {
+          "id": "klozapin",
+          "nama": "Clozapine",
+          "indikasi": [
+            "Skizofrenia refrakter (gagal dengan ≥ 2 antipsikotik lain)",
+            "Pengurangan risiko bunuh diri pada skizofrenia"
+          ],
+          "sediaan": [
+            "Tablet 25 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Agranulositosis (boxed warning, risiko serius)",
+            "Miokarditis",
+            "Kejang (dosis tinggi)",
+            "Sedasi berat",
+            "Hipersalivasi",
+            "Peningkatan berat badan signifikan"
+          ],
+          "tatalaksana": [
+            "Awal 12,5 mg 1-2x/hari, titrasi sangat bertahap sampai 300-450 mg/hari"
+          ],
+          "monitoring": [
+            "Hitung neutrofil absolut (ANC) rutin: mingguan 6 bulan pertama, lalu berkala seumur hidup terapi",
+            "EKG dan troponin (miokarditis)",
+            "Berat badan dan profil metabolik"
+          ],
+          "interaksi": [
+            "Karbamazepin: risiko supresi sumsum tulang aditif, hindari kombinasi",
+            "Merokok: menurunkan kadar clozapine",
+            "Fluvoxamine: meningkatkan kadar drastis"
+          ],
+          "catatan": "Memerlukan pendaftaran dan pemantauan hitung darah ketat karena risiko agranulositosis fatal; hanya diresepkan dalam program pemantauan khusus.",
+          "merek": [
+            "Clozapine (generik)"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clozapine/PNG?image_size=300x300"
+        },
+        {
+          "id": "brekspiprazol",
+          "nama": "Brexpiprazole",
+          "indikasi": [
+            "Skizofrenia",
+            "Depresi mayor (adjuvan)"
+          ],
+          "sediaan": [
+            "Tablet 1 mg, 2 mg"
+          ],
+          "efek_samping": [
+            "Peningkatan berat badan",
+            "Akatisia",
+            "Sedasi ringan"
+          ],
+          "tatalaksana": [
+            "Awal 1 mg/hari, titrasi bertahap sampai 2-4 mg/hari"
+          ],
+          "monitoring": [
+            "Berat badan",
+            "Gejala akatisia"
+          ],
+          "interaksi": [
+            "Inhibitor CYP2D6/CYP3A4: sesuaikan dosis"
+          ],
+          "catatan": "Merek dagang: Rexulti.",
+          "merek": [
+            "Rexulti"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/brexpiprazole/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "ssri",
+      "kelas": "SSRI (Selective Serotonin Reuptake Inhibitor)",
+      "mekanisme": "Menghambat reuptake serotonin secara selektif di celah sinaps sehingga meningkatkan ketersediaan serotonin",
+      "obat": [
+        {
+          "id": "fluoksetin",
+          "nama": "Fluoxetine",
+          "indikasi": [
+            "Depresi mayor",
+            "Gangguan obsesif-kompulsif (OCD)",
+            "Gangguan panik",
+            "Bulimia nervosa"
+          ],
+          "sediaan": [
+            "Kapsul/tablet 10 mg, 20 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Insomnia",
+            "Disfungsi seksual",
+            "Penurunan nafsu makan",
+            "Ansietas awal terapi"
+          ],
+          "tatalaksana": [
+            "Awal 20 mg pagi hari, dapat dinaikkan sampai 60-80 mg/hari untuk OCD"
+          ],
+          "monitoring": [
+            "Gejala depresi dan ide bunuh diri (terutama awal terapi pada remaja/dewasa muda)",
+            "Berat badan"
+          ],
+          "interaksi": [
+            "MAOI: kontraindikasi, risiko serotonin syndrome",
+            "Obat serotonergik lain: risiko serotonin syndrome",
+            "Inhibitor CYP2D6 kuat: kadar obat lain dapat meningkat (fluoxetine adalah inhibitor CYP2D6)"
+          ],
+          "catatan": "Merek dagang: Kalxetin, Zac, Elizac, Fluoksetin (generik). Waktu paruh sangat panjang, sehingga efek dapat bertahan lama setelah dihentikan.",
+          "merek": [
+            "Fluoksetin (generik)",
+            "Kalxetin",
+            "Zac",
+            "Elizac"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fluoxetine/PNG?image_size=300x300"
+        },
+        {
+          "id": "sertralin",
+          "nama": "Sertraline",
+          "indikasi": [
+            "Depresi mayor",
+            "Gangguan panik",
+            "OCD",
+            "PTSD",
+            "Gangguan ansietas sosial"
+          ],
+          "sediaan": [
+            "Tablet 50 mg"
+          ],
+          "efek_samping": [
+            "Mual dan diare (sering)",
+            "Insomnia",
+            "Disfungsi seksual",
+            "Ansietas awal terapi"
+          ],
+          "tatalaksana": [
+            "Awal 50 mg 1x/hari, dapat dinaikkan sampai 200 mg/hari"
+          ],
+          "monitoring": [
+            "Gejala depresi dan ide bunuh diri",
+            "Gejala GI"
+          ],
+          "interaksi": [
+            "MAOI: kontraindikasi",
+            "NSAID dan antikoagulan: risiko perdarahan meningkat",
+            "Obat serotonergik lain: risiko serotonin syndrome"
+          ],
+          "catatan": "Merek dagang: Fatral, Fridep, Sernade, Serlof, Sertralin (generik).",
+          "merek": [
+            "Sertraline (generik)",
+            "Fatral",
+            "Fridep",
+            "Sernade",
+            "Serlof"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sertraline/PNG?image_size=300x300"
+        },
+        {
+          "id": "escitalopram",
+          "nama": "Escitalopram",
+          "indikasi": [
+            "Depresi mayor",
+            "Gangguan ansietas umum (GAD)",
+            "Gangguan panik"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 20 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Insomnia atau mengantuk",
+            "Disfungsi seksual",
+            "Pemanjangan QT (dosis tinggi)"
+          ],
+          "tatalaksana": [
+            "Awal 10 mg 1x/hari, dapat dinaikkan sampai 20 mg/hari"
+          ],
+          "monitoring": [
+            "Gejala depresi dan ide bunuh diri",
+            "Interval QT pada dosis tinggi atau faktor risiko"
+          ],
+          "interaksi": [
+            "MAOI: kontraindikasi",
+            "Obat pemanjang QT: risiko aritmia",
+            "Obat serotonergik lain"
+          ],
+          "catatan": "Merek dagang: Cipralex, Depram.",
+          "merek": [
+            "Cipralex",
+            "Depram"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/escitalopram/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "snri-psikiatri",
+      "kelas": "SNRI (Serotonin-Norepinephrine Reuptake Inhibitor)",
+      "mekanisme": "Menghambat reuptake serotonin dan norepinefrin di celah sinaps",
+      "obat": [
+        {
+          "id": "venlafaxine",
+          "nama": "Venlafaxine",
+          "indikasi": [
+            "Depresi mayor",
+            "Gangguan ansietas umum",
+            "Gangguan panik"
+          ],
+          "sediaan": [
+            "Kapsul lepas lambat (XR) 75 mg, 150 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Peningkatan tekanan darah (dosis tinggi)",
+            "Insomnia",
+            "Disfungsi seksual",
+            "Gejala putus obat bila dihentikan mendadak"
+          ],
+          "tatalaksana": [
+            "Awal 75 mg 1x/hari, dapat dinaikkan sampai 225 mg/hari"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Gejala depresi dan ide bunuh diri"
+          ],
+          "interaksi": [
+            "MAOI: kontraindikasi",
+            "Obat serotonergik lain: risiko serotonin syndrome"
+          ],
+          "catatan": "Merek dagang: Efexor XR. Hentikan secara bertahap untuk menghindari gejala putus obat.",
+          "merek": [
+            "Efexor XR"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/venlafaxine/PNG?image_size=300x300"
+        },
+        {
+          "id": "vortioxetine",
+          "nama": "Vortioxetine",
+          "indikasi": [
+            "Depresi mayor"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg"
+          ],
+          "efek_samping": [
+            "Mual (sering)",
+            "Sakit kepala",
+            "Disfungsi seksual (lebih rendah dibanding SSRI lain)"
+          ],
+          "tatalaksana": [
+            "Awal 10 mg 1x/hari, dapat dinaikkan sampai 20 mg/hari"
+          ],
+          "monitoring": [
+            "Gejala depresi dan ide bunuh diri"
+          ],
+          "interaksi": [
+            "MAOI: kontraindikasi",
+            "Inhibitor/penginduksi CYP2D6: sesuaikan dosis"
+          ],
+          "catatan": "Merek dagang: Brintellix.",
+          "merek": [
+            "Brintellix"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/vortioxetine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "antidepresan-lain",
+      "kelas": "Antidepresan Trisiklik dan Lainnya",
+      "mekanisme": "Antidepresan trisiklik menghambat reuptake serotonin dan norepinefrin non-selektif dengan efek antikolinergik signifikan; agomelatine bekerja sebagai agonis melatonin",
+      "obat": [
+        {
+          "id": "amitriptilin",
+          "nama": "Amitriptyline",
+          "mekanisme": "Antidepresan trisiklik yang menghambat reuptake serotonin dan norepinefrin non-selektif, juga memiliki efek antikolinergik dan antihistamin kuat",
+          "indikasi": [
+            "Depresi mayor",
+            "Nyeri neuropatik (dosis rendah)",
+            "Profilaksis migrain (dosis rendah)",
+            "Insomnia (dosis rendah, off-label)"
+          ],
+          "sediaan": [
+            "Tablet 25 mg"
+          ],
+          "efek_samping": [
+            "Mulut kering dan efek antikolinergik lain",
+            "Sedasi",
+            "Peningkatan berat badan",
+            "Hipotensi ortostatik",
+            "Pemanjangan QT dan aritmia (overdosis fatal)"
+          ],
+          "tatalaksana": [
+            "Depresi: 25-150 mg malam hari, titrasi bertahap",
+            "Nyeri neuropatik: 10-25 mg malam hari"
+          ],
+          "monitoring": [
+            "EKG pada dosis tinggi atau faktor risiko jantung",
+            "Gejala antikolinergik",
+            "Berat badan"
+          ],
+          "interaksi": [
+            "MAOI: kontraindikasi",
+            "Obat antikolinergik lain: efek aditif",
+            "Obat pemanjang QT: risiko aritmia"
+          ],
+          "catatan": "Sangat toksik pada overdosis (kardiotoksik); hati-hati meresepkan pada pasien risiko bunuh diri.",
+          "merek": [
+            "Amitriptilin (generik)"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amitriptyline/PNG?image_size=300x300"
+        },
+        {
+          "id": "agomelatine",
+          "nama": "Agomelatine",
+          "mekanisme": "Agonis reseptor melatonin MT1/MT2 dan antagonis reseptor serotonin 5-HT2C",
+          "indikasi": [
+            "Depresi mayor"
+          ],
+          "sediaan": [
+            "Tablet 25 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Mual",
+            "Peningkatan enzim hati (perlu monitoring)",
+            "Pusing"
+          ],
+          "tatalaksana": [
+            "25 mg malam hari, dapat dinaikkan sampai 50 mg/hari"
+          ],
+          "monitoring": [
+            "Fungsi hati (sebelum terapi dan berkala, terutama 6 bulan pertama)"
+          ],
+          "interaksi": [
+            "Inhibitor CYP1A2 kuat (fluvoxamine): kontraindikasi, meningkatkan kadar drastis",
+            "Rokok berat: menurunkan efektivitas"
+          ],
+          "catatan": "Merek dagang: Valdoxan. Profil efek samping seksual dan gangguan tidur lebih ringan dibanding SSRI/SNRI, tetapi memerlukan pemantauan hati ketat.",
+          "merek": [
+            "Valdoxan"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/agomelatine/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "mood-stabilizer",
+      "kelas": "Mood Stabilizer",
+      "mekanisme": "Menstabilkan mood pada gangguan bipolar melalui berbagai mekanisme pada neurotransmisi dan jalur intraseluler",
+      "obat": [
+        {
+          "id": "litium",
+          "nama": "Litium",
+          "mekanisme": "Mekanisme pasti belum jelas, diduga memodulasi jalur inositol dan protein kinase C untuk menstabilkan mood",
+          "indikasi": [
+            "Gangguan bipolar (fase akut dan pemeliharaan)",
+            "Augmentasi terapi depresi refrakter",
+            "Pencegahan bunuh diri pada gangguan mood"
+          ],
+          "sediaan": [
+            "Tablet 200 mg, 400 mg"
+          ],
+          "efek_samping": [
+            "Tremor",
+            "Poliuria dan polidipsia",
+            "Hipotiroidisme (jangka panjang)",
+            "Nefrotoksisitas (jangka panjang)",
+            "Toksisitas litium (mual, ataksia, kebingungan, kejang pada kadar tinggi)"
+          ],
+          "tatalaksana": [
+            "Awal 300-400 mg/hari terbagi, titrasi berdasarkan kadar serum",
+            "Target kadar serum 0,6-1,2 mEq/L untuk pemeliharaan"
+          ],
+          "monitoring": [
+            "Kadar litium serum (rutin, lebih sering saat titrasi)",
+            "Fungsi tiroid dan ginjal (baseline dan berkala)",
+            "Elektrolit"
+          ],
+          "interaksi": [
+            "NSAID, ACE inhibitor, diuretik tiazid: meningkatkan kadar litium, risiko toksisitas",
+            "Kafein: dapat menurunkan kadar litium"
+          ],
+          "catatan": "Merek dagang: Frimania. Rentang terapi sempit; dehidrasi dan perubahan asupan natrium dapat mengubah kadar litium secara signifikan.",
+          "merek": [
+            "Frimania"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lithium%20carbonate/PNG?image_size=300x300"
+        },
+        {
+          "id": "topiramat",
+          "nama": "Topiramate",
+          "mekanisme": "Menghambat kanal natrium voltage-gated, meningkatkan aktivitas GABA, dan menghambat reseptor glutamat AMPA/kainate",
+          "indikasi": [
+            "Epilepsi (kejang parsial dan umum)",
+            "Profilaksis migrain",
+            "Gangguan bipolar (adjuvan, off-label)"
+          ],
+          "sediaan": [
+            "Tablet 25 mg, 50 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Gangguan kognitif (kesulitan bicara dan konsentrasi)",
+            "Parestesia",
+            "Penurunan berat badan",
+            "Batu ginjal",
+            "Glaukoma sudut tertutup akut (jarang)"
+          ],
+          "tatalaksana": [
+            "Epilepsi: awal 25-50 mg/hari, titrasi bertahap sampai 200-400 mg/hari terbagi 2 dosis"
+          ],
+          "monitoring": [
+            "Fungsi kognitif",
+            "Gejala mata (nyeri, penglihatan kabur mendadak)",
+            "Bikarbonat serum (risiko asidosis metabolik)"
+          ],
+          "interaksi": [
+            "Kontrasepsi hormonal: efektivitas dapat menurun pada dosis tinggi",
+            "Karbonat anhidrase inhibitor lain: risiko batu ginjal aditif"
+          ],
+          "catatan": "Merek dagang: Topamax.",
+          "merek": [
+            "Topamax"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/topiramate/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "benzodiazepin-psikiatri",
+      "kelas": "Benzodiazepin (Ansietas dan Insomnia)",
+      "mekanisme": "Modulator alosterik positif reseptor GABA-A yang meningkatkan efek inhibisi GABA, menghasilkan efek ansiolitik, sedatif, dan antikonvulsan",
+      "obat": [
+        {
+          "id": "diazepam",
+          "nama": "Diazepam",
+          "indikasi": [
+            "Ansietas akut",
+            "Status epileptikus",
+            "Spasme otot",
+            "Sedasi pra-prosedur",
+            "Gejala putus alkohol"
+          ],
+          "sediaan": [
+            "Tablet 2 mg, 5 mg",
+            "Injeksi IV 10 mg/2 mL",
+            "Enema rektal 5 mg, 10 mg (untuk kejang)"
+          ],
+          "efek_samping": [
+            "Sedasi",
+            "Ataksia",
+            "Ketergantungan (penggunaan lama)",
+            "Depresi napas (dosis tinggi atau kombinasi opioid)"
+          ],
+          "tatalaksana": [
+            "Ansietas: 2-10 mg 2-4x/hari sesuai kebutuhan",
+            "Status epileptikus: 5-10 mg IV, dapat diulang",
+            "Rektal (kejang, terutama anak): sesuai berat badan"
+          ],
+          "monitoring": [
+            "Tingkat sedasi dan fungsi pernapasan",
+            "Tanda ketergantungan pada penggunaan lama"
+          ],
+          "interaksi": [
+            "Opioid dan depresan SSP lain: depresi napas aditif (boxed warning)",
+            "Alkohol: sedasi berat"
+          ],
+          "catatan": "Merek dagang: Valisanbe, Stesolid (termasuk bentuk enema), Analsik (kombinasi). Hindari penggunaan jangka panjang karena risiko ketergantungan.",
+          "merek": [
+            "Diazepam (generik)",
+            "Valisanbe",
+            "Stesolid",
+            "Analsik (kombinasi)"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diazepam/PNG?image_size=300x300"
+        },
+        {
+          "id": "klonazepam",
+          "nama": "Clonazepam",
+          "indikasi": [
+            "Gangguan panik",
+            "Kejang mioklonik dan absans",
+            "Ansietas berat jangka pendek"
+          ],
+          "sediaan": [
+            "Tablet 1 mg, 2 mg"
+          ],
+          "efek_samping": [
+            "Sedasi",
+            "Ataksia",
+            "Ketergantungan (penggunaan lama)"
+          ],
+          "tatalaksana": [
+            "Gangguan panik: 0,25-1 mg 2x/hari",
+            "Kejang: dosis lebih tinggi sesuai indikasi neurologis"
+          ],
+          "monitoring": [
+            "Tingkat sedasi",
+            "Tanda ketergantungan"
+          ],
+          "interaksi": [
+            "Depresan SSP dan opioid: sedasi dan depresi napas aditif"
+          ],
+          "catatan": "Merek dagang: Riklona.",
+          "merek": [
+            "Clonazepam (generik)",
+            "Riklona"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clonazepam/PNG?image_size=300x300"
+        },
+        {
+          "id": "klobazam",
+          "nama": "Clobazam",
+          "indikasi": [
+            "Ansietas jangka pendek",
+            "Kejang (adjuvan, termasuk sindrom Lennox-Gastaut)"
+          ],
+          "sediaan": [
+            "Tablet 10 mg"
+          ],
+          "efek_samping": [
+            "Sedasi",
+            "Ataksia"
+          ],
+          "tatalaksana": [
+            "Ansietas: 10-30 mg/hari terbagi"
+          ],
+          "monitoring": [
+            "Tingkat sedasi"
+          ],
+          "interaksi": [
+            "Depresan SSP lain: sedasi aditif"
+          ],
+          "catatan": "Merek dagang: Clofritis, Frisium.",
+          "merek": [
+            "Clobazam (generik)",
+            "Clofritis"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clobazam/PNG?image_size=300x300"
+        },
+        {
+          "id": "zolpidem",
+          "nama": "Zolpidem",
+          "mekanisme": "Agonis selektif subunit alfa-1 reseptor GABA-A, memberikan efek hipnotik dengan efek ansiolitik dan relaksan otot minimal",
+          "indikasi": [
+            "Insomnia jangka pendek"
+          ],
+          "sediaan": [
+            "Tablet 10 mg"
+          ],
+          "efek_samping": [
+            "Somnolen residual",
+            "Perilaku kompleks saat tidur (sleep-walking, sleep-eating)",
+            "Ketergantungan (penggunaan lama)"
+          ],
+          "tatalaksana": [
+            "10 mg segera sebelum tidur (5 mg pada lansia atau gangguan hati), maksimal digunakan jangka pendek"
+          ],
+          "monitoring": [
+            "Perilaku tidur kompleks",
+            "Tanda ketergantungan"
+          ],
+          "interaksi": [
+            "Depresan SSP dan alkohol: sedasi aditif",
+            "Inhibitor CYP3A4: kadar meningkat"
+          ],
+          "catatan": "Merek dagang: Zolmia, Zudem.",
+          "merek": [
+            "Zolmia",
+            "Zudem"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/zolpidem/PNG?image_size=300x300"
+        }
+      ]
+    },
+    {
+      "id": "adhd",
+      "kelas": "Obat ADHD (Attention-Deficit/Hyperactivity Disorder)",
+      "mekanisme": "Stimulan yang meningkatkan kadar dopamin dan norepinefrin di celah sinaps korteks prefrontal, memperbaiki fokus dan mengurangi impulsivitas",
+      "obat": [
+        {
+          "id": "metilfenidat",
+          "nama": "Methylphenidate",
+          "indikasi": [
+            "ADHD pada anak dan dewasa",
+            "Narkolepsi"
+          ],
+          "sediaan": [
+            "Tablet kerja singkat 10 mg",
+            "Tablet lepas lambat (XR/Concerta) 18 mg, 36 mg"
+          ],
+          "efek_samping": [
+            "Penurunan nafsu makan",
+            "Insomnia",
+            "Peningkatan tekanan darah dan nadi",
+            "Perlambatan pertumbuhan (anak, jangka panjang)",
+            "Iritabilitas saat efek obat menurun"
+          ],
+          "tatalaksana": [
+            "Kerja singkat: 5-10 mg 2-3x/hari, dosis pagi dan siang untuk menghindari insomnia",
+            "Lepas lambat: 18-54 mg 1x/hari pagi hari"
+          ],
+          "monitoring": [
+            "Tekanan darah dan nadi",
+            "Berat badan dan tinggi badan pada anak",
+            "Gejala psikiatri (kecemasan, agresi)"
+          ],
+          "interaksi": [
+            "MAOI: kontraindikasi",
+            "Antihipertensi: efek dapat berkurang",
+            "Warfarin: kadar dapat meningkat"
+          ],
+          "catatan": "Merek dagang: Concerta XR, Prohiper. Berpotensi disalahgunakan; termasuk golongan obat terkontrol ketat.",
+          "merek": [
+            "Concerta XR",
+            "Prohiper"
+          ],
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methylphenidate/PNG?image_size=300x300"
+        }
+      ]
+    }
+  ]
+}

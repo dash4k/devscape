@@ -120,8 +120,15 @@ html {
   transition: all;
   transition-duration: 300ms;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 body {
   padding-bottom: max(0px, env(safe-area-inset-bottom));
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
 }
