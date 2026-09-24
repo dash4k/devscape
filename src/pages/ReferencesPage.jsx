@@ -1,11 +1,12 @@
 import React from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 
-import { drugClasses } from '../data/drugs.js';
+import { drugClasses, rawDrugs } from '../data/drugs.js';
 import { toTitleCase } from '../utils/utils.js';
 
 import DrugList from '../components/DrugList.jsx';
 import ScrollToTopButton from '../components/ScrollToTopButton.jsx';
+import TableOfContents from '../components/TableOfContents.jsx';
 
 const ReferencesPage = () => {
   const [type, setType] = React.useState('antibiotik');
@@ -21,7 +22,7 @@ const ReferencesPage = () => {
     <section className="w-full h-auto px-5 pt-3">
       <div className="hidden md:flex flex-row justify-between items-end flex-nowrap overflow-x-auto scrollbar-none w-full border-b-3 border-border-strong mb-10 text-text-primary text-body-lg">
         {drugClasses.map((dc) => (
-          <button onhove className={tabClass(dc)} onClick={() => setType(dc)}>{toTitleCase(dc)}</button>
+          <button key={dc} className={tabClass(dc)} onClick={() => setType(dc)}>{toTitleCase(dc)}</button>
         ))}
       </div>
       <div className="bg-surface md:hidden flex flex-row justify-center items-center w-full rounded-xl border border-border shadow-sm mb-10 text-text-primary">
@@ -31,7 +32,7 @@ const ReferencesPage = () => {
           className="p-3 w-full text-center rounded-xl text-text-primary bg-surface"
         >
           {drugClasses.map((dc) => (
-            <option value={dc} className='text-text-primary bg-surface'>{toTitleCase(dc)}</option>
+            <option key={dc} value={dc} className='text-text-primary bg-surface'>{toTitleCase(dc)}</option>
           ))}
         </select>
       </div>
@@ -43,10 +44,11 @@ const ReferencesPage = () => {
           exit={{ opacity: 0, x: -16 }}
           transition={{ duration: 0.25 }}
         >
-          <DrugList type={type} />
+          <DrugList drugs={rawDrugs[type]} />
         </motion.div>
       </AnimatePresence>
       <ScrollToTopButton />
+      <TableOfContents contents={rawDrugs[type].kelas_obat.map((kelas) => (kelas.id))} />
     </section>
   );
 };
