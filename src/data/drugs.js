@@ -6,6 +6,7 @@ import kardiovaskular from './drugs/obat-obatan-kardiovaskular.json';
 import muskuloskeletal from './drugs/obat-obatan-muskuloskeletal.json';
 import pencernaan from './drugs/obat-obatan-pencernaan.json';
 import pernapasan from './drugs/obat-obatan-pernapasan.json';
+import psikiatri from './drugs/obat-obatan-psikiatri.json';
 import saraf from './drugs/obat-obatan-saraf.json';
 import tulang from './drugs/obat-obatan-tulang.json';
 
@@ -18,6 +19,7 @@ export const rawDrugs = {
   muskuloskeletal,
   pencernaan,
   pernapasan,
+  psikiatri,
   saraf,
   tulang,
 };
@@ -31,6 +33,7 @@ export const drugClasses = [
   'muskuloskeletal',
   'pencernaan',
   'pernapasan',
+  'psikiatri',
   'saraf',
   'tulang'
 ];
