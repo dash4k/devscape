@@ -27,7 +27,7 @@ export default function ScrollToTopButton() {
           animate={{ opacity: 1, y: 0 }}
           exit={{ opacity: 0, y: 8 }}
           transition={{ duration: 0.25 }}
-          className="fixed bottom-6 right-6 z-50 flex h-8 w-8 items-center justify-center rounded-full bg-accent-primary text-3xl text-surface shadow-lg hover:bg-accent-primary-hover cursor-pointer transition-colors duration-300"
+          className="fixed bottom-6 right-6 z-50 flex h-8 w-8 items-center justify-center rounded-full bg-accent-primary text-3xl text-surface shadow-sm shadow-accent-primary hover:bg-accent-primary-hover cursor-pointer transition-colors duration-300"
         >
           <FaArrowAltCircleUp />
         </motion.button>
