@@ -85,7 +85,7 @@ const TableOfContents = ({ contents = [] }) => {
   }, [contentsKey]);
 
   return (
-    <aside className="fixed left-5 top-1/2 -translate-y-1/3 z-10 w-42 rounded-xl border border-border/50 bg-surface shadow-lg">
+    <aside className="fixed left-6 bottom-6 z-10 w-42 rounded-xl border border-border-strong bg-surface shadow-sm shadow-accent-primary">
       <div
         onClick={toggleTableContents}
         className="px-4 py-3 cursor-pointer flex flex-row justify-evenly items-center gap-2"
@@ -94,7 +94,7 @@ const TableOfContents = ({ contents = [] }) => {
           Table of Contents
         </h2>
         <p className='text-text-muted text-body-sm'>
-          {activeTableContents ? <FaChevronUp /> : <FaChevronDown />}
+          {activeTableContents ? <FaChevronDown /> : <FaChevronUp />}
         </p>
       </div>
       <nav
@@ -113,7 +113,7 @@ const TableOfContents = ({ contents = [] }) => {
                   href={`#${item}`}
                   aria-current={isActive ? 'true' : undefined}
                   onClick={() => (handleClick(item))}
-                  className={`block rounded-lg px-3 py-2 text-body-sm transition-colors hover:bg-surface-hover hover:text-accent-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent-primary ${
+                  className={`block rounded-lg px-3 py-2 text-body-sm transition-colors hover:bg-surface-hover hover:text-accent-cta ${
                     isActive
                       ? 'bg-surface-hover text-accent-primary font-medium'
                       : 'text-text-primary'
