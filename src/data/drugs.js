@@ -57,4 +57,5 @@ export const getDrugByQuery = (query) => allDrugs.filter((d) => (
   d.id.includes(query.toLowerCase())
   || d.kelasId.includes(query.toLowerCase())
   || d.kelasMekanisme.toLowerCase().includes(query.toLowerCase())
+  || d.merek?.some((m) => m.toLowerCase().includes(query.toLowerCase()))
 ));
