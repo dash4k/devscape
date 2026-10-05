@@ -240,6 +240,230 @@
             "Levexa",
             "Levetirasetam (generik)"
           ]
+        },
+        {
+          "id": "clobazam",
+          "nama": "Clobazam",
+          "mekanisme": "Benzodiazepin yang meningkatkan efek GABA pada reseptor GABA-A sehingga menurunkan eksitabilitas neuron.",
+          "indikasi": [
+            "Kejang sebagai terapi tambahan pada epilepsi tertentu"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 20 mg"
+          ],
+          "efek_samping": [
+            "Mengantuk"
+          ],
+          "tatalaksana": [
+            "Dosis dititrasi bertahap sesuai respons; gunakan sesuai resep spesialis epilepsi"
+          ],
+          "monitoring": [
+            "Frekuensi kejang",
+            "Sedasi",
+            "Fungsi pernapasan pada pasien berisiko"
+          ],
+          "interaksi": [
+            "Opioid dan depresan SSP: sedasi/depresi napas aditif",
+            "Inhibitor CYP3A4/CYP2C19 dapat meningkatkan paparan"
+          ],
+          "catatan": "Penghentian mendadak dapat menyebabkan gejala putus obat dan peningkatan kejang.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clobazam/PNG?image_size=300x300",
+          "merek": [
+            "Clobazam",
+            "Klobazam"
+          ]
+        },
+        {
+          "id": "clonazepam",
+          "nama": "Klonazepam",
+          "mekanisme": "Benzodiazepin yang meningkatkan efek inhibisi GABA-A di sistem saraf pusat.",
+          "indikasi": [
+            "Kejang tertentu termasuk absans/mioklonik dan sebagai terapi tambahan"
+          ],
+          "sediaan": [
+            "Tablet 0,5 mg, 2 mg",
+            "Kapsul 1 mg"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Ataksia",
+            "Pusing",
+            "Gangguan koordinasi",
+            "Depresi napas"
+          ],
+          "tatalaksana": [
+            "Awal dosis rendah dan titrasi bertahap sesuai jenis kejang",
+            "Hentikan dengan tapering"
+          ],
+          "monitoring": [
+            "Frekuensi kejang",
+            "Tingkat sedasi",
+            "Fungsi pernapasan pada pasien berisiko"
+          ],
+          "interaksi": [
+            "Opioid, alkohol, dan depresan SSP: depresi napas/sedasi aditif"
+          ],
+          "catatan": "Penggunaan jangka panjang dapat menyebabkan toleransi dan ketergantungan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clonazepam/PNG?image_size=300x300",
+          "merek": [
+            "Clonazepam (generik)",
+            "Klonazepam",
+            "Riklona"
+          ]
+        },
+        {
+          "id": "fenobarbital",
+          "nama": "Fenobarbital",
+          "mekanisme": "Barbiturat yang meningkatkan durasi pembukaan kanal klorida pada reseptor GABA-A sehingga menekan eksitabilitas neuron.",
+          "indikasi": [
+            "Kejang tonik-klonik dan fokal",
+            "Status epileptikus sebagai terapi sesuai protokol"
+          ],
+          "sediaan": [
+            "Tablet 30 mg, 50 mg",
+            "Injeksi"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Ataksia",
+            "Gangguan kognitif",
+            "Depresi napas",
+            "Hipotensi"
+          ],
+          "tatalaksana": [
+            "Dosis individual berdasarkan jenis kejang dan kadar serum",
+            "Injeksi diberikan perlahan sesuai protokol"
+          ],
+          "monitoring": [
+            "Frekuensi kejang",
+            "Kadar serum bila diperlukan",
+            "Sedasi",
+            "Tekanan darah dan pernapasan"
+          ],
+          "interaksi": [
+            "Penginduksi enzim hati yang menurunkan kadar banyak obat termasuk kontrasepsi hormonal",
+            "Depresan SSP meningkatkan sedasi"
+          ],
+          "catatan": "Memiliki rentang terapi relatif sempit dan dapat menyebabkan ketergantungan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phenobarbital/PNG?image_size=300x300",
+          "merek": [
+            "Fenobarbital (generik)",
+            "Sibital"
+          ]
+        },
+        {
+          "id": "topiramate",
+          "nama": "Topiramat",
+          "mekanisme": "Menghambat kanal natrium, meningkatkan aktivitas GABA, menghambat reseptor glutamat AMPA/kainat, dan menghambat karbonat anhidrase.",
+          "indikasi": [
+            "Kejang fokal dan umum",
+            "Pencegahan migrain"
+          ],
+          "sediaan": [
+            "Tablet 25 mg, 50 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Parestesia",
+            "Penurunan berat badan",
+            "Gangguan kognitif",
+            "Mengantuk",
+            "Batu ginjal"
+          ],
+          "tatalaksana": [
+            "Mulai dosis rendah dan titrasi bertahap",
+            "Dosis disesuaikan dengan indikasi dan fungsi ginjal"
+          ],
+          "monitoring": [
+            "Frekuensi kejang/migrain",
+            "Berat badan",
+            "Fungsi ginjal",
+            "Tanda asidosis metabolik"
+          ],
+          "interaksi": [
+            "Inhibitor karbonat anhidrase lain: meningkatkan risiko asidosis/batu ginjal",
+            "Kontrasepsi hormonal dapat berkurang efektivitasnya pada dosis tertentu"
+          ],
+          "catatan": "Hidrasi cukup dan titrasi perlahan membantu mengurangi efek samping.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/topiramate/PNG?image_size=300x300",
+          "merek": [
+            "Topamax"
+          ]
+        },
+        {
+          "id": "oxcarbazepine",
+          "nama": "Okskarbazepin",
+          "mekanisme": "Menghambat kanal natrium voltage-gated sehingga menstabilkan membran neuron.",
+          "indikasi": [
+            "Kejang fokal dengan atau tanpa generalisasi sekunder"
+          ],
+          "sediaan": [
+            "Tablet",
+            "Suspensi oral 60 mg/mL"
+          ],
+          "efek_samping": [
+            "Pusing",
+            "Mengantuk",
+            "Diplopia",
+            "Mual",
+            "Hiponatremia",
+            "Ruam"
+          ],
+          "tatalaksana": [
+            "Mulai dosis rendah dan titrasi bertahap sesuai respons",
+            "Sesuaikan pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Natrium serum",
+            "Fungsi hati/ginjal",
+            "Frekuensi kejang",
+            "Ruam"
+          ],
+          "interaksi": [
+            "Induktor enzim dapat menurunkan efektivitas kontrasepsi hormonal",
+            "Obat yang menurunkan natrium meningkatkan risiko hiponatremia"
+          ],
+          "catatan": "Hentikan dan evaluasi segera bila muncul ruam berat atau gejala hiponatremia.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/oxcarbazepine/PNG?image_size=300x300",
+          "merek": [
+            "Trileptal"
+          ]
+        },
+        {
+          "id": "zonisamide",
+          "nama": "Zonisamid",
+          "mekanisme": "Menghambat kanal natrium dan kanal kalsium tipe-T serta memiliki efek penghambatan karbonat anhidrase.",
+          "indikasi": [
+            "Terapi tambahan untuk kejang fokal"
+          ],
+          "sediaan": [
+            "Kapsul 100 mg"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Pusing",
+            "Penurunan nafsu makan/berat badan",
+            "Batu ginjal",
+            "Asidosis metabolik",
+            "Ruam"
+          ],
+          "tatalaksana": [
+            "Dosis dititrasi bertahap sesuai respons dan toleransi"
+          ],
+          "monitoring": [
+            "Frekuensi kejang",
+            "Berat badan",
+            "Fungsi ginjal",
+            "Tanda asidosis dan batu ginjal"
+          ],
+          "interaksi": [
+            "Inhibitor karbonat anhidrase lain: meningkatkan risiko asidosis dan batu ginjal",
+            "Depresan SSP meningkatkan sedasi"
+          ],
+          "catatan": "Hindari dehidrasi; risiko hipertermia/penurunan keringat perlu diperhatikan terutama pada anak.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/zonisamide/PNG?image_size=300x300",
+          "merek": [
+            "Zonegran"
+          ]
         }
       ]
     },
@@ -375,6 +599,119 @@
             "Trihexyphenidyl",
             "Trihexyphenidyl HCl",
             "Trihexyphenidyl hydrochloride"
+          ]
+        },
+        {
+          "id": "bromocriptine",
+          "nama": "Bromokriptin",
+          "mekanisme": "Agonis reseptor dopamin terutama D2 yang meningkatkan aktivitas dopaminergik.",
+          "indikasi": [
+            "Penyakit Parkinson sebagai terapi dopaminergik tambahan",
+            "Hiperprolaktinemia"
+          ],
+          "sediaan": [
+            "Tablet 2,5 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Hipotensi ortostatik",
+            "Mengantuk",
+            "Halusinasi",
+            "Edema"
+          ],
+          "tatalaksana": [
+            "Mulai dosis rendah bersama makanan dan titrasi bertahap sesuai toleransi"
+          ],
+          "monitoring": [
+            "Tekanan darah ortostatik",
+            "Gejala motorik",
+            "Gangguan psikiatri"
+          ],
+          "interaksi": [
+            "Antipsikotik dapat mengurangi efek",
+            "Obat antihipertensi meningkatkan hipotensi",
+            "Inhibitor CYP3A4 dapat meningkatkan paparan"
+          ],
+          "catatan": "Gunakan hati-hati pada pasien dengan riwayat psikosis atau hipotensi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bromocriptine/PNG?image_size=300x300",
+          "merek": [
+            "Cripsa"
+          ]
+        },
+        {
+          "id": "ropinirole",
+          "nama": "Ropinirol",
+          "mekanisme": "Agonis reseptor dopamin D2/D3 non-ergot yang merangsang jalur dopaminergik.",
+          "indikasi": [
+            "Penyakit Parkinson",
+            "Sindrom kaki gelisah"
+          ],
+          "sediaan": [
+            "Tablet 1 mg, 2 mg, 4 mg, 8 mg",
+            "Tablet lepas segera/lepas lambat sesuai produk"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Serangan tidur mendadak",
+            "Mual",
+            "Hipotensi ortostatik",
+            "Halusinasi",
+            "Gangguan kontrol impuls"
+          ],
+          "tatalaksana": [
+            "Mulai dosis rendah dan titrasi bertahap sesuai indikasi"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Kantuk",
+            "Halusinasi",
+            "Perilaku kompulsif",
+            "Fungsi ginjal/hati sesuai kondisi"
+          ],
+          "interaksi": [
+            "Levodopa dan agonis dopamin lain: efek dopaminergik aditif",
+            "Antagonis dopamin dapat mengurangi efek"
+          ],
+          "catatan": "Pasien perlu diperingatkan mengenai serangan tidur mendadak dan gangguan kontrol impuls.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ropinirole/PNG?image_size=300x300",
+          "merek": [
+            "Requip"
+          ]
+        },
+        {
+          "id": "safinamide",
+          "nama": "Safinamid",
+          "mekanisme": "Inhibitor monoamine oxidase-B selektif yang meningkatkan ketersediaan dopamin di otak; juga memodulasi pelepasan glutamat.",
+          "indikasi": [
+            "Terapi tambahan pada penyakit Parkinson dengan fluktuasi motorik"
+          ],
+          "sediaan": [
+            "Tablet 50 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Diskinesia",
+            "Insomnia",
+            "Mual",
+            "Pusing",
+            "Hipertensi"
+          ],
+          "tatalaksana": [
+            "50 mg 1x/hari, dapat dinaikkan menjadi 100 mg 1x/hari sesuai respons"
+          ],
+          "monitoring": [
+            "Fluktuasi motorik",
+            "Diskinesia",
+            "Tekanan darah",
+            "Status mental"
+          ],
+          "interaksi": [
+            "MAOI lain dan obat serotonergik tertentu dapat meningkatkan risiko interaksi",
+            "Antipsikotik dapat menurunkan efek dopaminergik"
+          ],
+          "catatan": "Kontraindikasi pada gangguan hati berat; gunakan sesuai resep neurologi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/safinamide/PNG?image_size=300x300",
+          "merek": [
+            "Equfina"
           ]
         }
       ]
@@ -551,6 +888,79 @@
           "merek": [
             "Ericaf (kombinasi)",
             "Ergotamine Caffeine (kombinasi)"
+          ]
+        },
+        {
+          "id": "flunarizine",
+          "nama": "Flunarizin",
+          "mekanisme": "Penghambat kanal kalsium dengan aktivitas antihistamin yang menurunkan hipereksitabilitas vestibular dan vaskular.",
+          "indikasi": [
+            "Pencegahan migrain",
+            "Vertigo pada indikasi tertentu"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Penambahan berat badan",
+            "Depresi",
+            "Parkinsonisme/ekstrapiramidal"
+          ],
+          "tatalaksana": [
+            "Dosis dewasa umumnya 5-10 mg pada malam hari sesuai respons dan produk"
+          ],
+          "monitoring": [
+            "Frekuensi migrain",
+            "Berat badan",
+            "Mood",
+            "Gejala ekstrapiramidal"
+          ],
+          "interaksi": [
+            "Depresan SSP dan alkohol meningkatkan kantuk",
+            "Obat yang menyebabkan gejala ekstrapiramidal dapat meningkatkan risiko"
+          ],
+          "catatan": "Hindari pada pasien dengan depresi atau riwayat parkinsonisme kecuali atas pertimbangan dokter.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/flunarizine/PNG?image_size=300x300",
+          "merek": [
+            "Flunarizin"
+          ]
+        },
+        {
+          "id": "propranolol",
+          "nama": "Propranolol",
+          "mekanisme": "Penyekat beta-adrenergik nonselektif yang menurunkan aktivitas simpatis dan dapat mencegah migrain.",
+          "indikasi": [
+            "Pencegahan migrain",
+            "Indikasi kardiovaskular lain"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 40 mg"
+          ],
+          "efek_samping": [
+            "Bradikardia",
+            "Hipotensi",
+            "Lelah",
+            "Gangguan tidur",
+            "Bronkospasme"
+          ],
+          "tatalaksana": [
+            "Dosis pencegahan migrain dititrasi bertahap sesuai respons dan toleransi"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Frekuensi nadi",
+            "Gejala bronkospasme",
+            "Kontrol migrain"
+          ],
+          "interaksi": [
+            "Beta-agonis: efek berlawanan",
+            "Verapamil/diltiazem dan obat bradikardik: bradikardia/hipotensi aditif"
+          ],
+          "catatan": "Hindari atau sangat hati-hati pada asma karena bronkospasme.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/propranolol/PNG?image_size=300x300",
+          "merek": [
+            "Propranolol (generik)"
           ]
         }
       ]
@@ -832,6 +1242,205 @@
             "Simtin",
             "Sipentin",
             "Tineuron"
+          ]
+        },
+        {
+          "id": "pregabalin",
+          "nama": "Pregabalin",
+          "mekanisme": "Berikatan dengan subunit alfa2-delta kanal kalsium voltage-gated sehingga menurunkan pelepasan neurotransmiter eksitatorik.",
+          "indikasi": [
+            "Nyeri neuropatik",
+            "Terapi tambahan kejang fokal"
+          ],
+          "sediaan": [
+            "Kapsul 50 mg, 75 mg, 150 mg"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Pusing",
+            "Edema perifer",
+            "Penambahan berat badan",
+            "Penglihatan kabur"
+          ],
+          "tatalaksana": [
+            "Mulai 75 mg 2x/hari atau sesuai indikasi, titrasi berdasarkan respons",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Respons nyeri dan fungsi",
+            "Sedasi",
+            "Edema",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Opioid dan depresan SSP: depresi napas/sedasi aditif"
+          ],
+          "catatan": "Dosis harus disesuaikan dengan fungsi ginjal; penghentian dilakukan bertahap.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pregabalin/PNG?image_size=300x300",
+          "merek": [
+            "Lyrica",
+            "Nomathic",
+            "Pregabalin (generik)"
+          ]
+        },
+        {
+          "id": "amitriptyline",
+          "nama": "Amitriptilin",
+          "mekanisme": "Antidepresan trisiklik yang menghambat reuptake serotonin dan norepinefrin serta memodulasi jalur nyeri.",
+          "indikasi": [
+            "Nyeri neuropatik",
+            "Pencegahan migrain",
+            "Depresi pada indikasi tertentu"
+          ],
+          "sediaan": [
+            "Tablet 25 mg"
+          ],
+          "efek_samping": [
+            "Mulut kering",
+            "Konstipasi",
+            "Mengantuk",
+            "Hipotensi ortostatik",
+            "Gangguan irama jantung"
+          ],
+          "tatalaksana": [
+            "Untuk nyeri neuropatik biasanya dimulai dosis rendah pada malam hari dan dititrasi bertahap"
+          ],
+          "monitoring": [
+            "Respons nyeri",
+            "Sedasi",
+            "Tekanan darah",
+            "Efek antikolinergik",
+            "EKG pada pasien berisiko"
+          ],
+          "interaksi": [
+            "MAOI: kontraindikasi",
+            "Obat serotonergik meningkatkan risiko serotonin syndrome",
+            "Obat pemanjang QT meningkatkan risiko aritmia"
+          ],
+          "catatan": "Gunakan hati-hati pada penyakit jantung, glaukoma sudut sempit, dan retensi urin.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/amitriptyline/PNG?image_size=300x300",
+          "merek": [
+            "Amitriptilin (generik)"
+          ]
+        },
+        {
+          "id": "duloxetine",
+          "nama": "Duloksetin",
+          "mekanisme": "SNRI yang meningkatkan serotonin dan norepinefrin pada jalur desenden modulasi nyeri.",
+          "indikasi": [
+            "Nyeri neuropatik diabetik",
+            "Gangguan depresi mayor",
+            "Gangguan ansietas tertentu"
+          ],
+          "sediaan": [
+            "Kapsul 30 mg, 60 mg lepas tunda"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Mulut kering",
+            "Mengantuk",
+            "Insomnia",
+            "Peningkatan tekanan darah"
+          ],
+          "tatalaksana": [
+            "Untuk nyeri neuropatik sering dimulai 30 mg/hari dan dapat dinaikkan menjadi 60 mg/hari sesuai toleransi"
+          ],
+          "monitoring": [
+            "Respons nyeri",
+            "Tekanan darah",
+            "Fungsi hati pada pasien berisiko",
+            "Mood"
+          ],
+          "interaksi": [
+            "MAOI: kontraindikasi",
+            "Obat serotonergik meningkatkan risiko serotonin syndrome",
+            "Inhibitor CYP1A2 dapat meningkatkan kadar"
+          ],
+          "catatan": "Hindari pada penyakit hati berat atau konsumsi alkohol berat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/duloxetine/PNG?image_size=300x300",
+          "merek": [
+            "Cymbalta"
+          ]
+        },
+        {
+          "id": "venlafaxine",
+          "nama": "Venlafaksin",
+          "mekanisme": "SNRI yang meningkatkan serotonin dan norepinefrin dengan efek analgesik melalui modulasi jalur nyeri desenden.",
+          "indikasi": [
+            "Nyeri neuropatik sebagai penggunaan off-label",
+            "Gangguan depresi mayor dan ansietas"
+          ],
+          "sediaan": [
+            "Kapsul/tablet lepas diperpanjang 75 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Insomnia",
+            "Berkeringat",
+            "Peningkatan tekanan darah",
+            "Disfungsi seksual"
+          ],
+          "tatalaksana": [
+            "Mulai dosis rendah dan titrasi bertahap sesuai indikasi",
+            "Jangan dihentikan mendadak"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Mood",
+            "Gejala serotonin syndrome",
+            "Respons nyeri"
+          ],
+          "interaksi": [
+            "MAOI: kontraindikasi",
+            "Obat serotonergik meningkatkan risiko serotonin syndrome",
+            "Obat yang meningkatkan tekanan darah dapat memberi efek aditif"
+          ],
+          "catatan": "Penghentian harus dilakukan bertahap untuk mengurangi gejala putus obat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/venlafaxine/PNG?image_size=300x300",
+          "merek": [
+            "Efexor XR"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antivertigo",
+      "kelas": "Antivertigo",
+      "mekanisme": "Mengurangi gejala vertigo melalui modulasi neurotransmisi histaminergik dan fungsi vestibular perifer.",
+      "obat": [
+        {
+          "id": "betahistine",
+          "nama": "Betahistin",
+          "mekanisme": "Agonis lemah reseptor histamin H1 dan antagonis H3 yang meningkatkan mikrosirkulasi telinga dalam dan membantu mengurangi gejala vestibular.",
+          "indikasi": [
+            "Vertigo terkait penyakit Ménière",
+            "Gejala vestibular tertentu"
+          ],
+          "sediaan": [
+            "Tablet 6 mg, 12 mg, 24 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Dispepsia",
+            "Sakit kepala"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan dengan sediaan dan respons; umumnya diberikan beberapa kali sehari bersama makanan"
+          ],
+          "monitoring": [
+            "Frekuensi dan berat vertigo",
+            "Toleransi gastrointestinal"
+          ],
+          "interaksi": [
+            "Antihistamin dapat mengurangi efek",
+            "Inhibitor MAO secara teoritis dapat meningkatkan paparan"
+          ],
+          "catatan": "Tidak digunakan untuk mengobati penyebab neurologis vertigo sentral.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/betahistine/PNG?image_size=300x300",
+          "merek": [
+            "Betahistin Mesilat",
+            "Betaserc",
+            "Merislon"
           ]
         }
       ]

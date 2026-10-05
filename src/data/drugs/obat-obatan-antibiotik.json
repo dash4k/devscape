@@ -232,6 +232,90 @@
             "Tazam",
             "Tazocin"
           ]
+        },
+        {
+          "id": "fenoksimetilpenisilin",
+          "nama": "Fenoksimetilpenisilin",
+          "indikasi": [
+            "Faringitis/tonsilitis Streptococcus grup A",
+            "Infeksi ringan-sedang Streptococcus yang sensitif",
+            "Profilaksis demam reumatik"
+          ],
+          "sediaan": [
+            "Tablet 250 mg, 500 mg",
+            "Suspensi oral 125 mg/5 mL, 250 mg/5 mL"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Diare",
+            "Ruam dan reaksi alergi",
+            "Jarang: anafilaksis"
+          ],
+          "tatalaksana": [
+            "Dewasa: 250-500 mg setiap 6 jam, sesuai indikasi",
+            "Minum saat perut kosong, sekitar 1 jam sebelum atau 2 jam sesudah makan",
+            "Anak: dosis berdasarkan berat badan dan indikasi"
+          ],
+          "monitoring": [
+            "Respons klinis",
+            "Reaksi alergi",
+            "Fungsi ginjal pada terapi lama/gangguan ginjal"
+          ],
+          "interaksi": [
+            "Probenesid: meningkatkan kadar penisilin",
+            "Metotreksat: dapat meningkatkan toksisitas",
+            "Antikoagulan oral: INR dapat berubah"
+          ],
+          "catatan": "Spektrum terutama terhadap bakteri gram-positif yang sensitif; bukan pilihan untuk infeksi berat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Fenoksimetilpenisilin/PNG?image_size=300x300",
+          "merek": [
+            "Penisilin V",
+            "Fenoksimetilpenisilin (generik)"
+          ]
+        },
+        {
+          "id": "ampisilin-sulbaktam",
+          "nama": "Ampisilin-Sulbaktam",
+          "indikasi": [
+            "Infeksi intra-abdomen",
+            "Infeksi kulit dan jaringan lunak",
+            "Infeksi saluran napas",
+            "Infeksi ginekologis/obstetrik",
+            "Infeksi bakteri campuran yang sensitif"
+          ],
+          "sediaan": [
+            "Tablet/kapsul oral kombinasi (sultamisilin)",
+            "Serbuk injeksi 1,5 g dan 3 g"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Mual",
+            "Ruam",
+            "Reaksi alergi",
+            "Peningkatan enzim hati"
+          ],
+          "tatalaksana": [
+            "IV/IM dewasa: 1,5-3 g setiap 6 jam, sesuai berat infeksi",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Respons klinis",
+            "Fungsi ginjal",
+            "Fungsi hati pada terapi lama",
+            "Reaksi alergi"
+          ],
+          "interaksi": [
+            "Allopurinol: risiko ruam meningkat",
+            "Metotreksat: kadar dapat meningkat",
+            "Probenesid: meningkatkan kadar"
+          ],
+          "catatan": "Sulbaktam menghambat beta-laktamase dan memperluas aktivitas ampisilin.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Ampisilin-Sulbaktam/PNG?image_size=300x300",
+          "merek": [
+            "Unasyn",
+            "Viccillin-SX",
+            "Ampisilin-Sulbaktam (generik)"
+          ]
         }
       ]
     },
@@ -607,6 +691,166 @@
           "merek": [
             "Sefepim (generik)"
           ]
+        },
+        {
+          "id": "sefditoren",
+          "nama": "Sefditoren",
+          "indikasi": [
+            "Infeksi saluran napas atas dan bawah",
+            "Eksaserbasi bronkitis kronik",
+            "Infeksi kulit dan jaringan lunak"
+          ],
+          "sediaan": [
+            "Tablet 200 mg, 400 mg"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Mual",
+            "Sakit kepala",
+            "Ruam",
+            "Reaksi alergi"
+          ],
+          "tatalaksana": [
+            "Dewasa: 200 mg setiap 12 jam bersama makanan; dosis dapat disesuaikan berdasarkan indikasi",
+            "Sesuaikan pada gangguan ginjal sedang-berat"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Respons klinis",
+            "Reaksi alergi"
+          ],
+          "interaksi": [
+            "Antasida/H2 blocker: dapat menurunkan absorpsi",
+            "Probenesid: dapat meningkatkan kadar",
+            "Antikoagulan oral: INR dapat meningkat"
+          ],
+          "catatan": "Sefalosporin generasi ketiga oral; penggunaan harus disesuaikan dengan pola resistensi lokal.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sefditoren/PNG?image_size=300x300",
+          "merek": [
+            "Meiact",
+            "Sefditoren (generik)"
+          ]
+        },
+        {
+          "id": "sefoperazon",
+          "nama": "Sefoperazon",
+          "indikasi": [
+            "Infeksi saluran napas berat",
+            "Infeksi intra-abdomen",
+            "Infeksi saluran empedu",
+            "Infeksi saluran kemih",
+            "Sepsis"
+          ],
+          "sediaan": [
+            "Serbuk injeksi 1 g, 2 g"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Ruam",
+            "Reaksi alergi",
+            "Peningkatan enzim hati",
+            "Hipoprotrombinemia/perdarahan"
+          ],
+          "tatalaksana": [
+            "Dewasa: 1-2 g IV setiap 12 jam; infeksi berat dapat memerlukan dosis lebih tinggi",
+            "Sesuaikan berdasarkan fungsi hati dan berat infeksi"
+          ],
+          "monitoring": [
+            "Fungsi hati",
+            "Fungsi koagulasi pada terapi lama",
+            "Respons klinis"
+          ],
+          "interaksi": [
+            "Antikoagulan/antiplatelet: risiko perdarahan meningkat",
+            "Alkohol: risiko reaksi seperti disulfiram",
+            "Aminoglikosida: berikan terpisah bila tidak kompatibel"
+          ],
+          "catatan": "Ekskresi melalui empedu relatif tinggi; pertimbangkan fungsi hati dan risiko perdarahan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sefoperazon/PNG?image_size=300x300",
+          "merek": [
+            "Sefoperazon (generik)"
+          ]
+        },
+        {
+          "id": "sefoperazon-sulbaktam",
+          "nama": "Sefoperazon-Sulbaktam",
+          "indikasi": [
+            "Infeksi intra-abdomen",
+            "Infeksi saluran napas",
+            "Infeksi saluran kemih",
+            "Infeksi kulit dan jaringan lunak",
+            "Sepsis"
+          ],
+          "sediaan": [
+            "Serbuk injeksi 1 g/500 mg atau sesuai produk"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Ruam",
+            "Reaksi alergi",
+            "Peningkatan enzim hati",
+            "Gangguan koagulasi"
+          ],
+          "tatalaksana": [
+            "Dewasa: 1,5-3 g IV setiap 12 jam, disesuaikan dengan berat infeksi",
+            "Sesuaikan pada gangguan hati/ginjal sesuai komponen dan produk"
+          ],
+          "monitoring": [
+            "Fungsi hati",
+            "Fungsi ginjal",
+            "Koagulasi bila terapi lama",
+            "Respons klinis"
+          ],
+          "interaksi": [
+            "Antikoagulan: risiko perdarahan meningkat",
+            "Alkohol: hindari karena komponen sefoperazon dapat menimbulkan reaksi mirip disulfiram",
+            "Aminoglikosida: berikan terpisah bila inkompatibel"
+          ],
+          "catatan": "Kombinasi sefalosporin dengan inhibitor beta-laktamase.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sefoperazon-Sulbaktam/PNG?image_size=300x300",
+          "merek": [
+            "Sulperazon",
+            "Sefoperazon-Sulbaktam (generik)"
+          ]
+        },
+        {
+          "id": "sefpirom",
+          "nama": "Sefpirom",
+          "indikasi": [
+            "Infeksi berat nosokomial",
+            "Pneumonia berat",
+            "Sepsis",
+            "Infeksi saluran kemih komplikata",
+            "Infeksi intra-abdomen"
+          ],
+          "sediaan": [
+            "Serbuk injeksi 1 g, 2 g"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Ruam",
+            "Reaksi alergi",
+            "Peningkatan enzim hati",
+            "Neurotoksisitas pada gangguan ginjal"
+          ],
+          "tatalaksana": [
+            "Dewasa: 1-2 g IV setiap 12 jam; sesuaikan menurut berat infeksi dan fungsi ginjal"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Status neurologis",
+            "Respons klinis"
+          ],
+          "interaksi": [
+            "Aminoglikosida/diuretik loop: nefrotoksisitas aditif",
+            "Antikoagulan oral: INR dapat meningkat"
+          ],
+          "catatan": "Sefalosporin generasi keempat dengan aktivitas luas terhadap gram-negatif.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sefpirom/PNG?image_size=300x300",
+          "merek": [
+            "Cefrom",
+            "Sefpirom (generik)"
+          ]
         }
       ]
     },
@@ -890,6 +1134,46 @@
             "Eritromisin (generik)",
             "Erysanbe"
           ]
+        },
+        {
+          "id": "spiramisin",
+          "nama": "Spiramisin",
+          "indikasi": [
+            "Toksoplasmosis pada kehamilan untuk mengurangi transmisi maternal-fetal",
+            "Infeksi saluran napas tertentu",
+            "Infeksi bakteri gram-positif yang sensitif"
+          ],
+          "sediaan": [
+            "Tablet 500 mg",
+            "Tablet 1.500.000 IU"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Diare",
+            "Nyeri perut",
+            "Ruam",
+            "Peningkatan enzim hati",
+            "Pemanjangan QT (jarang)"
+          ],
+          "tatalaksana": [
+            "Dewasa: 1,5-3 juta IU setiap 8-12 jam sesuai indikasi",
+            "Toksoplasmosis pada kehamilan: ikuti regimen spesialis/nasional"
+          ],
+          "monitoring": [
+            "Fungsi hati pada terapi lama",
+            "Respons klinis",
+            "Interval QT bila ada faktor risiko"
+          ],
+          "interaksi": [
+            "Obat pemanjang QT: risiko aditif",
+            "Warfarin: efek antikoagulan dapat berubah"
+          ],
+          "catatan": "Makrolida yang banyak digunakan pada indikasi khusus seperti toksoplasmosis pada kehamilan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Spiramisin/PNG?image_size=300x300",
+          "merek": [
+            "Rovamycine",
+            "Spiramycin (generik)"
+          ]
         }
       ]
     },
@@ -941,6 +1225,79 @@
             "Dohixat",
             "Doksisiklin (generik)",
             "Interdoxin"
+          ]
+        },
+        {
+          "id": "tetrasiklin",
+          "nama": "Tetrasiklin",
+          "indikasi": [
+            "Infeksi klamidia dan riketsia",
+            "Jerawat vulgaris",
+            "Infeksi bakteri sensitif tertentu",
+            "Kolera (alternatif pada kondisi tertentu)"
+          ],
+          "sediaan": [
+            "Kapsul/tablet 250 mg, 500 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Diare",
+            "Fotosensitivitas",
+            "Esofagitis",
+            "Perubahan warna gigi dan gangguan tulang pada anak"
+          ],
+          "tatalaksana": [
+            "Dewasa: 250-500 mg setiap 6 jam sesuai indikasi",
+            "Minum dengan air yang cukup dan jangan langsung berbaring",
+            "Hindari pemberian bersama kalsium, zat besi, magnesium, dan antasida"
+          ],
+          "monitoring": [
+            "Fungsi hati pada terapi lama",
+            "Keluhan esofagus",
+            "Fotosensitivitas"
+          ],
+          "interaksi": [
+            "Kation polivalen: menurunkan absorpsi",
+            "Warfarin: efek antikoagulan meningkat",
+            "Retinoid oral: risiko hipertensi intrakranial"
+          ],
+          "catatan": "Umumnya dihindari pada kehamilan dan anak kecil karena efek pada gigi dan tulang.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tetrasiklin/PNG?image_size=300x300",
+          "merek": [
+            "Tetrasiklin (generik)"
+          ]
+        },
+        {
+          "id": "oksitetrasiklin",
+          "nama": "Oksitetrasiklin",
+          "indikasi": [
+            "Infeksi bakteri lokal yang sensitif",
+            "Infeksi mata bakteri tertentu (topikal)"
+          ],
+          "sediaan": [
+            "Salep mata 1%",
+            "Sediaan topikal sesuai produk"
+          ],
+          "efek_samping": [
+            "Iritasi lokal",
+            "Kemerahan",
+            "Reaksi alergi kontak"
+          ],
+          "tatalaksana": [
+            "Topikal: oleskan tipis sesuai petunjuk produk; untuk mata gunakan sesuai resep"
+          ],
+          "monitoring": [
+            "Respons klinis",
+            "Iritasi atau alergi lokal"
+          ],
+          "interaksi": [
+            "Antibiotik topikal lain: potensi duplikasi terapi",
+            "Kation polivalen dapat mengurangi absorpsi bila diberikan sistemik"
+          ],
+          "catatan": "Pada database terutama terdapat sebagai sediaan topikal/oftalmik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Oksitetrasiklin/PNG?image_size=300x300",
+          "merek": [
+            "Oksitetrasiklin (generik)"
           ]
         }
       ]
@@ -1032,6 +1389,78 @@
           "merek": [
             "Amikasin (generik)",
             "Mikasin Sulfat"
+          ]
+        },
+        {
+          "id": "streptomisin",
+          "nama": "Streptomisin",
+          "indikasi": [
+            "Tuberkulosis dalam regimen kombinasi tertentu",
+            "Bruselosis",
+            "Tularemia dan infeksi tertentu yang sensitif"
+          ],
+          "sediaan": [
+            "Serbuk injeksi 1 g"
+          ],
+          "efek_samping": [
+            "Ototoksisitas",
+            "Nefrotoksisitas",
+            "Vertigo",
+            "Blokade neuromuskular",
+            "Reaksi lokal injeksi"
+          ],
+          "tatalaksana": [
+            "Dewasa: 15 mg/kgBB IM 1x/hari pada regimen tertentu; sesuaikan pedoman dan fungsi ginjal",
+            "Penggunaan TB harus dalam kombinasi dan mengikuti pedoman nasional"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Audiometri dan gejala vestibular",
+            "Kadar obat bila diperlukan"
+          ],
+          "interaksi": [
+            "Obat nefrotoksik/ototoksik: toksisitas aditif",
+            "Pelemas otot: blokade neuromuskular meningkat"
+          ],
+          "catatan": "Aminoglikosida dengan penggunaan sistemik terbatas dan terutama pada regimen khusus.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Streptomisin/PNG?image_size=300x300",
+          "merek": [
+            "Streptomisin (generik)"
+          ]
+        },
+        {
+          "id": "kanamisin",
+          "nama": "Kanamisin",
+          "indikasi": [
+            "Tuberkulosis resisten obat dalam regimen kombinasi tertentu",
+            "Infeksi gram-negatif berat yang sensitif bila alternatif sesuai"
+          ],
+          "sediaan": [
+            "Serbuk injeksi 1 g"
+          ],
+          "efek_samping": [
+            "Nefrotoksisitas",
+            "Ototoksisitas",
+            "Blokade neuromuskular",
+            "Reaksi lokal injeksi"
+          ],
+          "tatalaksana": [
+            "TB resisten obat: dosis dan durasi mengikuti pedoman TB terbaru dan fungsi ginjal",
+            "Penggunaan non-TB harus berdasarkan kultur/kepekaan"
+          ],
+          "monitoring": [
+            "Kreatinin dan output urin",
+            "Audiometri",
+            "Kadar obat bila tersedia"
+          ],
+          "interaksi": [
+            "Obat nefrotoksik/ototoksik: toksisitas aditif",
+            "Pelemas otot: blokade neuromuskular meningkat"
+          ],
+          "catatan": "Penggunaan sistemik harus dibatasi karena toksisitas dan risiko resistensi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Kanamisin/PNG?image_size=300x300",
+          "merek": [
+            "Kanamisin (generik)"
           ]
         }
       ]
@@ -1192,6 +1621,48 @@
             "Moksifloksasin (generik)",
             "Moximed",
             "Respira"
+          ]
+        },
+        {
+          "id": "ofloksasin",
+          "nama": "Ofloksasin",
+          "indikasi": [
+            "Infeksi saluran kemih tertentu",
+            "Infeksi saluran napas dan kulit yang sensitif",
+            "Infeksi bakteri lokal mata/telinga (topikal)"
+          ],
+          "sediaan": [
+            "Tablet 200 mg, 400 mg",
+            "Tetes mata/telinga 0,3%"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Diare",
+            "Tendinitis/ruptur tendon",
+            "Neuropati perifer",
+            "Efek SSP",
+            "Pemanjangan QT"
+          ],
+          "tatalaksana": [
+            "Oral dewasa: 200-400 mg setiap 12 jam sesuai indikasi",
+            "Sediaan mata/telinga: sesuai regimen produk"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Gejala tendon/neuropati",
+            "Glukosa darah pada pasien diabetes",
+            "Interval QT bila berisiko"
+          ],
+          "interaksi": [
+            "Antasida, zat besi, kalsium, magnesium: menurunkan absorpsi",
+            "Warfarin: INR dapat meningkat",
+            "Kortikosteroid: risiko ruptur tendon meningkat",
+            "Obat pemanjang QT: risiko aditif"
+          ],
+          "catatan": "Fluorokuinolon; penggunaan sistemik sebaiknya dibatasi untuk indikasi yang tepat karena efek samping serius.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Ofloksasin/PNG?image_size=300x300",
+          "merek": [
+            "Ofloksasin (generik)"
           ]
         }
       ]
@@ -1376,6 +1847,48 @@
             "Sultrimmix",
             "Yekaprim Forte"
           ]
+        },
+        {
+          "id": "sulfadiazin",
+          "nama": "Sulfadiazin",
+          "indikasi": [
+            "Toksoplasmosis (kombinasi dengan pirimetamin dan leukovorin)",
+            "Infeksi bakteri tertentu yang sensitif",
+            "Pencegahan/terapi infeksi sesuai indikasi spesialis"
+          ],
+          "sediaan": [
+            "Tablet 500 mg",
+            "Krim sulfadiazin perak 1% untuk luka bakar"
+          ],
+          "efek_samping": [
+            "Ruam",
+            "SJS/TEN",
+            "Kristaluria",
+            "Gangguan darah",
+            "Hepatotoksisitas",
+            "Reaksi hemolitik pada defisiensi G6PD"
+          ],
+          "tatalaksana": [
+            "Toksoplasmosis: digunakan bersama pirimetamin dan leukovorin sesuai regimen spesialis",
+            "Minum cukup cairan pada terapi sistemik"
+          ],
+          "monitoring": [
+            "Hitung darah lengkap",
+            "Fungsi ginjal",
+            "Fungsi hati",
+            "Tanda reaksi kulit berat"
+          ],
+          "interaksi": [
+            "Warfarin: INR dapat meningkat",
+            "Metotreksat: toksisitas meningkat",
+            "Obat mielosupresif: mielosupresi aditif"
+          ],
+          "catatan": "Sulfadiazin sistemik berbeda dari sulfadiazin perak topikal; keduanya muncul dalam database.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sulfadiazin/PNG?image_size=300x300",
+          "merek": [
+            "Sulfadiazin (generik)",
+            "Burnazin"
+          ]
         }
       ]
     },
@@ -1533,6 +2046,162 @@
             "Linetero",
             "Linezolid (generik)",
             "Zyvox"
+          ]
+        },
+        {
+          "id": "kloramfenikol",
+          "nama": "Kloramfenikol",
+          "indikasi": [
+            "Infeksi berat tertentu ketika antibiotik alternatif tidak sesuai",
+            "Demam tifoid pada kondisi tertentu",
+            "Infeksi mata bakteri (topikal)"
+          ],
+          "sediaan": [
+            "Kapsul 250 mg",
+            "Injeksi sesuai produk",
+            "Tetes mata 0,5%",
+            "Salep mata 1%"
+          ],
+          "efek_samping": [
+            "Supresi sumsum tulang",
+            "Anemia aplastik idiosinkratik",
+            "Mual dan diare",
+            "Neuropati pada terapi lama",
+            "Gray baby syndrome pada neonatus"
+          ],
+          "tatalaksana": [
+            "Dewasa: dosis sistemik mengikuti indikasi dan pedoman; perlu pemantauan ketat",
+            "Sediaan mata: sesuai resep dan produk"
+          ],
+          "monitoring": [
+            "Hitung darah lengkap",
+            "Fungsi hati",
+            "Respons klinis",
+            "Tanda toksisitas hematologis"
+          ],
+          "interaksi": [
+            "Warfarin: efek antikoagulan meningkat",
+            "Fenitoin/karbamazepin: kadar dapat berubah",
+            "Obat mielosupresif: toksisitas aditif"
+          ],
+          "catatan": "Antibiotik sistemik cadangan karena risiko supresi sumsum tulang dan anemia aplastik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Kloramfenikol/PNG?image_size=300x300",
+          "merek": [
+            "Kloramfenikol (generik)",
+            "Erlamycetin"
+          ]
+        },
+        {
+          "id": "fosfomisin",
+          "nama": "Fosfomisin",
+          "indikasi": [
+            "Sistitis akut tanpa komplikasi (oral)",
+            "Infeksi berat tertentu oleh bakteri gram-negatif resisten (IV)",
+            "Infeksi saluran kemih dengan kuman sensitif"
+          ],
+          "sediaan": [
+            "Granul oral 3 g",
+            "Serbuk injeksi 1 g, 2 g, 4 g (tergantung produk)"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Mual",
+            "Sakit kepala",
+            "Peningkatan natrium/beban garam pada sediaan IV",
+            "Reaksi lokal infus"
+          ],
+          "tatalaksana": [
+            "Sistitis akut: fosfomisin trometamol 3 g oral dosis tunggal",
+            "Infeksi berat: regimen IV berdasarkan lokasi infeksi, fungsi ginjal, dan sensitivitas"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Elektrolit pada terapi IV lama",
+            "Respons klinis"
+          ],
+          "interaksi": [
+            "Metoklopramid dapat menurunkan absorpsi fosfomisin oral",
+            "Sediaan IV dengan beban natrium: hati-hati pada pasien yang memerlukan pembatasan natrium"
+          ],
+          "catatan": "Pilihan oral untuk sistitis akut; jangan digunakan sebagai terapi tunggal rutin untuk pielonefritis.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Fosfomisin/PNG?image_size=300x300",
+          "merek": [
+            "Monuril",
+            "Fosmicin"
+          ]
+        },
+        {
+          "id": "tiamfenikol",
+          "nama": "Tiamfenikol",
+          "indikasi": [
+            "Infeksi bakteri saluran napas",
+            "Infeksi saluran kemih tertentu",
+            "Infeksi bakteri sensitif lainnya sesuai kultur"
+          ],
+          "sediaan": [
+            "Kapsul 500 mg",
+            "Sediaan oral sesuai produk"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Diare",
+            "Ruam",
+            "Supresi sumsum tulang",
+            "Gangguan fungsi hati"
+          ],
+          "tatalaksana": [
+            "Dewasa: dosis mengikuti indikasi dan produk lokal; sesuaikan pada gangguan ginjal/hati"
+          ],
+          "monitoring": [
+            "Hitung darah lengkap",
+            "Fungsi hati dan ginjal",
+            "Respons klinis"
+          ],
+          "interaksi": [
+            "Antikoagulan oral: efek dapat berubah",
+            "Obat mielosupresif: toksisitas aditif"
+          ],
+          "catatan": "Antibiotik amfenikol yang digunakan lebih terbatas karena risiko efek hematologis.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tiamfenikol/PNG?image_size=300x300",
+          "merek": [
+            "Tiamfenikol (generik)"
+          ]
+        },
+        {
+          "id": "tigecycline",
+          "nama": "Tigecycline",
+          "indikasi": [
+            "Infeksi kulit dan jaringan lunak komplikata",
+            "Infeksi intra-abdomen komplikata",
+            "Pneumonia komunitas tertentu pada dewasa"
+          ],
+          "sediaan": [
+            "Serbuk injeksi 50 mg"
+          ],
+          "efek_samping": [
+            "Mual dan muntah",
+            "Diare",
+            "Peningkatan enzim hati",
+            "Pankreatitis",
+            "Reaksi tempat infus"
+          ],
+          "tatalaksana": [
+            "Dewasa: dosis muat 100 mg IV, kemudian 50 mg IV setiap 12 jam; durasi sesuai indikasi"
+          ],
+          "monitoring": [
+            "Fungsi hati",
+            "Mual/muntah dan hidrasi",
+            "Respons klinis"
+          ],
+          "interaksi": [
+            "Warfarin: INR dapat meningkat",
+            "Obat hepatotoksik: toksisitas hati dapat aditif"
+          ],
+          "catatan": "Glycylcycline; tidak diandalkan untuk bakteremia karena kadar serum relatif rendah.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tigecycline/PNG?image_size=300x300",
+          "merek": [
+            "Tygacil",
+            "Tigecycline (generik)"
           ]
         }
       ]
@@ -1704,6 +2373,552 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pyrazinamide/PNG?image_size=300x300",
           "merek": [
             "Pirazinamid (generik)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oat-lini-kedua",
+      "kelas": "Obat Anti Tuberkulosis (OAT) Lini Kedua",
+      "mekanisme": "Kombinasi obat dengan mekanisme berbeda untuk menangani tuberkulosis resisten obat dan mencegah resistensi lanjutan; selalu digunakan dalam regimen kombinasi yang tepat",
+      "obat": [
+        {
+          "id": "bedakuilin",
+          "nama": "Bedaquiline",
+          "indikasi": [
+            "Tuberkulosis paru resisten obat sebagai bagian dari regimen kombinasi"
+          ],
+          "sediaan": [
+            "Tablet 20 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Nyeri sendi",
+            "Peningkatan transaminase",
+            "Pemanjangan QT"
+          ],
+          "tatalaksana": [
+            "Dewasa: 400 mg 1x/hari selama 2 minggu, lalu 200 mg 3x/minggu selama 22 minggu pada regimen standar dewasa; gunakan regimen nasional terbaru"
+          ],
+          "monitoring": [
+            "EKG/interval QT",
+            "Fungsi hati",
+            "Respons mikrobiologis TB"
+          ],
+          "interaksi": [
+            "Inhibitor/induktor CYP3A4 kuat: mengubah kadar bedaquiline",
+            "Obat pemanjang QT: risiko aditif"
+          ],
+          "catatan": "Harus digunakan dalam regimen kombinasi untuk TB resisten obat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Bedaquiline/PNG?image_size=300x300",
+          "merek": [
+            "Sirturo",
+            "Bedaquiline (generik)"
+          ]
+        },
+        {
+          "id": "klofazimin",
+          "nama": "Klofazimin",
+          "indikasi": [
+            "Tuberkulosis resisten obat dalam regimen kombinasi",
+            "Kusta, terutama regimen multibasil"
+          ],
+          "sediaan": [
+            "Kapsul 50 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Perubahan warna kulit menjadi merah-cokelat/kehitaman",
+            "Kulit kering",
+            "Gangguan GI",
+            "Pemanjangan QT",
+            "Jarang: enteropati"
+          ],
+          "tatalaksana": [
+            "Dewasa: 50-100 mg/hari atau sesuai regimen TB/kusta nasional"
+          ],
+          "monitoring": [
+            "EKG bila dikombinasikan dengan obat pemanjang QT",
+            "Fungsi hati",
+            "Keluhan GI",
+            "Perubahan warna kulit"
+          ],
+          "interaksi": [
+            "Obat pemanjang QT: risiko aditif",
+            "Rifampisin: dapat menurunkan kadar klofazimin"
+          ],
+          "catatan": "Akumulasi jaringan menyebabkan perubahan warna kulit yang dapat menetap selama terapi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Klofazimin/PNG?image_size=300x300",
+          "merek": [
+            "Lamprene",
+            "Clofazimine (generik)"
+          ]
+        },
+        {
+          "id": "sikloserin",
+          "nama": "Sikloserin",
+          "indikasi": [
+            "Tuberkulosis resisten obat sebagai bagian dari regimen kombinasi"
+          ],
+          "sediaan": [
+            "Kapsul/tablet 125 mg, 250 mg"
+          ],
+          "efek_samping": [
+            "Gangguan neuropsikiatri",
+            "Kejang",
+            "Neuropati perifer",
+            "Sakit kepala",
+            "Ruam"
+          ],
+          "tatalaksana": [
+            "Dewasa: 250 mg 2x/hari atau 10-15 mg/kgBB/hari sesuai regimen dan toleransi",
+            "Piridoksin sering diberikan untuk mengurangi neuropati"
+          ],
+          "monitoring": [
+            "Status mental",
+            "Gejala neuropati",
+            "Fungsi ginjal",
+            "Tanda kejang"
+          ],
+          "interaksi": [
+            "Alkohol: meningkatkan efek neurotoksik",
+            "Isoniazid: neurotoksisitas aditif",
+            "Etambutol: risiko neurotoksisitas dapat meningkat"
+          ],
+          "catatan": "Penggunaan harus dalam regimen TB resisten obat dan dipantau ketat karena toksisitas neuropsikiatri.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sikloserin/PNG?image_size=300x300",
+          "merek": [
+            "Cycloserine (generik)"
+          ]
+        },
+        {
+          "id": "delamanid",
+          "nama": "Delamanid",
+          "indikasi": [
+            "Tuberkulosis resisten obat sebagai bagian dari regimen kombinasi"
+          ],
+          "sediaan": [
+            "Tablet 50 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Muntah",
+            "Sakit kepala",
+            "Pemanjangan QT",
+            "Peningkatan transaminase"
+          ],
+          "tatalaksana": [
+            "Dewasa: 100 mg 2x/hari selama 24 minggu pada regimen standar; ikuti pedoman TB terbaru"
+          ],
+          "monitoring": [
+            "EKG",
+            "Fungsi hati",
+            "Elektrolit",
+            "Respons mikrobiologis"
+          ],
+          "interaksi": [
+            "Obat pemanjang QT: risiko aditif",
+            "Penginduksi CYP3A4 kuat: dapat menurunkan kadar"
+          ],
+          "catatan": "Harus digunakan bersama obat TB lain; pemantauan EKG penting.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Delamanid/PNG?image_size=300x300",
+          "merek": [
+            "Deltyba",
+            "Delamanid (generik)"
+          ]
+        },
+        {
+          "id": "etionamid",
+          "nama": "Etionamid",
+          "indikasi": [
+            "Tuberkulosis resisten obat dalam regimen kombinasi"
+          ],
+          "sediaan": [
+            "Tablet 125 mg, 250 mg"
+          ],
+          "efek_samping": [
+            "Mual dan muntah",
+            "Gangguan GI",
+            "Hepatotoksisitas",
+            "Hipotiroidisme",
+            "Neuropati perifer"
+          ],
+          "tatalaksana": [
+            "Dewasa: 15-20 mg/kgBB/hari dibagi 1-2 dosis, maksimum umumnya 1 g/hari; titrasi sesuai toleransi"
+          ],
+          "monitoring": [
+            "Fungsi hati",
+            "Fungsi tiroid",
+            "Gejala neuropati",
+            "Respons mikrobiologis"
+          ],
+          "interaksi": [
+            "Isoniazid/cycloserine: toksisitas neurotoksik aditif",
+            "Obat hepatotoksik: risiko hepatotoksisitas meningkat"
+          ],
+          "catatan": "Sering dibatasi oleh intoleransi GI dan hepatotoksisitas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Etionamid/PNG?image_size=300x300",
+          "merek": [
+            "Ethionamide (generik)"
+          ]
+        },
+        {
+          "id": "para-aminosalisilat",
+          "nama": "Asam para-aminosalisilat (PAS)",
+          "indikasi": [
+            "Tuberkulosis resisten obat sebagai bagian dari regimen kombinasi"
+          ],
+          "sediaan": [
+            "Granul/sachet oral sekitar 5,5 g"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Diare",
+            "Nyeri perut",
+            "Hipotiroidisme",
+            "Hepatotoksisitas",
+            "Ruam"
+          ],
+          "tatalaksana": [
+            "Dewasa: 8-12 g/hari dibagi 2-3 dosis sesuai regimen TB"
+          ],
+          "monitoring": [
+            "Fungsi hati",
+            "Fungsi tiroid",
+            "Elektrolit dan GI",
+            "Respons mikrobiologis"
+          ],
+          "interaksi": [
+            "Antikoagulan oral: efek dapat berubah",
+            "Obat hepatotoksik: risiko aditif",
+            "Rifampisin: interaksi dapat memengaruhi kadar"
+          ],
+          "catatan": "Digunakan sebagai bagian dari regimen TB resisten obat dan sering membutuhkan dukungan untuk toleransi GI.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Asam%20para-aminosalisilat%20(PAS)/PNG?image_size=300x300",
+          "merek": [
+            "PAS",
+            "Para-aminosalicylic acid"
+          ]
+        },
+        {
+          "id": "pretomanid",
+          "nama": "Pretomanid",
+          "indikasi": [
+            "Tuberkulosis paru resisten obat tertentu sebagai bagian dari regimen kombinasi khusus"
+          ],
+          "sediaan": [
+            "Tablet 200 mg"
+          ],
+          "efek_samping": [
+            "Hepatotoksisitas",
+            "Neuropati perifer",
+            "Mual",
+            "Sakit kepala",
+            "Anemia"
+          ],
+          "tatalaksana": [
+            "Dewasa: digunakan dalam regimen kombinasi khusus sesuai pedoman TB resisten obat; dosis lazim 200 mg 1x/hari"
+          ],
+          "monitoring": [
+            "Fungsi hati",
+            "Hitung darah lengkap",
+            "Gejala neuropati",
+            "Respons mikrobiologis"
+          ],
+          "interaksi": [
+            "Obat hepatotoksik: toksisitas aditif",
+            "Induktor CYP3A4 kuat: dapat menurunkan paparan"
+          ],
+          "catatan": "Tidak digunakan sebagai monoterapi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Pretomanid/PNG?image_size=300x300",
+          "merek": [
+            "Pretomanid (generik)"
+          ]
+        },
+        {
+          "id": "rifapentin",
+          "nama": "Rifapentin",
+          "indikasi": [
+            "Terapi tuberkulosis laten dalam regimen tertentu",
+            "Tuberkulosis aktif dalam regimen kombinasi tertentu"
+          ],
+          "sediaan": [
+            "Tablet 150 mg"
+          ],
+          "efek_samping": [
+            "Hepatotoksisitas",
+            "Perubahan warna cairan tubuh",
+            "Mual",
+            "Ruam",
+            "Peningkatan transaminase"
+          ],
+          "tatalaksana": [
+            "Dosis bergantung regimen TB; pada regimen 3HP dewasa biasanya 900 mg sekali seminggu bersama isoniazid selama 12 minggu",
+            "Ikuti pedoman nasional terbaru"
+          ],
+          "monitoring": [
+            "Fungsi hati",
+            "Interaksi obat",
+            "Respons mikrobiologis"
+          ],
+          "interaksi": [
+            "Induktor enzim hati: menurunkan kadar banyak obat",
+            "Kontrasepsi hormonal: efektivitas dapat menurun",
+            "Warfarin dan antiretroviral: interaksi bermakna"
+          ],
+          "catatan": "Rifamisin dengan banyak interaksi obat; edukasi pasien mengenai perubahan warna cairan tubuh.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Rifapentin/PNG?image_size=300x300",
+          "merek": [
+            "Priftin",
+            "Rifapentine (generik)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "monobaktam",
+      "kelas": "Monobaktam",
+      "mekanisme": "Antibiotik beta-laktam yang menghambat sintesis dinding sel bakteri; aktivitas terutama terhadap bakteri gram-negatif aerob",
+      "obat": [
+        {
+          "id": "aztreonam",
+          "nama": "Aztreonam",
+          "indikasi": [
+            "Infeksi gram-negatif berat",
+            "Infeksi Pseudomonas aeruginosa",
+            "Infeksi saluran kemih dan infeksi intra-abdomen tertentu"
+          ],
+          "sediaan": [
+            "Serbuk injeksi 1 g, 2 g"
+          ],
+          "efek_samping": [
+            "Ruam",
+            "Diare",
+            "Peningkatan enzim hati",
+            "Reaksi lokal injeksi"
+          ],
+          "tatalaksana": [
+            "Dewasa: 1-2 g IV/IM setiap 8-12 jam; infeksi berat hingga 2 g setiap 6-8 jam",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Fungsi hati",
+            "Respons klinis",
+            "Reaksi alergi"
+          ],
+          "interaksi": [
+            "Probenesid: dapat meningkatkan kadar",
+            "Antibiotik beta-laktam lain: pertimbangkan alergi silang secara klinis"
+          ],
+          "catatan": "Monobaktam yang terutama aktif terhadap bakteri gram-negatif aerob.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Aztreonam/PNG?image_size=300x300",
+          "merek": [
+            "Vebac",
+            "Aztreonam (generik)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "topikal-antibiotik",
+      "kelas": "Antibiotik Topikal",
+      "mekanisme": "Antibiotik yang bekerja lokal pada permukaan kulit, mata, atau jaringan tertentu",
+      "obat": [
+        {
+          "id": "asam-fusidat",
+          "nama": "Asam Fusidat",
+          "indikasi": [
+            "Impetigo dan infeksi kulit bakteri oleh Staphylococcus yang sensitif",
+            "Infeksi kulit superfisial tertentu"
+          ],
+          "sediaan": [
+            "Krim 2%",
+            "Salep 2%"
+          ],
+          "efek_samping": [
+            "Iritasi lokal",
+            "Gatal",
+            "Dermatitis kontak"
+          ],
+          "tatalaksana": [
+            "Oles tipis pada area terinfeksi 2-3x/hari sesuai produk"
+          ],
+          "monitoring": [
+            "Respons klinis",
+            "Iritasi kulit"
+          ],
+          "interaksi": [
+            "Tidak banyak interaksi sistemik pada pemakaian topikal"
+          ],
+          "catatan": "Hindari penggunaan berkepanjangan atau luas untuk mengurangi resistensi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Asam%20Fusidat/PNG?image_size=300x300",
+          "merek": [
+            "Fucidin",
+            "Fuladic",
+            "Asam Fusidat (generik)"
+          ]
+        },
+        {
+          "id": "mupirosin",
+          "nama": "Mupirosin",
+          "indikasi": [
+            "Impetigo",
+            "Infeksi kulit superfisial akibat Staphylococcus/Streptococcus yang sensitif",
+            "Dekolonisasi nasal S. aureus dalam indikasi tertentu"
+          ],
+          "sediaan": [
+            "Salep 2%",
+            "Krim 2%",
+            "Sediaan nasal 2%"
+          ],
+          "efek_samping": [
+            "Rasa terbakar lokal",
+            "Gatal",
+            "Kemerahan",
+            "Dermatitis kontak"
+          ],
+          "tatalaksana": [
+            "Oleskan tipis 2-3x/hari selama durasi sesuai indikasi dan produk"
+          ],
+          "monitoring": [
+            "Respons klinis",
+            "Iritasi/alergi lokal"
+          ],
+          "interaksi": [
+            "Interaksi sistemik minimal pada pemakaian topikal"
+          ],
+          "catatan": "Tidak untuk penggunaan luas atau berkepanjangan tanpa evaluasi klinis.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Mupirosin/PNG?image_size=300x300",
+          "merek": [
+            "Bactoderm",
+            "Mupirocin (generik)"
+          ]
+        },
+        {
+          "id": "bacitracin-neomisin",
+          "nama": "Bacitracin-Neomisin",
+          "indikasi": [
+            "Pencegahan/terapi infeksi bakteri superfisial pada luka kulit"
+          ],
+          "sediaan": [
+            "Salep",
+            "Bedak topikal"
+          ],
+          "efek_samping": [
+            "Iritasi lokal",
+            "Dermatitis kontak",
+            "Reaksi alergi"
+          ],
+          "tatalaksana": [
+            "Oles tipis pada area yang terkena sesuai produk"
+          ],
+          "monitoring": [
+            "Respons klinis",
+            "Tanda alergi lokal"
+          ],
+          "interaksi": [
+            "Penggunaan topikal bersamaan dengan antibiotik lain dapat menyebabkan duplikasi terapi"
+          ],
+          "catatan": "Kombinasi topikal yang terdapat dalam database; gunakan sesuai petunjuk produk.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Bacitracin-Neomisin/PNG?image_size=300x300",
+          "merek": [
+            "Nebacetin",
+            "Enbatic"
+          ]
+        },
+        {
+          "id": "framycetin",
+          "nama": "Framycetin",
+          "indikasi": [
+            "Infeksi bakteri lokal pada kulit/luka superfisial"
+          ],
+          "sediaan": [
+            "Kasa/kompres yang mengandung framycetin sulfat"
+          ],
+          "efek_samping": [
+            "Iritasi lokal",
+            "Dermatitis kontak"
+          ],
+          "tatalaksana": [
+            "Gunakan secara topikal sesuai petunjuk produk"
+          ],
+          "monitoring": [
+            "Respons klinis",
+            "Reaksi kulit"
+          ],
+          "interaksi": [
+            "Interaksi sistemik minimal pada pemakaian topikal"
+          ],
+          "catatan": "Sediaan database berupa kasa yang mengandung framycetin sulfat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Framycetin/PNG?image_size=300x300",
+          "merek": [
+            "Framycetin Sulfate"
+          ]
+        },
+        {
+          "id": "polimiksin-b",
+          "nama": "Polimiksin B",
+          "indikasi": [
+            "Infeksi gram-negatif berat tertentu oleh organisme sensitif",
+            "Infeksi lokal tertentu pada sediaan topikal"
+          ],
+          "sediaan": [
+            "Injeksi",
+            "Sediaan topikal/oftalmik sesuai produk"
+          ],
+          "efek_samping": [
+            "Nefrotoksisitas",
+            "Neurotoksisitas",
+            "Blokade neuromuskular",
+            "Iritasi lokal"
+          ],
+          "tatalaksana": [
+            "Sistemik: dosis berdasarkan berat badan, fungsi ginjal, lokasi infeksi, dan regimen spesialis",
+            "Topikal: sesuai produk"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Status neurologis",
+            "Tanda blokade neuromuskular"
+          ],
+          "interaksi": [
+            "Obat nefrotoksik: toksisitas aditif",
+            "Pelemas otot: blokade neuromuskular meningkat"
+          ],
+          "catatan": "Penggunaan sistemik terbatas karena toksisitas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Polimiksin%20B/PNG?image_size=300x300",
+          "merek": [
+            "Polymyxin B"
+          ]
+        },
+        {
+          "id": "gramisidin-neomisin-polimiksin",
+          "nama": "Gramisidin-Neomisin-Polimiksin",
+          "indikasi": [
+            "Infeksi bakteri lokal mata atau jaringan superfisial sesuai sediaan"
+          ],
+          "sediaan": [
+            "Tetes mata"
+          ],
+          "efek_samping": [
+            "Iritasi mata",
+            "Reaksi alergi lokal",
+            "Kemerahan"
+          ],
+          "tatalaksana": [
+            "Teteskan sesuai resep dan produk"
+          ],
+          "monitoring": [
+            "Respons klinis",
+            "Iritasi/alergi mata"
+          ],
+          "interaksi": [
+            "Duplikasi antibiotik topikal dapat meningkatkan iritasi"
+          ],
+          "catatan": "Kombinasi antibiotik lokal yang tercantum dalam database.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Gramisidin-Neomisin-Polimiksin/PNG?image_size=300x300",
+          "merek": [
+            "Cendo Polygran"
           ]
         }
       ]

@@ -1168,6 +1168,484 @@
             "Prosogan",
             "Prosogan FD"
           ]
+        },
+        {
+          "id": "esomeprazole",
+          "nama": "Esomeprazole",
+          "indikasi": [
+            "GERD",
+            "Ulkus peptikum",
+            "Eradikasi H. pylori (kombinasi)",
+            "Sindrom Zollinger-Ellison"
+          ],
+          "sediaan": [
+            "Tablet 20 mg, 40 mg",
+            "Injeksi IV 40 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Diare",
+            "Mual",
+            "Nyeri perut",
+            "Hipomagnesemia dan defisiensi vitamin B12 pada penggunaan jangka panjang"
+          ],
+          "tatalaksana": [
+            "20-40 mg PO 1x/hari, biasanya 30-60 menit sebelum makan",
+            "IV: 20-40 mg 1x/hari sesuai indikasi"
+          ],
+          "monitoring": [
+            "Magnesium dan vitamin B12 pada penggunaan jangka panjang",
+            "Respons terapi dan gejala GERD"
+          ],
+          "interaksi": [
+            "Klopidogrel: dapat menurunkan aktivasi klopidogrel",
+            "Metotreksat dosis tinggi: kadar dapat meningkat",
+            "Warfarin dan obat yang absorpsinya bergantung pH lambung"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/esomeprazole/PNG?image_size=300x300",
+          "merek": null
+        },
+        {
+          "id": "pantoprazole",
+          "nama": "Pantoprazole",
+          "indikasi": [
+            "GERD",
+            "Esofagitis erosif",
+            "Ulkus peptikum",
+            "Kondisi hipersekresi asam"
+          ],
+          "sediaan": [
+            "Tablet 20 mg, 40 mg",
+            "Injeksi IV 40 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Diare",
+            "Mual",
+            "Nyeri perut",
+            "Hipomagnesemia pada penggunaan jangka panjang"
+          ],
+          "tatalaksana": [
+            "40 mg PO 1x/hari sebelum makan sesuai indikasi",
+            "IV: 40 mg 1x/hari sesuai indikasi"
+          ],
+          "monitoring": [
+            "Magnesium pada penggunaan jangka panjang",
+            "Respons terapi"
+          ],
+          "interaksi": [
+            "Metotreksat dosis tinggi: kadar dapat meningkat",
+            "Warfarin: monitor INR bila diperlukan",
+            "Obat yang absorpsinya bergantung pH lambung"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pantoprazole/PNG?image_size=300x300",
+          "merek": null
+        },
+        {
+          "id": "rabeprazole",
+          "nama": "Rabeprazole",
+          "indikasi": [
+            "GERD",
+            "Ulkus peptikum",
+            "Eradikasi H. pylori (kombinasi)"
+          ],
+          "sediaan": [
+            "Tablet delayed-release 10 mg, 20 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Diare",
+            "Mual",
+            "Nyeri perut"
+          ],
+          "tatalaksana": [
+            "10-20 mg PO 1x/hari sesuai indikasi"
+          ],
+          "monitoring": [
+            "Respons terapi",
+            "Magnesium dan vitamin B12 bila penggunaan jangka panjang"
+          ],
+          "interaksi": [
+            "Warfarin: monitor INR",
+            "Metotreksat dosis tinggi: kadar dapat meningkat",
+            "Obat yang absorpsinya bergantung pH lambung"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rabeprazole/PNG?image_size=300x300",
+          "merek": null
+        }
+      ]
+    },
+    {
+      "id": "pelindung-mukosa",
+      "kelas": "Pelindung Mukosa Lambung",
+      "mekanisme": "Membentuk lapisan pelindung pada mukosa yang mengalami ulserasi dan mengurangi paparan jaringan terhadap asam serta pepsin.",
+      "obat": [
+        {
+          "id": "sukralfat",
+          "nama": "Sucralfate",
+          "indikasi": [
+            "Ulkus duodenum",
+            "Ulkus lambung",
+            "Perlindungan mukosa pada gastritis dan kondisi iritatif lambung"
+          ],
+          "sediaan": [
+            "Suspensi oral 500 mg/5 mL",
+            "Tablet 1 g"
+          ],
+          "efek_samping": [
+            "Konstipasi",
+            "Mulut kering",
+            "Mual"
+          ],
+          "tatalaksana": [
+            "1 g PO 4x/hari pada perut kosong, biasanya 1 jam sebelum makan dan sebelum tidur"
+          ],
+          "monitoring": [
+            "Respons gejala dan penyembuhan ulkus",
+            "Fungsi ginjal pada penggunaan berkepanjangan"
+          ],
+          "interaksi": [
+            "Dapat menurunkan absorpsi obat lain; beri jarak sekitar 2 jam",
+            "Antasida dapat mengganggu pembentukan lapisan pelindung bila diberikan terlalu berdekatan"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sucralfate/PNG?image_size=300x300",
+          "merek": null
+        }
+      ]
+    },
+    {
+      "id": "laksatif",
+      "kelas": "Laksatif",
+      "mekanisme": "Meningkatkan kandungan air dalam feses atau merangsang motilitas usus untuk mempermudah defekasi.",
+      "obat": [
+        {
+          "id": "bisakodil",
+          "nama": "Bisacodyl",
+          "indikasi": [
+            "Konstipasi",
+            "Persiapan usus sebelum prosedur tertentu"
+          ],
+          "sediaan": [
+            "Tablet enterik 5 mg",
+            "Supositoria 10 mg"
+          ],
+          "efek_samping": [
+            "Kram perut",
+            "Diare",
+            "Mual",
+            "Gangguan elektrolit bila digunakan berlebihan"
+          ],
+          "tatalaksana": [
+            "Oral: 5-10 mg 1x/hari",
+            "Rektal: 10 mg 1x/hari bila diperlukan"
+          ],
+          "monitoring": [
+            "Frekuensi dan konsistensi feses",
+            "Elektrolit bila penggunaan berkepanjangan"
+          ],
+          "interaksi": [
+            "Antasida atau susu dapat menyebabkan pelepasan tablet enterik terlalu dini; beri jarak minimal 1 jam",
+            "Penggunaan laksatif lain dapat meningkatkan efek"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bisacodyl/PNG?image_size=300x300",
+          "merek": null
+        },
+        {
+          "id": "laktulosa",
+          "nama": "Lactulose",
+          "indikasi": [
+            "Konstipasi",
+            "Ensefalopati hepatik"
+          ],
+          "sediaan": [
+            "Sirup oral 3,335 g/5 mL"
+          ],
+          "efek_samping": [
+            "Kembung",
+            "Flatulensi",
+            "Kram perut",
+            "Diare"
+          ],
+          "tatalaksana": [
+            "Konstipasi dewasa: 15-30 mL/hari, dapat dititrasi sesuai respons",
+            "Ensefalopati hepatik: dosis dititrasi hingga 2-3 kali feses lunak per hari"
+          ],
+          "monitoring": [
+            "Frekuensi dan konsistensi feses",
+            "Elektrolit pada penggunaan dosis tinggi atau lama"
+          ],
+          "interaksi": [
+            "Dapat menurunkan kadar kalium bila menyebabkan diare berat",
+            "Antasida dapat memengaruhi efek pada beberapa pasien"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lactulose/PNG?image_size=300x300",
+          "merek": null
+        },
+        {
+          "id": "makrogol-3350",
+          "nama": "Macrogol 3350",
+          "indikasi": [
+            "Konstipasi"
+          ],
+          "sediaan": [
+            "Serbuk oral 17 g per sachet"
+          ],
+          "efek_samping": [
+            "Kembung",
+            "Flatulensi",
+            "Nyeri atau kram perut",
+            "Diare"
+          ],
+          "tatalaksana": [
+            "17 g dilarutkan dalam cairan dan diminum 1x/hari; sesuaikan berdasarkan respons"
+          ],
+          "monitoring": [
+            "Frekuensi dan konsistensi feses",
+            "Elektrolit bila penggunaan berkepanjangan"
+          ],
+          "interaksi": [
+            "Dapat menurunkan absorpsi obat oral lain bila diberikan bersamaan; beri jarak sesuai petunjuk produk"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/macrogol 3350/PNG?image_size=300x300",
+          "merek": null
+        }
+      ]
+    },
+    {
+      "id": "antidiare",
+      "kelas": "Antidiare",
+      "mekanisme": "Mengurangi motilitas usus dan memperpanjang waktu transit sehingga meningkatkan penyerapan air dan elektrolit dari feses.",
+      "obat": [
+        {
+          "id": "loperamide",
+          "nama": "Loperamide",
+          "indikasi": [
+            "Diare akut nonspesifik",
+            "Diare kronis tertentu"
+          ],
+          "sediaan": [
+            "Tablet/kapsul 2 mg"
+          ],
+          "efek_samping": [
+            "Konstipasi",
+            "Kram perut",
+            "Pusing",
+            "Mual",
+            "Ileus pada penggunaan berlebihan"
+          ],
+          "tatalaksana": [
+            "Dewasa: 4 mg awal, kemudian 2 mg setelah setiap BAB cair; jangan melebihi dosis maksimum pada label"
+          ],
+          "monitoring": [
+            "Frekuensi dan konsistensi feses",
+            "Tanda dehidrasi",
+            "Distensi abdomen atau ileus"
+          ],
+          "interaksi": [
+            "Hindari pada diare berdarah atau demam tinggi yang dicurigai infeksi invasif",
+            "Inhibitor CYP3A4/CYP2C8 dapat meningkatkan kadar loperamide"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/loperamide/PNG?image_size=300x300",
+          "merek": null
+        }
+      ]
+    },
+    {
+      "id": "antiinflamasi-usus",
+      "kelas": "Antiinflamasi Usus",
+      "mekanisme": "Mengurangi peradangan pada mukosa usus, terutama pada penyakit radang usus.",
+      "obat": [
+        {
+          "id": "mesalazine",
+          "nama": "Mesalazine",
+          "indikasi": [
+            "Kolitis ulseratif",
+            "Pemeliharaan remisi pada penyakit radang usus tertentu"
+          ],
+          "sediaan": [
+            "Tablet salut enterik 250 mg, 500 mg",
+            "Granul/sachet oral"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Nyeri perut",
+            "Mual",
+            "Diare",
+            "Nefritis interstisial yang jarang"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan dengan lokasi dan berat penyakit; umumnya diberikan beberapa kali sehari sesuai sediaan"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Fungsi hati",
+            "Hitung darah bila penggunaan jangka panjang"
+          ],
+          "interaksi": [
+            "NSAID dapat meningkatkan risiko efek ginjal",
+            "Azathioprine/6-mercaptopurine: risiko kelainan darah dapat meningkat"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/mesalamine/PNG?image_size=300x300",
+          "merek": null
+        },
+        {
+          "id": "sulfasalazine",
+          "nama": "Sulfasalazine",
+          "indikasi": [
+            "Kolitis ulseratif",
+            "Penyakit Crohn pada kondisi tertentu",
+            "Artritis reumatoid"
+          ],
+          "sediaan": [
+            "Tablet/kapsul 500 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Nyeri perut",
+            "Sakit kepala",
+            "Ruam",
+            "Gangguan hati",
+            "Kelainan darah"
+          ],
+          "tatalaksana": [
+            "Dosis dititrasi bertahap sesuai indikasi; umumnya diminum beberapa kali sehari dan bersama makanan bila menimbulkan iritasi lambung"
+          ],
+          "monitoring": [
+            "Darah lengkap",
+            "Fungsi hati",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Warfarin: efek antikoagulan dapat berubah",
+            "Azathioprine: risiko mielosupresi meningkat",
+            "Asam folat: kebutuhan suplementasi dapat meningkat"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sulfasalazine/PNG?image_size=300x300",
+          "merek": null
+        }
+      ]
+    },
+    {
+      "id": "hepatobilier",
+      "kelas": "Hepatobilier",
+      "mekanisme": "Mengubah komposisi asam empedu dan meningkatkan aliran empedu sehingga membantu melarutkan batu kolesterol tertentu dan memperbaiki kolestasis tertentu.",
+      "obat": [
+        {
+          "id": "asam-ursodeoksikolat",
+          "nama": "Asam Ursodeoksikolat",
+          "indikasi": [
+            "Batu empedu kolesterol tertentu",
+            "Kolangitis bilier primer",
+            "Kondisi kolestatik tertentu"
+          ],
+          "sediaan": [
+            "Kapsul 250 mg"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Nyeri perut",
+            "Mual",
+            "Pruritus dapat berubah sesuai penyakit dasar"
+          ],
+          "tatalaksana": [
+            "Dosis berdasarkan berat badan dan indikasi; diminum bersama makanan sesuai petunjuk produk"
+          ],
+          "monitoring": [
+            "Fungsi hati",
+            "Respons klinis dan pemeriksaan pencitraan sesuai indikasi"
+          ],
+          "interaksi": [
+            "Antasida yang mengandung aluminium dapat menurunkan absorpsi; beri jarak",
+            "Kolestiramin dapat mengurangi absorpsi"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ursodeoxycholic acid/PNG?image_size=300x300",
+          "merek": null
+        }
+      ]
+    },
+    {
+      "id": "antiobesitas",
+      "kelas": "Obat Antiobesitas",
+      "mekanisme": "Menghambat lipase lambung dan pankreas sehingga mengurangi hidrolisis serta absorpsi lemak makanan.",
+      "obat": [
+        {
+          "id": "orlistat",
+          "nama": "Orlistat",
+          "indikasi": [
+            "Obesitas sebagai terapi tambahan terhadap diet rendah kalori"
+          ],
+          "sediaan": [
+            "Kapsul 120 mg",
+            "Kapsul 60 mg pada sediaan tertentu"
+          ],
+          "efek_samping": [
+            "Feses berminyak",
+            "Flatulensi dengan discharge",
+            "Urgensi defekasi",
+            "Diare",
+            "Nyeri perut"
+          ],
+          "tatalaksana": [
+            "120 mg bersama setiap makanan utama yang mengandung lemak; lewati dosis bila makanan tidak mengandung lemak"
+          ],
+          "monitoring": [
+            "Berat badan dan respons terapi",
+            "Status vitamin larut lemak bila penggunaan jangka panjang"
+          ],
+          "interaksi": [
+            "Mengurangi absorpsi vitamin A, D, E, K dan beberapa obat; pertimbangkan multivitamin pada waktu terpisah",
+            "Warfarin dan levotiroksin memerlukan pemantauan/penyesuaian"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/orlistat/PNG?image_size=300x300",
+          "merek": null
+        }
+      ]
+    },
+    {
+      "id": "enzim-pencernaan",
+      "kelas": "Enzim Pencernaan",
+      "mekanisme": "Membantu pencernaan lemak dan komponen makanan dengan menyediakan enzim pankreas dan mengurangi gejala terkait gas pada sediaan kombinasi.",
+      "obat": [
+        {
+          "id": "pancreatin-simethicone",
+          "nama": "Pancreatin + Simethicone",
+          "indikasi": [
+            "Kembung dan rasa penuh akibat gangguan pencernaan",
+            "Keluhan dispepsia tertentu"
+          ],
+          "sediaan": [
+            "Tablet"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Konstipasi atau diare",
+            "Ketidaknyamanan abdomen"
+          ],
+          "tatalaksana": [
+            "Diminum bersama atau segera setelah makan sesuai petunjuk produk"
+          ],
+          "monitoring": [
+            "Respons gejala dan tolerabilitas"
+          ],
+          "interaksi": [
+            "Antasida dapat memengaruhi sediaan enzim tertentu",
+            "Obat lain dapat memiliki interaksi bergantung pada komponen produk"
+          ],
+          "catatan": "Kombinasi ini tercantum dalam database.md sebagai Xepazym Tablet.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pancreatin/PNG?image_size=300x300",
+          "merek": null
         }
       ]
     }

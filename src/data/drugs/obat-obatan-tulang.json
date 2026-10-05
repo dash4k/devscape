@@ -367,6 +367,216 @@
             "Alif",
             "Xenifar"
           ]
+        },
+        {
+          "id": "etoricoxib",
+          "nama": "Etorikoksib",
+          "mekanisme": "Menghambat COX-2 secara selektif sehingga menurunkan sintesis prostaglandin dan respons nyeri/inflamasi.",
+          "indikasi": [
+            "Osteoartritis",
+            "Artritis reumatoid",
+            "Artritis gout akut",
+            "Spondilitis ankilosa",
+            "Nyeri akut pada indikasi tertentu"
+          ],
+          "sediaan": [
+            "Tablet 60 mg, 90 mg, 120 mg"
+          ],
+          "efek_samping": [
+            "Dispepsia",
+            "Hipertensi",
+            "Edema",
+            "Gangguan fungsi ginjal",
+            "Risiko kejadian kardiovaskular trombotik"
+          ],
+          "tatalaksana": [
+            "OA: 60 mg 1x/hari",
+            "RA/AS: 60-90 mg 1x/hari",
+            "Gout akut: 120 mg 1x/hari untuk durasi singkat"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Fungsi ginjal",
+            "Gejala edema",
+            "Risiko kardiovaskular"
+          ],
+          "interaksi": [
+            "Warfarin: dapat meningkatkan INR",
+            "ACE inhibitor/ARB/diuretik: efek antihipertensi menurun dan risiko gangguan ginjal",
+            "Aspirin/antikoagulan: risiko perdarahan meningkat"
+          ],
+          "catatan": "Gunakan dosis efektif terendah selama durasi sesingkat mungkin; hindari pada penyakit jantung iskemik, penyakit serebrovaskular, atau gagal jantung tertentu.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/etoricoxib/PNG?image_size=300x300",
+          "merek": [
+            "Arcoxia",
+            "Etorvel",
+            "Orinox"
+          ]
+        },
+        {
+          "id": "meloxicam",
+          "nama": "Meloksikam",
+          "mekanisme": "NSAID dengan preferensi relatif terhadap COX-2 yang menghambat sintesis prostaglandin.",
+          "indikasi": [
+            "Osteoartritis",
+            "Artritis reumatoid",
+            "Nyeri muskuloskeletal/inflamasi"
+          ],
+          "sediaan": [
+            "Tablet 7,5 mg, 15 mg"
+          ],
+          "efek_samping": [
+            "Dispepsia",
+            "Ulkus/perdarahan GI",
+            "Gangguan fungsi ginjal",
+            "Edema",
+            "Hipertensi"
+          ],
+          "tatalaksana": [
+            "OA/RA: 7,5-15 mg 1x/hari",
+            "Gunakan dosis efektif terendah"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Tekanan darah",
+            "Gejala perdarahan GI",
+            "Respons nyeri"
+          ],
+          "interaksi": [
+            "Antikoagulan/antiplatelet: risiko perdarahan meningkat",
+            "ACE inhibitor/ARB/diuretik: risiko gangguan ginjal",
+            "Litium dan metotreksat: kadar dapat meningkat"
+          ],
+          "catatan": "Hindari penggunaan bersamaan dengan NSAID lain kecuali atas arahan klinis.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/meloxicam/PNG?image_size=300x300",
+          "merek": [
+            "Meloksikam (generik)",
+            "Mexpharm"
+          ]
+        },
+        {
+          "id": "ketoprofen",
+          "nama": "Ketoprofen",
+          "mekanisme": "Menghambat COX-1 dan COX-2 sehingga menurunkan pembentukan prostaglandin.",
+          "indikasi": [
+            "Nyeri muskuloskeletal",
+            "Osteoartritis",
+            "Artritis reumatoid",
+            "Nyeri/radang sendi"
+          ],
+          "sediaan": [
+            "Tablet 50 mg",
+            "Supositoria 100 mg"
+          ],
+          "efek_samping": [
+            "Dispepsia",
+            "Ulkus dan perdarahan GI",
+            "Gangguan fungsi ginjal",
+            "Pusing",
+            "Edema"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan dengan sediaan dan respons; gunakan dosis efektif terendah untuk durasi sesingkat mungkin"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Tekanan darah",
+            "Gejala perdarahan GI",
+            "Respons nyeri"
+          ],
+          "interaksi": [
+            "Antikoagulan/antiplatelet: risiko perdarahan meningkat",
+            "ACE inhibitor/ARB/diuretik: risiko gangguan ginjal",
+            "Kortikosteroid: risiko perdarahan GI meningkat"
+          ],
+          "catatan": "Sebaiknya diberikan bersama makanan bila menimbulkan keluhan lambung.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ketoprofen/PNG?image_size=300x300",
+          "merek": [
+            "Ketoprofen (generik)",
+            "Kaltrofen",
+            "Suprafenid"
+          ]
+        },
+        {
+          "id": "dexketoprofen",
+          "nama": "Deksketoprofen",
+          "mekanisme": "Enansiomer aktif ketoprofen yang menghambat COX sehingga menurunkan sintesis prostaglandin.",
+          "indikasi": [
+            "Nyeri akut muskuloskeletal",
+            "Nyeri gigi",
+            "Dismenore"
+          ],
+          "sediaan": [
+            "Tablet 25 mg",
+            "Injeksi 50 mg/2 mL"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Dispepsia",
+            "Nyeri perut",
+            "Ulkus/perdarahan GI",
+            "Pusing",
+            "Gangguan fungsi ginjal"
+          ],
+          "tatalaksana": [
+            "25 mg setiap 8 jam sesuai kebutuhan; maks 75 mg/hari",
+            "Injeksi digunakan jangka pendek pada nyeri akut sesuai protokol"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Gejala perdarahan GI",
+            "Respons nyeri"
+          ],
+          "interaksi": [
+            "Antikoagulan/antiplatelet: risiko perdarahan meningkat",
+            "NSAID lain: toksisitas aditif",
+            "ACE inhibitor/ARB/diuretik: risiko gangguan ginjal"
+          ],
+          "catatan": "Gunakan untuk periode sesingkat mungkin.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dexketoprofen/PNG?image_size=300x300",
+          "merek": [
+            "Ketessee",
+            "Dexketoprofen (generik)"
+          ]
+        },
+        {
+          "id": "asam-mefenamat",
+          "nama": "Asam Mefenamat",
+          "mekanisme": "Menghambat COX-1 dan COX-2 sehingga mengurangi sintesis prostaglandin.",
+          "indikasi": [
+            "Nyeri ringan-sedang",
+            "Nyeri muskuloskeletal",
+            "Dismenore"
+          ],
+          "sediaan": [
+            "Tablet/kaplet 500 mg"
+          ],
+          "efek_samping": [
+            "Dispepsia",
+            "Diare",
+            "Ulkus dan perdarahan GI",
+            "Gangguan fungsi ginjal",
+            "Ruam"
+          ],
+          "tatalaksana": [
+            "Dewasa: 500 mg dosis awal, kemudian 250 mg setiap 6 jam sesuai kebutuhan; gunakan jangka pendek"
+          ],
+          "monitoring": [
+            "Gejala GI",
+            "Fungsi ginjal",
+            "Respons nyeri"
+          ],
+          "interaksi": [
+            "Antikoagulan/antiplatelet: risiko perdarahan meningkat",
+            "ACE inhibitor/ARB/diuretik: risiko gangguan ginjal",
+            "NSAID lain: toksisitas aditif"
+          ],
+          "catatan": "Tidak dianjurkan untuk penggunaan jangka panjang tanpa evaluasi klinis.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/mefenamic%20acid/PNG?image_size=300x300",
+          "merek": [
+            "Asam Mefenamat (generik)",
+            "Mefinal"
+          ]
         }
       ]
     },
@@ -443,6 +653,48 @@
             "Progalin",
             "Provelyn",
             "Regalin"
+          ]
+        },
+        {
+          "id": "gabapentin",
+          "nama": "Gabapentin",
+          "mekanisme": "Berikatan dengan subunit alfa2-delta kanal kalsium voltage-gated sehingga menurunkan pelepasan neurotransmiter eksitatorik.",
+          "indikasi": [
+            "Nyeri neuropatik",
+            "Neuralgia pasca-herpes",
+            "Kejang parsial sebagai terapi tambahan"
+          ],
+          "sediaan": [
+            "Kapsul/tablet 100 mg, 300 mg, 400 mg, 600 mg, 800 mg",
+            "Larutan oral 250 mg/5 mL"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Pusing",
+            "Ataksia",
+            "Edema perifer",
+            "Penambahan berat badan"
+          ],
+          "tatalaksana": [
+            "Mulai dosis rendah dan titrasi bertahap sesuai respons",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Sedasi dan fungsi kognitif",
+            "Edema",
+            "Respons nyeri"
+          ],
+          "interaksi": [
+            "Opioid dan depresan SSP: sedasi/depresi napas aditif",
+            "Antasida aluminium/magnesium: menurunkan absorpsi"
+          ],
+          "catatan": "Penghentian sebaiknya dilakukan bertahap.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gabapentin/PNG?image_size=300x300",
+          "merek": [
+            "Alpentin",
+            "Neurontin",
+            "Gabapentin (generik)"
           ]
         }
       ]
@@ -726,6 +978,96 @@
           "catatan": "Sumber menulis 'meningkatkan ACTH'; kortikotropin adalah ACTH itu sendiri (eksogen) yang merangsang adrenal. Ketersediaan di Indonesia terbatas.",
           "gambar": null,
           "merek": null
+        },
+        {
+          "id": "metilprednisolon",
+          "nama": "Metilprednisolon",
+          "mekanisme": "Glukokortikoid yang berikatan dengan reseptor glukokortikoid dan menekan transkripsi mediator inflamasi.",
+          "indikasi": [
+            "Eksaserbasi artritis inflamasi",
+            "Artritis reumatoid dan penyakit autoimun tertentu",
+            "Reaksi inflamasi akut pada indikasi klinis tertentu"
+          ],
+          "sediaan": [
+            "Tablet 4 mg, 8 mg, 16 mg",
+            "Injeksi metilprednisolon natrium suksinat"
+          ],
+          "efek_samping": [
+            "Hiperglikemia",
+            "Hipertensi",
+            "Retensi cairan",
+            "Osteoporosis pada penggunaan lama",
+            "Supresi adrenal",
+            "Peningkatan risiko infeksi",
+            "Perubahan mood"
+          ],
+          "tatalaksana": [
+            "Dosis bergantung pada indikasi dan berat penyakit; gunakan dosis efektif terendah",
+            "Tapering diperlukan setelah penggunaan sistemik berkepanjangan"
+          ],
+          "monitoring": [
+            "Gula darah",
+            "Tekanan darah",
+            "Elektrolit",
+            "Berat badan",
+            "Tanda infeksi",
+            "Kesehatan tulang pada penggunaan jangka panjang"
+          ],
+          "interaksi": [
+            "NSAID: risiko ulkus/perdarahan GI meningkat",
+            "Antidiabetik: kebutuhan dosis dapat meningkat",
+            "Vaksin hidup: hindari pada dosis imunosupresif"
+          ],
+          "catatan": "Penghentian mendadak setelah terapi berkepanjangan dapat menyebabkan insufisiensi adrenal.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methylprednisolone/PNG?image_size=300x300",
+          "merek": [
+            "Medixon",
+            "Metilprednisolon (generik)"
+          ]
+        },
+        {
+          "id": "prednisolon",
+          "nama": "Prednisolon",
+          "mekanisme": "Glukokortikoid aktif yang menekan transkripsi sitokin proinflamasi dan respons imun.",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Penyakit autoimun/inflamasi",
+            "Serangan gout akut pada kondisi tertentu"
+          ],
+          "sediaan": [
+            "Tablet 1 mg, 5 mg"
+          ],
+          "efek_samping": [
+            "Hiperglikemia",
+            "Hipertensi",
+            "Osteoporosis",
+            "Supresi adrenal",
+            "Peningkatan risiko infeksi",
+            "Katarak/glaukoma",
+            "Perubahan mood"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan dengan indikasi; gunakan dosis efektif terendah",
+            "Tapering bertahap bila digunakan berkepanjangan"
+          ],
+          "monitoring": [
+            "Gula darah",
+            "Tekanan darah",
+            "Berat badan",
+            "Tanda infeksi",
+            "Densitas tulang pada penggunaan jangka panjang"
+          ],
+          "interaksi": [
+            "NSAID: risiko ulkus/perdarahan GI meningkat",
+            "Antidiabetik: kebutuhan dosis dapat meningkat",
+            "Vaksin hidup: hindari pada dosis imunosupresif"
+          ],
+          "catatan": "Suplementasi kalsium dan vitamin D serta pencegahan osteoporosis dipertimbangkan pada penggunaan jangka panjang.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/prednisolone/PNG?image_size=300x300",
+          "merek": [
+            "Predico",
+            "Prednisolon (generik)"
+          ]
         }
       ]
     },
@@ -839,6 +1181,40 @@
             "Glucosamine (generik)",
             "Syalox",
             "Welmove"
+          ]
+        },
+        {
+          "id": "diacerein",
+          "nama": "Diacerein",
+          "mekanisme": "Menghambat jalur interleukin-1 dan mediator inflamasi pada kartilago, sehingga menurunkan proses degradasi matriks pada osteoartritis.",
+          "indikasi": [
+            "Osteoartritis"
+          ],
+          "sediaan": [
+            "Kapsul 50 mg"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Nyeri perut",
+            "Perubahan warna urin",
+            "Hepatotoksisitas"
+          ],
+          "tatalaksana": [
+            "50 mg 1x/hari pada awal terapi, kemudian dapat dinaikkan sesuai toleransi; penggunaan mengikuti pedoman dan evaluasi klinis"
+          ],
+          "monitoring": [
+            "Fungsi hati",
+            "Diare dan toleransi gastrointestinal",
+            "Respons nyeri/fungsi sendi"
+          ],
+          "interaksi": [
+            "Laksatif: dapat memperberat diare",
+            "Obat lain yang berpotensi hepatotoksik: pertimbangkan risiko aditif"
+          ],
+          "catatan": "Penggunaan dibatasi di sejumlah negara karena risiko diare berat dan hepatotoksisitas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diacerein/PNG?image_size=300x300",
+          "merek": [
+            "Nocel"
           ]
         }
       ]
@@ -990,6 +1366,47 @@
             "Sulcolon",
             "Sulfasalazine",
             "Sulfitis"
+          ]
+        },
+        {
+          "id": "hydroxychloroquine",
+          "nama": "Hidroksiklorokuin",
+          "mekanisme": "Memodulasi fungsi lisosom dan presentasi antigen serta menekan aktivasi jalur imun, sehingga mengurangi inflamasi autoimun.",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Lupus eritematosus sistemik",
+            "Lupus kutan"
+          ],
+          "sediaan": [
+            "Tablet 200 mg"
+          ],
+          "efek_samping": [
+            "Retinopati",
+            "Mual",
+            "Ruam",
+            "Sakit kepala",
+            "Miopati/kardiomiopati (jarang)"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan dengan berat badan dan indikasi; gunakan dosis efektif terendah",
+            "Pemeriksaan mata dasar dan berkala selama terapi jangka panjang"
+          ],
+          "monitoring": [
+            "Pemeriksaan mata/retina",
+            "Berat badan dan dosis kumulatif",
+            "CBC dan fungsi hati sesuai kondisi",
+            "Gejala kardiak pada pasien berisiko"
+          ],
+          "interaksi": [
+            "Obat pemanjang QT: risiko aritmia meningkat",
+            "Antasida: dapat mengganggu absorpsi",
+            "Digoksin: kadar dapat meningkat"
+          ],
+          "catatan": "Risiko retinopati meningkat dengan dosis kumulatif dan penggunaan jangka panjang.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydroxychloroquine/PNG?image_size=300x300",
+          "merek": [
+            "Hydroxychloroquine (generik)",
+            "Hyloquin"
           ]
         }
       ]
@@ -1861,6 +2278,372 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/probenecid/PNG?image_size=300x300",
           "merek": [
             "Probenid"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "osteoporosis",
+      "kelas": "Obat Osteoporosis dan Kesehatan Tulang",
+      "mekanisme": "Mengurangi resorpsi tulang atau mendukung mineralisasi tulang untuk mencegah kehilangan massa tulang dan fraktur.",
+      "obat": [
+        {
+          "id": "alendronate",
+          "nama": "Alendronat",
+          "mekanisme": "Bisfosfonat yang menghambat aktivitas osteoklas dan resorpsi tulang.",
+          "indikasi": [
+            "Osteoporosis pascamenopause",
+            "Osteoporosis pada pria",
+            "Osteoporosis akibat glukokortikoid"
+          ],
+          "sediaan": [
+            "Tablet 70 mg",
+            "Tablet 10 mg"
+          ],
+          "efek_samping": [
+            "Iritasi esofagus",
+            "Nyeri perut",
+            "Dispepsia",
+            "Nyeri muskuloskeletal",
+            "Osteonekrosis rahang (jarang)",
+            "Fraktur femur atipikal (jarang pada penggunaan lama)"
+          ],
+          "tatalaksana": [
+            "70 mg 1x/minggu atau 10 mg 1x/hari",
+            "Minum pagi saat perut kosong dengan air putih dan tetap tegak minimal 30 menit"
+          ],
+          "monitoring": [
+            "Kalsium dan vitamin D",
+            "Fungsi ginjal",
+            "Kepadatan mineral tulang",
+            "Gejala esofagus"
+          ],
+          "interaksi": [
+            "Kalsium, antasida, zat besi: menurunkan absorpsi",
+            "NSAID: dapat meningkatkan keluhan GI"
+          ],
+          "catatan": "Kontraindikasi pada kelainan esofagus tertentu dan pasien yang tidak dapat duduk/berdiri tegak minimal 30 menit.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/alendronate/PNG?image_size=300x300",
+          "merek": [
+            "Alovell"
+          ]
+        },
+        {
+          "id": "ibandronic-acid",
+          "nama": "Asam Ibandronat",
+          "mekanisme": "Bisfosfonat yang menghambat aktivitas osteoklas dan resorpsi tulang.",
+          "indikasi": [
+            "Osteoporosis pascamenopause"
+          ],
+          "sediaan": [
+            "Injeksi IV 3 mg/3 mL atau 6 mg/6 mL sesuai produk",
+            "Tablet 150 mg"
+          ],
+          "efek_samping": [
+            "Nyeri punggung",
+            "Artralgia",
+            "Hipokalsemia",
+            "Reaksi fase akut setelah IV",
+            "Osteonekrosis rahang (jarang)",
+            "Fraktur femur atipikal (jarang)"
+          ],
+          "tatalaksana": [
+            "IV 3 mg setiap 3 bulan atau regimen oral sesuai produk",
+            "Pastikan kecukupan kalsium dan vitamin D"
+          ],
+          "monitoring": [
+            "Kalsium serum",
+            "Fungsi ginjal",
+            "Kepadatan mineral tulang",
+            "Kesehatan gigi dan rahang"
+          ],
+          "interaksi": [
+            "Kalsium/antasida/zat besi mengganggu absorpsi oral",
+            "Obat nefrotoksik: perhatian pada formulasi IV"
+          ],
+          "catatan": "Koreksi hipokalsemia sebelum pemberian IV.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ibandronic%20acid/PNG?image_size=300x300",
+          "merek": [
+            "Bonevell",
+            "Bondronat"
+          ]
+        },
+        {
+          "id": "zoledronate",
+          "nama": "Asam Zoledronat",
+          "mekanisme": "Bisfosfonat nitrogen yang menghambat farnesyl pyrophosphate synthase pada osteoklas sehingga menekan resorpsi tulang.",
+          "indikasi": [
+            "Osteoporosis",
+            "Pencegahan fraktur pada osteoporosis",
+            "Penyakit Paget tulang"
+          ],
+          "sediaan": [
+            "Infus IV 5 mg/100 mL"
+          ],
+          "efek_samping": [
+            "Demam dan gejala mirip flu pascainfusi",
+            "Nyeri tulang/otot",
+            "Hipokalsemia",
+            "Gangguan fungsi ginjal",
+            "Osteonekrosis rahang (jarang)",
+            "Fraktur femur atipikal (jarang)"
+          ],
+          "tatalaksana": [
+            "Osteoporosis: 5 mg IV sekali setahun sesuai evaluasi klinis",
+            "Pastikan hidrasi dan kecukupan kalsium/vitamin D"
+          ],
+          "monitoring": [
+            "Kreatinin/eGFR sebelum infus",
+            "Kalsium serum",
+            "Kepadatan mineral tulang",
+            "Kesehatan gigi dan rahang"
+          ],
+          "interaksi": [
+            "Obat nefrotoksik: meningkatkan risiko gangguan ginjal",
+            "Aminoglikosida/obat penurun kalsium: risiko hipokalsemia"
+          ],
+          "catatan": "Tidak diberikan pada hipokalsemia yang belum dikoreksi atau gangguan ginjal berat tertentu.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/zoledronic%20acid/PNG?image_size=300x300",
+          "merek": [
+            "Aclasta",
+            "Zometa",
+            "Zoltero"
+          ]
+        },
+        {
+          "id": "denosumab",
+          "nama": "Denosumab",
+          "mekanisme": "Antibodi monoklonal terhadap RANKL yang menghambat pembentukan dan aktivitas osteoklas.",
+          "indikasi": [
+            "Osteoporosis pada risiko fraktur tinggi",
+            "Pencegahan kejadian terkait tulang pada keganasan tertentu"
+          ],
+          "sediaan": [
+            "Injeksi subkutan 60 mg/mL"
+          ],
+          "efek_samping": [
+            "Hipokalsemia",
+            "Nyeri muskuloskeletal",
+            "Infeksi kulit",
+            "Osteonekrosis rahang (jarang)",
+            "Fraktur femur atipikal (jarang)"
+          ],
+          "tatalaksana": [
+            "Osteoporosis: 60 mg SC setiap 6 bulan",
+            "Pastikan kecukupan kalsium dan vitamin D"
+          ],
+          "monitoring": [
+            "Kalsium serum",
+            "Fungsi ginjal pada pasien berisiko hipokalsemia",
+            "Kesehatan gigi dan rahang",
+            "Kepadatan mineral tulang"
+          ],
+          "interaksi": [
+            "Obat penurun kalsium: meningkatkan risiko hipokalsemia",
+            "Terapi antiresorptif lain: gunakan hanya dengan indikasi spesialis"
+          ],
+          "catatan": "Jangan menghentikan atau menunda terapi tanpa rencana terapi lanjutan karena risiko rebound kehilangan massa tulang dan fraktur vertebra.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/denosumab/PNG?image_size=300x300",
+          "merek": [
+            "Corora",
+            "Prolia"
+          ]
+        },
+        {
+          "id": "calcitriol",
+          "nama": "Kalsitriol",
+          "mekanisme": "Bentuk aktif vitamin D yang meningkatkan absorpsi kalsium dan fosfat di usus serta mendukung mineralisasi tulang.",
+          "indikasi": [
+            "Hipokalsemia pada kondisi tertentu",
+            "Gangguan mineral tulang pada penyakit ginjal kronis",
+            "Osteoporosis pada indikasi tertentu"
+          ],
+          "sediaan": [
+            "Kapsul 0,25 mcg, 0,5 mcg"
+          ],
+          "efek_samping": [
+            "Hiperkalsemia",
+            "Hiperkalsiuria",
+            "Mual",
+            "Konstipasi",
+            "Pruritus"
+          ],
+          "tatalaksana": [
+            "Dosis individual berdasarkan kadar kalsium, fosfat, PTH, dan fungsi ginjal"
+          ],
+          "monitoring": [
+            "Kalsium serum",
+            "Fosfat serum",
+            "PTH",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Suplemen kalsium/vitamin D lain: risiko hiperkalsemia",
+            "Digoksin: aritmia dapat meningkat bila hiperkalsemia"
+          ],
+          "catatan": "Memerlukan pemantauan kalsium dan fosfat; bukan pengganti terapi vitamin D nutrisi pada semua pasien.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/calcitriol/PNG?image_size=300x300",
+          "merek": [
+            "Kolkatirol",
+            "Kolkatirol Forte",
+            "Oscal",
+            "Ostovel"
+          ]
+        },
+        {
+          "id": "kalsium-karbonat",
+          "nama": "Kalsium Karbonat",
+          "mekanisme": "Sumber ion kalsium untuk mendukung mineralisasi tulang dan mempertahankan kadar kalsium tubuh.",
+          "indikasi": [
+            "Suplementasi kalsium",
+            "Pencegahan/terapi kekurangan kalsium sebagai bagian dari pencegahan osteoporosis"
+          ],
+          "sediaan": [
+            "Kapsul/tablet 500 mg"
+          ],
+          "efek_samping": [
+            "Konstipasi",
+            "Kembung",
+            "Mual",
+            "Hiperkalsemia pada penggunaan berlebihan"
+          ],
+          "tatalaksana": [
+            "Dosis berdasarkan kebutuhan kalsium harian dan asupan makanan; umumnya diberikan bersama makanan"
+          ],
+          "monitoring": [
+            "Kalsium serum pada penggunaan dosis tinggi/berisiko",
+            "Fungsi ginjal",
+            "Gejala konstipasi"
+          ],
+          "interaksi": [
+            "Tetrasiklin/kuinolon/levotiroksin: absorpsi menurun, beri jarak waktu",
+            "Zat besi: absorpsi dapat menurun"
+          ],
+          "catatan": "Total asupan kalsium dari makanan dan suplemen perlu diperhitungkan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/calcium%20carbonate/PNG?image_size=300x300",
+          "merek": [
+            "Kalsium Karbonat (generik)",
+            "Formical-B",
+            "K2-Bone"
+          ]
+        },
+        {
+          "id": "cholecalciferol",
+          "nama": "Kolekalsiferol (Vitamin D3)",
+          "mekanisme": "Meningkatkan absorpsi kalsium dan fosfat serta mendukung mineralisasi tulang setelah diaktifkan melalui metabolisme vitamin D.",
+          "indikasi": [
+            "Defisiensi vitamin D",
+            "Suplementasi untuk kesehatan tulang",
+            "Pencegahan kekurangan vitamin D pada pasien berisiko"
+          ],
+          "sediaan": [
+            "Tablet/kapsul 1000 IU, 5000 IU, 10000 IU",
+            "Sediaan cair oral"
+          ],
+          "efek_samping": [
+            "Hiperkalsemia pada dosis berlebihan",
+            "Mual",
+            "Konstipasi",
+            "Kelemahan"
+          ],
+          "tatalaksana": [
+            "Dosis berdasarkan kadar 25-OH vitamin D dan kebutuhan pasien; diminum bersama makanan yang mengandung lemak"
+          ],
+          "monitoring": [
+            "25-OH vitamin D bila terapi dosis tinggi",
+            "Kalsium serum pada pasien berisiko",
+            "Fungsi ginjal sesuai kondisi"
+          ],
+          "interaksi": [
+            "Orlistat: dapat menurunkan absorpsi vitamin D",
+            "Tiazid: meningkatkan risiko hiperkalsemia"
+          ],
+          "catatan": "Dosis tinggi jangka panjang memerlukan pemantauan untuk mencegah toksisitas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cholecalciferol/PNG?image_size=300x300",
+          "merek": [
+            "Hi-D Vitamin D3",
+            "Prove D3",
+            "Vitamin D3 (generik)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pelemas-otot",
+      "kelas": "Pelemas Otot",
+      "mekanisme": "Menurunkan tonus atau spasme otot melalui modulasi refleks spinal atau neurotransmisi di sistem saraf pusat.",
+      "obat": [
+        {
+          "id": "eperisone",
+          "nama": "Eperison",
+          "mekanisme": "Bekerja sentral pada refleks spinal dan membantu menurunkan tonus otot rangka.",
+          "indikasi": [
+            "Spasme otot pada nyeri punggung/leher",
+            "Spastisitas muskuloskeletal tertentu"
+          ],
+          "sediaan": [
+            "Tablet 50 mg"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Pusing",
+            "Kelemahan otot",
+            "Mual",
+            "Ruam"
+          ],
+          "tatalaksana": [
+            "50 mg 3x/hari setelah makan pada dewasa, sesuai respons"
+          ],
+          "monitoring": [
+            "Respons nyeri dan spasme",
+            "Sedasi"
+          ],
+          "interaksi": [
+            "Depresan SSP: sedasi aditif",
+            "Antihipertensi: hipotensi dapat meningkat"
+          ],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/eperisone/PNG?image_size=300x300",
+          "merek": [
+            "Eperison (generik)",
+            "Myonal"
+          ]
+        },
+        {
+          "id": "tizanidine",
+          "nama": "Tizanidin",
+          "mekanisme": "Agonis alfa-2 adrenergik di medula spinalis yang mengurangi aktivitas refleks polisinaptik dan tonus otot.",
+          "indikasi": [
+            "Spasme dan spastisitas otot",
+            "Nyeri punggung dengan spasme otot"
+          ],
+          "sediaan": [
+            "Tablet 2 mg, 4 mg"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Mulut kering",
+            "Hipotensi",
+            "Kelemahan",
+            "Hepatotoksisitas"
+          ],
+          "tatalaksana": [
+            "Mulai 2 mg dan titrasi bertahap sesuai respons; sesuaikan pada gangguan hati/ginjal"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Fungsi hati",
+            "Sedasi"
+          ],
+          "interaksi": [
+            "Siprofloksasin dan fluvoksamin: kontraindikasi",
+            "Alkohol/depresan SSP: sedasi aditif"
+          ],
+          "catatan": "Penghentian dosis tinggi jangka panjang sebaiknya bertahap.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tizanidine/PNG?image_size=300x300",
+          "merek": [
+            "Tizanidine (generik)",
+            "Zitanid"
           ]
         }
       ]

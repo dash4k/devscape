@@ -108,6 +108,86 @@
             "Lasmalin",
             "Molasma"
           ]
+        },
+        {
+          "id": "procaterol",
+          "nama": "Procaterol",
+          "indikasi": [
+            "Pereda bronkospasme pada asma",
+            "Gejala obstruksi jalan napas pada bronkitis kronik dan emfisema"
+          ],
+          "sediaan": [
+            "Tablet 25 mcg",
+            "Sirup 25 mcg/5 mL",
+            "Inhaler 10 mcg/dosis",
+            "Larutan nebulisasi"
+          ],
+          "efek_samping": [
+            "Tremor",
+            "Palpitasi dan takikardia",
+            "Sakit kepala",
+            "Hipokalemia",
+            "Kram otot"
+          ],
+          "tatalaksana": [
+            "Inhalasi dewasa: 10 mcg per dosis sesuai kebutuhan/resep; jangan melebihi regimen yang ditetapkan produk",
+            "Oral digunakan sesuai dosis sediaan dan resep dokter"
+          ],
+          "monitoring": [
+            "Frekuensi nadi",
+            "Gejala bronkospasme dan respons klinis",
+            "Kalium serum pada penggunaan dosis tinggi atau berulang"
+          ],
+          "interaksi": [
+            "Penyekat beta nonselektif: dapat mengurangi efek bronkodilator dan memicu bronkospasme",
+            "Diuretik dan kortikosteroid: dapat meningkatkan risiko hipokalemia",
+            "Obat simpatomimetik lain: efek kardiovaskular dapat meningkat"
+          ],
+          "catatan": "Bronkodilator beta-2 agonis; bukan pengganti terapi pengontrol asma.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/procaterol/PNG?image_size=300x300",
+          "merek": [
+            "Ataroc",
+            "Meptin",
+            "Meptin Mini",
+            "Meptin Swinghaler"
+          ]
+        },
+        {
+          "id": "fenoterol",
+          "nama": "Fenoterol",
+          "indikasi": [
+            "Pereda bronkospasme pada asma",
+            "Bronkospasme pada penyakit paru obstruktif"
+          ],
+          "sediaan": [
+            "Inhaler 100 mcg/dosis",
+            "Larutan inhalasi 0,1%"
+          ],
+          "efek_samping": [
+            "Tremor",
+            "Takikardia",
+            "Palpitasi",
+            "Sakit kepala",
+            "Hipokalemia"
+          ],
+          "tatalaksana": [
+            "Inhalasi: gunakan 1 inhalasi sesuai kebutuhan dan instruksi produk; pada serangan berat dapat diperlukan terapi tambahan sesuai protokol klinis"
+          ],
+          "monitoring": [
+            "Frekuensi nadi",
+            "Respons klinis dan frekuensi penggunaan reliever",
+            "Kalium serum pada dosis tinggi atau berulang"
+          ],
+          "interaksi": [
+            "Penyekat beta: efek bronkodilator berlawanan",
+            "Diuretik dan kortikosteroid: risiko hipokalemia aditif",
+            "Obat simpatomimetik lain: dapat meningkatkan efek kardiovaskular"
+          ],
+          "catatan": "Gunakan dengan hati-hati pada pasien dengan penyakit kardiovaskular.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fenoterol/PNG?image_size=300x300",
+          "merek": [
+            "Berotec"
+          ]
         }
       ]
     },
@@ -203,6 +283,82 @@
             "Innovair (kombinasi)",
             "Symbicort (kombinasi dengan budesonide)"
           ]
+        },
+        {
+          "id": "indacaterol",
+          "nama": "Indacaterol",
+          "indikasi": [
+            "Terapi pemeliharaan bronkodilator pada PPOK"
+          ],
+          "sediaan": [
+            "Kapsul inhalasi 75 mcg",
+            "Kapsul inhalasi 150 mcg",
+            "Kapsul inhalasi 300 mcg"
+          ],
+          "efek_samping": [
+            "Batuk",
+            "Sakit kepala",
+            "Nasofaringitis",
+            "Tremor",
+            "Takikardia"
+          ],
+          "tatalaksana": [
+            "Inhalasi: 75 mcg 1x/hari untuk PPOK; dosis dan kekuatan lain mengikuti produk serta resep"
+          ],
+          "monitoring": [
+            "Gejala PPOK dan fungsi paru",
+            "Frekuensi nadi",
+            "Tanda bronkospasme paradoks"
+          ],
+          "interaksi": [
+            "Penyekat beta: dapat mengurangi efek bronkodilator",
+            "Diuretik non-penghemat kalium dan kortikosteroid: risiko hipokalemia",
+            "Inhibitor CYP3A4 kuat dapat meningkatkan paparan indacaterol"
+          ],
+          "catatan": "LABA untuk pemeliharaan PPOK; bukan untuk meredakan serangan bronkospasme akut.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/indacaterol/PNG?image_size=300x300",
+          "merek": [
+            "Onbrez Breezhaler"
+          ]
+        },
+        {
+          "id": "vilanterol",
+          "nama": "Vilanterol",
+          "indikasi": [
+            "Terapi pemeliharaan PPOK bila digunakan dalam kombinasi inhalasi yang disetujui",
+            "Terapi pemeliharaan asma hanya dalam kombinasi dengan kortikosteroid inhalasi"
+          ],
+          "sediaan": [
+            "Serbuk inhalasi 25 mcg/dosis",
+            "Kombinasi dengan fluticasone furoate",
+            "Kombinasi dengan fluticasone furoate dan umeclidinium"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Nasofaringitis",
+            "Tremor",
+            "Takikardia",
+            "Hipokalemia"
+          ],
+          "tatalaksana": [
+            "Inhalasi: 25 mcg 1x/hari dalam kombinasi produk yang disetujui",
+            "Bukan untuk serangan bronkospasme akut"
+          ],
+          "monitoring": [
+            "Kontrol gejala dan fungsi paru",
+            "Frekuensi nadi",
+            "Kalium serum pada pasien berisiko"
+          ],
+          "interaksi": [
+            "Penyekat beta: dapat mengurangi efek beta-2 agonis",
+            "Diuretik non-penghemat kalium dan kortikosteroid: risiko hipokalemia",
+            "Inhibitor MAO, antidepresan trisiklik, dan obat pemanjang QT: dapat meningkatkan risiko efek kardiovaskular"
+          ],
+          "catatan": "LABA; pada asma tidak digunakan sebagai monoterapi. Dalam produk Breo Ellipta, vilanterol 25 mcg dikombinasikan dengan flutikason furoat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/vilanterol/PNG?image_size=300x300",
+          "merek": [
+            "Trelegy Ellipta (kombinasi)"
+          ]
         }
       ]
     },
@@ -292,6 +448,44 @@
             "Spiolto Respimat",
             "Spiriva",
             "Spiriva Respimat"
+          ]
+        },
+        {
+          "id": "umeclidinium",
+          "nama": "Umeclidinium",
+          "indikasi": [
+            "Terapi pemeliharaan bronkodilator pada PPOK"
+          ],
+          "sediaan": [
+            "Serbuk inhalasi 62,5 mcg/dosis",
+            "Kombinasi dengan fluticasone furoate/vilanterol"
+          ],
+          "efek_samping": [
+            "Mulut kering",
+            "Nasofaringitis",
+            "Batuk",
+            "Sakit kepala",
+            "Konstipasi",
+            "Retensi urin"
+          ],
+          "tatalaksana": [
+            "Inhalasi: 62,5 mcg 1x/hari pada waktu yang sama setiap hari",
+            "Bukan untuk meredakan serangan bronkospasme akut"
+          ],
+          "monitoring": [
+            "Gejala PPOK dan fungsi paru",
+            "Gejala antikolinergik",
+            "Tekanan intraokular pada pasien berisiko",
+            "Gejala retensi urin"
+          ],
+          "interaksi": [
+            "Antikolinergik lain: efek antikolinergik aditif",
+            "Hati-hati dengan obat lain yang meningkatkan retensi urin atau tekanan intraokular"
+          ],
+          "catatan": "Jangan digunakan lebih dari 1 kali dalam 24 jam dan bukan sebagai terapi penyelamat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/umeclidinium/PNG?image_size=300x300",
+          "merek": [
+            "Trelegy Ellipta (kombinasi)"
           ]
         }
       ]
@@ -417,6 +611,47 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/beclomethasone%20dipropionate/PNG?image_size=300x300",
           "merek": [
             "Innovair (kombinasi)"
+          ]
+        },
+        {
+          "id": "fluticasone-furoate",
+          "nama": "Flutikason furoat",
+          "indikasi": [
+            "Terapi pengontrol asma",
+            "Dalam kombinasi dengan LABA untuk terapi pemeliharaan penyakit saluran napas obstruktif tertentu"
+          ],
+          "sediaan": [
+            "Serbuk inhalasi 50 mcg/dosis",
+            "Serbuk inhalasi 100 mcg/dosis",
+            "Serbuk inhalasi 200 mcg/dosis",
+            "Kombinasi dengan vilanterol dan/atau umeclidinium"
+          ],
+          "efek_samping": [
+            "Kandidiasis orofaring",
+            "Disfonia",
+            "Sakit kepala",
+            "Infeksi saluran napas",
+            "Supresi adrenal pada pajanan tinggi"
+          ],
+          "tatalaksana": [
+            "Inhalasi: 1 inhalasi 1x/hari; pada asma dosis 100 atau 200 mcg 1x/hari disesuaikan dengan keparahan dan terapi sebelumnya",
+            "Berkumur dengan air dan buang setelah inhalasi"
+          ],
+          "monitoring": [
+            "Kontrol gejala dan fungsi paru",
+            "Pemeriksaan mulut",
+            "Pertumbuhan pada anak",
+            "Tanda supresi adrenal dan kesehatan tulang pada penggunaan jangka panjang"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat seperti ritonavir atau ketokonazol: meningkatkan paparan kortikosteroid",
+            "Kombinasi dengan kortikosteroid sistemik: meningkatkan risiko efek kortikosteroid"
+          ],
+          "catatan": "Bukan untuk serangan bronkospasme akut. Sumber FDA mencantumkan penggunaan pemeliharaan asma 1x/hari dan kekuatan 100/200 mcg untuk pasien ≥12 tahun.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fluticasone%20furoate/PNG?image_size=300x300",
+          "merek": [
+            "Avamys (nasal)",
+            "Trelegy Ellipta (kombinasi)"
           ]
         }
       ]
@@ -737,6 +972,44 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bromhexine/PNG?image_size=300x300",
           "merek": [
             "Bisolvon"
+          ]
+        },
+        {
+          "id": "erdosteine",
+          "nama": "Erdosteine",
+          "indikasi": [
+            "Mukolitik untuk batuk produktif dengan dahak kental",
+            "Terapi tambahan pada penyakit saluran napas dengan hipersekresi mukus, termasuk bronkitis kronik dan PPOK"
+          ],
+          "sediaan": [
+            "Kapsul 300 mg",
+            "Granul/suspensi oral 175 mg/5 mL"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Nyeri perut",
+            "Diare",
+            "Sakit kepala",
+            "Reaksi kulit/hipersensitivitas"
+          ],
+          "tatalaksana": [
+            "Dewasa: 300 mg 2x/hari atau sesuai sediaan dan resep",
+            "Dapat diberikan bersama atau setelah makan sesuai formulasi"
+          ],
+          "monitoring": [
+            "Respons batuk dan jumlah/viskositas dahak",
+            "Toleransi gastrointestinal",
+            "Tanda reaksi hipersensitivitas"
+          ],
+          "interaksi": [
+            "Antitusif: penggunaan bersamaan dapat menghambat pengeluaran dahak dan perlu dipertimbangkan secara klinis"
+          ],
+          "catatan": "Erdosteine merupakan mukolitik; tidak digunakan untuk mengatasi serangan bronkospasme akut.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/erdosteine/PNG?image_size=300x300",
+          "merek": [
+            "Erdosteine",
+            "Vectrine",
+            "Vectrine DS"
           ]
         }
       ]
