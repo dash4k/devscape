@@ -125,6 +125,42 @@
           "merek": [
             "Tensidox"
           ]
+        },
+        {
+          "id": "terazosin",
+          "nama": "Terazosin",
+          "indikasi": [
+            "Hiperplasia prostat jinak (BPH) simtomatik",
+            "Hipertensi"
+          ],
+          "sediaan": [
+            "Tablet 1 mg, 2 mg, 5 mg, 10 mg"
+          ],
+          "efek_samping": [
+            "Hipotensi ortostatik",
+            "Pusing",
+            "Sinkop",
+            "Kelelahan"
+          ],
+          "tatalaksana": [
+            "Awal 1 mg saat tidur, titrasi bertahap sesuai respons",
+            "BPH: titrasi bertahap sampai dosis pemeliharaan yang efektif"
+          ],
+          "monitoring": [
+            "Tekanan darah ortostatik",
+            "Gejala BPH",
+            "Pusing atau sinkop"
+          ],
+          "interaksi": [
+            "PDE-5 inhibitor: hipotensi aditif",
+            "Antihipertensi lain: efek hipotensi aditif"
+          ],
+          "catatan": "Dosis pertama sebaiknya diberikan sebelum tidur karena risiko fenomena dosis pertama.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/terazosin/PNG?image_size=300x300",
+          "merek": [
+            "Hytrin",
+            "Hytroz"
+          ]
         }
       ]
     },
@@ -255,6 +291,40 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/mirabegron/PNG?image_size=300x300",
           "merek": [
             "Betmiga"
+          ]
+        },
+        {
+          "id": "solifenacin",
+          "nama": "Solifenacin",
+          "indikasi": [
+            "Kandung kemih overaktif dengan urgensi, frekuensi, atau inkontinensia urgensi"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg"
+          ],
+          "efek_samping": [
+            "Mulut kering",
+            "Konstipasi",
+            "Pandangan kabur",
+            "Retensi urin",
+            "Perpanjangan QT pada kondisi tertentu"
+          ],
+          "tatalaksana": [
+            "5 mg 1x/hari, dapat dinaikkan menjadi 10 mg 1x/hari sesuai toleransi"
+          ],
+          "monitoring": [
+            "Gejala kandung kemih overaktif",
+            "Residu urin bila berisiko retensi",
+            "Konstipasi dan efek antikolinergik"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat dapat meningkatkan kadar",
+            "Antikolinergik lain meningkatkan efek samping"
+          ],
+          "catatan": "Hati-hati pada retensi urin, glaukoma sudut sempit, dan pasien lanjut usia dengan beban antikolinergik tinggi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/solifenacin/PNG?image_size=300x300",
+          "merek": [
+            "Vesicare"
           ]
         }
       ]
@@ -609,6 +679,331 @@
             "Prrex 40000",
             "Recormon 5000",
             "Renogen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diuretik-loop",
+      "kelas": "Diuretik Loop",
+      "mekanisme": "Menghambat kotransporter Na-K-2Cl pada ansa Henle bagian tebal sehingga meningkatkan ekskresi natrium, klorida, dan air.",
+      "obat": [
+        {
+          "id": "furosemide",
+          "nama": "Furosemide",
+          "indikasi": [
+            "Edema akibat gagal jantung, penyakit ginjal, atau penyakit hati",
+            "Hipertensi",
+            "Edema akut paru"
+          ],
+          "sediaan": [
+            "Tablet 20 mg, 40 mg",
+            "Injeksi IV/IM 20 mg/2 mL"
+          ],
+          "efek_samping": [
+            "Hipokalemia",
+            "Hiponatremia",
+            "Dehidrasi dan hipotensi",
+            "Ototoksisitas pada dosis tinggi/IV cepat",
+            "Hiperurisemia"
+          ],
+          "tatalaksana": [
+            "Edema: 20-80 mg oral 1x/hari, titrasi sesuai respons",
+            "Edema akut paru: 40 mg IV, dapat diulang/titrasi sesuai respons klinis"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Berat badan dan status cairan",
+            "Natrium, kalium, magnesium",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "NSAID dapat menurunkan efek diuretik",
+            "Aminoglikosida meningkatkan risiko ototoksisitas",
+            "Digoksin: hipokalemia meningkatkan risiko toksisitas"
+          ],
+          "catatan": "Gunakan dosis efektif terendah dan pantau status volume serta elektrolit.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/furosemide/PNG?image_size=300x300",
+          "merek": [
+            "Lasix"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diuretik-tiazid",
+      "kelas": "Diuretik Tiazid",
+      "mekanisme": "Menghambat kotransporter Na-Cl pada tubulus distal sehingga meningkatkan ekskresi natrium dan air.",
+      "obat": [
+        {
+          "id": "hidroklorotiazid",
+          "nama": "Hidroklorotiazid",
+          "mekanisme": "Menghambat kotransporter Na-Cl pada tubulus distal sehingga meningkatkan ekskresi natrium dan air.",
+          "indikasi": [
+            "Hipertensi",
+            "Edema ringan akibat gagal jantung atau gangguan ginjal tertentu"
+          ],
+          "sediaan": [
+            "Tablet 25 mg"
+          ],
+          "efek_samping": [
+            "Hipokalemia",
+            "Hiponatremia",
+            "Hiperurisemia",
+            "Hiperglikemia",
+            "Fotosensitivitas"
+          ],
+          "tatalaksana": [
+            "Awal 12,5-25 mg 1x/hari, biasanya pagi hari; titrasi sesuai respons"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Natrium dan kalium",
+            "Fungsi ginjal",
+            "Glukosa dan asam urat bila berisiko"
+          ],
+          "interaksi": [
+            "NSAID dapat mengurangi efek diuretik",
+            "Digoksin: hipokalemia meningkatkan risiko toksisitas",
+            "Litium: kadar litium dapat meningkat"
+          ],
+          "catatan": "Efek diuretik berkurang pada fungsi ginjal yang sangat rendah; sesuaikan terapi berdasarkan eGFR.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydrochlorothiazide/PNG?image_size=300x300",
+          "merek": []
+        }
+      ]
+    },
+    {
+      "id": "antagonis-aldosteron",
+      "kelas": "Antagonis Aldosteron",
+      "mekanisme": "Menghambat reseptor mineralokortikoid sehingga mengurangi reabsorpsi natrium dan retensi cairan serta mengurangi kehilangan kalium.",
+      "obat": [
+        {
+          "id": "spironolakton",
+          "nama": "Spironolakton",
+          "indikasi": [
+            "Edema dan gagal jantung dengan fraksi ejeksi berkurang",
+            "Hiperaldosteronisme",
+            "Hipertensi resisten"
+          ],
+          "sediaan": [
+            "Tablet 25 mg, 50 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Hiperkalemia",
+            "Gangguan fungsi ginjal",
+            "Ginekomastia",
+            "Gangguan menstruasi"
+          ],
+          "tatalaksana": [
+            "Gagal jantung: sering dimulai 25 mg 1x/hari dan dititrasi sesuai toleransi",
+            "Hipertensi/edema: 25-100 mg/hari sesuai respons"
+          ],
+          "monitoring": [
+            "Kalium serum",
+            "Kreatinin/eGFR",
+            "Tekanan darah",
+            "Berat badan dan status cairan"
+          ],
+          "interaksi": [
+            "ACE inhibitor/ARB: risiko hiperkalemia meningkat",
+            "Suplemen kalium: hindari bila tidak diperlukan",
+            "NSAID dapat memperburuk fungsi ginjal dan meningkatkan risiko hiperkalemia"
+          ],
+          "catatan": "Hindari atau gunakan sangat hati-hati pada hiperkalemia dan gangguan ginjal berat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/spironolactone/PNG?image_size=300x300",
+          "merek": [
+            "Spironolakton"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pengikat-kalium",
+      "kelas": "Pengikat Kalium",
+      "mekanisme": "Mengikat kalium di saluran cerna atau menukar kation sehingga meningkatkan eliminasi kalium melalui feses.",
+      "obat": [
+        {
+          "id": "calcium-polystyrene-sulfonate",
+          "nama": "Calcium Polystyrene Sulfonate",
+          "indikasi": [
+            "Hiperkalemia"
+          ],
+          "sediaan": [
+            "Serbuk oral 5 g"
+          ],
+          "efek_samping": [
+            "Konstipasi",
+            "Hiperkalsemia",
+            "Gangguan elektrolit",
+            "Efek samping gastrointestinal"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan berdasarkan kadar kalium dan respons klinis; diberikan oral sesuai protokol"
+          ],
+          "monitoring": [
+            "Kalium serum",
+            "Kalsium dan elektrolit lain",
+            "Fungsi usus"
+          ],
+          "interaksi": [
+            "Dapat mengikat obat oral lain; beri jarak pemberian",
+            "Antasida atau laksatif tertentu dapat meningkatkan risiko gangguan GI"
+          ],
+          "catatan": "Bukan terapi pilihan untuk penurunan kalium yang sangat cepat pada keadaan gawat; tata laksana emergensi tetap diperlukan bila ada perubahan EKG.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/calcium%20polystyrene%20sulfonate/PNG?image_size=300x300",
+          "merek": [
+            "KaliTaki",
+            "Calcium Polystyrene Sulfonate"
+          ]
+        },
+        {
+          "id": "sodium-zirconium-cyclosilicate",
+          "nama": "Sodium Zirconium Cyclosilicate",
+          "indikasi": [
+            "Hiperkalemia"
+          ],
+          "sediaan": [
+            "Sachet 5 g, 10 g"
+          ],
+          "efek_samping": [
+            "Edema",
+            "Hipokalemia",
+            "Gangguan elektrolit"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan berdasarkan kadar kalium; fase koreksi dan pemeliharaan mengikuti respons"
+          ],
+          "monitoring": [
+            "Kalium serum",
+            "Edema dan berat badan",
+            "Natrium serum pada pasien berisiko"
+          ],
+          "interaksi": [
+            "Dapat menurunkan absorpsi obat oral tertentu; beri jarak sesuai petunjuk produk"
+          ],
+          "catatan": "Mengandung natrium sehingga pantau retensi cairan terutama pada gagal jantung atau penyakit ginjal.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sodium%20zirconium%20cyclosilicate/PNG?image_size=300x300",
+          "merek": [
+            "Lokelma"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "terapi-anemia-ckd",
+      "kelas": "Terapi Anemia pada Penyakit Ginjal Kronik",
+      "mekanisme": "Mengatasi defisiensi besi atau merangsang eritropoiesis pada anemia penyakit ginjal kronik.",
+      "obat": [
+        {
+          "id": "iron-sucrose",
+          "nama": "Iron Sucrose (Besi Sukrosa)",
+          "indikasi": [
+            "Defisiensi besi pada anemia penyakit ginjal kronik, termasuk pasien hemodialisis"
+          ],
+          "sediaan": [
+            "Injeksi IV 100 mg/5 mL"
+          ],
+          "efek_samping": [
+            "Reaksi infus",
+            "Hipotensi",
+            "Mual",
+            "Reaksi hipersensitivitas (jarang)"
+          ],
+          "tatalaksana": [
+            "Dosis IV berdasarkan defisit besi dan protokol dialisis; sering diberikan dalam beberapa dosis selama beberapa minggu"
+          ],
+          "monitoring": [
+            "Hemoglobin",
+            "Feritin",
+            "Saturasi transferin (TSAT)",
+            "Tanda reaksi infus"
+          ],
+          "interaksi": [
+            "Preparat besi parenteral lain: hindari duplikasi terapi",
+            "Eritropoiesis-stimulating agent sering digunakan bersamaan bila diindikasikan"
+          ],
+          "catatan": "Berikan dengan fasilitas penanganan reaksi hipersensitivitas dan evaluasi status besi secara berkala.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/iron%20sucrose/PNG?image_size=300x300",
+          "merek": [
+            "Venofer"
+          ]
+        },
+        {
+          "id": "epoetin-beta",
+          "nama": "Epoetin Beta",
+          "indikasi": [
+            "Anemia akibat penyakit ginjal kronik"
+          ],
+          "sediaan": [
+            "Injeksi SC/IV, beberapa kekuatan unit/mL tergantung produk"
+          ],
+          "efek_samping": [
+            "Hipertensi",
+            "Tromboemboli",
+            "Sakit kepala",
+            "Risiko kejadian kardiovaskular bila Hb ditargetkan terlalu tinggi"
+          ],
+          "tatalaksana": [
+            "Dosis individual berdasarkan berat badan, kadar Hb, dan respons; titrasi untuk menghindari target Hb yang terlalu tinggi"
+          ],
+          "monitoring": [
+            "Hemoglobin",
+            "Tekanan darah",
+            "Feritin dan TSAT",
+            "Tanda tromboemboli"
+          ],
+          "interaksi": [
+            "Suplemen besi diperlukan bila cadangan besi tidak memadai",
+            "Obat antihipertensi mungkin perlu disesuaikan bila tekanan darah meningkat"
+          ],
+          "catatan": "Gunakan target hemoglobin yang konservatif dan koreksi defisiensi besi sebelum atau selama terapi.",
+          "gambar": null,
+          "merek": [
+            "Recormon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alkalisasi-metabolik",
+      "kelas": "Alkalisasi pada Asidosis Metabolik",
+      "mekanisme": "Menyediakan bikarbonat untuk meningkatkan kadar bikarbonat serum pada kondisi asidosis metabolik tertentu.",
+      "obat": [
+        {
+          "id": "natrium-bikarbonat",
+          "nama": "Natrium Bikarbonat",
+          "indikasi": [
+            "Asidosis metabolik, termasuk pada penyakit ginjal kronik atau asidosis tubulus ginjal pada pasien terpilih"
+          ],
+          "sediaan": [
+            "Tablet/kapsul oral",
+            "Injeksi IV"
+          ],
+          "efek_samping": [
+            "Alkalosis metabolik",
+            "Hipernatremia",
+            "Retensi cairan dan edema",
+            "Hipokalemia"
+          ],
+          "tatalaksana": [
+            "Dosis individual berdasarkan kadar bikarbonat serum dan penyebab asidosis"
+          ],
+          "monitoring": [
+            "Bikarbonat serum",
+            "Natrium dan kalium",
+            "Status volume",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Antasida atau obat yang mengandung natrium meningkatkan beban natrium",
+            "Dapat mempengaruhi absorpsi beberapa obat bila diberikan bersamaan"
+          ],
+          "catatan": "Gunakan dengan pemantauan elektrolit dan status volume, terutama pada gagal jantung atau penyakit ginjal.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sodium%20bicarbonate/PNG?image_size=300x300",
+          "merek": [
+            "Meylon",
+            "Natrium Bikarbonat (generik)"
           ]
         }
       ]

@@ -176,6 +176,189 @@
           "merek": [
             "Difenhidramin (generik)"
           ]
+        },
+        {
+          "id": "desloratadine",
+          "nama": "Desloratadine",
+          "mekanisme": "Antihistamin H1 generasi kedua yang selektif pada reseptor H1 perifer dan memiliki efek sedasi minimal",
+          "indikasi": [
+            "Rinitis alergi",
+            "Urtikaria kronik idiopatik"
+          ],
+          "sediaan": [
+            "Tablet 5 mg",
+            "Sirup 0,5 mg/mL"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Mulut kering",
+            "Kelelahan",
+            "Mengantuk (jarang)"
+          ],
+          "tatalaksana": [
+            "Dewasa dan anak ≥12 tahun: 5 mg 1x/hari",
+            "Anak 6-11 tahun: dosis disesuaikan berdasarkan sediaan dan rekomendasi produk"
+          ],
+          "monitoring": [
+            "Respons gejala alergi",
+            "Fungsi hati/ginjal pada gangguan berat"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4 kuat dapat meningkatkan kadar desloratadine",
+            "Alkohol/depresan SSP dapat meningkatkan sedasi pada individu yang sensitif"
+          ],
+          "catatan": "Umumnya menyebabkan sedasi minimal; sesuaikan penggunaan pada gangguan hati atau ginjal berat.",
+          "gambar": null,
+          "merek": [
+            "Aerius",
+            "Desloratadine (generik)"
+          ]
+        },
+        {
+          "id": "feniramin",
+          "nama": "Feniramin",
+          "mekanisme": "Antihistamin H1 generasi pertama yang menghambat efek histamin dan dapat menyebabkan sedasi",
+          "indikasi": [
+            "Rinitis alergi",
+            "Urtikaria dan pruritus",
+            "Reaksi alergi"
+          ],
+          "sediaan": [
+            "Tablet 25 mg",
+            "Sediaan injeksi tersedia untuk beberapa garam/sediaan"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Mulut kering",
+            "Pandangan kabur",
+            "Retensi urin"
+          ],
+          "tatalaksana": [
+            "Dewasa: dosis mengikuti sediaan dan kebutuhan klinis; gunakan dosis terendah efektif"
+          ],
+          "monitoring": [
+            "Respons alergi",
+            "Sedasi",
+            "Efek antikolinergik"
+          ],
+          "interaksi": [
+            "Alkohol dan depresan SSP: meningkatkan sedasi",
+            "Antikolinergik lain: efek aditif",
+            "MAOI: dapat memperkuat efek antikolinergik"
+          ],
+          "catatan": "Hindari mengemudi atau aktivitas yang memerlukan kewaspadaan bila mengantuk.",
+          "gambar": null,
+          "merek": [
+            "Avil"
+          ]
+        },
+        {
+          "id": "hidroksizin",
+          "nama": "Hidroksizin",
+          "mekanisme": "Antagonis reseptor H1 dengan efek antihistamin, ansiolitik, antiemetik, dan sedatif",
+          "indikasi": [
+            "Pruritus akibat alergi",
+            "Urtikaria",
+            "Kecemasan jangka pendek pada indikasi tertentu"
+          ],
+          "sediaan": [
+            "Tablet 25 mg"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Mulut kering",
+            "Pusing",
+            "Pemanjangan QT/aritmia pada individu berisiko"
+          ],
+          "tatalaksana": [
+            "Dewasa: dosis disesuaikan dengan indikasi; gunakan dosis efektif terendah"
+          ],
+          "monitoring": [
+            "Sedasi",
+            "Respons gejala alergi",
+            "Faktor risiko aritmia/QT"
+          ],
+          "interaksi": [
+            "Obat pemanjang QT: risiko aritmia meningkat",
+            "Depresan SSP dan alkohol: sedasi aditif"
+          ],
+          "catatan": "Hindari pada pasien dengan risiko tinggi pemanjangan QT; gunakan hati-hati pada lansia.",
+          "gambar": null,
+          "merek": [
+            "Bestalin"
+          ]
+        },
+        {
+          "id": "klorfeniramin",
+          "nama": "Klorfeniramin",
+          "mekanisme": "Antihistamin H1 generasi pertama yang menghambat efek histamin pada jaringan perifer",
+          "indikasi": [
+            "Rinitis alergi",
+            "Urtikaria",
+            "Gejala alergi saluran napas atas"
+          ],
+          "sediaan": [
+            "Tablet 4 mg",
+            "Sirup pada beberapa sediaan"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Mulut kering",
+            "Pusing",
+            "Retensi urin"
+          ],
+          "tatalaksana": [
+            "Dewasa: 4 mg setiap 4-6 jam sesuai kebutuhan; ikuti batas dosis pada produk"
+          ],
+          "monitoring": [
+            "Respons alergi",
+            "Sedasi",
+            "Efek antikolinergik"
+          ],
+          "interaksi": [
+            "Alkohol/depresan SSP: sedasi aditif",
+            "MAOI: meningkatkan efek antikolinergik",
+            "Antikolinergik lain: efek aditif"
+          ],
+          "catatan": "Gunakan hati-hati pada glaukoma sudut sempit, retensi urin, dan lansia.",
+          "gambar": null,
+          "merek": [
+            "CTM",
+            "Klorfeniramin Maleat (generik)"
+          ]
+        },
+        {
+          "id": "feksofenadin",
+          "nama": "Fexofenadine",
+          "mekanisme": "Antihistamin H1 generasi kedua yang selektif pada reseptor H1 perifer dan minim menembus sawar darah otak",
+          "indikasi": [
+            "Rinitis alergi",
+            "Urtikaria kronik idiopatik"
+          ],
+          "sediaan": [
+            "Tablet 30 mg, 60 mg, 120 mg, 180 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Mual",
+            "Pusing (jarang)"
+          ],
+          "tatalaksana": [
+            "Dewasa: 120 mg 1x/hari untuk rinitis alergi atau 180 mg 1x/hari untuk urtikaria, sesuai produk"
+          ],
+          "monitoring": [
+            "Respons gejala alergi",
+            "Fungsi ginjal bila terdapat gangguan ginjal"
+          ],
+          "interaksi": [
+            "Antasida aluminium/magnesium: dapat menurunkan absorpsi; beri jarak beberapa jam",
+            "Jus grapefruit/oranye/apel dapat menurunkan absorpsi"
+          ],
+          "catatan": "Antihistamin dengan sedasi minimal; hindari penggunaan bersamaan dengan antasida tertentu tanpa jeda.",
+          "gambar": null,
+          "merek": [
+            "Telfast"
+          ]
         }
       ]
     },
@@ -771,6 +954,553 @@
             "Tranexid",
             "Transamin",
             "Tranxa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agen-hematopoietik",
+      "kelas": "Agen Hematopoietik",
+      "mekanisme": "Merangsang pembentukan sel darah atau pemulihan neutrofil melalui analog faktor pertumbuhan hematopoietik",
+      "obat": [
+        {
+          "id": "epoetin-alfa",
+          "nama": "Epoetin Alfa",
+          "mekanisme": "Analog rekombinan eritropoietin manusia yang merangsang eritropoiesis di sumsum tulang",
+          "indikasi": [
+            "Anemia akibat penyakit ginjal kronik",
+            "Anemia akibat kemoterapi pada kondisi tertentu",
+            "Mengurangi kebutuhan transfusi pada kondisi tertentu"
+          ],
+          "sediaan": [
+            "Injeksi SC/IV berbagai konsentrasi, termasuk prefilled syringe"
+          ],
+          "efek_samping": [
+            "Hipertensi",
+            "Sakit kepala",
+            "Nyeri tempat suntikan",
+            "Tromboemboli",
+            "Jarang: aplasia sel darah merah murni akibat antibodi"
+          ],
+          "tatalaksana": [
+            "Dosis individual berdasarkan kadar hemoglobin, penyebab anemia, dan respons; koreksi defisiensi besi sebelum/selama terapi"
+          ],
+          "monitoring": [
+            "Hemoglobin",
+            "Tekanan darah",
+            "Status besi/ferritin dan saturasi transferrin",
+            "Tanda tromboemboli"
+          ],
+          "interaksi": [
+            "Antihipertensi: mungkin perlu penyesuaian karena tekanan darah dapat meningkat",
+            "Obat yang meningkatkan risiko trombosis: risiko dapat bertambah"
+          ],
+          "catatan": "Gunakan target hemoglobin yang sesuai pedoman dan hindari koreksi terlalu cepat karena meningkatkan risiko kejadian kardiovaskular.",
+          "gambar": null,
+          "merek": [
+            "Hemapo",
+            "Efesa",
+            "Renogen"
+          ]
+        },
+        {
+          "id": "epoetin-beta",
+          "nama": "Epoetin Beta",
+          "mekanisme": "Analog rekombinan eritropoietin yang merangsang produksi sel darah merah",
+          "indikasi": [
+            "Anemia akibat penyakit ginjal kronik",
+            "Anemia pada pasien kanker yang menerima kemoterapi pada kondisi tertentu"
+          ],
+          "sediaan": [
+            "Injeksi SC/IV"
+          ],
+          "efek_samping": [
+            "Hipertensi",
+            "Sakit kepala",
+            "Tromboemboli",
+            "Reaksi tempat suntikan"
+          ],
+          "tatalaksana": [
+            "Dosis dititrasi berdasarkan hemoglobin dan respons pasien"
+          ],
+          "monitoring": [
+            "Hemoglobin",
+            "Tekanan darah",
+            "Ferritin dan saturasi transferrin",
+            "Tanda tromboemboli"
+          ],
+          "interaksi": [
+            "Antihipertensi: kebutuhan dapat berubah",
+            "Terapi yang meningkatkan risiko trombosis: risiko aditif"
+          ],
+          "catatan": "Terapi harus disertai evaluasi penyebab anemia dan kecukupan zat besi.",
+          "gambar": null,
+          "merek": [
+            "Recormon"
+          ]
+        },
+        {
+          "id": "lenograstim",
+          "nama": "Lenograstim",
+          "mekanisme": "Granulocyte colony-stimulating factor (G-CSF) rekombinan yang merangsang proliferasi dan diferensiasi prekursor neutrofil",
+          "indikasi": [
+            "Pencegahan atau pengurangan neutropenia akibat kemoterapi",
+            "Pemulihan neutrofil setelah transplantasi atau terapi tertentu",
+            "Mobilisasi sel punca hematopoietik"
+          ],
+          "sediaan": [
+            "Injeksi SC/IV dalam bentuk vial serbuk untuk rekonstitusi"
+          ],
+          "efek_samping": [
+            "Nyeri tulang",
+            "Leukositosis",
+            "Sakit kepala",
+            "Reaksi tempat suntikan",
+            "Splenomegali/ruptur limpa (jarang)"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan dengan indikasi dan protokol kemoterapi/transplantasi; umumnya diberikan setelah kemoterapi dan tidak bersamaan dengan sitotoksik"
+          ],
+          "monitoring": [
+            "Hitung darah lengkap dan ANC",
+            "Nyeri tulang",
+            "Gejala nyeri kuadran kiri atas abdomen"
+          ],
+          "interaksi": [
+            "Kemoterapi sitotoksik: berikan dengan interval yang sesuai protokol",
+            "Litium dapat memperkuat respons leukosit"
+          ],
+          "catatan": "Jangan diberikan terlalu dekat dengan kemoterapi sitotoksik; evaluasi nyeri perut kiri atas yang berat karena dapat menandakan komplikasi limpa.",
+          "gambar": null,
+          "merek": [
+            "Granocyte"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antikoagulan",
+      "kelas": "Antikoagulan",
+      "mekanisme": "Menghambat berbagai tahap kaskade koagulasi untuk mencegah atau mengobati pembentukan trombus",
+      "obat": [
+        {
+          "id": "heparin",
+          "nama": "Heparin",
+          "mekanisme": "Mengikat antitrombin dan mempercepat inaktivasi trombin serta faktor Xa sehingga menghambat pembentukan bekuan",
+          "indikasi": [
+            "Pencegahan dan terapi trombosis vena dalam/emboli paru",
+            "Antikoagulasi pada sindrom koroner akut",
+            "Antikoagulasi selama prosedur tertentu"
+          ],
+          "sediaan": [
+            "Injeksi IV/SC berbagai konsentrasi"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Trombositopenia akibat heparin (HIT)",
+            "Hematoma tempat suntikan",
+            "Osteoporosis pada penggunaan lama"
+          ],
+          "tatalaksana": [
+            "Dosis berdasarkan indikasi dan berat badan; terapi IV dititrasi berdasarkan aPTT atau anti-Xa sesuai protokol"
+          ],
+          "monitoring": [
+            "aPTT atau anti-Xa",
+            "Hitung trombosit",
+            "Hemoglobin/hematokrit",
+            "Tanda perdarahan"
+          ],
+          "interaksi": [
+            "Antiplatelet, NSAID, antikoagulan lain: meningkatkan risiko perdarahan",
+            "Protamin: membalikkan efek heparin"
+          ],
+          "catatan": "Jangan diberikan IM karena risiko hematoma; curigai HIT bila trombosit turun setelah paparan heparin.",
+          "gambar": null,
+          "merek": [
+            "Heparin (generik)",
+            "Hepagusan",
+            "Heparinol",
+            "Inviclot"
+          ]
+        },
+        {
+          "id": "fondaparinuks",
+          "nama": "Fondaparinux",
+          "mekanisme": "Antikoagulan sintetik yang secara selektif menghambat faktor Xa melalui antitrombin",
+          "indikasi": [
+            "Profilaksis tromboemboli vena setelah operasi tertentu",
+            "Terapi trombosis vena dalam dan emboli paru",
+            "Sindrom koroner akut pada indikasi tertentu"
+          ],
+          "sediaan": [
+            "Injeksi SC 2,5 mg/0,5 mL; konsentrasi lain sesuai indikasi"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Anemia",
+            "Reaksi tempat suntikan"
+          ],
+          "tatalaksana": [
+            "Dosis berdasarkan indikasi dan berat badan; kontraindikasi pada gangguan ginjal berat"
+          ],
+          "monitoring": [
+            "Tanda perdarahan",
+            "Hemoglobin/hematokrit",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Antikoagulan/antiplatelet/NSAID: risiko perdarahan meningkat"
+          ],
+          "catatan": "Hindari pada gangguan ginjal berat; tidak digunakan untuk membalikkan efek heparin.",
+          "gambar": null,
+          "merek": [
+            "Arixtra",
+            "Diviti"
+          ]
+        },
+        {
+          "id": "dabigatran",
+          "nama": "Dabigatran",
+          "mekanisme": "Prodrug yang setelah diaktifkan menjadi inhibitor langsung trombin sehingga menghambat pembentukan fibrin",
+          "indikasi": [
+            "Pencegahan stroke dan emboli sistemik pada fibrilasi atrium nonvalvular",
+            "Terapi dan pencegahan kekambuhan tromboemboli vena",
+            "Profilaksis tromboemboli vena setelah operasi tertentu"
+          ],
+          "sediaan": [
+            "Kapsul 75 mg, 110 mg, 150 mg"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Dispepsia",
+            "Anemia",
+            "Jarang: gangguan fungsi hati"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan dengan indikasi, usia, fungsi ginjal, dan risiko perdarahan"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Hemoglobin/hematokrit",
+            "Tanda perdarahan"
+          ],
+          "interaksi": [
+            "P-gp inhibitor/inducer dapat mengubah kadar dabigatran",
+            "Antiplatelet dan NSAID: meningkatkan risiko perdarahan"
+          ],
+          "catatan": "Fungsi ginjal harus diperiksa sebelum dan selama terapi; idarucizumab merupakan antidot spesifik pada perdarahan yang mengancam jiwa.",
+          "gambar": null,
+          "merek": [
+            "Pradaxa"
+          ]
+        },
+        {
+          "id": "edoksaban",
+          "nama": "Edoxaban",
+          "mekanisme": "Inhibitor langsung faktor Xa yang menghambat pembentukan trombin dan bekuan fibrin",
+          "indikasi": [
+            "Pencegahan stroke dan emboli sistemik pada fibrilasi atrium nonvalvular",
+            "Terapi trombosis vena dalam dan emboli paru setelah terapi antikoagulan parenteral awal"
+          ],
+          "sediaan": [
+            "Tablet 30 mg, 60 mg"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Anemia",
+            "Ruam atau gangguan gastrointestinal"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan dengan fungsi ginjal, berat badan, dan obat yang digunakan bersamaan"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Hemoglobin/hematokrit",
+            "Tanda perdarahan"
+          ],
+          "interaksi": [
+            "P-gp inhibitor tertentu dapat meningkatkan paparan obat",
+            "Antiplatelet dan NSAID: meningkatkan risiko perdarahan"
+          ],
+          "catatan": "Gunakan sesuai kriteria dosis berdasarkan fungsi ginjal dan berat badan; hindari penghentian mendadak tanpa pengganti antikoagulan bila terapi masih diperlukan.",
+          "gambar": null,
+          "merek": [
+            "Lixiana"
+          ]
+        },
+        {
+          "id": "warfarin",
+          "nama": "Warfarin",
+          "mekanisme": "Menghambat vitamin K epoxide reductase sehingga menurunkan sintesis faktor koagulasi II, VII, IX, dan X",
+          "indikasi": [
+            "Pencegahan dan terapi tromboemboli vena",
+            "Pencegahan stroke pada fibrilasi atrium",
+            "Antikoagulasi pada katup jantung mekanik"
+          ],
+          "sediaan": [
+            "Tablet 2 mg, 3 mg dan kekuatan lain sesuai produk"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Ekimosis",
+            "Nekrosis kulit (jarang)",
+            "Teratogenik"
+          ],
+          "tatalaksana": [
+            "Dosis individual berdasarkan INR; titrasi bertahap sampai target INR sesuai indikasi"
+          ],
+          "monitoring": [
+            "INR secara berkala",
+            "Hemoglobin/hematokrit",
+            "Tanda perdarahan",
+            "Fungsi hati bila diperlukan"
+          ],
+          "interaksi": [
+            "Banyak interaksi obat; antibiotik, amiodaron, antijamur, dan obat lain dapat meningkatkan INR",
+            "Vitamin K menurunkan efek warfarin",
+            "Makanan tinggi vitamin K dapat memengaruhi INR bila asupan berubah drastis"
+          ],
+          "catatan": "Memerlukan pemantauan INR rutin dan konsistensi asupan vitamin K; kontraindikasi pada kehamilan tertentu terutama trimester pertama dan akhir kehamilan.",
+          "gambar": null,
+          "merek": [
+            "Warfarin (generik)",
+            "Notisil",
+            "Simarc"
+          ]
+        },
+        {
+          "id": "rivaroxaban",
+          "nama": "Rivaroxaban",
+          "mekanisme": "Inhibitor langsung faktor Xa yang menghambat pembentukan trombin",
+          "indikasi": [
+            "Pencegahan stroke dan emboli sistemik pada fibrilasi atrium nonvalvular",
+            "Terapi dan pencegahan kekambuhan DVT/PE",
+            "Profilaksis tromboemboli setelah operasi penggantian sendi tertentu"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 15 mg, 20 mg"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Anemia",
+            "Gangguan gastrointestinal"
+          ],
+          "tatalaksana": [
+            "Dosis bergantung indikasi dan fungsi ginjal; beberapa dosis harus diminum bersama makanan"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Hemoglobin/hematokrit",
+            "Tanda perdarahan"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4/P-gp kuat dapat meningkatkan kadar",
+            "Induktor CYP3A4/P-gp kuat dapat menurunkan kadar",
+            "Antiplatelet/NSAID: meningkatkan risiko perdarahan"
+          ],
+          "catatan": "Jangan menghentikan terapi mendadak tanpa alternatif antikoagulasi bila indikasi masih ada.",
+          "gambar": null,
+          "merek": [
+            "Xarelto"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antiplatelet",
+      "kelas": "Antiplatelet",
+      "mekanisme": "Menghambat aktivasi dan agregasi trombosit sehingga mengurangi pembentukan trombus arteri",
+      "obat": [
+        {
+          "id": "clopidogrel",
+          "nama": "Clopidogrel",
+          "mekanisme": "Prodrug yang menghambat reseptor P2Y12 ADP secara irreversibel pada trombosit sehingga mengurangi agregasi trombosit",
+          "indikasi": [
+            "Pencegahan kejadian aterotrombotik setelah infark miokard atau stroke iskemik",
+            "Sindrom koroner akut",
+            "Setelah pemasangan stent koroner"
+          ],
+          "sediaan": [
+            "Tablet 75 mg"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Memar",
+            "Diare",
+            "Ruam"
+          ],
+          "tatalaksana": [
+            "Umumnya 75 mg 1x/hari; pada sindrom koroner akut dapat didahului dosis muatan sesuai protokol"
+          ],
+          "monitoring": [
+            "Tanda perdarahan",
+            "Hemoglobin/hematokrit",
+            "Hitung darah bila ada kecurigaan kelainan hematologis"
+          ],
+          "interaksi": [
+            "Antikoagulan/NSAID: meningkatkan risiko perdarahan",
+            "Omeprazole/esomeprazole dapat mengurangi aktivasi clopidogrel melalui CYP2C19"
+          ],
+          "catatan": "Efek antiplatelet menetap selama umur trombosit; pertimbangkan penghentian sebelum prosedur sesuai risiko perdarahan dan instruksi dokter.",
+          "gambar": null,
+          "merek": [
+            "Clopidogrel (generik)",
+            "Plavix",
+            "Platogrix"
+          ]
+        },
+        {
+          "id": "beraprost",
+          "nama": "Beraprost",
+          "mekanisme": "Analog prostasiklin yang menyebabkan vasodilatasi dan menghambat agregasi trombosit",
+          "indikasi": [
+            "Gejala penyakit arteri perifer pada indikasi tertentu",
+            "Hipertensi pulmonal pada beberapa penggunaan regional"
+          ],
+          "sediaan": [
+            "Tablet 20 mcg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Flushing",
+            "Pusing",
+            "Perdarahan gastrointestinal"
+          ],
+          "tatalaksana": [
+            "Dosis individual sesuai indikasi dan produk; diberikan setelah makan pada beberapa sediaan"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Gejala pusing",
+            "Tanda perdarahan"
+          ],
+          "interaksi": [
+            "Antikoagulan dan antiplatelet: meningkatkan risiko perdarahan",
+            "Antihipertensi: efek penurunan tekanan darah dapat bertambah"
+          ],
+          "catatan": "Gunakan hati-hati pada pasien dengan risiko perdarahan atau hipotensi.",
+          "gambar": null,
+          "merek": [
+            "Dorner",
+            "Beraprost (generik)"
+          ]
+        },
+        {
+          "id": "anagrelide",
+          "nama": "Anagrelide",
+          "mekanisme": "Mengurangi produksi dan maturasi megakariosit sehingga menurunkan jumlah trombosit",
+          "indikasi": [
+            "Trombositemia esensial atau trombositosis yang membutuhkan penurunan jumlah trombosit"
+          ],
+          "sediaan": [
+            "Tablet 0,5 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Palpitasi",
+            "Diare",
+            "Edema",
+            "Tachycardia",
+            "Gagal jantung atau aritmia pada pasien berisiko"
+          ],
+          "tatalaksana": [
+            "Dosis awal dan titrasi dilakukan bertahap berdasarkan jumlah trombosit dan toleransi"
+          ],
+          "monitoring": [
+            "Hitung trombosit",
+            "Denyut jantung dan tekanan darah",
+            "EKG pada pasien berisiko",
+            "Fungsi hati"
+          ],
+          "interaksi": [
+            "Aspirin/antiplatelet: dapat meningkatkan risiko perdarahan",
+            "Obat yang memperpanjang QT: risiko aritmia dapat meningkat"
+          ],
+          "catatan": "Harus dititrasi secara bertahap; monitor kardiovaskular pada pasien dengan penyakit jantung.",
+          "gambar": null,
+          "merek": [
+            "Agrylin",
+            "Thromboreductin"
+          ]
+        },
+        {
+          "id": "ticagrelor",
+          "nama": "Ticagrelor",
+          "mekanisme": "Antagonis reseptor P2Y12 yang reversibel sehingga menghambat agregasi trombosit",
+          "indikasi": [
+            "Sindrom koroner akut",
+            "Pencegahan kejadian trombotik setelah intervensi koroner perkutan"
+          ],
+          "sediaan": [
+            "Tablet 90 mg"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Dispnea",
+            "Sakit kepala",
+            "Bradikardia"
+          ],
+          "tatalaksana": [
+            "Dosis muatan dan rumatan mengikuti protokol sindrom koroner akut; sering digunakan bersama aspirin dosis rendah"
+          ],
+          "monitoring": [
+            "Tanda perdarahan",
+            "Hemoglobin/hematokrit",
+            "Denyut jantung",
+            "Fungsi ginjal dan hati sesuai kondisi"
+          ],
+          "interaksi": [
+            "Antikoagulan/antiplatelet/NSAID: meningkatkan risiko perdarahan",
+            "Inhibitor CYP3A4 kuat: meningkatkan kadar ticagrelor",
+            "Induktor CYP3A4 kuat: menurunkan kadar"
+          ],
+          "catatan": "Dispnea dapat terjadi dan sering ringan; jangan menghentikan terapi tanpa arahan klinis karena risiko kejadian trombotik.",
+          "gambar": null,
+          "merek": [
+            "Brilinta",
+            "Ticagrelor (generik)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faktor-koagulasi",
+      "kelas": "Faktor Koagulasi",
+      "mekanisme": "Menggantikan faktor koagulasi yang kurang untuk memulihkan proses pembekuan darah",
+      "obat": [
+        {
+          "id": "faktor-koagulasi-viii",
+          "nama": "Faktor Koagulasi VIII",
+          "mekanisme": "Menggantikan faktor VIII yang kurang atau tidak aktif untuk memulihkan jalur intrinsik koagulasi dan pembentukan bekuan",
+          "indikasi": [
+            "Hemofilia A",
+            "Pencegahan dan pengobatan perdarahan pada defisiensi faktor VIII"
+          ],
+          "sediaan": [
+            "Injeksi IV setelah rekonstitusi; potensi dinyatakan dalam IU"
+          ],
+          "efek_samping": [
+            "Reaksi infus",
+            "Sakit kepala",
+            "Pembentukan inhibitor terhadap faktor VIII",
+            "Reaksi alergi"
+          ],
+          "tatalaksana": [
+            "Dosis berdasarkan kadar faktor VIII yang ditargetkan, lokasi/berat perdarahan, berat badan, dan respons klinis"
+          ],
+          "monitoring": [
+            "Aktivitas faktor VIII",
+            "Tanda perdarahan",
+            "Inhibitor faktor VIII",
+            "Respons klinis"
+          ],
+          "interaksi": [
+            "Produk yang mengandung faktor VIII digunakan sebagai pengganti; antifibrinolitik dapat digunakan sebagai adjuvan pada situasi tertentu"
+          ],
+          "catatan": "Pasien hemofilia yang sebelumnya mendapat terapi faktor VIII harus dipantau terhadap pembentukan inhibitor.",
+          "gambar": null,
+          "merek": [
+            "Koate DVI"
           ]
         }
       ]

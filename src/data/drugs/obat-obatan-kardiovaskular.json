@@ -138,6 +138,93 @@
             "Tensinel",
             "Triatec"
           ]
+        },
+        {
+          "id": "perindopril",
+          "nama": "Perindopril",
+          "mekanisme": "ACE inhibitor yang dihidrolisis menjadi perindoprilat, metabolit aktif yang menghambat ACE.",
+          "indikasi": [
+            "Hipertensi",
+            "Gagal jantung",
+            "Pencegahan kejadian kardiovaskular pada pasien penyakit arteri koroner stabil"
+          ],
+          "sediaan": [
+            "Tablet 2 mg, 4 mg, 5 mg, 8 mg"
+          ],
+          "efek_samping": [
+            "Batuk kering",
+            "Hiperkalemia",
+            "Hipotensi",
+            "Pusing",
+            "Angioedema",
+            "Gangguan fungsi ginjal"
+          ],
+          "tatalaksana": [
+            "Hipertensi: awal 4 mg 1x/hari, titrasi sesuai respons dan formulasi",
+            "Umumnya diminum sebelum makan karena makanan dapat menurunkan absorpsi",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Kalium serum",
+            "Kreatinin/fungsi ginjal",
+            "Tanda angioedema"
+          ],
+          "interaksi": [
+            "Diuretik hemat kalium/suplemen kalium: risiko hiperkalemia",
+            "NSAID: menurunkan efek antihipertensi dan meningkatkan risiko gangguan ginjal",
+            "Litium: kadar litium dapat meningkat",
+            "Aliskiren/ARB: hindari kombinasi pada kondisi tertentu"
+          ],
+          "catatan": "Kontraindikasi pada kehamilan dan riwayat angioedema terkait ACE inhibitor.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/perindopril/PNG?image_size=300x300",
+          "merek": [
+            "Bioprexum",
+            "Perindopril (generik)"
+          ]
+        },
+        {
+          "id": "imidapril",
+          "nama": "Imidapril",
+          "mekanisme": "ACE inhibitor yang merupakan prodrug dan dikonversi menjadi imidaprilat aktif.",
+          "indikasi": [
+            "Hipertensi",
+            "Nefropati diabetik"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg"
+          ],
+          "efek_samping": [
+            "Batuk kering",
+            "Hiperkalemia",
+            "Hipotensi",
+            "Pusing",
+            "Angioedema",
+            "Gangguan fungsi ginjal"
+          ],
+          "tatalaksana": [
+            "Awal 5-10 mg 1x/hari, titrasi sesuai respons",
+            "Diminum saat perut kosong sesuai konvensi sediaan",
+            "Sesuaikan dosis pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Kalium serum",
+            "Kreatinin/fungsi ginjal",
+            "Tanda angioedema"
+          ],
+          "interaksi": [
+            "Diuretik hemat kalium/suplemen kalium: risiko hiperkalemia",
+            "NSAID: menurunkan efek dan meningkatkan risiko gangguan ginjal",
+            "Litium: kadar litium meningkat",
+            "ARB/aliskiren: hindari kombinasi"
+          ],
+          "catatan": "Kontraindikasi pada kehamilan dan riwayat angioedema akibat ACE inhibitor.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/imidapril/PNG?image_size=300x300",
+          "merek": [
+            "Tanapress",
+            "Imidapril (generik)"
+          ]
         }
       ]
     },
@@ -290,6 +377,82 @@
             "Tinov",
             "Twynsta",
             "Twynsta (kombinasi dengan amlodipin)"
+          ]
+        },
+        {
+          "id": "candesartan",
+          "nama": "Candesartan",
+          "indikasi": [
+            "Hipertensi",
+            "Gagal jantung dengan fraksi ejeksi menurun"
+          ],
+          "sediaan": [
+            "Tablet 4 mg, 8 mg, 16 mg, 32 mg"
+          ],
+          "efek_samping": [
+            "Pusing",
+            "Hiperkalemia",
+            "Hipotensi",
+            "Gangguan fungsi ginjal"
+          ],
+          "tatalaksana": [
+            "Hipertensi: awal 8 mg 1x/hari, dapat dititrasi sampai 32 mg/hari",
+            "Gagal jantung: awal 4 mg 1x/hari, titrasi bertahap sesuai toleransi",
+            "Sesuaikan dosis dan pantau fungsi ginjal"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Kalium serum",
+            "Kreatinin/fungsi ginjal"
+          ],
+          "interaksi": [
+            "Diuretik hemat kalium/suplemen kalium: hiperkalemia",
+            "NSAID: menurunkan efek dan meningkatkan risiko gangguan ginjal",
+            "ACE inhibitor/aliskiren: meningkatkan risiko gangguan ginjal dan hiperkalemia"
+          ],
+          "catatan": "Kontraindikasi pada kehamilan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/candesartan/PNG?image_size=300x300",
+          "merek": [
+            "Candotens",
+            "Kandesartan (generik)"
+          ]
+        },
+        {
+          "id": "irbesartan",
+          "nama": "Irbesartan",
+          "indikasi": [
+            "Hipertensi",
+            "Nefropati diabetik pada hipertensi dan diabetes tipe 2"
+          ],
+          "sediaan": [
+            "Tablet 75 mg, 150 mg, 300 mg"
+          ],
+          "efek_samping": [
+            "Pusing",
+            "Hiperkalemia",
+            "Hipotensi",
+            "Gangguan fungsi ginjal"
+          ],
+          "tatalaksana": [
+            "Hipertensi: awal 150 mg 1x/hari, dapat dinaikkan sampai 300 mg/hari",
+            "Nefropati diabetik: umumnya target 300 mg 1x/hari",
+            "Dapat diminum dengan atau tanpa makanan"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Kalium serum",
+            "Kreatinin/fungsi ginjal"
+          ],
+          "interaksi": [
+            "Diuretik hemat kalium/suplemen kalium: hiperkalemia",
+            "NSAID: menurunkan efek dan meningkatkan risiko gangguan ginjal",
+            "ACE inhibitor/aliskiren: meningkatkan risiko hiperkalemia dan gangguan ginjal"
+          ],
+          "catatan": "Kontraindikasi pada kehamilan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/irbesartan/PNG?image_size=300x300",
+          "merek": [
+            "Aprovel",
+            "Irbesartan (generik)"
           ]
         }
       ]
@@ -473,6 +636,43 @@
             "Verapamil",
             "Verapamil (generik)"
           ]
+        },
+        {
+          "id": "nikardipin",
+          "nama": "Nikardipin",
+          "mekanisme": "CCB dihidropiridin yang menyebabkan vasodilatasi arteri melalui penghambatan kanal kalsium tipe-L.",
+          "indikasi": [
+            "Hipertensi berat atau keadaan hipertensi akut yang memerlukan titrasi IV"
+          ],
+          "sediaan": [
+            "Injeksi IV 10 mg/10 mL"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Flushing",
+            "Takikardia",
+            "Hipotensi",
+            "Edema perifer",
+            "Mual"
+          ],
+          "tatalaksana": [
+            "IV: diberikan sebagai infus kontinu dan dititrasi bertahap berdasarkan respons tekanan darah",
+            "Gunakan pemantauan tekanan darah dan denyut jantung selama titrasi"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Frekuensi nadi",
+            "Status cairan dan tanda edema"
+          ],
+          "interaksi": [
+            "Beta blocker: efek hipotensi/bradikardia dapat bertambah",
+            "Inhibitor CYP3A4: dapat meningkatkan kadar nikardipin"
+          ],
+          "catatan": "Sediaan injeksi digunakan dengan pemantauan klinis ketat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nicardipine/PNG?image_size=300x300",
+          "merek": [
+            "Nikardipin (generik)"
+          ]
         }
       ]
     },
@@ -624,6 +824,133 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/carvedilol/PNG?image_size=300x300",
           "merek": [
             "Vbloc"
+          ]
+        },
+        {
+          "id": "atenolol",
+          "nama": "Atenolol",
+          "mekanisme": "Penyekat beta-1 selektif yang menurunkan frekuensi dan kontraktilitas jantung serta pelepasan renin.",
+          "indikasi": [
+            "Hipertensi",
+            "Angina",
+            "Kontrol frekuensi pada kondisi takikardia tertentu"
+          ],
+          "sediaan": [
+            "Tablet 50 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Bradikardia",
+            "Kelelahan",
+            "Hipotensi",
+            "Pusing",
+            "Gangguan tidur",
+            "Bronkospasme"
+          ],
+          "tatalaksana": [
+            "Hipertensi: awal 25-50 mg 1x/hari, dapat dititrasi sesuai respons",
+            "Sesuaikan dosis pada gangguan ginjal",
+            "Jangan hentikan mendadak setelah penggunaan jangka panjang"
+          ],
+          "monitoring": [
+            "Frekuensi nadi dan tekanan darah",
+            "Fungsi ginjal",
+            "Gejala bronkospasme"
+          ],
+          "interaksi": [
+            "CCB non-dihidropiridin: bradikardia/blok AV",
+            "Insulin dan sulfonilurea: gejala hipoglikemia dapat tertutupi",
+            "Klonidin: risiko rebound hipertensi bila dihentikan tidak tepat"
+          ],
+          "catatan": "Beta blocker beta-1 selektif, tetapi selektivitas dapat berkurang pada dosis tinggi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/atenolol/PNG?image_size=300x300",
+          "merek": [
+            "Betablok",
+            "Farnormin",
+            "Atenolol (generik)"
+          ]
+        },
+        {
+          "id": "propranolol",
+          "nama": "Propranolol",
+          "mekanisme": "Penyekat beta nonselektif yang menghambat reseptor beta-1 dan beta-2.",
+          "indikasi": [
+            "Hipertensi",
+            "Angina",
+            "Aritmia tertentu",
+            "Profilaksis migrain",
+            "Tremor esensial"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 40 mg"
+          ],
+          "efek_samping": [
+            "Bradikardia",
+            "Hipotensi",
+            "Kelelahan",
+            "Bronkospasme",
+            "Gangguan tidur",
+            "Dingin pada ekstremitas"
+          ],
+          "tatalaksana": [
+            "Hipertensi: dosis dibagi sesuai respons klinis",
+            "Titrasi bertahap dan jangan menghentikan mendadak",
+            "Hindari atau gunakan sangat hati-hati pada asma bronkial"
+          ],
+          "monitoring": [
+            "Frekuensi nadi dan tekanan darah",
+            "Gejala bronkospasme",
+            "Glukosa darah pada pasien diabetes"
+          ],
+          "interaksi": [
+            "Verapamil/diltiazem: risiko bradikardia dan blok AV",
+            "Insulin/sulfonilurea: menutupi gejala hipoglikemia",
+            "Klonidin: risiko rebound hipertensi"
+          ],
+          "catatan": "Beta blocker nonselektif; perlu kehati-hatian pada asma dan PPOK dengan bronkospasme.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/propranolol/PNG?image_size=300x300",
+          "merek": [
+            "Propranolol (generik)"
+          ]
+        },
+        {
+          "id": "nebivolol",
+          "nama": "Nebivolol",
+          "mekanisme": "Penyekat beta-1 selektif dengan efek tambahan vasodilatasi yang dimediasi nitric oxide.",
+          "indikasi": [
+            "Hipertensi",
+            "Gagal jantung kronik stabil pada pasien tertentu"
+          ],
+          "sediaan": [
+            "Tablet 5 mg"
+          ],
+          "efek_samping": [
+            "Bradikardia",
+            "Pusing",
+            "Kelelahan",
+            "Hipotensi",
+            "Edema"
+          ],
+          "tatalaksana": [
+            "Hipertensi: 5 mg 1x/hari, titrasi sesuai respons",
+            "Gagal jantung: dimulai dengan dosis rendah dan dititrasi bertahap sesuai toleransi",
+            "Jangan hentikan mendadak"
+          ],
+          "monitoring": [
+            "Frekuensi nadi dan tekanan darah",
+            "Tanda perburukan gagal jantung",
+            "Gejala bronkospasme"
+          ],
+          "interaksi": [
+            "CCB non-dihidropiridin: bradikardia dan blok AV",
+            "Obat penurun denyut jantung lain: efek bradikardia aditif",
+            "Insulin/sulfonilurea: dapat menutupi gejala hipoglikemia"
+          ],
+          "catatan": "Beta-1 selektif dengan efek vasodilatasi yang berkaitan dengan peningkatan pelepasan nitric oxide.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nebivolol/PNG?image_size=300x300",
+          "merek": [
+            "Nebilet",
+            "Linoven",
+            "Nebivolol (generik)"
           ]
         }
       ]
@@ -885,6 +1212,122 @@
             "Brilinta",
             "Clotaire"
           ]
+        },
+        {
+          "id": "cilostazol",
+          "nama": "Cilostazol",
+          "mekanisme": "Inhibitor fosfodiesterase-3 yang menghambat agregasi trombosit dan menyebabkan vasodilatasi.",
+          "indikasi": [
+            "Klaudikasio intermiten akibat penyakit arteri perifer",
+            "Meningkatkan jarak berjalan pada pasien penyakit arteri perifer tertentu"
+          ],
+          "sediaan": [
+            "Tablet 50 mg, 100 mg",
+            "Kapsul lepas lambat 100 mg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Diare",
+            "Palpitasi",
+            "Takikardia",
+            "Pusing"
+          ],
+          "tatalaksana": [
+            "100 mg 2x/hari, umumnya diminum 30 menit sebelum makan atau 2 jam setelah makan",
+            "Evaluasi respons klinis setelah beberapa minggu terapi"
+          ],
+          "monitoring": [
+            "Gejala klaudikasio dan jarak berjalan",
+            "Frekuensi nadi dan tekanan darah",
+            "Tanda perdarahan"
+          ],
+          "interaksi": [
+            "Inhibitor CYP3A4/2C19: dapat meningkatkan kadar cilostazol",
+            "Antiplatelet/antikoagulan lain: risiko perdarahan dapat meningkat"
+          ],
+          "catatan": "Kontraindikasi pada gagal jantung karena efek PDE-3 inhibitor dapat meningkatkan risiko kardiovaskular.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cilostazol/PNG?image_size=300x300",
+          "merek": [
+            "Cilostazol (generik)",
+            "Pletaal"
+          ]
+        },
+        {
+          "id": "beraprost",
+          "nama": "Beraprost",
+          "mekanisme": "Analog prostasiklin yang meningkatkan vasodilatasi dan menghambat agregasi trombosit.",
+          "indikasi": [
+            "Penyakit oklusi arteri perifer tertentu",
+            "Hipertensi pulmonal pada penggunaan sesuai indikasi dan formulasi"
+          ],
+          "sediaan": [
+            "Tablet 20 mcg"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Flushing",
+            "Pusing",
+            "Palpitasi",
+            "Gangguan saluran cerna"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan dengan indikasi dan formulasi; umumnya diberikan beberapa kali sehari",
+            "Diminum bersama atau setelah makan sesuai sediaan"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Frekuensi nadi",
+            "Tanda perdarahan",
+            "Gejala penyakit vaskular"
+          ],
+          "interaksi": [
+            "Antiplatelet/antikoagulan: risiko perdarahan dapat meningkat",
+            "Antihipertensi: efek penurunan tekanan darah dapat bertambah"
+          ],
+          "catatan": "Memiliki efek vasodilatasi dan antiplatelet.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/beraprost/PNG?image_size=300x300",
+          "merek": [
+            "Beraprost",
+            "Dorner"
+          ]
+        },
+        {
+          "id": "eptifibatide",
+          "nama": "Eptifibatide",
+          "mekanisme": "Antagonis reseptor glikoprotein IIb/IIIa trombosit yang menghambat agregasi trombosit.",
+          "indikasi": [
+            "Sindrom koroner akut",
+            "Antiplatelet selama intervensi koroner perkutan (PCI)"
+          ],
+          "sediaan": [
+            "Injeksi/infus IV"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Trombositopenia",
+            "Hipotensi",
+            "Nyeri punggung"
+          ],
+          "tatalaksana": [
+            "Diberikan IV dengan dosis bolus dan infus berdasarkan protokol ACS/PCI dan fungsi ginjal",
+            "Sesuaikan regimen pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Tanda perdarahan",
+            "Hitung trombosit",
+            "Hemoglobin/hematokrit",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Antikoagulan dan antiplatelet lain: risiko perdarahan meningkat",
+            "NSAID: risiko perdarahan meningkat"
+          ],
+          "catatan": "Penggunaan memerlukan pemantauan ketat karena perdarahan dan trombositopenia merupakan komplikasi penting.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/eptifibatide/PNG?image_size=300x300",
+          "merek": [
+            "Eptifibatid (generik)",
+            "Ebatid"
+          ]
         }
       ]
     },
@@ -1070,6 +1513,162 @@
             "Enoxrin",
             "Lovenox"
           ]
+        },
+        {
+          "id": "apixaban",
+          "nama": "Apixaban",
+          "mekanisme": "Inhibitor langsung faktor Xa yang bekerja sebagai antikoagulan oral langsung (DOAC).",
+          "indikasi": [
+            "Fibrilasi atrium non-valvular untuk pencegahan stroke dan emboli sistemik",
+            "Trombosis vena dalam dan emboli paru",
+            "Pencegahan kekambuhan DVT/PE"
+          ],
+          "sediaan": [
+            "Tablet 2,5 mg, 5 mg"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Anemia",
+            "Mual",
+            "Memar"
+          ],
+          "tatalaksana": [
+            "Fibrilasi atrium: umumnya 5 mg 2x/hari, dengan reduksi dosis pada kriteria tertentu",
+            "DVT/PE: 10 mg 2x/hari selama 7 hari lalu 5 mg 2x/hari",
+            "Sesuaikan regimen pada gangguan ginjal dan kondisi klinis"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Hemoglobin",
+            "Tanda perdarahan",
+            "Fungsi hati sesuai kondisi"
+          ],
+          "interaksi": [
+            "Inhibitor kuat CYP3A4/P-gp: meningkatkan kadar apixaban",
+            "Penginduksi kuat CYP3A4/P-gp: menurunkan kadar",
+            "Antiplatelet/NSAID: risiko perdarahan meningkat"
+          ],
+          "catatan": "Tidak memerlukan pemantauan INR rutin; hindari pada katup jantung mekanik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/apixaban/PNG?image_size=300x300",
+          "merek": [
+            "Brixa",
+            "Apixaban (generik)"
+          ]
+        },
+        {
+          "id": "edoxaban",
+          "nama": "Edoxaban",
+          "mekanisme": "Inhibitor langsung faktor Xa yang menghambat pembentukan trombin.",
+          "indikasi": [
+            "Fibrilasi atrium non-valvular untuk pencegahan stroke dan emboli sistemik",
+            "Trombosis vena dalam dan emboli paru setelah terapi antikoagulan awal"
+          ],
+          "sediaan": [
+            "Tablet 15 mg, 30 mg, 60 mg"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Anemia",
+            "Ruam",
+            "Pusing"
+          ],
+          "tatalaksana": [
+            "Fibrilasi atrium: umumnya 60 mg 1x/hari, dengan reduksi dosis berdasarkan fungsi ginjal/berat badan/interaksi",
+            "DVT/PE: digunakan setelah fase awal antikoagulasi parenteral sesuai regimen"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Hemoglobin",
+            "Tanda perdarahan",
+            "Fungsi hati sesuai kondisi"
+          ],
+          "interaksi": [
+            "P-gp inhibitor: dapat meningkatkan kadar edoxaban",
+            "Antiplatelet/NSAID: risiko perdarahan meningkat"
+          ],
+          "catatan": "Tidak memerlukan pemantauan INR rutin; pemilihan dosis sangat bergantung pada fungsi ginjal dan karakteristik pasien.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/edoxaban/PNG?image_size=300x300",
+          "merek": [
+            "Lixiana",
+            "Edoxaban (generik)"
+          ]
+        },
+        {
+          "id": "dabigatran",
+          "nama": "Dabigatran",
+          "mekanisme": "Prodrug yang setelah aktivasi menjadi inhibitor langsung trombin (faktor IIa).",
+          "indikasi": [
+            "Fibrilasi atrium non-valvular untuk pencegahan stroke",
+            "Trombosis vena dalam dan emboli paru",
+            "Pencegahan kekambuhan DVT/PE"
+          ],
+          "sediaan": [
+            "Kapsul 75 mg, 110 mg, 150 mg"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Dispepsia",
+            "Nyeri perut",
+            "Mual"
+          ],
+          "tatalaksana": [
+            "Dosis bergantung indikasi, fungsi ginjal, usia, dan risiko perdarahan",
+            "Kapsul ditelan utuh dan tidak dikunyah atau dibuka",
+            "Sesuaikan atau hindari pada gangguan ginjal berat"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Hemoglobin",
+            "Tanda perdarahan"
+          ],
+          "interaksi": [
+            "P-gp inhibitor/inducer: dapat mengubah kadar dabigatran",
+            "Antiplatelet/NSAID: risiko perdarahan meningkat"
+          ],
+          "catatan": "Kapsul harus disimpan dalam kemasan aslinya dan ditelan utuh; tidak memerlukan INR rutin.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dabigatran/PNG?image_size=300x300",
+          "merek": [
+            "Pradaxa",
+            "Dabigatran (generik)"
+          ]
+        },
+        {
+          "id": "fondaparinux",
+          "nama": "Fondaparinux",
+          "mekanisme": "Pentasakarida sintetis yang mengikat antitrombin dan secara selektif meningkatkan inhibisi faktor Xa.",
+          "indikasi": [
+            "Profilaksis tromboemboli vena setelah operasi ortopedi atau kondisi berisiko",
+            "Terapi trombosis vena dalam dan emboli paru",
+            "Sindrom koroner akut tertentu"
+          ],
+          "sediaan": [
+            "Injeksi subkutan 2,5 mg/0,5 mL"
+          ],
+          "efek_samping": [
+            "Perdarahan",
+            "Anemia",
+            "Memar di tempat suntikan"
+          ],
+          "tatalaksana": [
+            "Profilaksis: umumnya 2,5 mg SC 1x/hari",
+            "Terapi DVT/PE menggunakan dosis berbasis berat badan",
+            "Hindari pada gangguan ginjal berat"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Hemoglobin",
+            "Tanda perdarahan"
+          ],
+          "interaksi": [
+            "Antiplatelet/antikoagulan lain: risiko perdarahan meningkat",
+            "NSAID: risiko perdarahan meningkat"
+          ],
+          "catatan": "Inhibitor faktor Xa tidak langsung; tidak digunakan untuk terapi HIT akut tanpa pertimbangan klinis khusus.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fondaparinux/PNG?image_size=300x300",
+          "merek": [
+            "Arixtra",
+            "Fondaparinux (generik)"
+          ]
         }
       ]
     },
@@ -1223,6 +1822,41 @@
             "Rosuvastatin (generik)",
             "Roswin",
             "Rozet (kombinasi dengan ezetimibe)"
+          ]
+        },
+        {
+          "id": "pravastatin",
+          "nama": "Pravastatin",
+          "indikasi": [
+            "Hiperkolesterolemia",
+            "Pencegahan primer dan sekunder penyakit kardiovaskular aterosklerotik"
+          ],
+          "sediaan": [
+            "Tablet 10 mg, 20 mg, 40 mg, 80 mg"
+          ],
+          "efek_samping": [
+            "Mialgia",
+            "Peningkatan enzim hati",
+            "Miopati/rabdomiolisis (jarang)",
+            "Dispepsia"
+          ],
+          "tatalaksana": [
+            "Awal 10-40 mg 1x/hari, dititrasi sesuai target LDL",
+            "Dapat diminum dengan atau tanpa makanan"
+          ],
+          "monitoring": [
+            "Profil lipid",
+            "ALT/AST sesuai indikasi",
+            "Gejala nyeri otot"
+          ],
+          "interaksi": [
+            "Gemfibrozil/fibrat tertentu: risiko miopati meningkat",
+            "Antasida dapat memengaruhi absorpsi bila diberikan berdekatan"
+          ],
+          "catatan": "Relatif lebih sedikit dimetabolisme CYP dibanding simvastatin sehingga interaksi CYP3A4 lebih sedikit.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pravastatin/PNG?image_size=300x300",
+          "merek": [
+            "Pravastatin (generik)"
           ]
         }
       ]
@@ -1406,6 +2040,117 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/isosorbide%20dinitrate/PNG?image_size=300x300",
           "merek": [
             "Isosorbid Dinitrat (generik)"
+          ]
+        },
+        {
+          "id": "ivabradine",
+          "nama": "Ivabradine",
+          "mekanisme": "Menghambat arus If pada nodus sinoatrial sehingga menurunkan frekuensi jantung tanpa efek inotropik negatif bermakna.",
+          "indikasi": [
+            "Angina stabil kronik pada pasien tertentu dengan irama sinus",
+            "Gagal jantung kronik dengan fraksi ejeksi menurun pada pasien tertentu"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 7,5 mg"
+          ],
+          "efek_samping": [
+            "Bradikardia",
+            "Fosfen",
+            "Sakit kepala",
+            "Fibrilasi atrium"
+          ],
+          "tatalaksana": [
+            "Angina: umumnya mulai 5 mg 2x/hari bersama makan, titrasi sesuai denyut jantung",
+            "Gunakan pada pasien dengan irama sinus dan denyut jantung yang memenuhi kriteria terapi"
+          ],
+          "monitoring": [
+            "Frekuensi nadi",
+            "EKG/irama jantung",
+            "Gejala fosfen",
+            "Tanda fibrilasi atrium"
+          ],
+          "interaksi": [
+            "Inhibitor kuat CYP3A4: meningkatkan kadar ivabradine",
+            "Obat yang memperpanjang QT atau menurunkan denyut: risiko bradikardia/aritmia meningkat"
+          ],
+          "catatan": "Bekerja terutama pada nodus sinus; tidak menurunkan kontraktilitas secara bermakna.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ivabradine/PNG?image_size=300x300",
+          "merek": [
+            "Coralan",
+            "Ivabradine (generik)"
+          ]
+        },
+        {
+          "id": "trimetazidine",
+          "nama": "Trimetazidine",
+          "mekanisme": "Modulator metabolisme energi miokard yang menggeser pemakaian substrat ke arah yang lebih efisien dalam kondisi iskemia.",
+          "indikasi": [
+            "Angina pektoris stabil sebagai terapi tambahan bila terapi antiangina lini pertama tidak memadai atau tidak ditoleransi"
+          ],
+          "sediaan": [
+            "Tablet lepas modifikasi 35 mg"
+          ],
+          "efek_samping": [
+            "Pusing",
+            "Sakit kepala",
+            "Gangguan saluran cerna",
+            "Gejala parkinsonisme (jarang)"
+          ],
+          "tatalaksana": [
+            "35 mg 2x/hari bersama makan untuk formulasi MR",
+            "Sesuaikan dosis pada gangguan ginjal; hindari pada gangguan ginjal berat"
+          ],
+          "monitoring": [
+            "Gejala angina",
+            "Fungsi ginjal",
+            "Gejala gangguan gerak/parkinsonisme"
+          ],
+          "interaksi": [
+            "Obat yang menyebabkan gejala parkinsonisme: dapat memperburuk gangguan gerak"
+          ],
+          "catatan": "Bukan vasodilator langsung; bekerja terutama dengan mengoptimalkan metabolisme energi miokard pada kondisi iskemik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/trimetazidine/PNG?image_size=300x300",
+          "merek": [
+            "Angintriz MR",
+            "Trizedon MR"
+          ]
+        },
+        {
+          "id": "isosorbid-mononitrat",
+          "nama": "Isosorbid Mononitrat",
+          "mekanisme": "Donor nitric oxide yang meningkatkan cGMP dan menyebabkan vasodilatasi vena serta arteri.",
+          "indikasi": [
+            "Profilaksis angina pektoris",
+            "Terapi tambahan pada gagal jantung pada regimen tertentu"
+          ],
+          "sediaan": [
+            "Tablet 20 mg, 40 mg, 60 mg lepas lambat"
+          ],
+          "efek_samping": [
+            "Sakit kepala",
+            "Hipotensi ortostatik",
+            "Pusing",
+            "Flushing",
+            "Toleransi nitrat"
+          ],
+          "tatalaksana": [
+            "Dosis oral disesuaikan dengan formulasi; gunakan jadwal dengan periode bebas nitrat untuk mencegah toleransi",
+            "Bukan untuk meredakan serangan angina akut"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Frekuensi nadi",
+            "Frekuensi dan respons nyeri dada"
+          ],
+          "interaksi": [
+            "Inhibitor PDE-5 seperti sildenafil/tadalafil: kontraindikasi karena hipotensi berat",
+            "Alkohol: hipotensi aditif"
+          ],
+          "catatan": "Memberikan efek vasodilatasi terutama vena sehingga menurunkan preload dan kebutuhan oksigen miokard.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/isosorbide%20mononitrate/PNG?image_size=300x300",
+          "merek": [
+            "Imocard SR",
+            "Isosorbid Mononitrat (generik)"
           ]
         }
       ]

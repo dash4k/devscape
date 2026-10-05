@@ -78,6 +78,37 @@
       ]
     },
     {
+      "id": "antidiabetes-penghambat-alfa-glukosidase",
+      "kelas": "Antidiabetes: Penghambat Alfa-Glukosidase",
+      "mekanisme": "Menghambat enzim alfa-glukosidase usus sehingga memperlambat pencernaan dan absorpsi karbohidrat.",
+      "obat": [
+        {
+          "id": "acarbose",
+          "nama": "Acarbose",
+          "mekanisme": "Menghambat alfa-glukosidase pada brush border usus.",
+          "indikasi": [
+            "Diabetes melitus tipe 2"
+          ],
+          "sediaan": [
+            "Tablet 50 mg, 100 mg"
+          ],
+          "efek_samping": [
+            "Flatulensi",
+            "Diare",
+            "Nyeri atau kembung perut"
+          ],
+          "tatalaksana": "Awal 25-50 mg bersama suapan pertama setiap makan, dititrasi sesuai toleransi.",
+          "monitoring": "Glukosa postprandial; HbA1c; fungsi hati bila terapi jangka panjang.",
+          "interaksi": "Insulin/sulfonilurea dapat meningkatkan risiko hipoglikemia.",
+          "catatan": "Saat hipoglikemia pada kombinasi, gunakan glukosa/dextrose.",
+          "gambar": null,
+          "merek": [
+            "Akarbosa"
+          ]
+        }
+      ]
+    },
+    {
       "id": "antidiabetes-sulfonilurea",
       "kelas": "Antidiabetes: Sulfonilurea",
       "mekanisme": "Merangsang sekresi insulin dari sel beta pankreas dengan menutup kanal kalium ATP-sensitif, menyebabkan depolarisasi sel dan pelepasan insulin",
@@ -149,6 +180,53 @@
             "Diamicron MR",
             "Fonylin MR",
             "Gliklazid (generik)"
+          ]
+        },
+        {
+          "id": "glimepiride",
+          "nama": "Glimepiride",
+          "mekanisme": "Sulfonilurea yang merangsang sekresi insulin dari sel beta pankreas.",
+          "indikasi": [
+            "Diabetes melitus tipe 2"
+          ],
+          "sediaan": [
+            "Tablet 1 mg, 2 mg, 3 mg, 4 mg"
+          ],
+          "efek_samping": [
+            "Hipoglikemia",
+            "Penambahan berat badan"
+          ],
+          "tatalaksana": "Awal 1 mg 1x/hari, dititrasi bertahap sesuai kontrol glukosa.",
+          "monitoring": "Glukosa darah; HbA1c; fungsi ginjal dan hati; tanda hipoglikemia.",
+          "interaksi": "Insulin/sulfonilurea lain meningkatkan risiko hipoglikemia; penyekat beta dapat menutupi gejala.",
+          "catatan": "Mulai dengan dosis rendah, terutama pada lansia atau gangguan ginjal.",
+          "gambar": null,
+          "merek": [
+            "Amaryl"
+          ]
+        },
+        {
+          "id": "gliquidone",
+          "nama": "Gliquidone (Glikuidon)",
+          "mekanisme": "Sulfonilurea yang merangsang sekresi insulin melalui kanal kalium ATP-sensitif.",
+          "indikasi": [
+            "Diabetes melitus tipe 2"
+          ],
+          "sediaan": [
+            "Tablet 30 mg"
+          ],
+          "efek_samping": [
+            "Hipoglikemia",
+            "Mual",
+            "Penambahan berat badan"
+          ],
+          "tatalaksana": "Awal 15-30 mg/hari, dititrasi berdasarkan respons.",
+          "monitoring": "Glukosa darah; HbA1c; fungsi hati dan ginjal.",
+          "interaksi": "Alkohol dan obat penurun glukosa lain meningkatkan risiko hipoglikemia.",
+          "catatan": "Gunakan dengan pemantauan glukosa yang memadai.",
+          "gambar": null,
+          "merek": [
+            "Glikuidon"
           ]
         }
       ]
@@ -239,6 +317,33 @@
             "Glyxambi",
             "Jardiance",
             "Jardiance Duo"
+          ]
+        },
+        {
+          "id": "dapagliflozin",
+          "nama": "Dapagliflozin",
+          "mekanisme": "Menghambat SGLT2 di tubulus proksimal sehingga meningkatkan ekskresi glukosa dan natrium.",
+          "indikasi": [
+            "Diabetes melitus tipe 2"
+          ],
+          "sediaan": [
+            "Tablet 5 mg, 10 mg"
+          ],
+          "efek_samping": [
+            "Infeksi genital",
+            "Infeksi saluran kemih",
+            "Poliuria",
+            "Deplesi volume",
+            "Ketoasidosis diabetik euglikemik (jarang)"
+          ],
+          "tatalaksana": "5 mg 1x/hari, dapat dinaikkan menjadi 10 mg/hari sesuai indikasi dan fungsi ginjal.",
+          "monitoring": "Fungsi ginjal; status volume; tekanan darah; infeksi; tanda ketoasidosis.",
+          "interaksi": "Diuretik meningkatkan deplesi volume; insulin/sulfonilurea meningkatkan risiko hipoglikemia.",
+          "catatan": "Hentikan sementara saat sakit akut atau sebelum operasi besar sesuai protokol.",
+          "gambar": null,
+          "merek": [
+            "Forxiga",
+            "Dapazox"
           ]
         }
       ]
@@ -399,6 +504,154 @@
             "Novomix (kombinasi biphasic)",
             "Novorapid",
             "Ryzodeg (kombinasi)"
+          ]
+        },
+        {
+          "id": "insulin-lispro",
+          "nama": "Insulin Lispro (kerja cepat)",
+          "mekanisme": "Analog insulin kerja cepat yang meningkatkan ambilan glukosa perifer.",
+          "indikasi": [
+            "Diabetes melitus tipe 1 dan tipe 2; kontrol glukosa prandial"
+          ],
+          "sediaan": [
+            "Pen/vial injeksi SC 100 unit/mL"
+          ],
+          "efek_samping": [
+            "Hipoglikemia",
+            "Reaksi lokal",
+            "Lipohipertrofi"
+          ],
+          "tatalaksana": "Diberikan sekitar 0-15 menit sebelum makan atau segera setelah makan, dosis individual.",
+          "monitoring": "Glukosa darah; HbA1c; tanda hipoglikemia; lokasi injeksi.",
+          "interaksi": "Penyekat beta menutupi gejala hipoglikemia; kortikosteroid meningkatkan kebutuhan insulin.",
+          "catatan": "Sesuaikan dosis dengan asupan karbohidrat.",
+          "gambar": null,
+          "merek": [
+            "Humalog"
+          ]
+        },
+        {
+          "id": "insulin-glulisine",
+          "nama": "Insulin Glulisine (kerja cepat)",
+          "mekanisme": "Analog insulin kerja cepat untuk kontrol glukosa prandial.",
+          "indikasi": [
+            "Diabetes melitus tipe 1 dan tipe 2"
+          ],
+          "sediaan": [
+            "Pen/cartridge injeksi SC 100 unit/mL"
+          ],
+          "efek_samping": [
+            "Hipoglikemia",
+            "Reaksi lokal",
+            "Lipohipertrofi"
+          ],
+          "tatalaksana": "Diberikan sekitar 15 menit sebelum makan atau segera setelah makan.",
+          "monitoring": "Glukosa darah; HbA1c; tanda hipoglikemia.",
+          "interaksi": "Penyekat beta dapat menutupi gejala hipoglikemia; kortikosteroid meningkatkan kebutuhan.",
+          "catatan": "Dosis individual sesuai regimen basal-bolus.",
+          "gambar": null,
+          "merek": [
+            "Apidra"
+          ]
+        },
+        {
+          "id": "insulin-detemir",
+          "nama": "Insulin Detemir (kerja panjang)",
+          "mekanisme": "Analog insulin basal kerja panjang yang berikatan dengan albumin.",
+          "indikasi": [
+            "Diabetes melitus tipe 1 dan tipe 2"
+          ],
+          "sediaan": [
+            "Pen injeksi SC 100 unit/mL"
+          ],
+          "efek_samping": [
+            "Hipoglikemia",
+            "Penambahan berat badan",
+            "Reaksi lokal"
+          ],
+          "tatalaksana": "Dosis individual, biasanya 1-2x/hari.",
+          "monitoring": "Glukosa puasa; HbA1c; tanda hipoglikemia.",
+          "interaksi": "Penyekat beta dapat menutupi hipoglikemia; kortikosteroid meningkatkan kebutuhan insulin.",
+          "catatan": "Titrasi berdasarkan glukosa puasa.",
+          "gambar": null,
+          "merek": [
+            "Levemir"
+          ]
+        },
+        {
+          "id": "insulin-nph",
+          "nama": "Insulin NPH (kerja menengah)",
+          "mekanisme": "Insulin manusia dengan protamin yang memberikan profil kerja menengah.",
+          "indikasi": [
+            "Diabetes melitus tipe 1 dan tipe 2"
+          ],
+          "sediaan": [
+            "Pen/vial injeksi SC 100 unit/mL"
+          ],
+          "efek_samping": [
+            "Hipoglikemia",
+            "Penambahan berat badan",
+            "Reaksi lokal"
+          ],
+          "tatalaksana": "Dosis individual, biasanya 1-2x/hari. Resuspensi sesuai petunjuk produk.",
+          "monitoring": "Glukosa puasa; HbA1c; hipoglikemia terutama malam hari.",
+          "interaksi": "Penyekat beta menutupi gejala hipoglikemia; kortikosteroid meningkatkan kebutuhan.",
+          "catatan": "Memiliki puncak kerja sehingga risiko hipoglikemia dapat lebih tinggi daripada analog basal.",
+          "gambar": null,
+          "merek": [
+            "Humulin N",
+            "Insulatard"
+          ]
+        },
+        {
+          "id": "insulin-reguler",
+          "nama": "Insulin Reguler Manusia (kerja pendek)",
+          "mekanisme": "Insulin manusia kerja pendek yang meningkatkan ambilan glukosa dan menekan produksi glukosa hati.",
+          "indikasi": [
+            "Diabetes melitus tipe 1 dan tipe 2"
+          ],
+          "sediaan": [
+            "Vial injeksi SC 100 unit/mL",
+            "Dapat diberikan IV pada kondisi tertentu"
+          ],
+          "efek_samping": [
+            "Hipoglikemia",
+            "Penambahan berat badan",
+            "Reaksi lokal",
+            "Hipokalemia"
+          ],
+          "tatalaksana": "Biasanya diberikan sekitar 30 menit sebelum makan.",
+          "monitoring": "Glukosa darah; HbA1c; tanda hipoglikemia; kalium bila IV.",
+          "interaksi": "Penyekat beta menutupi gejala hipoglikemia; kortikosteroid meningkatkan kebutuhan.",
+          "catatan": "Pemberian IV memerlukan pemantauan klinis.",
+          "gambar": null,
+          "merek": [
+            "Actrapid",
+            "Actrapid HM"
+          ]
+        },
+        {
+          "id": "insulin-degludec",
+          "nama": "Insulin Degludec (kerja ultra-panjang)",
+          "mekanisme": "Analog insulin basal ultra-panjang dengan pelepasan insulin perlahan dari depot subkutan.",
+          "indikasi": [
+            "Diabetes melitus tipe 1 dan tipe 2"
+          ],
+          "sediaan": [
+            "Pen injeksi SC 100 unit/mL, 200 unit/mL"
+          ],
+          "efek_samping": [
+            "Hipoglikemia",
+            "Penambahan berat badan",
+            "Reaksi lokal"
+          ],
+          "tatalaksana": "Dosis individual 1x/hari.",
+          "monitoring": "Glukosa puasa; HbA1c; tanda hipoglikemia.",
+          "interaksi": "Penyekat beta menutupi gejala hipoglikemia; kortikosteroid meningkatkan kebutuhan.",
+          "catatan": "Durasi sangat panjang sehingga titrasi dilakukan bertahap.",
+          "gambar": null,
+          "merek": [
+            "Ryzodeg (kombinasi dengan insulin aspart)"
           ]
         }
       ]
@@ -677,6 +930,32 @@
             "Andalan Injectable",
             "Medroksiprogesteron Asetat (generik, program BKKBN)"
           ]
+        },
+        {
+          "id": "implan-levonorgestrel",
+          "nama": "Implan Levonorgestrel",
+          "mekanisme": "Progestin yang dilepas perlahan dari implan subkutan untuk menekan ovulasi dan mengentalkan lendir serviks.",
+          "indikasi": [
+            "Kontrasepsi jangka panjang"
+          ],
+          "sediaan": [
+            "Implan subkutan levonorgestrel 2 batang, total 75 mg"
+          ],
+          "efek_samping": [
+            "Perdarahan tidak teratur",
+            "Amenore",
+            "Sakit kepala",
+            "Perubahan berat badan",
+            "Jerawat"
+          ],
+          "tatalaksana": "Dipasang subkutan oleh tenaga kesehatan; durasi mengikuti produk.",
+          "monitoring": "Pola perdarahan; lokasi implan; tanda kehamilan bila dicurigai.",
+          "interaksi": "Rifampisin dan penginduksi enzim lain dapat menurunkan efektivitas.",
+          "catatan": "Pemasangan dan pelepasan dilakukan oleh tenaga terlatih.",
+          "gambar": null,
+          "merek": [
+            "Levonorgestrel 2 Rods"
+          ]
         }
       ]
     },
@@ -760,6 +1039,64 @@
           "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/testosterone/PNG?image_size=300x300",
           "merek": [
             "Sustanon"
+          ]
+        },
+        {
+          "id": "estradiol-medroxyprogesterone",
+          "nama": "Estradiol/Medroksiprogesteron",
+          "mekanisme": "Kombinasi estrogen dan progestin untuk terapi hormon menopause dan perlindungan endometrium.",
+          "indikasi": [
+            "Terapi hormon menopause pada wanita dengan uterus"
+          ],
+          "sediaan": [
+            "Injeksi estradiol sipionat 5 mg + medroksiprogesteron asetat 25 mg"
+          ],
+          "efek_samping": [
+            "Nyeri payudara",
+            "Perdarahan tidak teratur",
+            "Tromboemboli",
+            "Peningkatan tekanan darah"
+          ],
+          "tatalaksana": "Dosis dan interval mengikuti produk serta evaluasi klinis.",
+          "monitoring": "Tekanan darah; gejala tromboemboli; perdarahan abnormal.",
+          "interaksi": "Penginduksi enzim dapat menurunkan kadar hormon; estrogen dapat berinteraksi dengan antikoagulan.",
+          "catatan": "Terapi hormon harus dipersonalisasi berdasarkan faktor risiko.",
+          "gambar": null,
+          "merek": [
+            "Medroksiprogesteron Asetat + Estradiol Sipionat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hormon-antidiuretik",
+      "kelas": "Hormon Antidiuretik",
+      "mekanisme": "Analog vasopresin yang meningkatkan reabsorpsi air melalui reseptor V2.",
+      "obat": [
+        {
+          "id": "desmopressin",
+          "nama": "Desmopressin",
+          "mekanisme": "Analog sintetis vasopresin dengan efek antidiuretik kuat.",
+          "indikasi": [
+            "Diabetes insipidus sentral"
+          ],
+          "sediaan": [
+            "Tablet 0,1 mg, 0,2 mg",
+            "Sediaan nasal pada produk tertentu"
+          ],
+          "efek_samping": [
+            "Hiponatremia",
+            "Sakit kepala",
+            "Mual",
+            "Retensi cairan"
+          ],
+          "tatalaksana": "Dosis individual; terapi oral diabetes insipidus sering dimulai 0,05-0,1 mg 2-3x/hari dan dititrasi.",
+          "monitoring": "Natrium serum; keseimbangan cairan; berat badan; volume urin.",
+          "interaksi": "Obat yang meningkatkan risiko hiponatremia dapat memperkuat efek.",
+          "catatan": "Batasi cairan berlebihan dan gunakan hati-hati pada gangguan ginjal.",
+          "gambar": null,
+          "merek": [
+            "Minirin"
           ]
         }
       ]
@@ -864,6 +1201,32 @@
             "Protecid",
             "Sopros"
           ]
+        },
+        {
+          "id": "carbetocin",
+          "nama": "Carbetocin",
+          "mekanisme": "Analog oksitosin kerja panjang yang merangsang kontraksi uterus.",
+          "indikasi": [
+            "Pencegahan perdarahan pasca-persalinan akibat atonia uteri"
+          ],
+          "sediaan": [
+            "Injeksi IV/IM 100 mikrogram/mL"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Nyeri abdomen",
+            "Flushing",
+            "Hipotensi",
+            "Sakit kepala"
+          ],
+          "tatalaksana": "100 mikrogram dosis tunggal setelah kelahiran bayi sesuai protokol obstetri.",
+          "monitoring": "Tekanan darah; tonus dan perdarahan uterus.",
+          "interaksi": "Oksitosin dan uterotonik lain dapat meningkatkan efek uterotonik.",
+          "catatan": "Bukan untuk induksi atau augmentasi persalinan.",
+          "gambar": null,
+          "merek": [
+            "Pabal"
+          ]
         }
       ]
     },
@@ -905,6 +1268,33 @@
           "merek": [
             "Clovertil",
             "Profertil"
+          ]
+        },
+        {
+          "id": "letrozole",
+          "nama": "Letrozole",
+          "mekanisme": "Menghambat aromatase sehingga menurunkan estrogen dan meningkatkan pelepasan FSH.",
+          "indikasi": [
+            "Induksi ovulasi pada infertilitas anovulasi, terutama PCOS"
+          ],
+          "sediaan": [
+            "Tablet 2,5 mg"
+          ],
+          "efek_samping": [
+            "Hot flashes",
+            "Sakit kepala",
+            "Mual",
+            "Pusing",
+            "Nyeri sendi"
+          ],
+          "tatalaksana": "Regimen induksi ovulasi sering 2,5-7,5 mg/hari selama 5 hari sesuai protokol spesialis.",
+          "monitoring": "Ovulasi; USG folikel bila diperlukan; kehamilan.",
+          "interaksi": "Interaksi obat bermakna umumnya terbatas.",
+          "catatan": "Tidak digunakan selama kehamilan; penggunaan untuk induksi ovulasi mengikuti protokol fertilitas.",
+          "gambar": null,
+          "merek": [
+            "Letraz",
+            "Femara"
           ]
         }
       ]

@@ -422,6 +422,1137 @@
           ]
         }
       ]
+    },
+    {
+      "id": "antiinflamasi-nsaid",
+      "kelas": "Antiinflamasi Nonsteroid (NSAID)",
+      "mekanisme": "Menghambat enzim siklooksigenase sehingga sintesis prostaglandin berkurang dan nyeri serta peradangan menurun",
+      "obat": [
+        {
+          "id": "ibuprofen",
+          "nama": "Ibuprofen",
+          "indikasi": [
+            "Nyeri muskuloskeletal ringan-sedang",
+            "Osteoartritis dan artritis reumatoid",
+            "Demam"
+          ],
+          "sediaan": [
+            "Suspensi oral 100 mg/5 mL",
+            "Tablet 200 mg, 400 mg",
+            "Injeksi IV 400 mg/4 mL"
+          ],
+          "efek_samping": [
+            "Dispepsia",
+            "Perdarahan gastrointestinal",
+            "Gangguan fungsi ginjal",
+            "Reaksi hipersensitivitas"
+          ],
+          "tatalaksana": [
+            "200-400 mg tiap 4-6 jam sesuai kebutuhan; gunakan dosis efektif terendah dan durasi sesingkat mungkin"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Fungsi ginjal bila penggunaan berulang",
+            "Gejala perdarahan gastrointestinal"
+          ],
+          "interaksi": [
+            "NSAID lain/aspirin: toksisitas GI dan ginjal aditif",
+            "Antikoagulan/antiplatelet: risiko perdarahan meningkat",
+            "ACE inhibitor/ARB dan diuretik: risiko gangguan ginjal meningkat"
+          ],
+          "catatan": "Hindari pada riwayat ulkus/perdarahan GI aktif, gagal ginjal berat, atau hipersensitivitas NSAID; kontraindikasi pada trimester ketiga kehamilan.",
+          "gambar": null,
+          "merek": [
+            "Proris",
+            "Etafen"
+          ]
+        },
+        {
+          "id": "diklofenak",
+          "nama": "Diklofenak",
+          "indikasi": [
+            "Nyeri dan peradangan muskuloskeletal",
+            "Osteoartritis dan artritis reumatoid",
+            "Nyeri pascaoperasi tertentu"
+          ],
+          "sediaan": [
+            "Tablet salut enterik 25 mg, 50 mg",
+            "Gel topikal 1%",
+            "Injeksi 75 mg/3 mL"
+          ],
+          "efek_samping": [
+            "Dispepsia",
+            "Ulkus/perdarahan gastrointestinal",
+            "Peningkatan tekanan darah",
+            "Gangguan fungsi ginjal",
+            "Peningkatan risiko kardiovaskular pada penggunaan sistemik"
+          ],
+          "tatalaksana": [
+            "Oral 25-50 mg 2-3x/hari sesuai kebutuhan; gel dioleskan tipis pada area nyeri sesuai petunjuk produk"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Fungsi ginjal dan hati pada penggunaan jangka panjang",
+            "Gejala perdarahan GI"
+          ],
+          "interaksi": [
+            "Antikoagulan/antiplatelet: perdarahan meningkat",
+            "NSAID lain: toksisitas aditif",
+            "ACE inhibitor/ARB/diuretik: gangguan ginjal"
+          ],
+          "catatan": "Gunakan dosis efektif terendah dan durasi sesingkat mungkin; hindari pada penyakit kardiovaskular berat atau ulkus/perdarahan GI aktif.",
+          "gambar": null,
+          "merek": [
+            "Voltaren",
+            "Voltadex"
+          ]
+        },
+        {
+          "id": "meloksikam",
+          "nama": "Meloksikam",
+          "indikasi": [
+            "Osteoartritis",
+            "Artritis reumatoid",
+            "Nyeri muskuloskeletal inflamasi"
+          ],
+          "sediaan": [
+            "Tablet 7,5 mg, 15 mg"
+          ],
+          "efek_samping": [
+            "Dispepsia",
+            "Ulkus/perdarahan GI",
+            "Edema",
+            "Gangguan fungsi ginjal",
+            "Peningkatan risiko kardiovaskular"
+          ],
+          "tatalaksana": [
+            "7,5 mg 1x/hari; dapat dinaikkan sampai 15 mg 1x/hari sesuai respons"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Fungsi ginjal",
+            "Gejala GI"
+          ],
+          "interaksi": [
+            "Antikoagulan: risiko perdarahan",
+            "NSAID lain: toksisitas aditif",
+            "ACE inhibitor/ARB/diuretik: gangguan ginjal"
+          ],
+          "catatan": "Gunakan dosis efektif terendah dan hindari pada trimester ketiga kehamilan.",
+          "gambar": null,
+          "merek": [
+            "Meloksikam",
+            "MEXPHARM"
+          ]
+        },
+        {
+          "id": "piroksikam",
+          "nama": "Piroksikam",
+          "indikasi": [
+            "Osteoartritis",
+            "Artritis reumatoid",
+            "Nyeri muskuloskeletal inflamasi"
+          ],
+          "sediaan": [
+            "Tablet 20 mg",
+            "Gel topikal 0,5%"
+          ],
+          "efek_samping": [
+            "Dispepsia",
+            "Ulkus/perdarahan GI",
+            "Gangguan ginjal",
+            "Reaksi kulit berat jarang"
+          ],
+          "tatalaksana": [
+            "20 mg 1x/hari; penggunaan harus dibatasi karena risiko GI relatif tinggi"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Gejala perdarahan GI",
+            "Reaksi kulit"
+          ],
+          "interaksi": [
+            "Antikoagulan/antiplatelet: perdarahan meningkat",
+            "NSAID lain: toksisitas aditif"
+          ],
+          "catatan": "Karena risiko gastrointestinal relatif tinggi, gunakan hanya bila manfaat lebih besar daripada risiko.",
+          "gambar": null,
+          "merek": [
+            "Feldene"
+          ]
+        },
+        {
+          "id": "ketoprofen",
+          "nama": "Ketoprofen",
+          "indikasi": [
+            "Nyeri muskuloskeletal",
+            "Osteoartritis dan artritis reumatoid",
+            "Nyeri inflamasi"
+          ],
+          "sediaan": [
+            "Tablet 50 mg",
+            "Supositoria 100 mg"
+          ],
+          "efek_samping": [
+            "Nyeri/iritasi lambung",
+            "Ulkus/perdarahan GI",
+            "Gangguan ginjal",
+            "Reaksi hipersensitivitas"
+          ],
+          "tatalaksana": [
+            "50 mg 2-3x/hari sesuai kebutuhan; sesuaikan dengan produk dan kondisi pasien"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Gejala GI",
+            "Tekanan darah"
+          ],
+          "interaksi": [
+            "Antikoagulan/antiplatelet: perdarahan meningkat",
+            "NSAID lain: toksisitas aditif",
+            "ACE inhibitor/ARB/diuretik: gangguan ginjal"
+          ],
+          "catatan": "Gunakan dosis efektif terendah dan durasi sesingkat mungkin.",
+          "gambar": null,
+          "merek": [
+            "Kaltrofen"
+          ]
+        },
+        {
+          "id": "deksketoprofen",
+          "nama": "Deksketoprofen",
+          "indikasi": [
+            "Nyeri muskuloskeletal akut ringan-sedang",
+            "Nyeri akut lainnya"
+          ],
+          "sediaan": [
+            "Tablet 25 mg",
+            "Injeksi 50 mg/2 mL"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Dispepsia",
+            "Ulkus/perdarahan GI",
+            "Gangguan ginjal"
+          ],
+          "tatalaksana": [
+            "25 mg tiap 8 jam sesuai kebutuhan; maksimum 75 mg/hari pada dewasa"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Gejala GI",
+            "Tanda perdarahan"
+          ],
+          "interaksi": [
+            "Antikoagulan/antiplatelet: perdarahan meningkat",
+            "NSAID lain: toksisitas aditif"
+          ],
+          "catatan": "Untuk penggunaan jangka pendek pada nyeri akut; hindari pada ulkus/perdarahan GI aktif.",
+          "gambar": null,
+          "merek": [
+            "Ketesse"
+          ]
+        },
+        {
+          "id": "etoricoxib",
+          "nama": "Etorikoksib",
+          "indikasi": [
+            "Osteoartritis",
+            "Artritis reumatoid",
+            "Artritis gout akut",
+            "Nyeri muskuloskeletal akut tertentu"
+          ],
+          "sediaan": [
+            "Tablet 60 mg, 90 mg"
+          ],
+          "efek_samping": [
+            "Edema",
+            "Peningkatan tekanan darah",
+            "Gangguan fungsi ginjal",
+            "Peningkatan risiko kardiovaskular"
+          ],
+          "tatalaksana": [
+            "Dosis bergantung indikasi; osteoartritis umumnya 60 mg 1x/hari; gunakan dosis terendah efektif"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Fungsi ginjal",
+            "Gejala kardiovaskular"
+          ],
+          "interaksi": [
+            "ACE inhibitor/ARB/diuretik: gangguan ginjal",
+            "Antikoagulan: risiko perdarahan",
+            "Rifampisin: kadar etorikoksib dapat menurun"
+          ],
+          "catatan": "Kontraindikasi pada penyakit jantung iskemik, penyakit arteri perifer, penyakit serebrovaskular, atau hipertensi tidak terkontrol.",
+          "gambar": null,
+          "merek": [
+            "Arcoxia",
+            "Etorvel",
+            "Orinox"
+          ]
+        },
+        {
+          "id": "asam-mefenamat",
+          "nama": "Asam Mefenamat",
+          "indikasi": [
+            "Nyeri muskuloskeletal ringan-sedang",
+            "Nyeri inflamasi",
+            "Nyeri akut"
+          ],
+          "sediaan": [
+            "Kaplet/tablet 500 mg"
+          ],
+          "efek_samping": [
+            "Dispepsia",
+            "Diare",
+            "Ulkus/perdarahan GI",
+            "Gangguan ginjal"
+          ],
+          "tatalaksana": [
+            "500 mg dosis awal, kemudian 250 mg tiap 6 jam sesuai kebutuhan; gunakan jangka pendek"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Gejala GI",
+            "Tanda perdarahan"
+          ],
+          "interaksi": [
+            "Antikoagulan/antiplatelet: perdarahan meningkat",
+            "NSAID lain: toksisitas aditif"
+          ],
+          "catatan": "Lebih sesuai untuk penggunaan jangka pendek; hindari pada penyakit GI atau ginjal berat.",
+          "gambar": null,
+          "merek": [
+            "Ponstan",
+            "Mefinal"
+          ]
+        },
+        {
+          "id": "ketorolak",
+          "nama": "Ketorolak",
+          "indikasi": [
+            "Nyeri akut sedang-berat jangka pendek, termasuk nyeri muskuloskeletal"
+          ],
+          "sediaan": [
+            "Tablet 10 mg",
+            "Injeksi IM/IV"
+          ],
+          "efek_samping": [
+            "Ulkus/perdarahan GI",
+            "Gangguan ginjal",
+            "Mual",
+            "Sakit kepala"
+          ],
+          "tatalaksana": [
+            "10 mg tiap 4-6 jam sesuai kebutuhan; penggunaan sistemik dibatasi maksimal 5 hari pada dewasa"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Tanda perdarahan",
+            "Tekanan darah"
+          ],
+          "interaksi": [
+            "Antikoagulan/antiplatelet: perdarahan meningkat",
+            "NSAID lain: toksisitas aditif"
+          ],
+          "catatan": "Tidak untuk terapi kronis; kontraindikasi pada ulkus/perdarahan GI aktif dan gangguan ginjal berat.",
+          "gambar": null,
+          "merek": [
+            "XEVOLAC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "analgesik-muskuloskeletal",
+      "kelas": "Analgesik untuk Nyeri Muskuloskeletal",
+      "mekanisme": "Mengurangi persepsi nyeri melalui mekanisme sentral atau perifer; mekanisme berbeda menurut obat",
+      "obat": [
+        {
+          "id": "parasetamol",
+          "nama": "Parasetamol",
+          "indikasi": [
+            "Nyeri muskuloskeletal ringan-sedang",
+            "Demam"
+          ],
+          "sediaan": [
+            "Tablet 500 mg",
+            "Sirup 120-250 mg/5 mL",
+            "Infus 10 mg/mL",
+            "Supositoria"
+          ],
+          "efek_samping": [
+            "Hepatotoksisitas pada overdosis",
+            "Ruam/reaksi hipersensitivitas jarang"
+          ],
+          "tatalaksana": [
+            "500-1000 mg tiap 4-6 jam sesuai kebutuhan; jangan melebihi dosis harian maksimum yang direkomendasikan"
+          ],
+          "monitoring": [
+            "Total dosis harian",
+            "Fungsi hati pada penggunaan lama/dosis tinggi"
+          ],
+          "interaksi": [
+            "Warfarin: efek antikoagulasi dapat meningkat pada penggunaan rutin dosis tinggi",
+            "Obat hepatotoksik: toksisitas hati aditif"
+          ],
+          "catatan": "Perhatikan semua produk kombinasi yang mengandung parasetamol untuk mencegah overdosis.",
+          "gambar": null,
+          "merek": [
+            "Sanmol",
+            "Tempra",
+            "Alphamol"
+          ]
+        },
+        {
+          "id": "tramadol",
+          "nama": "Tramadol",
+          "indikasi": [
+            "Nyeri sedang-berat ketika analgesik non-opioid tidak memadai"
+          ],
+          "sediaan": [
+            "Kapsul 50 mg",
+            "Injeksi 100 mg/2 mL",
+            "Supositoria 100 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Pusing/mengantuk",
+            "Konstipasi",
+            "Kejang",
+            "Sindrom serotonin",
+            "Depresi napas"
+          ],
+          "tatalaksana": [
+            "50-100 mg tiap 4-6 jam sesuai kebutuhan; sesuaikan pada gangguan ginjal/hati dan usia lanjut"
+          ],
+          "monitoring": [
+            "Kesadaran dan frekuensi napas",
+            "Tanda ketergantungan/penyalahgunaan",
+            "Fungsi ginjal/hati"
+          ],
+          "interaksi": [
+            "SSRI/SNRI/MAOI dan obat serotonergik: risiko sindrom serotonin",
+            "Benzodiazepin dan depresan SSP: depresi napas/sedasi meningkat",
+            "Obat yang menurunkan ambang kejang: risiko kejang meningkat"
+          ],
+          "catatan": "Gunakan dengan hati-hati dan untuk durasi sesingkat mungkin; termasuk opioid dengan risiko ketergantungan.",
+          "gambar": null,
+          "merek": [
+            "Tramal",
+            "Tradosik",
+            "Dolgesic"
+          ]
+        },
+        {
+          "id": "metamizol",
+          "nama": "Metamizol (Antalgin)",
+          "indikasi": [
+            "Nyeri akut sedang-berat",
+            "Demam tinggi yang tidak responsif terhadap terapi lain"
+          ],
+          "sediaan": [
+            "Tablet 500 mg",
+            "Injeksi 500-1000 mg/2 mL"
+          ],
+          "efek_samping": [
+            "Agranulositosis",
+            "Reaksi anafilaksis",
+            "Hipotensi terutama setelah injeksi"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan dengan sediaan dan beratnya nyeri; gunakan sesuai resep dan batas dosis lokal"
+          ],
+          "monitoring": [
+            "Hitung darah bila penggunaan berulang atau bila demam/sakit tenggorokan",
+            "Tekanan darah saat pemberian parenteral",
+            "Reaksi hipersensitivitas"
+          ],
+          "interaksi": [
+            "Obat mielotoksik: risiko gangguan darah meningkat",
+            "Siklosporin/takrolimus: kadar dapat terpengaruh"
+          ],
+          "catatan": "Hentikan dan evaluasi segera bila muncul demam, sakit tenggorokan, atau tanda infeksi yang tidak biasa.",
+          "gambar": null,
+          "merek": [
+            "Antrain",
+            "Antalgin",
+            "Neuralgin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pelemas-otot-sentral",
+      "kelas": "Pelemas Otot Sentral",
+      "mekanisme": "Menurunkan aktivitas neuron motorik atau refleks spinal sehingga spasme dan kekakuan otot berkurang",
+      "obat": [
+        {
+          "id": "tizanidin",
+          "nama": "Tizanidin",
+          "indikasi": [
+            "Spasme dan kekakuan otot",
+            "Spastisitas terkait gangguan neurologis"
+          ],
+          "sediaan": [
+            "Tablet 2 mg"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Pusing",
+            "Hipotensi",
+            "Mulut kering",
+            "Gangguan fungsi hati"
+          ],
+          "tatalaksana": [
+            "Awal 2 mg sampai 3x/hari; titrasi bertahap sesuai respons dan toleransi"
+          ],
+          "monitoring": [
+            "Tekanan darah",
+            "Fungsi hati",
+            "Sedasi dan fungsi motorik"
+          ],
+          "interaksi": [
+            "Fluvoxamine/ciprofloxacin: kontraindikasi karena meningkatkan kadar tizanidin",
+            "Alkohol dan depresan SSP: sedasi meningkat"
+          ],
+          "catatan": "Titrasi bertahap dan jangan dihentikan mendadak setelah dosis tinggi atau penggunaan lama.",
+          "gambar": null,
+          "merek": [
+            "Zitanid"
+          ]
+        },
+        {
+          "id": "baklofen",
+          "nama": "Baklofen",
+          "indikasi": [
+            "Spastisitas dan spasme otot",
+            "Spastisitas akibat multiple sclerosis atau cedera medula"
+          ],
+          "sediaan": [
+            "Tablet 10 mg"
+          ],
+          "efek_samping": [
+            "Mengantuk",
+            "Pusing",
+            "Kelemahan otot",
+            "Hipotensi",
+            "Kebingungan"
+          ],
+          "tatalaksana": [
+            "Mulai dosis rendah dan titrasi bertahap sesuai respons; sesuaikan pada gangguan ginjal"
+          ],
+          "monitoring": [
+            "Fungsi ginjal",
+            "Kesadaran dan tonus otot",
+            "Gejala putus obat"
+          ],
+          "interaksi": [
+            "Depresan SSP: sedasi meningkat",
+            "Obat antihipertensi: hipotensi dapat meningkat"
+          ],
+          "catatan": "Jangan menghentikan terapi mendadak karena dapat menyebabkan gejala putus obat berat.",
+          "gambar": null,
+          "merek": [
+            "Lioresal"
+          ]
+        },
+        {
+          "id": "eperison",
+          "nama": "Eperison",
+          "indikasi": [
+            "Spasme otot rangka",
+            "Nyeri dan kekakuan otot terkait gangguan muskuloskeletal"
+          ],
+          "sediaan": [
+            "Tablet 50 mg"
+          ],
+          "efek_samping": [
+            "Pusing",
+            "Kelemahan",
+            "Mual",
+            "Reaksi hipersensitivitas"
+          ],
+          "tatalaksana": [
+            "50 mg 3x/hari sesudah makan, disesuaikan dengan respons klinis"
+          ],
+          "monitoring": [
+            "Sedasi/pusing",
+            "Respons klinis dan kekuatan otot",
+            "Reaksi alergi"
+          ],
+          "interaksi": [
+            "Obat yang menyebabkan sedasi: efek aditif"
+          ],
+          "catatan": "Gunakan hati-hati pada pasien yang memerlukan kewaspadaan tinggi saat berkendara atau mengoperasikan mesin.",
+          "gambar": null,
+          "merek": [
+            "Myonal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "terapi-gout",
+      "kelas": "Terapi Gout dan Hiperurisemia",
+      "mekanisme": "Mengurangi pembentukan asam urat, meningkatkan ekskresi asam urat, atau mengendalikan inflamasi saat serangan gout",
+      "obat": [
+        {
+          "id": "kolkisin",
+          "nama": "Kolkisin",
+          "indikasi": [
+            "Serangan gout akut",
+            "Profilaksis flare gout saat memulai terapi penurun asam urat"
+          ],
+          "sediaan": [
+            "Tablet 0,5 mg"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Mual/muntah",
+            "Miopati dan neuropati",
+            "Supresi sumsum tulang pada toksisitas berat"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan dengan fungsi ginjal/hati dan regimen yang digunakan; gunakan sesegera mungkin pada serangan akut"
+          ],
+          "monitoring": [
+            "Fungsi ginjal/hati",
+            "Gejala toksisitas GI",
+            "Hitung darah dan CK bila penggunaan lama atau gejala miopati"
+          ],
+          "interaksi": [
+            "Inhibitor kuat CYP3A4/P-gp: toksisitas kolkisin meningkat",
+            "Statin: risiko miopati dapat meningkat"
+          ],
+          "catatan": "Indeks terapi sempit; hindari overdosis dan sesuaikan pada gangguan ginjal/hati.",
+          "gambar": null,
+          "merek": [
+            "Recolfar",
+            "Kolkisin",
+            "AR Gout"
+          ]
+        },
+        {
+          "id": "alopurinol",
+          "nama": "Alopurinol",
+          "indikasi": [
+            "Hiperurisemia/gout kronis",
+            "Pencegahan batu asam urat",
+            "Hiperurisemia terkait terapi kanker tertentu"
+          ],
+          "sediaan": [
+            "Tablet 100 mg, 300 mg"
+          ],
+          "efek_samping": [
+            "Ruam",
+            "Serangan gout saat awal terapi",
+            "Hepatotoksisitas",
+            "Sindrom hipersensitivitas berat jarang"
+          ],
+          "tatalaksana": [
+            "Mulai dosis rendah dan titrasi berdasarkan kadar asam urat serta fungsi ginjal"
+          ],
+          "monitoring": [
+            "Asam urat serum",
+            "Fungsi ginjal",
+            "Fungsi hati",
+            "Ruam/reaksi hipersensitivitas"
+          ],
+          "interaksi": [
+            "Azathioprine/6-mercaptopurine: toksisitas berat meningkat dan dosis harus sangat diturunkan",
+            "Warfarin: efek dapat meningkat"
+          ],
+          "catatan": "Hentikan segera bila muncul ruam berat atau gejala hipersensitivitas.",
+          "gambar": null,
+          "merek": [
+            "Zyloric",
+            "Kolton"
+          ]
+        },
+        {
+          "id": "febuksostat",
+          "nama": "Febuksostat",
+          "indikasi": [
+            "Gout kronis dengan hiperurisemia ketika terapi lain tidak sesuai atau tidak memadai"
+          ],
+          "sediaan": [
+            "Tablet 40 mg, 80 mg"
+          ],
+          "efek_samping": [
+            "Serangan gout saat awal terapi",
+            "Gangguan fungsi hati",
+            "Ruam",
+            "Risiko kardiovaskular pada pasien tertentu"
+          ],
+          "tatalaksana": [
+            "Mulai 40 mg 1x/hari dan titrasi berdasarkan kadar asam urat sesuai pedoman"
+          ],
+          "monitoring": [
+            "Asam urat serum",
+            "Fungsi hati",
+            "Gejala kardiovaskular"
+          ],
+          "interaksi": [
+            "Azathioprine/6-mercaptopurine: kontraindikasi",
+            "Antasida dapat memengaruhi absorpsi pada beberapa sediaan"
+          ],
+          "catatan": "Evaluasi risiko kardiovaskular sebelum penggunaan jangka panjang.",
+          "gambar": null,
+          "merek": [
+            "Festaric"
+          ]
+        },
+        {
+          "id": "probenesid",
+          "nama": "Probenesid",
+          "indikasi": [
+            "Hiperurisemia dan gout kronis pada pasien yang sesuai"
+          ],
+          "sediaan": [
+            "Tablet 500 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Ruam",
+            "Batu asam urat",
+            "Eksaserbasi gout pada awal terapi"
+          ],
+          "tatalaksana": [
+            "Mulai dosis rendah dan tingkatkan bertahap; hidrasi cukup"
+          ],
+          "monitoring": [
+            "Asam urat serum",
+            "Fungsi ginjal",
+            "Gejala batu ginjal"
+          ],
+          "interaksi": [
+            "Penisilin/cephalosporin: kadar dapat meningkat",
+            "Aspirin dosis tertentu dapat mengurangi efek urikosurik"
+          ],
+          "catatan": "Kurang efektif pada gangguan ginjal berat dan bukan terapi tunggal untuk serangan gout akut.",
+          "gambar": null,
+          "merek": [
+            "Probenid"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "osteoartritis-dan-sendi",
+      "kelas": "Terapi Osteoartritis dan Sendi",
+      "mekanisme": "Mengurangi gejala nyeri atau mendukung fungsi sendi; mekanisme bergantung pada obat",
+      "obat": [
+        {
+          "id": "glukosamin",
+          "nama": "Glukosamin",
+          "indikasi": [
+            "Gejala osteoartritis dan keluhan sendi"
+          ],
+          "sediaan": [
+            "Tablet 250 mg, 500 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Kembung",
+            "Sakit kepala",
+            "Reaksi alergi pada individu tertentu"
+          ],
+          "tatalaksana": [
+            "Dosis mengikuti produk; sering diberikan bersama makan"
+          ],
+          "monitoring": [
+            "Respons nyeri dan fungsi sendi",
+            "Efek samping GI"
+          ],
+          "interaksi": [
+            "Warfarin: efek antikoagulasi dapat meningkat pada beberapa pasien"
+          ],
+          "catatan": "Bukti manfaat simptomatik bervariasi antar pasien dan produk; bukan pengganti terapi utama osteoartritis.",
+          "gambar": null,
+          "merek": [
+            "Glucosamine",
+            "Welmove"
+          ]
+        },
+        {
+          "id": "natrium-hialuronat",
+          "nama": "Natrium Hialuronat",
+          "indikasi": [
+            "Nyeri osteoartritis lutut pada pasien terpilih"
+          ],
+          "sediaan": [
+            "Injeksi intraartikular 20 mg/2 mL",
+            "Prefilled syringe 60 mg/6 mL"
+          ],
+          "efek_samping": [
+            "Nyeri sementara pada lokasi injeksi",
+            "Bengkak/efusi sendi",
+            "Reaksi lokal"
+          ],
+          "tatalaksana": [
+            "Diberikan sebagai injeksi intraartikular oleh tenaga kesehatan sesuai regimen produk"
+          ],
+          "monitoring": [
+            "Nyeri dan fungsi sendi",
+            "Reaksi lokal pascainjeksi"
+          ],
+          "interaksi": [
+            "Interaksi sistemik minimal; hindari pencampuran dengan antiseptik tertentu pada area injeksi sesuai petunjuk produk"
+          ],
+          "catatan": "Bukan untuk pemberian IV; teknik aseptik wajib untuk injeksi intraartikular.",
+          "gambar": null,
+          "merek": [
+            "Hyalgan",
+            "Hyruan One",
+            "Suplasyn"
+          ]
+        },
+        {
+          "id": "diaserein",
+          "nama": "Diaserein",
+          "indikasi": [
+            "Gejala osteoartritis tertentu"
+          ],
+          "sediaan": [
+            "Kapsul 50 mg"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Nyeri perut",
+            "Perubahan warna urin",
+            "Gangguan hati jarang"
+          ],
+          "tatalaksana": [
+            "50 mg 1x/hari pada awal terapi, kemudian dapat ditingkatkan sesuai produk dan toleransi"
+          ],
+          "monitoring": [
+            "Fungsi hati",
+            "Frekuensi dan berat diare",
+            "Respons gejala"
+          ],
+          "interaksi": [
+            "Laksatif: diare dapat bertambah",
+            "Obat yang memengaruhi hati: perhatian pada risiko hepatotoksisitas"
+          ],
+          "catatan": "Hentikan bila diare berat atau terjadi gangguan hati; penggunaan mengikuti regulasi setempat.",
+          "gambar": null,
+          "merek": [
+            "Nocel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antirematik-disease-modifying",
+      "kelas": "Obat Antirematik Disease-Modifying",
+      "mekanisme": "Menekan proses inflamasi dan respons imun yang mendasari penyakit rematik sehingga kerusakan sendi dapat diperlambat",
+      "obat": [
+        {
+          "id": "leflunomid",
+          "nama": "Leflunomid",
+          "indikasi": [
+            "Artritis reumatoid aktif"
+          ],
+          "sediaan": [
+            "Tablet 20 mg"
+          ],
+          "efek_samping": [
+            "Diare",
+            "Peningkatan enzim hati",
+            "Alopecia",
+            "Ruam",
+            "Penurunan sel darah"
+          ],
+          "tatalaksana": [
+            "20 mg 1x/hari; dosis awal/rumatan disesuaikan toleransi dan protokol klinis"
+          ],
+          "monitoring": [
+            "Fungsi hati",
+            "Hitung darah lengkap",
+            "Tekanan darah",
+            "Kehamilan pada pasien yang berpotensi hamil"
+          ],
+          "interaksi": [
+            "Obat hepatotoksik: toksisitas hati aditif",
+            "Warfarin: pemantauan INR diperlukan"
+          ],
+          "catatan": "Teratogenik; kontraindikasi pada kehamilan dan memerlukan prosedur eliminasi obat bila kehamilan direncanakan atau terjadi.",
+          "gambar": null,
+          "merek": [
+            "Arava"
+          ]
+        },
+        {
+          "id": "sulfasalazin",
+          "nama": "Sulfasalazin",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Artritis inflamasi tertentu"
+          ],
+          "sediaan": [
+            "Tablet/kaplet 500 mg"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Nyeri perut",
+            "Ruam",
+            "Hepatotoksisitas",
+            "Leukopenia"
+          ],
+          "tatalaksana": [
+            "Mulai dosis rendah dan tingkatkan bertahap sesuai toleransi dan regimen penyakit"
+          ],
+          "monitoring": [
+            "Hitung darah lengkap",
+            "Fungsi hati",
+            "Fungsi ginjal"
+          ],
+          "interaksi": [
+            "Metotreksat: dapat meningkatkan efek samping hematologis/hepatik",
+            "Obat yang berikatan dengan protein: interaksi potensial"
+          ],
+          "catatan": "Memerlukan pemantauan laboratorium berkala terutama pada awal terapi.",
+          "gambar": null,
+          "merek": [
+            "Sulcolon",
+            "Sulfitis"
+          ]
+        },
+        {
+          "id": "hidroksiklorokuin",
+          "nama": "Hidroksiklorokuin",
+          "indikasi": [
+            "Artritis reumatoid",
+            "Lupus eritematosus sistemik dengan manifestasi muskuloskeletal"
+          ],
+          "sediaan": [
+            "Tablet 200 mg"
+          ],
+          "efek_samping": [
+            "Gangguan retina",
+            "Mual",
+            "Ruam",
+            "Kardiomiopati jarang"
+          ],
+          "tatalaksana": [
+            "Dosis berdasarkan berat badan dan indikasi; gunakan dosis efektif terendah"
+          ],
+          "monitoring": [
+            "Pemeriksaan mata berkala",
+            "Fungsi hati/ginjal",
+            "Gejala jantung bila berisiko"
+          ],
+          "interaksi": [
+            "Obat yang memperpanjang QT: risiko aritmia meningkat",
+            "Digoksin: kadar dapat meningkat"
+          ],
+          "catatan": "Pemeriksaan mata sebelum dan selama terapi jangka panjang diperlukan untuk mendeteksi toksisitas retina.",
+          "gambar": null,
+          "merek": [
+            "Hyloquin"
+          ]
+        },
+        {
+          "id": "metotreksat",
+          "nama": "Metotreksat",
+          "indikasi": [
+            "Artritis reumatoid dan penyakit rematik inflamasi tertentu"
+          ],
+          "sediaan": [
+            "Tablet 2,5 mg",
+            "Injeksi"
+          ],
+          "efek_samping": [
+            "Mual",
+            "Stomatitis",
+            "Hepatotoksisitas",
+            "Supresi sumsum tulang",
+            "Pneumonitis"
+          ],
+          "tatalaksana": [
+            "Diberikan 1x/minggu, bukan setiap hari; dosis dititrasi sesuai respons dan protokol reumatologi"
+          ],
+          "monitoring": [
+            "Hitung darah lengkap",
+            "Fungsi hati",
+            "Fungsi ginjal",
+            "Gejala infeksi/pneumonitis"
+          ],
+          "interaksi": [
+            "Trimethoprim/sulfamethoxazole: toksisitas sumsum tulang meningkat",
+            "NSAID: perlu perhatian pada fungsi ginjal dan toksisitas",
+            "Alkohol: hepatotoksisitas meningkat"
+          ],
+          "catatan": "Obat mingguan dengan risiko tinggi bila salah jadwal; kontraindikasi pada kehamilan dan memerlukan pemantauan ketat.",
+          "gambar": null,
+          "merek": [
+            "Rheu-Trex"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kortikosteroid-muskuloskeletal",
+      "kelas": "Kortikosteroid untuk Inflamasi Muskuloskeletal",
+      "mekanisme": "Mengaktivasi reseptor glukokortikoid dan menekan mediator inflamasi sehingga edema dan peradangan berkurang",
+      "obat": [
+        {
+          "id": "metilprednisolon",
+          "nama": "Metilprednisolon",
+          "indikasi": [
+            "Eksaserbasi penyakit rematik inflamasi",
+            "Inflamasi muskuloskeletal berat",
+            "Artritis dan kondisi autoimun tertentu"
+          ],
+          "sediaan": [
+            "Tablet 4 mg, 8 mg, 16 mg",
+            "Injeksi metilprednisolon natrium suksinat"
+          ],
+          "efek_samping": [
+            "Hiperglikemia",
+            "Hipertensi",
+            "Retensi cairan",
+            "Infeksi",
+            "Osteoporosis pada penggunaan lama",
+            "Gangguan lambung"
+          ],
+          "tatalaksana": [
+            "Dosis bergantung indikasi; gunakan dosis efektif terendah dan tapering bila penggunaan cukup lama"
+          ],
+          "monitoring": [
+            "Glukosa darah",
+            "Tekanan darah",
+            "Berat badan/edema",
+            "Tanda infeksi",
+            "Kesehatan tulang pada penggunaan lama"
+          ],
+          "interaksi": [
+            "NSAID: risiko GI meningkat",
+            "Antidiabetik: kebutuhan terapi dapat meningkat",
+            "Vaksin hidup: respons/risiko infeksi dapat meningkat"
+          ],
+          "catatan": "Penghentian mendadak setelah penggunaan sistemik jangka panjang dapat menyebabkan insufisiensi adrenal.",
+          "gambar": null,
+          "merek": [
+            "Medixon",
+            "Metrison"
+          ]
+        },
+        {
+          "id": "prednison",
+          "nama": "Prednison",
+          "indikasi": [
+            "Artritis reumatoid dan penyakit rematik inflamasi",
+            "Eksaserbasi inflamasi muskuloskeletal"
+          ],
+          "sediaan": [
+            "Tablet 5 mg"
+          ],
+          "efek_samping": [
+            "Hiperglikemia",
+            "Hipertensi",
+            "Retensi cairan",
+            "Infeksi",
+            "Osteoporosis",
+            "Gangguan mood"
+          ],
+          "tatalaksana": [
+            "Dosis disesuaikan indikasi; gunakan dosis efektif terendah dan turunkan bertahap setelah penggunaan berkepanjangan"
+          ],
+          "monitoring": [
+            "Glukosa",
+            "Tekanan darah",
+            "Tanda infeksi",
+            "Kepadatan tulang pada penggunaan lama"
+          ],
+          "interaksi": [
+            "NSAID: risiko GI meningkat",
+            "Antidiabetik: kontrol glukosa dapat memburuk",
+            "Vaksin hidup: risiko infeksi meningkat"
+          ],
+          "catatan": "Jangan menghentikan mendadak setelah penggunaan jangka panjang.",
+          "gambar": null,
+          "merek": [
+            "Prednison",
+            "Lexacort"
+          ]
+        },
+        {
+          "id": "deksametason",
+          "nama": "Deksametason",
+          "indikasi": [
+            "Inflamasi berat dan kondisi rematik tertentu",
+            "Terapi intraartikular/periartikular tertentu sesuai indikasi klinis"
+          ],
+          "sediaan": [
+            "Tablet 0,5 mg",
+            "Injeksi 5 mg/mL"
+          ],
+          "efek_samping": [
+            "Hiperglikemia",
+            "Insomnia/perubahan mood",
+            "Infeksi",
+            "Osteoporosis pada penggunaan lama",
+            "Retensi cairan"
+          ],
+          "tatalaksana": [
+            "Dosis sangat bergantung indikasi; gunakan regimen terpendek yang efektif"
+          ],
+          "monitoring": [
+            "Glukosa",
+            "Tekanan darah",
+            "Tanda infeksi",
+            "Elektrolit bila penggunaan lama"
+          ],
+          "interaksi": [
+            "NSAID: risiko GI meningkat",
+            "Obat antidiabetik: kontrol glukosa dapat berubah",
+            "Penginduksi/inhibitor CYP3A4: kadar deksametason dapat berubah"
+          ],
+          "catatan": "Penggunaan jangka panjang memerlukan tapering dan pencegahan komplikasi steroid.",
+          "gambar": null,
+          "merek": [
+            "Corsona",
+            "Indexon"
+          ]
+        },
+        {
+          "id": "triamcinolone",
+          "nama": "Triamsinolon",
+          "indikasi": [
+            "Inflamasi sendi atau jaringan lunak pada indikasi terpilih",
+            "Injeksi intraartikular/intralesi sesuai indikasi"
+          ],
+          "sediaan": [
+            "Injeksi 40 mg/mL atau sediaan setara"
+          ],
+          "efek_samping": [
+            "Nyeri sementara setelah injeksi",
+            "Infeksi sendi",
+            "Peningkatan glukosa",
+            "Atrofi kulit/subkutan lokal"
+          ],
+          "tatalaksana": [
+            "Injeksi intraartikular dilakukan oleh tenaga kesehatan dengan teknik aseptik dan interval sesuai indikasi"
+          ],
+          "monitoring": [
+            "Glukosa pada pasien diabetes",
+            "Tanda infeksi sendi",
+            "Respons nyeri/fungsi sendi"
+          ],
+          "interaksi": [
+            "Antikoagulan: risiko perdarahan lokal meningkat pada prosedur",
+            "Kortikosteroid sistemik lain: efek glukokortikoid aditif"
+          ],
+          "catatan": "Jangan menyuntikkan ke sendi yang terinfeksi; frekuensi injeksi dibatasi untuk mengurangi kerusakan jaringan.",
+          "gambar": null,
+          "merek": [
+            "Trilac"
+          ]
+        }
+      ]
     }
   ]
 }
