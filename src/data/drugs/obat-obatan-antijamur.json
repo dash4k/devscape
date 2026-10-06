@@ -1,0 +1,150 @@
+{
+  "kelas_obat": [
+    {
+      "id": "azol",
+      "kelas": "Antijamur Golongan Azol",
+      "mekanisme": "Menghambat enzim lanosterol 14-alfa-demetilase (CYP51) sehingga sintesis ergosterol membran jamur terganggu",
+      "obat": [
+        {
+          "id": "flukonazol",
+          "nama": "Flukonazol",
+          "indikasi": ["Kandidiasis vagina, orofaring, esofagus, dan sistemik", "Meningitis kriptokokus", "Profilaksis antijamur pada imunokompromais"],
+          "sediaan": ["Kapsul 50 mg, 150 mg", "Infus IV 2 mg/mL"],
+          "efek_samping": ["Mual", "Sakit kepala", "Ruam", "Peningkatan enzim hati", "Pemanjangan QT"],
+          "tatalaksana": ["Kandidiasis vagina: 150 mg dosis tunggal", "Kandidiasis orofaring: 100-200 mg 1x/hari selama 7-14 hari", "Sesuaikan dosis pada gangguan ginjal"],
+          "monitoring": ["ALT/AST pada terapi lama", "Interval QT bila ada faktor risiko", "Fungsi ginjal"],
+          "interaksi": ["Warfarin: INR meningkat", "Sulfonilurea: risiko hipoglikemia", "Fenitoin dan siklosporin: kadar meningkat", "Obat pemanjang QT: risiko aditif", "Statin: risiko miopati"],
+          "catatan": "Kehamilan: hindari dosis tinggi atau jangka panjang.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fluconazole/PNG?image_size=300x300",
+          "merek": ["Diflucan", "Flukonazol (generik)", "ARV - Flukonazol"]
+        },
+        {
+          "id": "itrakonazol",
+          "nama": "Itrakonazol",
+          "indikasi": ["Onikomikosis dan tinea", "Kandidiasis", "Aspergilosis dan mikosis endemik"],
+          "sediaan": ["Kapsul 100 mg"],
+          "efek_samping": ["Mual", "Hepatotoksik", "Gagal jantung kongestif (efek inotropik negatif)", "Hipokalemia", "Edema"],
+          "tatalaksana": ["Kapsul 100-200 mg 1-2x/hari bersama makanan penuh (asam lambung diperlukan untuk absorpsi)"],
+          "monitoring": ["ALT/AST", "Tanda gagal jantung", "Kalium serum"],
+          "interaksi": ["Inhibitor CYP3A4 kuat: banyak interaksi (statin, kolkisin, midazolam, warfarin)", "PPI, H2 blocker, antasida: menurunkan absorpsi kapsul"],
+          "catatan": "Kontraindikasi pada gagal jantung.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/itraconazole/PNG?image_size=300x300",
+          "merek": ["Sporacid", "Itrakonazol (generik)"]
+        },
+        {
+          "id": "ketokonazol",
+          "nama": "Ketokonazol",
+          "indikasi": ["Dermatofitosis dan tinea versikolor", "Dermatitis seboroik dan ketombe (topikal)", "Mikosis sistemik (jika alternatif tidak tersedia)"],
+          "sediaan": ["Tablet 200 mg", "Krim 2%", "Larutan kulit kepala 2%"],
+          "efek_samping": ["Hepatotoksik (oral, serius)", "Mual", "Penurunan sintesis steroid adrenal/androgen", "Pemanjangan QT", "Iritasi kulit (topikal)"],
+          "tatalaksana": ["Oral: 200 mg 1x/hari bersama makanan", "Topikal: oleskan 1-2x/hari"],
+          "monitoring": ["ALT/AST (oral)", "Interval QT"],
+          "interaksi": ["Inhibitor CYP3A4 kuat: banyak interaksi", "Penurun asam lambung: menurunkan absorpsi"],
+          "catatan": "Penggunaan oral dibatasi karena risiko hepatotoksisitas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ketoconazole/PNG?image_size=300x300",
+          "merek": ["Ketokonazol (generik)", "Ketomed", "Ketoconazole Cream/Scalp Solution"]
+        },
+        {
+          "id": "vorikonazol",
+          "nama": "Vorikonazol",
+          "indikasi": ["Aspergilosis invasif", "Kandidemia dan kandidiasis invasif", "Infeksi jamur refrakter lain"],
+          "sediaan": ["Tablet 200 mg", "Serbuk injeksi IV 200 mg"],
+          "efek_samping": ["Gangguan penglihatan", "Hepatotoksik", "Ruam dan fotosensitivitas", "Halusinasi", "Pemanjangan QT"],
+          "tatalaksana": ["Dosis muat IV 6 mg/kgBB setiap 12 jam x2, lalu 4 mg/kgBB setiap 12 jam", "Oral: 200 mg setiap 12 jam, diminum 1 jam sebelum makan"],
+          "monitoring": ["Kadar obat serum", "ALT/AST", "Fungsi penglihatan pada terapi lama", "Interval QT"],
+          "interaksi": ["Substrat CYP3A4/2C19/2C9: banyak interaksi (warfarin, siklosporin, takrolimus, statin)", "Rifampisin dan karbamazepin: kontraindikasi"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/voriconazole/PNG?image_size=300x300",
+          "merek": ["Vfend"]
+        }
+      ]
+    },
+    {
+      "id": "antijamur-lain",
+      "kelas": "Antijamur Lain (Alilamin, Poliena, Ekinokandin, Griseofulvin, Topikal)",
+      "mekanisme": "Beragam: terbinafin menghambat skualen epoksidase; nistatin berikatan dengan ergosterol membentuk pori; ekinokandin menghambat sintesis beta-glukan dinding sel; griseofulvin mengganggu mikrotubulus jamur",
+      "obat": [
+        {
+          "id": "terbinafin",
+          "nama": "Terbinafin",
+          "indikasi": ["Onikomikosis", "Tinea korporis, kruris, pedis"],
+          "sediaan": ["Tablet 250 mg", "Krim 1%"],
+          "efek_samping": ["Gangguan pengecapan", "Gangguan GI", "Ruam", "Hepatotoksik (jarang)"],
+          "tatalaksana": ["250 mg 1x/hari; onikomikosis 6-12 minggu (kuku tangan-kaki)", "Krim: 1-2x/hari selama 1-4 minggu"],
+          "monitoring": ["ALT/AST sebelum dan selama terapi oral lama"],
+          "interaksi": ["Inhibitor CYP2D6: kadar obat lain (antidepresan trisiklik, beta bloker) dapat meningkat", "Rifampisin: menurunkan kadar terbinafin"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/terbinafine/PNG?image_size=300x300",
+          "merek": ["Interbi"]
+        },
+        {
+          "id": "nistatin",
+          "nama": "Nistatin",
+          "indikasi": ["Kandidiasis oral dan saluran cerna", "Kandidiasis vagina (tablet vagina)"],
+          "sediaan": ["Tablet 500.000 IU", "Tablet vagina 100.000 IU", "Suspensi 100.000 IU/mL", "Salep"],
+          "efek_samping": ["Mual", "Diare (dosis tinggi)", "Iritasi lokal"],
+          "tatalaksana": ["Suspensi oral: 100.000-500.000 IU 4x/hari, kumur lalu telan", "Tablet vagina: 1x/hari selama 14 hari"],
+          "monitoring": ["Respons klinis"],
+          "interaksi": ["Interaksi sistemik minimal (tidak diabsorpsi)"],
+          "catatan": "Tidak efektif untuk infeksi sistemik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nystatin/PNG?image_size=300x300",
+          "merek": ["Kandistatin", "Nistatin (generik)", "Myco Z (kombinasi)"]
+        },
+        {
+          "id": "griseofulvin",
+          "nama": "Griseofulvin",
+          "indikasi": ["Tinea kapitis", "Tinea korporis dan kruris luas", "Onikomikosis (alternatif)"],
+          "sediaan": ["Tablet 125 mg, 250 mg, 500 mg"],
+          "efek_samping": ["Sakit kepala", "Mual", "Ruam dan fotosensitivitas", "Hepatotoksik (jarang)"],
+          "tatalaksana": ["500 mg/hari terbagi, diminum bersama makanan berlemak; durasi minggu hingga bulan sesuai lokasi infeksi"],
+          "monitoring": ["Fungsi hati pada terapi lama", "Hitung darah pada terapi lama"],
+          "interaksi": ["Warfarin: efek antikoagulan menurun", "Kontrasepsi hormonal: efektivitas menurun", "Alkohol: reaksi mirip disulfiram"],
+          "catatan": "Kontraindikasi pada kehamilan dan porfiria.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/griseofulvin/PNG?image_size=300x300",
+          "merek": ["Griseofulvin (generik)", "Mycostop"]
+        },
+        {
+          "id": "mikonazol",
+          "nama": "Mikonazol (topikal)",
+          "indikasi": ["Tinea dan kandidiasis kulit", "Ruam popok akibat jamur"],
+          "sediaan": ["Krim 2%", "Bedak tabur 2%"],
+          "efek_samping": ["Iritasi dan rasa terbakar lokal", "Ruam"],
+          "tatalaksana": ["Oleskan tipis 1-2x/hari pada kulit bersih dan kering selama 2-4 minggu"],
+          "monitoring": ["Respons klinis", "Reaksi kulit lokal"],
+          "interaksi": ["Warfarin: INR dapat meningkat bila terabsorpsi bermakna"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/miconazole/PNG?image_size=300x300",
+          "merek": ["Daktarin", "Mikonazol (generik)", "Mycorine"]
+        },
+        {
+          "id": "mikafungin",
+          "nama": "Mikafungin",
+          "mekanisme": "Ekinokandin: menghambat enzim 1,3-beta-D-glukan sintase sehingga sintesis dinding sel jamur terganggu",
+          "indikasi": ["Kandidemia dan kandidiasis invasif", "Profilaksis kandidiasis pada transplantasi sel punca"],
+          "sediaan": ["Serbuk injeksi IV 50 mg, 100 mg"],
+          "efek_samping": ["Mual", "Flebitis", "Peningkatan enzim hati", "Demam", "Reaksi alergi"],
+          "tatalaksana": ["Kandidemia: 100 mg IV 1x/hari", "Profilaksis: 50 mg IV 1x/hari"],
+          "monitoring": ["Fungsi hati", "Reaksi infus"],
+          "interaksi": ["Sirolimus dan nifedipin: kadar dapat meningkat"],
+          "catatan": "Tidak perlu penyesuaian dosis pada gangguan ginjal.",
+          "gambar": null,
+          "merek": ["Mycamine", "Micacura"]
+        },
+        {
+          "id": "anidulafungin",
+          "nama": "Anidulafungin",
+          "mekanisme": "Ekinokandin: menghambat sintesis beta-glukan dinding sel jamur",
+          "indikasi": ["Kandidemia dan kandidiasis invasif"],
+          "sediaan": ["Serbuk injeksi IV 100 mg"],
+          "efek_samping": ["Diare", "Hipokalemia", "Peningkatan enzim hati", "Reaksi infus"],
+          "tatalaksana": ["Dosis muat 200 mg IV hari 1, lalu 100 mg IV 1x/hari"],
+          "monitoring": ["Fungsi hati", "Kalium serum"],
+          "interaksi": ["Siklosporin: kadar anidulafungin dapat sedikit meningkat"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Ecalta"]
+        }
+      ]
+    }
+  ]
+}

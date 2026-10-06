@@ -1,0 +1,280 @@
+{
+  "kelas_obat": [
+    {
+      "id": "kristaloid",
+      "kelas": "Cairan Kristaloid (Resusitasi dan Rumatan)",
+      "mekanisme": "Larutan elektrolit isotonik atau hipotonik yang mengisi volume intravaskular dan interstisial serta menggantikan kehilangan cairan dan elektrolit",
+      "obat": [
+        {
+          "id": "natrium-klorida",
+          "nama": "Natrium Klorida (NaCl 0,9%, 3%)",
+          "indikasi": ["Resusitasi dan penggantian cairan", "Hiponatremia berat (NaCl 3%)", "Pelarut obat", "Irigasi dan pembilasan"],
+          "sediaan": ["Infus 0,9% 100 mL, 500 mL, 1000 mL", "Infus 3% 500 mL", "Ampul injeksi 0,9% 25 mL", "Kapsul NaCl 500 mg, 1000 mg"],
+          "efek_samping": ["Hipernatremia", "Kelebihan cairan dan edema", "Asidosis hiperkloremik (volume besar)"],
+          "tatalaksana": ["Dosis dan kecepatan sesuai kebutuhan klinis dan status cairan", "NaCl 3%: hanya dengan pemantauan natrium ketat; koreksi natrium tidak melebihi laju aman untuk mencegah demielinisasi osmotik"],
+          "monitoring": ["Natrium dan klorida serum", "Status volume (BB, edema, tekanan darah)", "Fungsi ginjal dan jantung"],
+          "interaksi": ["Kortikosteroid: retensi natrium", "Litium: ekskresi litium meningkat dengan beban natrium"],
+          "catatan": "Hati-hati pada gagal jantung, gagal ginjal, dan sirosis.",
+          "gambar": null,
+          "merek": ["NaCl 0,9% infus OTSU", "NaCl 0,9% Ecosol B. Braun", "NaCl 0,9% Wida", "NaCl 3% OTSU", "Infusan NaCl 0,9% Sanbe", "NaCl 1000 mg capsule"]
+        },
+        {
+          "id": "ringer-laktat-asetat",
+          "nama": "Ringer Laktat dan Ringer Asetat",
+          "indikasi": ["Resusitasi cairan dan dehidrasi", "Penggantian cairan perioperatif", "Luka bakar"],
+          "sediaan": ["Infus 500 mL (botol atau softbag)"],
+          "efek_samping": ["Kelebihan cairan", "Alkalosis metabolik (volume besar)", "Hiperkalemia pada gagal ginjal"],
+          "tatalaksana": ["Dosis dan kecepatan sesuai estimasi defisit dan kebutuhan rumatan"],
+          "monitoring": ["Status cairan dan elektrolit", "Fungsi ginjal"],
+          "interaksi": ["Seftriakson: jangan dicampur dalam jalur yang sama (kalsium)", "Suplemen kalium: risiko hiperkalemia aditif"],
+          "catatan": "Ringer laktat hati-hati pada gangguan fungsi hati berat (metabolisme laktat).",
+          "gambar": null,
+          "merek": ["Ringer Laktat 500 mL", "RL Sanbe", "Asering (Ringer asetat)", "Infusan Ring-AS", "Steroofundin"]
+        },
+        {
+          "id": "kristaloid-rumatan-pediatrik",
+          "nama": "Cairan Rumatan Dekstrosa-Elektrolit (KA-EN, D5-NS, Tridex, KDN)",
+          "indikasi": ["Cairan rumatan dan pengganti pada pasien yang tidak dapat minum", "Dehidrasi anak sesuai komposisi"],
+          "sediaan": ["Infus 500 mL; KA-EN 1B, 3A, 3B, MG3; D5-1/4 NS, D5-1/2 NS, D5-NS; KDN-1, KDN-2; 2A; HSD; Tridex"],
+          "efek_samping": ["Hiponatremia (cairan hipotonik)", "Hiperglikemia", "Kelebihan cairan"],
+          "tatalaksana": ["Pilih komposisi sesuai usia, kebutuhan natrium/kalium, dan status klinis"],
+          "monitoring": ["Natrium dan kalium serum", "Glukosa darah", "Status cairan"],
+          "interaksi": ["Insulin dan kortikosteroid: efek pada glukosa darah"],
+          "catatan": "Cairan hipotonik berisiko hiponatremia, terutama pada anak sakit akut.",
+          "gambar": null,
+          "merek": ["KA-EN 1B", "KA-EN 3A", "KA-EN 3B", "KA-EN MG3", "D5-1/4 NS", "D5-1/2 NS", "D5-NS", "KDN-1", "KDN-2", "2A", "HSD", "RD", "Tridex Plain", "Ka En 3A", "Ka En 3B"]
+        },
+        {
+          "id": "larutan-pembilas-lainnya",
+          "nama": "Larutan Irigasi dan Pelarut (Water for Injection, BSS)",
+          "indikasi": ["Pelarut sediaan injeksi", "Irigasi luka dan rongga tubuh", "Irigasi mata (BSS)"],
+          "sediaan": ["Aquabides 25 mL (ampul)", "Water for irrigation 1000 mL", "BSS 500 mL", "Miriwash 500 mL"],
+          "efek_samping": ["Hemolisis jika air steril diberikan IV langsung", "Iritasi lokal"],
+          "tatalaksana": ["Sesuai kebutuhan prosedur; jangan diberikan IV tanpa dilarutkan dengan zat terlarut"],
+          "monitoring": ["Tanda hemolisis atau iritasi"],
+          "interaksi": ["Tidak berlaku"],
+          "catatan": "Air steril adalah hipotonik; tidak boleh diinfuskan langsung.",
+          "gambar": null,
+          "merek": ["Water for Injection OTSU", "Water for Irrigation", "BSS 0,64%", "Miriwash"]
+        }
+      ]
+    },
+    {
+      "id": "dekstrosa-glukosa",
+      "kelas": "Larutan Dekstrosa dan Glukosa",
+      "mekanisme": "Sumber kalori dan penyedia air bebas; dekstrosa hipertonik mengoreksi hipoglikemia",
+      "obat": [
+        {
+          "id": "dekstrosa",
+          "nama": "Dekstrosa / Glukosa (5%, 10%, 12,5%, 40%)",
+          "indikasi": ["Hipoglikemia (D40% atau D10%)", "Sumber kalori dan penggantian cairan", "Pelarut obat"],
+          "sediaan": ["Infus 5% 100 mL dan 500 mL", "Infus 10% 500 mL", "Infus 12,5% 500 mL", "Injeksi 40% 25 mL (ampul)"],
+          "efek_samping": ["Hiperglikemia", "Flebitis (konsentrasi tinggi)", "Hipokalemia dan hipofosfatemia", "Defisiensi tiamin (Wernicke) pada malnutrisi"],
+          "tatalaksana": ["Hipoglikemia berat dewasa: 25 g (D40% 50-62,5 mL atau D10% 250 mL) IV, ulangi bila perlu sesuai glukosa darah", "Rumatan dan penggantian: sesuai kebutuhan klinis"],
+          "monitoring": ["Glukosa darah", "Elektrolit (K, fosfat, Mg)", "Status cairan"],
+          "interaksi": ["Insulin: efek hipoglikemik berlawanan", "Kortikosteroid: hiperglikemia aditif"],
+          "catatan": "Berikan tiamin sebelum atau bersama dekstrosa pada pasien alkoholik atau malnutrisi berat.",
+          "gambar": null,
+          "merek": ["Glukosa 5% infus", "Glukosa 10% infus", "D40% 25 mL OTSU", "Dextrose 12,5%", "G5% Ecosol B. Braun", "D5% 100 mL OTSU", "Infusan D10% Sanbe"]
+        }
+      ]
+    },
+    {
+      "id": "koloid-albumin",
+      "kelas": "Koloid dan Albumin",
+      "mekanisme": "Meningkatkan tekanan onkotik plasma sehingga memperluas volume intravaskular lebih lama dibanding kristaloid",
+      "obat": [
+        {
+          "id": "albumin",
+          "nama": "Albumin (5%, 20%, 25%)",
+          "indikasi": ["Hipoalbuminemia berat dan sirosis dengan asites/peritonitis spontan", "Ekspansi volume pada syok dan luka bakar", "Paracentesis volume besar"],
+          "sediaan": ["Infus 5% 250 mL", "Infus 20% 50 mL dan 100 mL", "Infus 25% 20 mL, 50 mL, 100 mL"],
+          "efek_samping": ["Kelebihan volume dan edema paru", "Reaksi alergi", "Demam dan menggigil", "Hipotensi (infus cepat)"],
+          "tatalaksana": ["Dosis dan konsentrasi sesuai indikasi dan kadar albumin; infus lambat pada pasien kardiopulmoner"],
+          "monitoring": ["Albumin serum", "Status volume dan tanda gagal jantung", "Tanda vital selama infus"],
+          "interaksi": ["Interaksi obat bermakna terbatas"],
+          "catatan": "Hati-hati pada gagal jantung dan anemia berat (dilusi).",
+          "gambar": null,
+          "merek": ["Albapure", "Albumin 20%", "Albumin 25%", "Albuminar", "Plasbumin", "Octalbin", "Kedrialb", "Octaserum"]
+        },
+        {
+          "id": "gelatin",
+          "nama": "Gelatin (Koloid Sintetik)",
+          "indikasi": ["Penggantian volume plasma (hipovolemia akut)"],
+          "sediaan": ["Infus 500 mL (botol atau softbag)"],
+          "efek_samping": ["Reaksi anafilaktoid", "Kelebihan volume", "Gangguan koagulasi (dilusi)"],
+          "tatalaksana": ["Sesuai kebutuhan volume dan respons hemodinamik"],
+          "monitoring": ["Tanda vital", "Koagulasi", "Reaksi alergi"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": "Dosis dan batas maksimum mengikuti petunjuk produk.",
+          "gambar": null,
+          "merek": ["Gelofusine", "Gelafusal"]
+        }
+      ]
+    },
+    {
+      "id": "elektrolit-pekat",
+      "kelas": "Elektrolit dan Koreksi Asam-Basa Intravena",
+      "mekanisme": "Menggantikan atau mengoreksi defisit ion spesifik (kalium, kalsium, magnesium, natrium bikarbonat)",
+      "obat": [
+        {
+          "id": "kalium-klorida",
+          "nama": "Kalium Klorida (KCl)",
+          "indikasi": ["Hipokalemia", "Pencegahan hipokalemia akibat diuretik atau muntah/diare"],
+          "sediaan": ["Injeksi pekat 7,46% 25 mL", "Kapsul/tablet 500 mg", "Tablet lepas lambat 600 mg", "Serbuk"],
+          "efek_samping": ["Hiperkalemia dan aritmia", "Nyeri/flebitis di lokasi infus", "Iritasi GI (oral)"],
+          "tatalaksana": ["Injeksi pekat harus diencerkan; jangan pernah diberikan sebagai bolus IV", "Kecepatan infus perifer umumnya tidak melebihi 10 mEq/jam dengan pemantauan", "Oral: sesuai kadar kalium dan fungsi ginjal"],
+          "monitoring": ["Kalium serum", "EKG pada koreksi cepat", "Fungsi ginjal"],
+          "interaksi": ["ACE inhibitor, ARB, spironolakton: risiko hiperkalemia aditif"],
+          "catatan": "Injeksi pekat berbahaya jika tidak diencerkan; berikan sesuai protokol keselamatan.",
+          "gambar": null,
+          "merek": ["KCl 7,46% 25 mL OTSU", "KCl 500 mg capsule", "KSR 600 mg", "KCl pulv", "KCl per gram bahan baku"]
+        },
+        {
+          "id": "kalsium-glukonat",
+          "nama": "Kalsium Glukonat",
+          "indikasi": ["Hipokalsemia simtomatik", "Hiperkalemia dengan perubahan EKG", "Keracunan magnesium"],
+          "sediaan": ["Injeksi 10% 10 mL (ampul)"],
+          "efek_samping": ["Hiperkalsemia", "Bradikardia dan aritmia", "Nekrosis jaringan jika ekstravasasi", "Flushing"],
+          "tatalaksana": ["Injeksi IV lambat (mis. 1-2 g dalam 10 menit pada dewasa) dengan monitor EKG; ulangi sesuai respons"],
+          "monitoring": ["Kalsium terionisasi", "EKG", "Lokasi infus"],
+          "interaksi": ["Digoksin: risiko toksisitas meningkat", "Seftriakson: jangan dicampur (presipitasi)", "Bikarbonat: presipitasi bila dicampur"],
+          "catatan": "Ekstravasasi dapat menyebabkan nekrosis; gunakan vena besar bila mungkin.",
+          "gambar": null,
+          "merek": ["Kalsium Glukonat 10%"]
+        },
+        {
+          "id": "magnesium-sulfat",
+          "nama": "Magnesium Sulfat",
+          "indikasi": ["Pre-eklamsia berat dan eklamsia (pencegahan dan terapi kejang)", "Hipomagnesemia", "Torsades de pointes"],
+          "sediaan": ["Injeksi 20% dan 40% 25 mL"],
+          "efek_samping": ["Depresi napas dan hilangnya refleks patela (toksisitas)", "Hipotensi", "Flushing", "Hipermagnesemia pada gagal ginjal"],
+          "tatalaksana": ["Eklamsia (Pritchard/Zuspan): dosis muat IV 4-6 g lalu rumatan sesuai protokol obstetrik", "Sesuaikan pada gangguan ginjal"],
+          "monitoring": ["Refleks patela, frekuensi napas >= 16/menit, urine output >= 30 mL/jam", "Kadar magnesium serum", "Antidotum: kalsium glukonat"],
+          "interaksi": ["Pelemas otot: blokade neuromuskular meningkat", "Nifedipin: risiko hipotensi dan blokade neuromuskular"],
+          "catatan": "Siapkan kalsium glukonat sebagai antidotum.",
+          "gambar": null,
+          "merek": ["MgSO4 20% OTSU", "MgSO4 40% OTSU"]
+        },
+        {
+          "id": "natrium-bikarbonat",
+          "nama": "Natrium Bikarbonat (IV)",
+          "indikasi": ["Asidosis metabolik berat", "Hiperkalemia", "Keracunan trisiklik atau salisilat (alkalinisasi)"],
+          "sediaan": ["Injeksi 8,4% 25 mL"],
+          "efek_samping": ["Alkalosis metabolik", "Hipernatremia", "Hipokalemia", "Hipokalsemia", "Nekrosis jaringan pada ekstravasasi"],
+          "tatalaksana": ["Dosis berdasarkan defisit basa dan klinis; pemberian IV lambat dengan pemantauan gas darah"],
+          "monitoring": ["Analisis gas darah", "Elektrolit (Na, K, Ca)", "Status volume"],
+          "interaksi": ["Kalsium: presipitasi bila dicampur", "Katekolamin: inaktivasi bila dicampur"],
+          "catatan": "Gunakan hati-hati pada gagal jantung dan hipernatremia.",
+          "gambar": null,
+          "merek": ["Meylon 8,4%"]
+        },
+        {
+          "id": "mineral-oral-fosfat",
+          "nama": "Suplemen Mineral dan Oralit",
+          "indikasi": ["Koreksi defisiensi elektrolit ringan", "Rehidrasi oral pada diare"],
+          "sediaan": ["Sachet oralit", "Larutan oral elektrolit", "Fleet Phosphosoda (pencahar salin)"],
+          "efek_samping": ["Mual", "Hipernatremia (jika dosis tidak sesuai)", "Nefropati fosfat (sediaan fosfat)"],
+          "tatalaksana": ["Oralit: sesuai kehilangan cairan, dilarutkan sesuai petunjuk kemasan"],
+          "monitoring": ["Status hidrasi", "Elektrolit pada gangguan ginjal"],
+          "interaksi": ["Diuretik: risiko gangguan elektrolit"],
+          "catatan": "Sediaan fosfat oral dibatasi pada gangguan ginjal.",
+          "gambar": null,
+          "merek": ["Oralit 200", "Pedialyte", "Pharolit", "Fleet Phosphosoda", "Mineral Mix"]
+        }
+      ]
+    },
+    {
+      "id": "nutrisi-parenteral",
+      "kelas": "Nutrisi Parenteral (Asam Amino, Lipid, Multivitamin, Kombinasi)",
+      "mekanisme": "Menyediakan makronutrien (asam amino, lipid, karbohidrat), mikronutrien, dan vitamin intravena bagi pasien yang tidak dapat memenuhi kebutuhan melalui jalur enteral",
+      "obat": [
+        {
+          "id": "asam-amino",
+          "nama": "Asam Amino (Larutan Infus)",
+          "indikasi": ["Nutrisi parenteral pada pasien yang tidak dapat makan", "Formulasi khusus: hepar, ginjal, neonatus/bayi"],
+          "sediaan": ["Infus 100-1000 mL (konsentrasi 5-10%): Aminofluid, Aminofusin, Aminoleban, Aminosteril, Comafusin Hepar, Triofusin, Nephrosteril, Renxamin, Kalbamin"],
+          "efek_samping": ["Hiperamonemia pada gangguan hati", "Azotemia", "Asidosis metabolik", "Flebitis (osmolaritas tinggi)"],
+          "tatalaksana": ["Dosis disesuaikan kebutuhan protein dan fungsi organ; formulasi khusus untuk hepar dan ginjal"],
+          "monitoring": ["Ureum/kreatinin", "Amonia (gangguan hati)", "Elektrolit dan glukosa", "Fungsi hati"],
+          "interaksi": ["Interaksi obat bermakna terbatas"],
+          "catatan": "Pilih formulasi sesuai kondisi (hepar, ginjal, anak).",
+          "gambar": null,
+          "merek": ["Aminofluid", "Aminofusin Hepar", "Aminofusin L600", "Aminofusin Paed", "Aminoleban", "Aminosteril Infant", "Comafusin Hepar", "Triofusin", "Triofusin-E", "Nephrosteril", "Renxamin", "Kalbamin", "BFluid", "Aminoplasmal"]
+        },
+        {
+          "id": "emulsi-lipid",
+          "nama": "Emulsi Lipid (Intralipid, Lipofundin, Clinoleic, Smoflipid, Omegaven)",
+          "indikasi": ["Sumber kalori dan asam lemak esensial pada nutrisi parenteral", "Minyak ikan (Omegaven) pada kolestasis terkait nutrisi parenteral"],
+          "sediaan": ["Infus 20% 100 mL dan 250 mL"],
+          "efek_samping": ["Hipertrigliseridemia", "Gangguan fungsi hati (terapi lama)", "Reaksi alergi (kedelai/telur)", "Overload lipid"],
+          "tatalaksana": ["Dosis sesuai kebutuhan kalori dan toleransi trigliserida; infus lambat"],
+          "monitoring": ["Trigliserida serum", "Fungsi hati", "Reaksi alergi"],
+          "interaksi": ["Heparin: meningkatkan lipase lipoprotein sementara", "Propofol: kandungan lipid perlu diperhitungkan"],
+          "catatan": "Kontraindikasi pada alergi telur/kedelai dan hipertrigliseridemia berat.",
+          "gambar": null,
+          "merek": ["Intralipid 20%", "Lipofundin MCT/LCT", "Lipomed MCT/LCT", "Clinoleic 20%", "Smoflipid 20%", "Omegaven"]
+        },
+        {
+          "id": "nutrisi-parenteral-kombinasi",
+          "nama": "Nutrisi Parenteral Kombinasi (Kabiven, SmofKabiven, Clinimix, Olimel, Nutriflex)",
+          "indikasi": ["Nutrisi parenteral lengkap pasien yang tidak dapat menerima nutrisi enteral"],
+          "sediaan": ["Kantong multikamar (softbag) 493-1448 mL (sentral atau perifer)"],
+          "efek_samping": ["Hiperglikemia", "Gangguan elektrolit", "Infeksi kateter", "Refeeding syndrome", "Gangguan fungsi hati"],
+          "tatalaksana": ["Mulai dosis rendah lalu naikkan bertahap; sesuaikan dengan kebutuhan kalori dan jalur (sentral/perifer)"],
+          "monitoring": ["Glukosa, elektrolit, fosfat, magnesium", "Fungsi hati dan trigliserida", "Berat badan", "Tanda infeksi kateter"],
+          "interaksi": ["Warfarin (vitamin K dalam lipid): INR dapat berubah", "Insulin: kebutuhan meningkat"],
+          "catatan": "Risiko refeeding syndrome pada malnutrisi berat; mulai kalori rendah dan pantau fosfat.",
+          "gambar": null,
+          "merek": ["Kabiven Peripheral", "SmofKabiven Central", "SmofKabiven Peripheral", "Clinimix N9G15E", "Combiflex Peri", "Nutriflex Lipid Peri", "Olimel N9E", "Infumal", "Martos-10", "Glycophos"]
+        },
+        {
+          "id": "multivitamin-injeksi",
+          "nama": "Multivitamin dan Vitamin Injeksi (Cernevit, Soluvit, Vitalipid, Vitamin C, B, K)",
+          "indikasi": ["Suplementasi vitamin pada nutrisi parenteral", "Defisiensi vitamin tertentu"],
+          "sediaan": ["Serbuk/infus Cernevit, Soluvit N, Vitalipid N Adult/Infant", "Injeksi vitamin C 200 mg, 500 mg, 1000 mg", "Injeksi neurobion/mekobalamin/vitamin B12"],
+          "efek_samping": ["Reaksi alergi", "Flebitis", "Hipervitaminosis (dosis berlebih)"],
+          "tatalaksana": ["Tambahkan ke kantong nutrisi sesuai petunjuk; dosis lainnya sesuai indikasi"],
+          "monitoring": ["Status vitamin dan klinis"],
+          "interaksi": ["Vitamin K: berlawanan efek dengan warfarin", "Vitamin C dosis tinggi: dapat mengganggu uji glukosa urin"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Cernevit", "Soluvit N", "Vitalipid N Adult", "Vitalipid N Infant", "Extrace", "Larce", "Prove-C", "Sankorbin", "Ramvit C", "Neurobion 5000", "Vitamin B12 injeksi", "Dipeptiven"]
+        }
+      ]
+    },
+    {
+      "id": "osmotik-dialisis",
+      "kelas": "Diuretik Osmotik dan Cairan Dialisis",
+      "mekanisme": "Mannitol menarik cairan secara osmotik dari jaringan ke intravaskular; cairan dialisis dan CRRT menggantikan fungsi ekskresi ginjal",
+      "obat": [
+        {
+          "id": "manitol",
+          "nama": "Manitol",
+          "indikasi": ["Penurunan tekanan intrakranial", "Penurunan tekanan intraokular akut", "Oliguria dengan fungsi ginjal masih terjaga"],
+          "sediaan": ["Infus 20% 250 mL dan 500 mL"],
+          "efek_samping": ["Gangguan elektrolit (hiponatremia awal, hipernatremia)", "Kelebihan cairan dan edema paru", "Gagal ginjal akut (dosis tinggi)", "Dehidrasi"],
+          "tatalaksana": ["Dosis umum 0,25-1 g/kgBB IV selama 20-30 menit, diulang sesuai osmolalitas serum dan respons"],
+          "monitoring": ["Osmolalitas serum, elektrolit", "Output urin dan fungsi ginjal", "Status volume"],
+          "interaksi": ["Litium: ekskresi meningkat", "Obat nefrotoksik: risiko aditif"],
+          "catatan": "Gunakan filter infus bila terlihat kristal; kontraindikasi pada anuria dan gagal jantung berat.",
+          "gambar": null,
+          "merek": ["Manitol 20% 250 mL", "Manitol 20% 500 mL"]
+        },
+        {
+          "id": "cairan-dialisis",
+          "nama": "Cairan Dialisis Peritoneal dan CRRT (Dianeal, Prismasol)",
+          "indikasi": ["Dialisis peritoneal pada gagal ginjal", "Hemofiltrasi/hemodialisis kontinu (CRRT) pada pasien kritis"],
+          "sediaan": ["Dianeal 1,5% dan 2,5% softbag", "Prismasol 5 L (CRRT)"],
+          "efek_samping": ["Peritonitis (CAPD)", "Hiperglikemia (dekstrosa)", "Gangguan elektrolit", "Hipotensi"],
+          "tatalaksana": ["Sesuai protokol dialisis dan peresepan nefrologi/ICU"],
+          "monitoring": ["Elektrolit dan asam-basa", "Glukosa", "Keseimbangan cairan", "Tanda infeksi (CAPD)"],
+          "interaksi": ["Insulin: kebutuhan dapat berubah pada dialisis peritoneal"],
+          "catatan": "Gunakan sesuai peresepan dan prosedur steril.",
+          "gambar": null,
+          "merek": ["Dianeal 1,5%", "Dianeal 2,5%", "Prismasol 5 L"]
+        }
+      ]
+    }
+  ]
+}
