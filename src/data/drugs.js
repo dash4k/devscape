@@ -1,18 +1,22 @@
 import anestesi from './drugs/obat-obatan-anestesi.json';
 import antibiotik from './drugs/obat-obatan-antibiotik.json';
 import antijamur from './drugs/obat-obatan-antijamur.json';
+import antineoplastik from './drugs/obat-obatan-antineoplastik.json';
 import antiparasit from './drugs/obat-obatan-antiparasit.json';
 import antivirus from './drugs/obat-obatan-antivirus.json';
 import darah from './drugs/obat-obatan-darah.json';
 import endokrin from './drugs/obat-obatan-endokrin.json';
 import ginjal from './drugs/obat-obatan-ginjal.json';
 import kardiovaskular from './drugs/obat-obatan-kardiovaskular.json';
+import mediakontras from './drugs/obat-obatan-media-kontras-diagnostik.json';
 import muskuloskeletal from './drugs/obat-obatan-muskuloskeletal.json';
 import nutrisi from './drugs/obat-obatan-cairan-infus-nutrisi.json';
 import pencernaan from './drugs/obat-obatan-pencernaan.json';
 import pernapasan from './drugs/obat-obatan-pernapasan.json';
 import psikiatri from './drugs/obat-obatan-psikiatri.json';
 import saraf from './drugs/obat-obatan-saraf.json';
+import suplemen from './drugs/obat-obatan-suplemen-nutrisi.json';
+import topikal from './drugs/obat-obatan-topikal.json';
 import tulang from './drugs/obat-obatan-tulang.json';
 import vaksin from './drugs/obat-obatan-vaksin.json';
 
@@ -20,18 +24,22 @@ export const rawDrugs = {
   anestesi,
   antibiotik,
   antijamur,
+  antineoplastik,
   antiparasit,
   antivirus,
   darah,
   endokrin,
   ginjal,
   kardiovaskular,
+  mediakontras,
   muskuloskeletal,
   nutrisi,
   pencernaan,
   pernapasan,
   psikiatri,
   saraf,
+  suplemen,
+  topikal,
   tulang,
   vaksin,
 };
@@ -40,18 +48,22 @@ export const drugClasses = [
   'anestesi',
   'antibiotik',
   'antijamur',
+  'antineoplastik',
   'antiparasit',
   'antivirus',
   'darah',
   'endokrin',
   'ginjal',
   'kardiovaskular',
+  'mediakontras',
   'muskuloskeletal',
   'nutrisi',
   'pencernaan',
   'pernapasan',
   'psikiatri',
   'saraf',
+  'suplemen',
+  'topikal',
   'tulang',
   'vaksin',
 ];

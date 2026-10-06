@@ -1,0 +1,168 @@
+{
+  "kelas_obat": [
+    {
+      "id": "multivitamin-vitamin",
+      "kelas": "Multivitamin dan Vitamin Tunggal",
+      "mekanisme": "Menyediakan vitamin esensial sebagai koenzim dan antioksidan untuk memenuhi atau melengkapi kebutuhan harian",
+      "obat": [
+        {
+          "id": "multivitamin",
+          "nama": "Multivitamin dan Mineral (Enervon-C, Becom-C, Fatigon, Neurobion, Pharmaton, Theragran, Zamel, Lanovit, dll.)",
+          "indikasi": ["Suplementasi pada asupan tidak adekuat, masa pemulihan, atau kebutuhan meningkat", "Vitamin saraf (B1, B6, B12) pada neuropati ringan"],
+          "sediaan": ["Tablet, kaplet, kapsul lunak, sirup, tetes, sachet, efervesen"],
+          "efek_samping": ["Mual", "Urin kuning cerah (B2)", "Neuropati sensorik pada B6 dosis sangat tinggi jangka panjang"],
+          "tatalaksana": ["Sesuai petunjuk kemasan, umumnya 1x/hari setelah makan"],
+          "monitoring": ["Pantau total asupan vitamin dari berbagai produk"],
+          "interaksi": ["Levodopa: B6 dosis tinggi menurunkan efek (tanpa karbidopa)", "Zat besi, kalsium: kompetisi absorpsi"],
+          "catatan": "Komposisi rinci berbeda antar merek; periksa kemasan.",
+          "gambar": null,
+          "merek": ["Enervon-C", "Becom-C", "Becom Zet", "Fatigon", "Neurobion Forte", "Neurobion", "Neurodex", "Neurobat", "Pharmaton", "Theragran M", "Zamel", "Lanovit", "Asifit", "Forneuro", "Oligocare", "Selox", "Provez", "Renovit Gold", "Imunos", "Imboost Force", "Imunal Plus", "Imunped", "Fitkom Gummy", "Vidoran Plus", "Zevit Grow", "Apialys", "Biolysin", "Vitamin B Kompleks", "Seven Seas Becombion", "Hemaviton Action", "Enzyplex", "New Enzyplex", "Surbex Z"]
+        },
+        {
+          "id": "vitamin-a-e",
+          "nama": "Vitamin A dan E",
+          "indikasi": ["Defisiensi vitamin A (xeroftalmia), suplementasi balita", "Antioksidan dan suplemen (vitamin E)"],
+          "sediaan": ["Vitamin A kapsul lunak 100.000 dan 200.000 IU", "Tablet vitamin A 2000-5000 IU", "Vitamin E 100-400 IU"],
+          "efek_samping": ["Hipervitaminosis A (sakit kepala, teratogenik)", "Vitamin E dosis tinggi: risiko perdarahan"],
+          "tatalaksana": ["Dosis vitamin A sesuai program (mis. 100.000-200.000 IU berdasarkan usia) atau indikasi", "Vitamin E sesuai label"],
+          "monitoring": ["Gejala toksisitas pada dosis tinggi"],
+          "interaksi": ["Retinoid oral dan vitamin A: toksisitas aditif", "Warfarin: vitamin E dosis tinggi meningkatkan risiko perdarahan"],
+          "catatan": "Hindari vitamin A dosis tinggi pada kehamilan.",
+          "gambar": null,
+          "merek": ["Vitamin A 100.000 IU", "Vitamin A 200.000 IU", "Vitamin A 2000 IU", "Vitamin A 5000 IU", "Natur-E", "Santa-E", "Cendo Oculenta (vitamin A mata)"]
+        },
+        {
+          "id": "vitamin-b-tunggal-c-d",
+          "nama": "Vitamin B1, B6, C, D3 (Tunggal)",
+          "indikasi": ["Defisiensi vitamin spesifik", "Pencegahan neuropati akibat isoniazid (B6)", "Suplementasi daya tahan (C)"],
+          "sediaan": ["Tablet vitamin B1 15-100 mg", "Vitamin B6 10-100 mg", "Vitamin C 50-1000 mg (tablet, efervesen, hisap)", "Vitamin D3 400-10.000 IU"],
+          "efek_samping": ["Vitamin C dosis tinggi: diare, batu ginjal oksalat", "Vitamin D3 dosis tinggi: hiperkalsemia"],
+          "tatalaksana": ["Sesuai kebutuhan dan label produk"],
+          "monitoring": ["Kalsium serum pada vitamin D dosis tinggi"],
+          "interaksi": ["Vitamin C: meningkatkan absorpsi zat besi", "Fenitoin: vitamin B6 dosis tinggi menurunkan kadar"],
+          "catatan": "Tablet vitamin D3 dan kalsium sudah diwakili pada file muskuloskeletal; entri ini mencakup produk tunggal dan kombinasi tambahan.",
+          "gambar": null,
+          "merek": ["Vitamin B1 15 mg", "Vitamin B1 50 mg", "Vitamin B1 100 mg", "Vitamin B6 10 mg", "Vitamin B6 100 mg", "Vitamin C 50 mg", "Vitamin C 500 mg", "Redoxon", "Vitacimin", "Vitalong C", "You C 1000", "Holisticare Ester C", "Xon-Ce", "Hi-D Vitamin D3", "Prove D3", "Vitamin D3 1000 IU", "Vitamin D3 5000 IU", "Force D", "D-Vit", "Kid-D", "Nature Plus Vitamin D3", "Nutrimax Vitamin D3"]
+        }
+      ]
+    },
+    {
+      "id": "mineral-suplemen-lain",
+      "kelas": "Mineral dan Suplemen Lain (Zinc, Omega-3, Koenzim Q10, Probiotik, Herbal)",
+      "mekanisme": "Menyediakan mikronutrien atau bahan fungsional untuk mendukung fungsi imun, kardiovaskular, pencernaan, atau pemulihan",
+      "obat": [
+        {
+          "id": "zinc",
+          "nama": "Zinc",
+          "indikasi": ["Diare akut pada anak (bersama oralit)", "Suplementasi defisiensi zinc"],
+          "sediaan": ["Tablet dispersibel 20 mg", "Sirup 20 mg/5 mL", "Tetes 10 mg/mL"],
+          "efek_samping": ["Mual", "Rasa logam", "Defisiensi tembaga (dosis tinggi lama)"],
+          "tatalaksana": ["Diare anak: 10 mg/hari (< 6 bulan) atau 20 mg/hari (>= 6 bulan) selama 10-14 hari"],
+          "monitoring": ["Respons klinis"],
+          "interaksi": ["Kuinolon dan tetrasiklin: absorpsi menurun, beri jeda", "Zat besi: kompetisi absorpsi"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/zinc%20sulfate/PNG?image_size=300x300",
+          "merek": ["Zinc 20 mg", "Zinc Sirup", "Zincpro", "Zinkid"]
+        },
+        {
+          "id": "omega-3-koq10",
+          "nama": "Omega-3, Koenzim Q10, dan Asam Lemak",
+          "indikasi": ["Hipertrigliseridemia (dosis resep)", "Suplementasi kardiovaskular dan kesehatan umum"],
+          "sediaan": ["Kapsul minyak ikan 500-1000 mg", "Koenzim Q10 100 mg", "Kapsul lecithin"],
+          "efek_samping": ["Sendawa berbau ikan", "Gangguan GI", "Risiko perdarahan ringan (dosis tinggi)"],
+          "tatalaksana": ["Sesuai label produk, bersama makanan"],
+          "monitoring": ["Trigliserida bila diresepkan untuk dislipidemia"],
+          "interaksi": ["Antikoagulan dan antiplatelet: risiko perdarahan aditif (dosis tinggi)"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Cormega Omega 3", "Nutrimax Omega 3", "Omeheart", "Omega 3 Nutrahealth", "Wellness Omega-3", "Q Ten", "Lesichol", "Scotts Emulsion", "Krili", "Nutriwell Omega 3", "Curvit CL"]
+        },
+        {
+          "id": "probiotik",
+          "nama": "Probiotik (Lactobacillus dan Lainnya)",
+          "indikasi": ["Terapi adjuvan diare dan gangguan saluran cerna", "Pencegahan diare akibat antibiotik"],
+          "sediaan": ["Sachet", "Kapsul", "Tablet", "Tetes oral"],
+          "efek_samping": ["Kembung ringan", "Sepsis oportunistik (sangat jarang, imunokompromais)"],
+          "tatalaksana": ["Sesuai label produk"],
+          "monitoring": ["Respons klinis"],
+          "interaksi": ["Antibiotik: beri jeda 2 jam", "Imunosupresan: hati-hati"],
+          "catatan": "Hati-hati pada pasien imunokompromais berat dan kateter vena sentral.",
+          "gambar": null,
+          "merek": ["L-Bio", "Lacto-B", "Interlac", "Rillus", "Synbio"]
+        },
+        {
+          "id": "suplemen-herbal",
+          "nama": "Suplemen Herbal dan Nutrisi Pendukung (Ekstrak Ikan Gabus, Curcuma, Echinacea, Tolak Angin, Tribulus, Kolagen, dll.)",
+          "indikasi": ["Suplementasi pemulihan dan daya tahan", "Hepatoprotektor (curcuma)", "Pendukung kesehatan sendi dan kulit"],
+          "sediaan": ["Kapsul, tablet, sirup, sachet, minyak"],
+          "efek_samping": ["Gangguan GI", "Reaksi alergi", "Interaksi dengan obat lain"],
+          "tatalaksana": ["Sesuai label produk"],
+          "monitoring": ["Reaksi alergi", "Total suplemen yang dikonsumsi"],
+          "interaksi": ["Ginseng, ginkgo, curcuma: risiko perdarahan dengan antikoagulan/antiplatelet", "Echinacea: dapat memengaruhi imunosupresan"],
+          "catatan": "Bukti efektivitas bervariasi dan sebagian besar terbatas.",
+          "gambar": null,
+          "merek": ["Inbumin", "Vipalbumin", "Curcuma Force", "Curcuma Plus", "Fituno", "Tolak Angin", "Vitan", "Biosan", "Lavigen S", "Oxyprolane", "Tebokan", "Neuroaid II", "HP Pro", "Virgin Coconut Oil", "Syalox", "Arcalion", "Lactamam", "Biolife Trombo"]
+        },
+        {
+          "id": "suplemen-ibu-hamil-asam-amino",
+          "nama": "Suplemen Kehamilan, Asam Amino, dan Elektrolit Oral",
+          "indikasi": ["Suplementasi ibu hamil dan menyusui", "Suplementasi asam amino pada gangguan ginjal/hati", "Koreksi kalium (Aspar-K)"],
+          "sediaan": ["Kapsul lunak ibu hamil (Folamil, Obimin, Blackmores Pregnancy)", "Tablet asam amino (Aminoral, Prorenal, Nocid, Prosentials)", "Aspar-K", "Ketosteril"],
+          "efek_samping": ["Mual", "Konstipasi (besi)", "Hiperkalemia (Aspar-K pada gangguan ginjal)"],
+          "tatalaksana": ["Sesuai label produk atau petunjuk dokter"],
+          "monitoring": ["Fungsi ginjal dan kalium pada produk terkait"],
+          "interaksi": ["Aspar-K: ACE inhibitor, ARB, diuretik hemat kalium meningkatkan risiko hiperkalemia"],
+          "catatan": "Asam amino/ketoanalog pada gangguan ginjal hanya dengan pengawasan nefrolog.",
+          "gambar": null,
+          "merek": ["Folamil", "Obimin AF", "Blackmores Pregnancy", "Prolacta DHA", "Aminoral", "Prorenal", "Nocid", "Prosentials", "Ketosteril", "Aspar-K", "Calcium Glukonat Oral", "Cal-95"]
+        }
+      ]
+    },
+    {
+      "id": "nutrisi-enteral",
+      "kelas": "Nutrisi Enteral, Susu Formula, dan Oral Nutritional Supplement",
+      "mekanisme": "Menyediakan makronutrien (protein, karbohidrat, lemak) dan mikronutrien melalui jalur oral atau selang enteral untuk pemenuhan kebutuhan gizi",
+      "obat": [
+        {
+          "id": "susu-formula-bayi",
+          "nama": "Susu Formula Bayi dan Prematur (Enfamil, NAN, Nutribaby, SGM, Lactogen, Similac, Infatrini, Pregestimil, Neocate)",
+          "indikasi": ["Pengganti atau pelengkap ASI sesuai usia", "Formula khusus: prematur, BBLR, hipoalergenik, bebas laktosa, alergi susu sapi"],
+          "sediaan": ["Serbuk kaleng/dus/sachet", "Cairan siap minum"],
+          "efek_samping": ["Intoleransi laktosa/alergi protein susu sapi (formula standar)", "Sembelit atau diare", "Risiko infeksi bila penyiapan tidak higienis"],
+          "tatalaksana": ["Takaran dan frekuensi sesuai usia, berat badan, dan petunjuk kemasan atau tenaga kesehatan"],
+          "monitoring": ["Berat badan dan panjang badan", "Toleransi (muntah, diare)", "Gejala alergi"],
+          "interaksi": ["Interaksi obat bermakna belum dilaporkan"],
+          "catatan": "ASI adalah pilihan terbaik; formula khusus hanya atas indikasi.",
+          "gambar": null,
+          "merek": ["Enfamil A+", "NAN PH Pro", "Nutribaby Pepti Junior", "Nutribaby Royal Premature", "SGM Ananda", "SGM BBLR", "SGM Eksplor", "SGM LLM", "Lactogen", "Similac Neosure", "Infatrini", "Pregestimil", "Neocate Junior", "Neocate LCP", "S26 Promil Gold", "Entramix"]
+        },
+        {
+          "id": "nutrisi-oral-dewasa-anak",
+          "nama": "Nutrisi Oral Dewasa dan Anak (Ensure, Peptamen, Peptisol, Nutren, Pediasure, Diabetasol, Nephrisol, Hepatosol, dll.)",
+          "indikasi": ["Malnutrisi dan pemulihan", "Nutrisi khusus penyakit: diabetes, gagal ginjal, penyakit hati, gangguan pencernaan"],
+          "sediaan": ["Serbuk kaleng/dus/sachet", "Cairan siap minum (botol)"],
+          "efek_samping": ["Kembung", "Diare", "Hiperglikemia (formula tinggi karbohidrat)", "Refeeding syndrome pada malnutrisi berat"],
+          "tatalaksana": ["Sesuai kebutuhan kalori dan protein dari penilaian gizi; mulai bertahap pada malnutrisi berat"],
+          "monitoring": ["Berat badan", "Glukosa, elektrolit, fosfat", "Toleransi GI"],
+          "interaksi": ["Warfarin: vitamin K dalam formula dapat memengaruhi INR", "Fenitoin: kadar dapat menurun dengan nutrisi enteral kontinu"],
+          "catatan": "Pilih formula sesuai kondisi penyakit; jangan memberikan Nephrisol atau Hepatosol tanpa indikasi.",
+          "gambar": null,
+          "merek": ["Ensure", "GoldSure by Ensure", "Peptamen", "Peptamen Junior", "Peptisol", "Nutren Junior", "Nutricana", "Nutrinidrink", "Pediasure", "Pediacomplete", "Boost Optimum", "Diabetasol", "Nephrisol", "Hepatosol", "Oligo", "Proten Gold", "Neocate", "Fresactive", "Susu Entrasol", "Supportan", "HMF (Human Milk Fortifier)", "Entramix"]
+        },
+        {
+          "id": "oralit-pedialyte-rehidrasi",
+          "nama": "Larutan Rehidrasi Oral Siap Pakai",
+          "indikasi": ["Pencegahan dan terapi dehidrasi akibat diare atau muntah"],
+          "sediaan": ["Larutan siap minum 500 mL", "Sachet oralit"],
+          "efek_samping": ["Muntah (bila terlalu cepat)", "Hipernatremia (bila salah pengenceran)"],
+          "tatalaksana": ["Minum sedikit demi sedikit sering; ganti sesuai volume cairan yang hilang"],
+          "monitoring": ["Status hidrasi", "Frekuensi BAB dan muntah"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": "Segera ke fasilitas kesehatan bila dehidrasi berat atau tidak dapat minum.",
+          "gambar": null,
+          "merek": ["Pedialyte", "Oralit 200", "Pharolit"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "kelas_obat": [
+    {
+      "id": "kortikosteroid-topikal",
+      "kelas": "Kortikosteroid Topikal",
+      "mekanisme": "Menekan inflamasi dan respons imun lokal pada kulit melalui reseptor glukokortikoid; potensi bervariasi dari ringan hingga sangat kuat",
+      "obat": [
+        {
+          "id": "hidrokortison-topikal",
+          "nama": "Hidrokortison (topikal, potensi rendah)",
+          "indikasi": ["Dermatitis ringan, ruam popok, dermatitis atopik pada wajah dan lipatan"],
+          "sediaan": ["Krim 1% dan 2,5%", "Losion kulit kepala"],
+          "efek_samping": ["Atrofi kulit (penggunaan lama)", "Iritasi", "Teleangiektasis", "Supresi adrenal (area luas)"],
+          "tatalaksana": ["Oleskan tipis 1-2x/hari, durasi sesingkat mungkin"],
+          "monitoring": ["Respons klinis", "Tanda atrofi kulit"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Aman untuk wajah dan anak dalam durasi singkat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydrocortisone/PNG?image_size=300x300",
+          "merek": ["Hidrokortison 1%", "Hidrokortison 2,5%", "Dermacoid Scalp Lotion"]
+        },
+        {
+          "id": "kortikosteroid-topikal-menengah-kuat",
+          "nama": "Kortikosteroid Topikal Potensi Menengah-Kuat (Betametason, Mometason, Fluosinolon, Desonid, Desoksimetason, Triamsinolon, Klobetasol)",
+          "indikasi": ["Dermatitis atopik, psoriasis, dermatitis kontak, lesi radang kulit", "Klobetasol: dermatosis berat dan resisten (jangka pendek)"],
+          "sediaan": ["Krim/salep/gel/losion betametason 0,05-0,1%", "Mometason furoat 0,1%", "Fluosinolon 0,025%", "Desonid 0,05%", "Desoksimetason 0,25%", "Triamsinolon 0,1%", "Klobetasol propionat 0,05%"],
+          "efek_samping": ["Atrofi kulit dan striae", "Teleangiektasis", "Akne steroid dan perioral dermatitis", "Supresi adrenal (area luas atau jangka panjang)", "Infeksi sekunder"],
+          "tatalaksana": ["Oleskan tipis 1-2x/hari; klobetasol maks 2 minggu berturut-turut", "Hindari wajah, lipatan, dan area luas pada potensi kuat"],
+          "monitoring": ["Respons klinis", "Atrofi dan tanda supresi adrenal pada pemakaian luas"],
+          "interaksi": ["Interaksi sistemik minimal pada pemakaian terbatas"],
+          "catatan": "Kombinasi dengan antibiotik atau antijamur (mis. gentasolon, cinogenta, kalcinol-N) memerlukan indikasi infeksi yang jelas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/betamethasone/PNG?image_size=300x300",
+          "merek": ["Betametason valerat/dipropionat", "Benoson", "Betason-N", "Mometason furoat", "Mofacort", "Elocon", "Cinolon", "Dermasolon", "Synarcus", "Desolex", "Desoximetasone", "Topcort", "Kenalog", "Kloderma", "Clobetasol", "Gentasolon", "Cinogenta", "Kalcinol-N"]
+        },
+        {
+          "id": "kortikosteroid-oral-mukosa",
+          "nama": "Kortikosteroid Kombinasi Anorektal (Borraginol, Ultraproct)",
+          "indikasi": ["Wasir/ambeien (hemoroid) dengan peradangan"],
+          "sediaan": ["Salep dan supositoria"],
+          "efek_samping": ["Iritasi lokal", "Atrofi mukosa (jangka panjang)", "Supresi adrenal (jarang)"],
+          "tatalaksana": ["Oles atau masukkan 1-2x/hari selama beberapa hari sesuai petunjuk"],
+          "monitoring": ["Respons klinis", "Perdarahan rektal yang tidak jelas"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Gunakan jangka pendek.",
+          "gambar": null,
+          "merek": ["Borraginol-N", "Borraginol-S", "Ultraproct-N", "Faktu"]
+        }
+      ]
+    },
+    {
+      "id": "antibiotik-topikal",
+      "kelas": "Antibiotik dan Antiseptik Topikal Kulit",
+      "mekanisme": "Antibiotik lokal menghambat bakteri penyebab infeksi kulit superfisial; perak sulfadiazin bersifat antimikroba spektrum luas pada luka bakar",
+      "obat": [
+        {
+          "id": "mupirosin",
+          "nama": "Mupirosin",
+          "indikasi": ["Impetigo", "Infeksi kulit superfisial akibat Staphylococcus/Streptococcus", "Dekolonisasi MRSA nasal"],
+          "sediaan": ["Salep/krim 2% 5 g dan 10 g"],
+          "efek_samping": ["Rasa terbakar atau perih lokal", "Gatal", "Resistensi pada penggunaan lama"],
+          "tatalaksana": ["Oleskan 3x/hari selama maksimal 10 hari"],
+          "monitoring": ["Respons dalam 3-5 hari"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/mupirocin/PNG?image_size=300x300",
+          "merek": ["Bactoderm"]
+        },
+        {
+          "id": "asam-fusidat-topikal",
+          "nama": "Asam Fusidat (Natrium Fusidat)",
+          "indikasi": ["Impetigo", "Infeksi kulit Staphylococcus"],
+          "sediaan": ["Krim dan salep 2%"],
+          "efek_samping": ["Iritasi lokal", "Dermatitis kontak", "Resistensi pada pemakaian lama"],
+          "tatalaksana": ["Oleskan 2-3x/hari selama 7-10 hari"],
+          "monitoring": ["Respons klinis"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fusidic%20acid/PNG?image_size=300x300",
+          "merek": ["Fucidin", "Fuladic", "Fucilex", "Fusycom", "Acdat", "Natrium Fusidat Salep"]
+        },
+        {
+          "id": "gentamisin-kloramfenikol-basitrasin-topikal",
+          "nama": "Gentamisin, Kloramfenikol, dan Basitrasin-Neomisin Topikal",
+          "indikasi": ["Infeksi kulit bakteri superfisial", "Luka kecil dan pencegahan infeksi"],
+          "sediaan": ["Salep gentamisin 0,1%", "Salep kloramfenikol 2%", "Salep/bedak basitrasin-neomisin"],
+          "efek_samping": ["Dermatitis kontak (neomisin)", "Iritasi", "Resistensi"],
+          "tatalaksana": ["Oleskan tipis 2-3x/hari, durasi singkat"],
+          "monitoring": ["Reaksi alergi lokal"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Neomisin sering menyebabkan alergi kontak.",
+          "gambar": null,
+          "merek": ["Gentamisin salep", "Bufacetin", "Kalmicetine", "Nebacetin", "Enbatic", "Bioplacenton", "Framycetin kasa"]
+        },
+        {
+          "id": "perak-sulfadiazin",
+          "nama": "Perak Sulfadiazin",
+          "indikasi": ["Pencegahan dan terapi infeksi pada luka bakar derajat II-III"],
+          "sediaan": ["Krim 1% 25 g, 35 g, 500 g"],
+          "efek_samping": ["Rasa terbakar", "Leukopenia sementara", "Argiria (jarang)", "Reaksi alergi sulfa"],
+          "tatalaksana": ["Oleskan tebal 2-3 mm 1-2x/hari pada luka bersih"],
+          "monitoring": ["Hitung leukosit pada luka luas", "Respons luka"],
+          "interaksi": ["Enzim debridement proteolitik: aktivitas dapat menurun"],
+          "catatan": "Hindari pada alergi sulfonamid, bayi baru lahir, dan kehamilan aterm.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/silver%20sulfadiazine/PNG?image_size=300x300",
+          "merek": ["Burnazin", "Burnazin Plus", "Sulfadiazin Silver"]
+        },
+        {
+          "id": "klindamisin-topikal",
+          "nama": "Klindamisin (topikal)",
+          "indikasi": ["Akne vulgaris inflamasi", "Vaginosis bakterial (ovula/krim)"],
+          "sediaan": ["Gel 1%", "Larutan 1,2%", "Kombinasi dengan benzoil peroksida"],
+          "efek_samping": ["Kulit kering dan iritasi", "Resistensi", "Kolitis (jarang, absorpsi)"],
+          "tatalaksana": ["Oleskan 1-2x/hari; gunakan bersama benzoil peroksida untuk mencegah resistensi"],
+          "monitoring": ["Respons akne dalam 6-8 minggu"],
+          "interaksi": ["Eritromisin topikal: antagonisme"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clindamycin/PNG?image_size=300x300",
+          "merek": ["Mediklin", "Benzolac-CL"]
+        }
+      ]
+    },
+    {
+      "id": "antiseptik",
+      "kelas": "Antiseptik dan Desinfektan",
+      "mekanisme": "Membunuh atau menghambat mikroorganisme pada kulit, luka, dan mukosa melalui oksidasi atau perusakan membran",
+      "obat": [
+        {
+          "id": "povidon-iodin",
+          "nama": "Povidon Iodin",
+          "indikasi": ["Antiseptik kulit pra-operasi dan luka", "Obat kumur", "Higiene kewanitaan"],
+          "sediaan": ["Larutan 10%", "Salep 10%", "Obat kumur", "Sabun cair", "Larutan higiene kewanitaan"],
+          "efek_samping": ["Iritasi", "Alergi iodium", "Gangguan tiroid pada pemakaian luas/lama", "Penodaan kulit"],
+          "tatalaksana": ["Oleskan pada kulit; obat kumur: kumur 30 detik, jangan ditelan"],
+          "monitoring": ["Reaksi kulit"],
+          "interaksi": ["Litium: dapat meningkatkan hipotiroidisme", "Antiseptik berbasis merkuri: dilarang bersamaan"],
+          "catatan": "Hindari pada alergi iodium dan gangguan tiroid.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/povidone-iodine/PNG?image_size=300x300",
+          "merek": ["Betadine Solution", "Betadine Salep", "Betadine Kumur", "Betadine Sabun Cair", "Betadine Feminine Hygiene"]
+        },
+        {
+          "id": "klorheksidin",
+          "nama": "Klorheksidin",
+          "indikasi": ["Obat kumur dan antiseptik mulut", "Antiseptik kulit"],
+          "sediaan": ["Obat kumur 0,12-0,2%", "Semprot oral 0,2%"],
+          "efek_samping": ["Pewarnaan gigi dan lidah", "Gangguan pengecapan", "Iritasi mukosa"],
+          "tatalaksana": ["Kumur 15 mL selama 30 detik 2x/hari, jangan ditelan"],
+          "monitoring": ["Warna gigi dan mukosa mulut"],
+          "interaksi": ["Pasta gigi anionik: menurunkan aktivitas (beri jeda)"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/chlorhexidine/PNG?image_size=300x300",
+          "merek": ["Kin Gingival", "Perio Kin Spray"]
+        },
+        {
+          "id": "antiseptik-lainnya",
+          "nama": "Antiseptik Lain (Hidrogen Peroksida, Kalium Permanganat, Klorosilenol, Polikresulen, Prontosan, Asam Asetat)",
+          "indikasi": ["Pembersih luka dan antiseptik", "Rendam kaki/kompres (PK)", "Larutan irigasi luka (PHMB)", "Otitis eksterna (asam asetat telinga)"],
+          "sediaan": ["H2O2 3%", "PK (kalium permanganat) serbuk", "Dettol", "Albothyl pekat", "Prontosan larutan dan gel", "Asam asetat 2-6%"],
+          "efek_samping": ["Iritasi dan nyeri lokal", "Penodaan (PK)", "Luka bakar kimia pada konsentrat", "Tertundanya penyembuhan luka (H2O2 berulang)"],
+          "tatalaksana": ["Gunakan sesuai pengenceran pada label; PK harus diencerkan"],
+          "monitoring": ["Reaksi lokal"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Larutan PK tidak boleh dipakai pekat pada kulit/mukosa.",
+          "gambar": null,
+          "merek": ["H2O2 3%", "Permanganat Kalium (PK)", "Dettol Antiseptic", "Albothyl", "Prontosan", "Asam Asetat 2%", "Asam Asetat 3%", "Asam Asetat 5%"]
+        }
+      ]
+    },
+    {
+      "id": "dermatologi-lain",
+      "kelas": "Dermatologi: Jerawat, Hiperpigmentasi, Pelembab, Tabir Surya, dan Perawatan Luka",
+      "mekanisme": "Retinoid dan benzoil peroksida menormalkan keratinisasi dan menurunkan bakteri; hidrokuinon menghambat tirosinase; pelembab dan tabir surya melindungi sawar kulit",
+      "obat": [
+        {
+          "id": "retinoid-topikal",
+          "nama": "Retinoid Topikal (Tretinoin, Adapalen)",
+          "indikasi": ["Akne vulgaris", "Fotoaging (tretinoin)"],
+          "sediaan": ["Krim tretinoin 0,025-0,1%", "Gel/krim adapalen 0,1%"],
+          "efek_samping": ["Kulit kering, perih, dan mengelupas", "Fotosensitivitas", "Eritema"],
+          "tatalaksana": ["Oleskan tipis malam hari pada kulit kering; mulai dengan frekuensi rendah"],
+          "monitoring": ["Respons dalam 8-12 minggu", "Iritasi"],
+          "interaksi": ["Benzoil peroksida: inaktivasi tretinoin bila bersamaan", "Keratolitik lain: iritasi aditif"],
+          "catatan": "Hindari pada kehamilan; gunakan tabir surya siang hari.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tretinoin/PNG?image_size=300x300",
+          "merek": ["Retin-A", "Vitacid", "Tretinoin 0,1%", "Evalen"]
+        },
+        {
+          "id": "benzoil-peroksida-niasinamida",
+          "nama": "Benzoil Peroksida, Asam Azelat, Niasinamida, Belerang",
+          "indikasi": ["Akne vulgaris", "Hiperpigmentasi pasca-akne (asam azelat)"],
+          "sediaan": ["Gel benzoil peroksida 2,5% dan 5%", "Krim asam azelat", "Gel niasinamida", "Losion belerang"],
+          "efek_samping": ["Kulit kering dan iritasi", "Pemutihan kain/rambut (benzoil peroksida)", "Rasa terbakar"],
+          "tatalaksana": ["Oleskan tipis 1-2x/hari setelah membersihkan wajah"],
+          "monitoring": ["Respons klinis", "Iritasi"],
+          "interaksi": ["Retinoid: iritasi aditif"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Benzolac", "Zelface", "Niacef", "Acne Feldin"]
+        },
+        {
+          "id": "hidrokuinon",
+          "nama": "Hidrokuinon",
+          "indikasi": ["Hiperpigmentasi (melasma, hiperpigmentasi pasca-inflamasi)"],
+          "sediaan": ["Krim 2-4%"],
+          "efek_samping": ["Iritasi", "Dermatitis kontak", "Okronosis eksogen (pemakaian lama)", "Hipopigmentasi"],
+          "tatalaksana": ["Oleskan tipis malam hari, batasi durasi (umumnya sampai 3-4 bulan)"],
+          "monitoring": ["Respons", "Reaksi kulit"],
+          "interaksi": ["Benzoil peroksida: perubahan warna sementara"],
+          "catatan": "Gunakan tabir surya bersamaan; hindari pada kehamilan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydroquinone/PNG?image_size=300x300",
+          "merek": ["Melanox Forte", "Refaquin", "Vitaquin"]
+        },
+        {
+          "id": "pelembab-emolien",
+          "nama": "Pelembab, Emolien, dan Perawatan Barrier Kulit",
+          "indikasi": ["Kulit kering, dermatitis atopik (terapi pendukung)", "Perawatan kulit radioterapi", "Bekas luka"],
+          "sediaan": ["Krim/losion/balsem: Atoderm, Physiogel, Cetaphil, Bepanthen, Decubal, Vaselin album, Biocream, Cicabio, Kelocote, Medcerma"],
+          "efek_samping": ["Reaksi alergi terhadap bahan tambahan (jarang)", "Folikulitis (formulasi oklusif)"],
+          "tatalaksana": ["Oleskan 1-3x/hari, terutama setelah mandi"],
+          "monitoring": ["Respons klinis"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": "Entri ini mencakup banyak merek kosmeseutikal; komposisi lengkap pada kemasan.",
+          "gambar": null,
+          "merek": ["Atoderm", "Physiogel", "Cetaphil Baby", "Bepanthen", "Decubal", "Vaselin Album", "Biocream", "Cicabio", "Kelocote", "Purelan", "Hydrabio", "Sebium", "Sensibio", "Noroid", "Pure Baby Diaper Cream"]
+        },
+        {
+          "id": "tabir-surya",
+          "nama": "Tabir Surya",
+          "indikasi": ["Perlindungan kulit dari sinar UV (UVA/UVB)"],
+          "sediaan": ["Krim/losion/fluid SPF 30-100"],
+          "efek_samping": ["Iritasi mata dan kulit", "Dermatitis kontak (jarang)"],
+          "tatalaksana": ["Oleskan 15-30 menit sebelum paparan; ulangi tiap 2 jam atau setelah berenang/berkeringat"],
+          "monitoring": ["Reaksi kulit"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Acanthe", "Heliatech", "Parasol", "Photoderm"]
+        },
+        {
+          "id": "keratolitik-lain",
+          "nama": "Keratolitik dan Obat Kulit Lain (Asam Salisilat, Asam Glikolat, TCA, Tar, Kalamin, Minoksidil, Permetrin sudah di antiparasit)",
+          "indikasi": ["Kutil, kalus, dan peeling kimia", "Gatal (kalamin)", "Alopesia androgenik (minoksidil topikal)", "Psoriasis (tar)"],
+          "sediaan": ["Asam salisilat 0,1-3%", "TCA 15-99%", "Asam glikolat", "Liquor carbonis detergens", "Kaladin losion", "Minoksidil 2%"],
+          "efek_samping": ["Iritasi dan luka bakar kimia", "Hiperpigmentasi pasca-peeling", "Hipertrikosis (minoksidil)"],
+          "tatalaksana": ["Sesuai indikasi dan konsentrasi; TCA dan peeling hanya oleh tenaga terlatih"],
+          "monitoring": ["Reaksi kulit", "Pigmentasi"],
+          "interaksi": ["Keratolitik lain: iritasi aditif"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Asam Salisilat 0,1%", "Kalpanax", "TCA 15%", "TCA 85%", "TCA 90%", "Neostrata", "Liquor Carbonis Detergens", "Caladine Lotion", "Regrou", "Bedak Salisil 2%", "Herocyn", "Kelocote", "Salep 2-4"]
+        }
+      ]
+    },
+    {
+      "id": "oftalmik",
+      "kelas": "Obat Mata (Tetes dan Salep)",
+      "mekanisme": "Efek lokal pada permukaan okular: antimikroba, antiinflamasi, penurun tekanan intraokular, midriatik/sikloplegik, pelumas, dan antialergi",
+      "obat": [
+        {
+          "id": "antibiotik-mata",
+          "nama": "Antibiotik Mata (Kloramfenikol, Levofloksasin, Moksifloksasin, Tobramisin, Gramisidin-Neomisin-Polimiksin, Oksitetrasiklin)",
+          "indikasi": ["Konjungtivitis bakteri", "Blefaritis", "Profilaksis pasca-operasi mata"],
+          "sediaan": ["Tetes mata kloramfenikol 0,5%", "Levofloksasin 0,5%", "Moksifloksasin 0,5%", "Salep mata kloramfenikol 1%", "Salep oksitetrasiklin 1%", "Polygran", "Tetes mata kombinasi"],
+          "efek_samping": ["Perih dan iritasi", "Reaksi alergi", "Penglihatan kabur sementara (salep)"],
+          "tatalaksana": ["1-2 tetes 4-6x/hari atau salep 2-3x/hari, selama 5-7 hari sesuai produk"],
+          "monitoring": ["Respons dalam 48-72 jam", "Reaksi alergi"],
+          "interaksi": ["Obat mata lain: beri jeda 5 menit antar tetes"],
+          "catatan": "Lepas lensa kontak selama terapi.",
+          "gambar": null,
+          "merek": ["Chloramphenicol 0,5%", "Reco 0,5%", "Cendo Fenicol", "Cendo LFX", "Cravit", "Optiflox", "Vigamox", "Molcin", "Cendo Polygran", "Cendo Tobroson", "Dibekacin", "Oxytetracycline 1%", "Erlamycetin eye ointment"]
+        },
+        {
+          "id": "steroid-antiinflamasi-mata",
+          "nama": "Kortikosteroid dan AINS Mata (Prednisolon, Fluorometolon, Deksametason, Diklofenak, Kombinasi)",
+          "indikasi": ["Uveitis dan inflamasi pasca-operasi mata", "Konjungtivitis alergi/non-infeksi"],
+          "sediaan": ["Prednisolon tetes", "Fluorometolon 0,1%", "Deksametason kombinasi neomisin-polimiksin (Xitrol, Polydex)", "Diklofenak tetes", "Kombinasi tobramisin-deksametason"],
+          "efek_samping": ["Peningkatan tekanan intraokular", "Katarak (jangka panjang)", "Infeksi sekunder (steroid)", "Keterlambatan penyembuhan"],
+          "tatalaksana": ["1-2 tetes sesuai frekuensi yang diresepkan; taper bertahap pada steroid"],
+          "monitoring": ["Tekanan intraokular pada penggunaan > 1-2 minggu", "Tanda infeksi"],
+          "interaksi": ["Obat mata lain: beri jeda"],
+          "catatan": "Hanya atas pengawasan dokter mata; hindari pada infeksi virus/jamur kornea.",
+          "gambar": null,
+          "merek": ["Cendo P-Pred", "Flumetholon", "Ocuflam", "Cendo Polynel", "Cendo Posop", "Cendo Xitrol", "Cendo Polydex", "Cendo Noncort", "Cendo Tobroson"]
+        },
+        {
+          "id": "antiglaukoma-mata",
+          "nama": "Obat Glaukoma (Timolol, Betaksolol, Latanoprost, Travoprost, Brinzolamid)",
+          "indikasi": ["Glaukoma sudut terbuka dan hipertensi okular"],
+          "sediaan": ["Timolol 0,25-0,5%", "Betaksolol 0,5%", "Latanoprost 0,005%", "Travoprost 0,004%", "Brinzolamid 1%"],
+          "efek_samping": ["Penyekat beta: bradikardia, bronkospasme", "Analog prostaglandin: hiperemia, pertumbuhan bulu mata, pigmentasi iris", "Iritasi"],
+          "tatalaksana": ["Timolol 1 tetes 1-2x/hari; analog prostaglandin 1 tetes 1x/hari pada malam hari"],
+          "monitoring": ["Tekanan intraokular", "Lapang pandang", "Nadi dan pernapasan (timolol)"],
+          "interaksi": ["Penyekat beta oral: bradikardia aditif (timolol)", "Verapamil/diltiazem: bradikardia"],
+          "catatan": "Timolol hati-hati pada asma, PPOK, dan blok AV.",
+          "gambar": null,
+          "merek": ["Cendo Timol", "Isotic", "Lamofer", "Timolol Maleate", "Cendo Tonor", "Optibet", "Xalatan", "Lacoma", "Latanoprost", "Travatan", "Azopt"]
+        },
+        {
+          "id": "pelumas-alergi-midriatik-mata",
+          "nama": "Pelumas, Antialergi, dan Midriatik Mata (Natrium Hialuronat, CMC, Olopatadin, Pemirolast, Tropikamid, Atropin, Tetrakain)",
+          "indikasi": ["Mata kering", "Konjungtivitis alergi", "Pemeriksaan funduskopi dan sikloplegia", "Anestesi lokal mata"],
+          "sediaan": ["Natrium hialuronat 0,1%", "Karboksimetilselulosa (Cenfresh, Lyteers)", "Olopatadin 1 mg/mL", "Tropikamid 0,5% dan 1%", "Atropin 1%", "Systane", "Y-Rins"],
+          "efek_samping": ["Penglihatan kabur sementara", "Iritasi", "Midriasis dan fotofobia (midriatik)", "Efek antikolinergik sistemik (atropin)"],
+          "tatalaksana": ["Pelumas: 1-2 tetes sesuai kebutuhan", "Midriatik: dosis tunggal sebelum pemeriksaan oleh tenaga kesehatan"],
+          "monitoring": ["Respons gejala", "Tekanan intraokular pada midriatik (risiko glaukoma sudut sempit)"],
+          "interaksi": ["Obat mata lain: beri jeda 5 menit"],
+          "catatan": "Pakai tetes dosis tunggal untuk pasien dengan risiko kontaminasi.",
+          "gambar": null,
+          "merek": ["Lubran", "Hialid", "Cendo Cenfresh", "Cendo Hyalub", "Cendo Lyteers", "Cendo Protagenta", "Cendo Siloxan", "Systane Ultra", "Lergio", "Olopatadine", "Alegysal", "Cendo Vernacel", "Insto", "Cendo Mydriatil", "Cendo Tropin", "Cendo Pantocain", "Y-Rins", "Fluorescein 2%", "Diquas"]
+        }
+      ]
+    },
+    {
+      "id": "otik-nasal-oral",
+      "kelas": "Obat Telinga, Hidung, dan Mulut Topikal",
+      "mekanisme": "Efek lokal antimikroba, antiinflamasi, dekongestan, pelembab mukosa, atau pelindung mukosa mulut",
+      "obat": [
+        {
+          "id": "tetes-telinga",
+          "nama": "Tetes Telinga (Ofloksasin, Kloramfenikol, Fenol Gliserol, Hidrogen Peroksida, Kombinasi Steroid-Antibiotik)",
+          "indikasi": ["Otitis eksterna", "Otitis media supuratif kronik dengan perforasi (antibiotik tertentu)", "Pelunak serumen (H2O2, docusate)"],
+          "sediaan": ["Ofloksasin 0,3%", "Kloramfenikol 1%", "Fenol gliserol 10%", "Otopain", "Forumen"],
+          "efek_samping": ["Iritasi", "Reaksi alergi", "Ototoksisitas pada gendang telinga perforasi (antibiotik aminoglikosida/polimiksin)"],
+          "tatalaksana": ["3-5 tetes 2x/hari selama 7-10 hari, posisi kepala miring 5 menit"],
+          "monitoring": ["Respons dan nyeri", "Cairan keluar telinga"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Konfirmasi gendang telinga utuh sebelum memakai sediaan tertentu.",
+          "gambar": null,
+          "merek": ["Akilen", "Ofloksasin 0,03%", "Erlamycetin 1% ear", "Phenol Glycerol", "Otopain", "Forumen", "H2O2 3% ear drop"]
+        },
+        {
+          "id": "nasal-topikal",
+          "nama": "Obat Hidung (Oksimetazolin, Mometason Nasal, NaCl Nasal, Flutikason Nasal)",
+          "indikasi": ["Hidung tersumbat (dekongestan)", "Rinitis alergi (steroid nasal)", "Pelembab/pencuci hidung"],
+          "sediaan": ["Oksimetazolin 0,025% dan 0,05%", "Mometason 50 mcg/semprot", "Flutikason furoat 27,5 mcg/semprot", "NaCl nasal (Nasalin, Sterimar, Breathy)"],
+          "efek_samping": ["Dekongestan: rinitis medikamentosa, iritasi", "Steroid nasal: epistaksis, kering"],
+          "tatalaksana": ["Oksimetazolin: maksimal 3-5 hari", "Steroid nasal: 1-2 semprot per lubang 1x/hari"],
+          "monitoring": ["Rinitis rebound", "Epistaksis"],
+          "interaksi": ["MAOI dan antidepresan trisiklik: dekongestan meningkatkan tekanan darah"],
+          "catatan": "Dekongestan topikal tidak boleh dipakai berkepanjangan.",
+          "gambar": null,
+          "merek": ["Iliadin Dewasa", "Iliadin Anak", "Modexa", "Nasonex", "Nasacort AQ", "Avamys", "Nasalin", "Sterimar", "Breathy"]
+        },
+        {
+          "id": "mulut-topikal",
+          "nama": "Obat Mulut dan Tenggorok (Aloclair, Hialuronat, Dequalinium, Fradiomisin-Gramisidin)",
+          "indikasi": ["Sariawan dan luka di mulut", "Radang tenggorok ringan"],
+          "sediaan": ["Gel, semprot, dan obat kumur", "Tablet hisap dequalinium dan fradiomisin-gramisidin (FG Troches)"],
+          "efek_samping": ["Rasa pahit", "Iritasi lokal", "Alergi (jarang)"],
+          "tatalaksana": ["Oles atau kumur 3-4x/hari sesuai produk"],
+          "monitoring": ["Sariawan > 2 minggu perlu evaluasi"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Aloclair Plus", "Aloclair Oral Rinse", "SP Troches", "FG Troches", "Kandistatin (nistatin oral)", "Enkasari"]
+        }
+      ]
+    }
+  ]
+}
