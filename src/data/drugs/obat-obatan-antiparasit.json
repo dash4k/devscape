@@ -1,0 +1,175 @@
+{
+  "kelas_obat": [
+    {
+      "id": "antimalaria",
+      "kelas": "Antimalaria",
+      "mekanisme": "Beragam: turunan artemisinin membentuk radikal bebas yang merusak parasit; 4-aminokuinolin menghambat polimerisasi heme; antagonis folat (pirimetamin, sulfadoksin) menghambat sintesis folat parasit",
+      "obat": [
+        {
+          "id": "artesunat",
+          "nama": "Artesunat",
+          "indikasi": ["Malaria berat (lini pertama)", "Malaria falsiparum tanpa komplikasi (kombinasi)"],
+          "sediaan": ["Serbuk injeksi IV/IM 60 mg (vial)"],
+          "efek_samping": ["Hemolisis tertunda pasca-terapi", "Pusing", "Mual", "Peningkatan enzim hati"],
+          "tatalaksana": ["2,4 mg/kgBB IV pada jam 0, 12, 24, lalu 1x/hari sampai pasien dapat minum obat oral, kemudian lanjutkan terapi kombinasi artemisinin oral"],
+          "monitoring": ["Parasitemia", "Hemoglobin hingga 4 minggu pasca-terapi (hemolisis tertunda)", "Fungsi ginjal dan hati"],
+          "interaksi": ["Interaksi obat bermakna terbatas"],
+          "catatan": "Dosis mengikuti pedoman nasional malaria; mohon diverifikasi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/artesunate/PNG?image_size=300x300",
+          "merek": ["Artesunate injeksi - Anti malaria"]
+        },
+        {
+          "id": "dihidroartemisinin-piperakuin",
+          "nama": "Dihidroartemisinin-Piperakuin (DHP)",
+          "indikasi": ["Malaria falsiparum dan vivaks tanpa komplikasi"],
+          "sediaan": ["Tablet 40 mg/320 mg"],
+          "efek_samping": ["Pusing", "Mual", "Nyeri kepala", "Pemanjangan QT"],
+          "tatalaksana": ["1x/hari selama 3 hari; dosis berdasarkan berat badan sesuai pedoman nasional", "Diminum dengan air, hindari makanan berlemak"],
+          "monitoring": ["Parasitemia", "Interval QT pada faktor risiko"],
+          "interaksi": ["Obat pemanjang QT (makrolida, fluorokuinolon, antipsikotik): risiko aditif"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["DHP-Frimal"]
+        },
+        {
+          "id": "primakuin",
+          "nama": "Primakuin",
+          "indikasi": ["Eradikasi bentuk hipnozoit Plasmodium vivax/ovale (kuratif radikal)", "Gametosidal pada malaria falsiparum"],
+          "sediaan": ["Tablet 15 mg"],
+          "efek_samping": ["Hemolisis pada defisiensi G6PD", "Mual dan nyeri perut", "Methemoglobinemia"],
+          "tatalaksana": ["Dosis berdasarkan berat badan dan regimen (14 hari untuk P. vivax) sesuai pedoman nasional", "Diminum bersama makanan"],
+          "monitoring": ["Skrining G6PD sebelum terapi", "Hemoglobin dan warna urin"],
+          "interaksi": ["Obat penyebab hemolisis atau methemoglobinemia lain: risiko aditif"],
+          "catatan": "Kontraindikasi pada kehamilan dan bayi < 6 bulan. Dosis mohon diverifikasi dengan pedoman nasional.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/primaquine/PNG?image_size=300x300",
+          "merek": ["Primaquine Phosphate"]
+        },
+        {
+          "id": "klorokuin",
+          "nama": "Klorokuin",
+          "indikasi": ["Malaria (sensitif)", "Amebiasis hati", "Lupus dan artritis reumatoid (off-label)"],
+          "sediaan": ["Tablet 250 mg (difosfat)"],
+          "efek_samping": ["Mual", "Pruritus", "Retinopati (jangka panjang)", "Pemanjangan QT", "Hemolisis pada defisiensi G6PD"],
+          "tatalaksana": ["Dosis berdasarkan basa klorokuin dan berat badan sesuai pedoman nasional"],
+          "monitoring": ["Pemeriksaan mata pada terapi lama", "Interval QT", "Hemoglobin"],
+          "interaksi": ["Antasida dan kaolin: menurunkan absorpsi", "Obat pemanjang QT: risiko aditif"],
+          "catatan": "Resistensi P. falciparum luas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/chloroquine/PNG?image_size=300x300",
+          "merek": ["Chloroquine Diphosphate", "Klorokuin Difosfat"]
+        },
+        {
+          "id": "hidroksiklorokuin",
+          "nama": "Hidroksiklorokuin",
+          "indikasi": ["Malaria (profilaksis dan terapi)", "Lupus eritematosus sistemik", "Artritis reumatoid"],
+          "sediaan": ["Tablet 200 mg"],
+          "efek_samping": ["Mual", "Ruam", "Retinopati (jangka panjang)", "Pemanjangan QT", "Hipoglikemia"],
+          "tatalaksana": ["Lupus/RA: 200-400 mg/hari (maks 5 mg/kgBB/hari), bersama makanan"],
+          "monitoring": ["Pemeriksaan mata dasar lalu tahunan setelah 5 tahun", "Interval QT bila ada risiko"],
+          "interaksi": ["Antasida: jeda ≥ 4 jam", "Obat pemanjang QT: risiko aditif", "Digoksin: kadar meningkat"],
+          "catatan": "Database juga memuat Hyloquin, Plaquenil, dan hidroksiklorokuin generik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydroxychloroquine/PNG?image_size=300x300",
+          "merek": ["Hyloquin", "Plaquenil", "Hydroxychloroquine (generik)"]
+        },
+        {
+          "id": "pirimetamin",
+          "nama": "Pirimetamin",
+          "indikasi": ["Toksoplasmosis (kombinasi dengan sulfadiazin)", "Profilaksis toksoplasmosis pada HIV"],
+          "sediaan": ["Tablet 25 mg", "Kombinasi sulfadoksin 500 mg + pirimetamin 25 mg"],
+          "efek_samping": ["Supresi sumsum tulang (anemia megaloblastik)", "Mual", "Ruam"],
+          "tatalaksana": ["Dosis dan durasi sesuai indikasi dan protokol; biasanya diberikan bersama asam folinat"],
+          "monitoring": ["Hitung darah lengkap berkala", "Fungsi hati"],
+          "interaksi": ["Kotrimoksazol dan metotreksat: risiko antagonisme folat aditif"],
+          "catatan": "Dosis mohon diverifikasi dengan pedoman terapi toksoplasmosis.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pyrimethamine/PNG?image_size=300x300",
+          "merek": ["Primet", "Sulfadoksin Primetamin"]
+        }
+      ]
+    },
+    {
+      "id": "antelmintik",
+      "kelas": "Antelmintik (Obat Cacing)",
+      "mekanisme": "Melumpuhkan atau menghambat metabolisme cacing: benzimidazol menghambat polimerisasi tubulin; pirantel menyebabkan paralisis spastik; ivermektin mengaktifkan kanal klorida",
+      "obat": [
+        {
+          "id": "albendazol",
+          "nama": "Albendazol",
+          "indikasi": ["Askariasis, trikuriasis, cacing tambang", "Neurosistiserkosis", "Hidatidosis"],
+          "sediaan": ["Tablet 400 mg", "Suspensi 200 mg/5 mL"],
+          "efek_samping": ["Nyeri perut", "Mual", "Sakit kepala", "Peningkatan enzim hati", "Supresi sumsum tulang (terapi lama)"],
+          "tatalaksana": ["Infeksi cacing usus: 400 mg dosis tunggal", "Diminum bersama makanan berlemak untuk absorpsi lebih baik pada infeksi jaringan"],
+          "monitoring": ["ALT/AST dan hitung darah pada terapi lama"],
+          "interaksi": ["Dekstrametason, simetidin, praziquantel: meningkatkan kadar albendazol", "Karbamazepin dan fenitoin: menurunkan kadar"],
+          "catatan": "Hindari pada kehamilan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/albendazole/PNG?image_size=300x300",
+          "merek": ["Albendazol (generik)"]
+        },
+        {
+          "id": "mebendazol",
+          "nama": "Mebendazol",
+          "indikasi": ["Enterobiasis (cacing kremi)", "Askariasis, trikuriasis, cacing tambang"],
+          "sediaan": ["Tablet kunyah 500 mg"],
+          "efek_samping": ["Nyeri perut", "Diare", "Sakit kepala (jarang)"],
+          "tatalaksana": ["Enterobiasis: 100 mg dosis tunggal, diulang setelah 2 minggu", "Askariasis/trikuriasis: 100 mg 2x/hari selama 3 hari atau 500 mg dosis tunggal"],
+          "monitoring": ["Respons klinis"],
+          "interaksi": ["Simetidin: dapat meningkatkan kadar mebendazol"],
+          "catatan": "Hindari pada trimester pertama.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/mebendazole/PNG?image_size=300x300",
+          "merek": ["Vermox"]
+        },
+        {
+          "id": "pirantel-pamoat",
+          "nama": "Pirantel Pamoat",
+          "indikasi": ["Askariasis", "Enterobiasis", "Cacing tambang"],
+          "sediaan": ["Tablet 125 mg, 250 mg", "Suspensi 125 mg/5 mL"],
+          "efek_samping": ["Mual", "Diare", "Sakit kepala", "Pusing"],
+          "tatalaksana": ["11 mg/kgBB dosis tunggal (maks 1 g)", "Enterobiasis: ulangi setelah 2 minggu"],
+          "monitoring": ["Respons klinis", "Fungsi hati pada gangguan hati"],
+          "interaksi": ["Piperazin: antagonisme, hindari", "Teofilin: kadar dapat meningkat"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pyrantel%20pamoate/PNG?image_size=300x300",
+          "merek": ["Combantrin", "Pantrin", "Pirantel Pamoat (generik)"]
+        },
+        {
+          "id": "ivermektin",
+          "nama": "Ivermektin",
+          "indikasi": ["Strongiloidiasis", "Skabies", "Onkoserkiasis dan filariasis (dosis massal)"],
+          "sediaan": ["Tablet 3 mg, 6 mg, 12 mg"],
+          "efek_samping": ["Pusing", "Mual", "Ruam", "Reaksi Mazzotti pada onkoserkiasis"],
+          "tatalaksana": ["Strongiloidiasis: 200 mcg/kgBB dosis tunggal selama 1-2 hari", "Skabies: 200 mcg/kgBB dosis tunggal, diulang setelah 7-14 hari", "Diminum saat perut kosong dengan air"],
+          "monitoring": ["Respons klinis"],
+          "interaksi": ["Warfarin: INR dapat berubah", "Inhibitor CYP3A4/P-gp: kadar dapat meningkat"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ivermectin/PNG?image_size=300x300",
+          "merek": ["Ivermectin"]
+        },
+        {
+          "id": "dietilkarbamazin",
+          "nama": "Dietilkarbamazin (DEC)",
+          "indikasi": ["Filariasis limfatik (Wuchereria bancrofti, Brugia malayi)"],
+          "sediaan": ["Tablet 100 mg"],
+          "efek_samping": ["Demam", "Sakit kepala", "Nyeri sendi dan otot", "Mual", "Reaksi alergi akibat kematian mikrofilaria"],
+          "tatalaksana": ["6 mg/kgBB/hari selama 12 hari atau dosis tunggal tahunan sesuai program eliminasi filariasis, setelah makan"],
+          "monitoring": ["Reaksi alergi/sistemik", "Hitung mikrofilaria"],
+          "interaksi": ["Interaksi obat bermakna terbatas"],
+          "catatan": "Kontraindikasi pada koinfeksi onkoserkiasis. Dosis mohon diverifikasi dengan program nasional.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diethylcarbamazine/PNG?image_size=300x300",
+          "merek": ["Diethylcarbamazine"]
+        },
+        {
+          "id": "permetrin",
+          "nama": "Permetrin (topikal)",
+          "mekanisme": "Insektisida piretroid yang mengganggu kanal natrium sehingga melumpuhkan tungau dan kutu",
+          "indikasi": ["Skabies", "Pedikulosis (kutu rambut)"],
+          "sediaan": ["Krim 5%"],
+          "efek_samping": ["Gatal, kemerahan, rasa terbakar lokal", "Gatal dapat bertahan beberapa minggu pasca-terapi"],
+          "tatalaksana": ["Oleskan ke seluruh tubuh dari leher ke bawah, biarkan 8-14 jam lalu bilas; ulangi setelah 7-14 hari"],
+          "monitoring": ["Respons klinis setelah 2-4 minggu"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/permethrin/PNG?image_size=300x300",
+          "merek": ["Scabimite", "Permethrin Cream"]
+        }
+      ]
+    }
+  ]
+}

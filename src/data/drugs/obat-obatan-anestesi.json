@@ -1,0 +1,331 @@
+{
+  "kelas_obat": [
+    {
+      "id": "anestesi-intravena",
+      "kelas": "Anestesi Umum Intravena",
+      "mekanisme": "Menekan susunan saraf pusat sehingga menginduksi dan mempertahankan hilangnya kesadaran, terutama melalui modulasi reseptor GABA-A atau antagonis NMDA",
+      "obat": [
+        {
+          "id": "propofol",
+          "nama": "Propofol",
+          "mekanisme": "Memperkuat efek inhibisi GABA pada reseptor GABA-A",
+          "indikasi": ["Induksi dan rumatan anestesi umum", "Sedasi di ICU dan prosedur"],
+          "sediaan": ["Emulsi injeksi 1% (10 mg/mL) 20 mL (ampul/vial)"],
+          "efek_samping": ["Hipotensi dan depresi napas", "Nyeri saat injeksi", "Bradikardia", "Sindrom infus propofol (dosis tinggi, lama)", "Hipertrigliseridemia"],
+          "tatalaksana": ["Induksi dewasa: 1,5-2,5 mg/kgBB IV titrasi", "Sedasi: infus 5-50 mcg/kgBB/menit sesuai target"],
+          "monitoring": ["Tekanan darah, frekuensi napas, SpO2, EKG", "Trigliserida pada infus lama"],
+          "interaksi": ["Opioid dan benzodiazepin: depresi napas dan hipotensi aditif", "Depresan SSP lain: sedasi aditif"],
+          "catatan": "Gunakan teknik aseptik ketat karena media lipid mendukung pertumbuhan bakteri; hanya oleh tenaga terlatih dengan fasilitas jalan napas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/propofol/PNG?image_size=300x300",
+          "merek": ["Fresofol", "Proanes", "Recofol N", "Sedafol", "Propofol (generik)"]
+        },
+        {
+          "id": "ketamin",
+          "nama": "Ketamin",
+          "mekanisme": "Antagonis non-kompetitif reseptor NMDA yang menghasilkan anestesi disosiatif dan analgesia",
+          "indikasi": ["Induksi anestesi (terutama syok/hemodinamik tidak stabil)", "Analgesia dan sedasi prosedural", "Anestesi tambahan"],
+          "sediaan": ["Injeksi 50 mg/mL (500 mg/10 mL, 1000 mg/10 mL)"],
+          "efek_samping": ["Hipertensi dan takikardia", "Halusinasi dan reaksi emergence", "Hipersalivasi", "Peningkatan tekanan intrakranial dan intraokular (relatif)"],
+          "tatalaksana": ["Induksi: 1-2 mg/kgBB IV atau 4-6 mg/kgBB IM", "Analgesia dosis sub-anestesi sesuai protokol"],
+          "monitoring": ["Tanda vital", "Jalan napas dan sekresi", "Reaksi psikiatri"],
+          "interaksi": ["Benzodiazepin: dapat mengurangi reaksi emergence", "Teofilin: ambang kejang menurun"],
+          "catatan": "Kontraindikasi relatif pada hipertensi tidak terkontrol, psikosis, dan peningkatan tekanan intrakranial.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ketamine/PNG?image_size=300x300",
+          "merek": ["Ivanes", "KTM", "Ketamin (generik)"]
+        },
+        {
+          "id": "midazolam",
+          "nama": "Midazolam",
+          "mekanisme": "Benzodiazepin kerja singkat yang memperkuat efek GABA-A (ansiolitik, sedatif, amnestik)",
+          "indikasi": ["Premedikasi dan sedasi prosedural", "Induksi anestesi", "Sedasi ICU", "Status epileptikus"],
+          "sediaan": ["Injeksi 5 mg/5 mL, 5 mg/mL, 15 mg/3 mL"],
+          "efek_samping": ["Depresi napas", "Hipotensi", "Amnesia anterograd", "Reaksi paradoksikal (agitasi)"],
+          "tatalaksana": ["Sedasi dewasa: 1-2,5 mg IV titrasi pelan", "Induksi: 0,1-0,3 mg/kgBB IV", "Kurangi dosis pada lansia"],
+          "monitoring": ["Pernapasan dan SpO2", "Tekanan darah", "Tingkat sedasi"],
+          "interaksi": ["Opioid: depresi napas dan hipotensi aditif (boxed warning)", "Inhibitor CYP3A4 kuat (azol, makrolida): kadar meningkat", "Alkohol dan depresan SSP"],
+          "catatan": "Antidotum: flumazenil. Hanya diberikan dengan fasilitas resusitasi tersedia.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/midazolam/PNG?image_size=300x300",
+          "merek": ["Anesfar", "Fortanest", "Hipnoz", "Miloz", "Sedacum", "Midazolam-Hameln", "Midazolam (generik)"]
+        },
+        {
+          "id": "deksmedetomidin",
+          "nama": "Deksmedetomidin",
+          "mekanisme": "Agonis alfa-2 adrenergik sentral yang memberi sedasi kooperatif dan analgesia tanpa depresi napas bermakna",
+          "indikasi": ["Sedasi pasien ICU berventilasi", "Sedasi prosedural dan non-intubasi"],
+          "sediaan": ["Injeksi konsentrat 200 mcg/2 mL (vial)"],
+          "efek_samping": ["Bradikardia", "Hipotensi", "Mulut kering", "Hipertensi sementara (dosis muat cepat)"],
+          "tatalaksana": ["Dosis muat opsional 0,5-1 mcg/kgBB selama 10 menit, lalu rumatan 0,2-0,7 mcg/kgBB/jam"],
+          "monitoring": ["EKG dan frekuensi nadi", "Tekanan darah", "Tingkat sedasi"],
+          "interaksi": ["Penyekat beta dan CCB non-dihidropiridin: bradikardia aditif", "Opioid dan sedatif: efek sedasi aditif"],
+          "catatan": "Hati-hati pada blok jantung dan hipovolemia.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dexmedetomidine/PNG?image_size=300x300",
+          "merek": ["Precedex", "Dexmeto", "Icunes", "Kabimidine", "Neodex OP"]
+        }
+      ]
+    },
+    {
+      "id": "anestesi-inhalasi",
+      "kelas": "Anestesi Inhalasi",
+      "mekanisme": "Agen volatil yang menekan SSP (modulasi GABA-A, kanal ion) untuk induksi dan rumatan anestesi umum",
+      "obat": [
+        {
+          "id": "sevofluran",
+          "nama": "Sevofluran",
+          "indikasi": ["Induksi dan rumatan anestesi umum, termasuk pediatrik (induksi inhalasi)"],
+          "sediaan": ["Cairan inhalasi 250 mL (vaporizer)"],
+          "efek_samping": ["Hipotensi", "Depresi napas", "Mual dan muntah pasca-operasi", "Agitasi emergence (anak)", "Hipertermia maligna (pemicu)"],
+          "tatalaksana": ["Dititrasi dengan vaporizer sesuai MAC dan kedalaman anestesi"],
+          "monitoring": ["Konsentrasi end-tidal, tekanan darah, EKG, suhu", "Fungsi ginjal pada paparan lama"],
+          "interaksi": ["Pelemas otot non-depolarisasi: efek diperkuat", "Opioid dan benzodiazepin: kebutuhan agen berkurang"],
+          "catatan": "Kontraindikasi pada riwayat hipertermia maligna (pasien atau keluarga).",
+          "gambar": null,
+          "merek": ["Sevodex", "Sevoflurane Baxter", "Sojourn", "Sevofluran"]
+        },
+        {
+          "id": "isofluran",
+          "nama": "Isofluran",
+          "indikasi": ["Rumatan anestesi umum"],
+          "sediaan": ["Cairan inhalasi 100 mL dan 250 mL"],
+          "efek_samping": ["Hipotensi", "Depresi napas", "Iritasi jalan napas", "Hipertermia maligna (pemicu)"],
+          "tatalaksana": ["Dititrasi dengan vaporizer sesuai MAC"],
+          "monitoring": ["Konsentrasi end-tidal, tekanan darah, EKG, suhu"],
+          "interaksi": ["Pelemas otot: efek diperkuat", "Epinefrin: sensitisasi aritmia ringan"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Terrell"]
+        }
+      ]
+    },
+    {
+      "id": "anestesi-lokal-regional",
+      "kelas": "Anestesi Lokal dan Regional",
+      "mekanisme": "Menghambat kanal natrium voltage-gated pada saraf sehingga mencegah konduksi impuls nyeri",
+      "obat": [
+        {
+          "id": "bupivakain",
+          "nama": "Bupivakain",
+          "indikasi": ["Anestesi spinal", "Epidural dan blok saraf perifer", "Infiltrasi lokal"],
+          "sediaan": ["Injeksi 0,5% 20 mL (plain)", "Spinal heavy 0,5% 4 mL (dengan glukosa)"],
+          "efek_samping": ["Hipotensi dan bradikardia (blok neuraksial)", "Toksisitas sistemik lokal anestesi (LAST: kejang, aritmia)", "Sakit kepala pasca-spinal", "Kardiotoksisitas"],
+          "tatalaksana": ["Dosis maksimum umumnya 2 mg/kgBB (hingga 150-175 mg tanpa epinefrin untuk infiltrasi)", "Spinal: dosis sesuai prosedur dan tinggi pasien"],
+          "monitoring": ["Tanda vital", "Gejala toksisitas SSP dan kardiovaskular", "Tinggi blok"],
+          "interaksi": ["Antiaritmia kelas I: kardiotoksisitas aditif", "Penyekat beta: toksisitas dapat meningkat"],
+          "catatan": "Larutan 0,75% dikontraindikasikan pada obstetri. Terapi LAST: emulsi lipid 20%.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bupivacaine/PNG?image_size=300x300",
+          "merek": ["Marcain Plain", "Marcain Spinal Heavy", "Bucain Spinal Heavy", "Bupivacain Heavy", "Regivell Spinal Heavy"]
+        },
+        {
+          "id": "ropivakain",
+          "nama": "Ropivakain",
+          "indikasi": ["Anestesi epidural dan blok saraf perifer", "Analgesia pasca-operasi dan persalinan"],
+          "sediaan": ["Injeksi 0,75% 20 mL"],
+          "efek_samping": ["Hipotensi", "Bradikardia", "Mual", "Toksisitas sistemik lokal anestesi"],
+          "tatalaksana": ["Dosis sesuai teknik blok dan konsentrasi; ikuti dosis maksimum per jam"],
+          "monitoring": ["Tanda vital", "Gejala toksisitas sistemik"],
+          "interaksi": ["Inhibitor CYP1A2 kuat (fluvoksamin): kadar meningkat"],
+          "catatan": "Kardiotoksisitas relatif lebih rendah dibanding bupivakain.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ropivacaine/PNG?image_size=300x300",
+          "merek": ["Naropin"]
+        },
+        {
+          "id": "lidokain-injeksi",
+          "nama": "Lidokain Injeksi (Infiltrasi, Kombinasi Epinefrin, Antiaritmia)",
+          "indikasi": ["Anestesi infiltrasi dan blok saraf", "Aritmia ventrikel (IV)", "Anestesi gigi (kombinasi epinefrin)"],
+          "sediaan": ["Injeksi 2% 2 mL dan 20 mL", "Lidokain-epinefrin (compositum, Pehacain, Xylestesin-A)", "Gel 2% dan spray 10%"],
+          "efek_samping": ["Toksisitas SSP (pusing, kejang)", "Aritmia dan hipotensi (dosis tinggi)", "Reaksi alergi (jarang)"],
+          "tatalaksana": ["Infiltrasi: dosis maksimum 4,5 mg/kgBB tanpa epinefrin, 7 mg/kgBB dengan epinefrin"],
+          "monitoring": ["Tanda toksisitas sistemik", "Tekanan darah dan EKG pada dosis tinggi"],
+          "interaksi": ["Antiaritmia kelas I lain: toksisitas kardiak aditif", "Inhibitor CYP3A4 dan CYP1A2: kadar meningkat"],
+          "catatan": "Lidokain topikal sudah terdapat pada file muskuloskeletal; entri ini mencakup sediaan injeksi dan gel prosedural. Hindari epinefrin pada ujung jari, hidung, dan penis.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lidocaine/PNG?image_size=300x300",
+          "merek": ["Lidokain 2%", "Lidokain Compositum", "Pehacain", "Xylestesin-A", "Xylocaine", "Xylocaine Jelly", "Xylocaine Spray", "Sterijell", "Lubragel", "Emla", "Dolones"]
+        },
+        {
+          "id": "artikain-mepivakain-dental",
+          "nama": "Artikain dan Mepivakain (Anestesi Gigi)",
+          "indikasi": ["Anestesi lokal infiltrasi dan blok pada prosedur gigi dan mulut"],
+          "sediaan": ["Cartridge 1,7 mL dan 1,8 mL (artikain-epinefrin, mepivakain 3%)"],
+          "efek_samping": ["Kebas berkepanjangan", "Reaksi alergi", "Toksisitas sistemik pada dosis berlebih", "Efek epinefrin (takikardia)"],
+          "tatalaksana": ["Dosis sesuai prosedur dan berat badan; hindari injeksi intravaskular (aspirasi)"],
+          "monitoring": ["Reaksi alergi", "Tanda toksisitas", "Tekanan darah pada kardiak berisiko"],
+          "interaksi": ["Penyekat beta nonselektif dan antidepresan trisiklik: efek vasopresor epinefrin meningkat"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Septanest", "Posicaine", "Isocaine 3%"]
+        },
+        {
+          "id": "anestesi-lokal-topikal-lainnya",
+          "nama": "Anestesi Topikal Lain (Etil Klorida, Tetrakain, Eugenol)",
+          "indikasi": ["Anestesi permukaan singkat sebelum prosedur", "Anestesi mata topikal", "Analgesia gigi"],
+          "sediaan": ["Semprot etil klorida 100 mL", "Tetes mata tetrakain 0,5% dan 2%", "Eugenol 15 mL"],
+          "efek_samping": ["Iritasi lokal", "Kerusakan kornea (tetrakain penggunaan berulang)", "Frostbite (etil klorida)"],
+          "tatalaksana": ["Etil klorida: semprot singkat pada area; tetrakain mata: 1-2 tetes sebelum prosedur oleh tenaga terlatih"],
+          "monitoring": ["Reaksi lokal", "Proteksi kornea pasca-anestesi mata"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Etil klorida mudah terbakar. Anestesi mata topikal tidak boleh dipakai pasien secara mandiri berulang.",
+          "gambar": null,
+          "merek": ["Ethyl Chloride Spray", "Cendo Pantocain", "Eugenol"]
+        }
+      ]
+    },
+    {
+      "id": "opioid-anestesi-analgesik-kuat",
+      "kelas": "Opioid Kuat (Anestesi dan Analgesia)",
+      "mekanisme": "Agonis reseptor opioid mu pada SSP dan perifer sehingga menurunkan persepsi nyeri dan reaksi stres",
+      "obat": [
+        {
+          "id": "fentanil",
+          "nama": "Fentanil",
+          "indikasi": ["Analgesia intraoperatif dan sedasi", "Nyeri berat/kanker (transdermal)"],
+          "sediaan": ["Injeksi 100 mcg/2 mL", "Patch transdermal 12,5, 25, 50 mcg/jam"],
+          "efek_samping": ["Depresi napas", "Rigiditas dada (bolus cepat)", "Bradikardia", "Mual", "Ketergantungan"],
+          "tatalaksana": ["Analgesia IV: 25-100 mcg titrasi; anestesi berimbang 2-10 mcg/kgBB", "Patch hanya untuk pasien toleran opioid, ganti setiap 72 jam"],
+          "monitoring": ["Pernapasan dan SpO2", "Sedasi", "Tanda ketergantungan dan penyalahgunaan"],
+          "interaksi": ["Benzodiazepin dan depresan SSP: depresi napas (boxed warning)", "Inhibitor CYP3A4 kuat: kadar fentanil meningkat berbahaya", "SSRI/SNRI: risiko serotonin syndrome"],
+          "catatan": "Panas (demam, bantal pemanas) meningkatkan penyerapan patch. Antidotum: nalokson.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fentanyl/PNG?image_size=300x300",
+          "merek": ["Fentanyl Citrate Mahakam", "Etanyl", "Fentanex", "Durogesic"]
+        },
+        {
+          "id": "morfin",
+          "nama": "Morfin",
+          "indikasi": ["Nyeri berat (akut, kanker, infark miokard)", "Edema paru akut (adjuvan)"],
+          "sediaan": ["Injeksi 10 mg/mL", "Tablet 10 mg", "Tablet lepas lambat 10, 15, 30 mg", "Sirup 10 mg/5 mL"],
+          "efek_samping": ["Depresi napas", "Konstipasi", "Mual dan muntah", "Hipotensi", "Pruritus", "Ketergantungan"],
+          "tatalaksana": ["Oral dan IV dititrasi sesuai nyeri; mulai dosis rendah pada lansia, gagal ginjal", "Tablet lepas lambat jangan dikunyah atau dihancurkan"],
+          "monitoring": ["Pernapasan dan sedasi", "Fungsi usus", "Fungsi ginjal (metabolit aktif menumpuk)"],
+          "interaksi": ["Benzodiazepin dan depresan SSP: depresi napas (boxed warning)", "MAOI: hindari", "Alkohol: sedasi aditif"],
+          "catatan": "Antidotum: nalokson. Hati-hati pada gagal ginjal.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/morphine/PNG?image_size=300x300",
+          "merek": ["Morfin injeksi", "Morfin tablet", "MST Continus", "Morfikaf"]
+        },
+        {
+          "id": "petidin",
+          "nama": "Petidin (Meperidin)",
+          "indikasi": ["Nyeri sedang-berat jangka pendek", "Menggigil pasca-anestesi"],
+          "sediaan": ["Injeksi 50 mg/mL (100 mg/2 mL)"],
+          "efek_samping": ["Depresi napas", "Neurotoksisitas metabolit (normeperidin: kejang)", "Mual", "Hipotensi", "Serotonin syndrome"],
+          "tatalaksana": ["25-100 mg IM/IV setiap 3-4 jam bila perlu; batasi durasi (maks 48 jam)"],
+          "monitoring": ["Pernapasan dan sedasi", "Fungsi ginjal", "Tanda neurotoksisitas"],
+          "interaksi": ["MAOI: kontraindikasi (serotonin syndrome fatal)", "SSRI/SNRI: risiko serotonin syndrome", "Depresan SSP"],
+          "catatan": "Tidak dianjurkan untuk nyeri kronik atau gangguan ginjal.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/meperidine/PNG?image_size=300x300",
+          "merek": ["Petidin", "Pethidin injeksi", "Clopedin"]
+        },
+        {
+          "id": "remifentanil-oksikodon",
+          "nama": "Remifentanil dan Oksikodon",
+          "indikasi": ["Remifentanil: analgesia intraoperatif infus", "Oksikodon: nyeri sedang-berat"],
+          "sediaan": ["Remifentanil serbuk injeksi 1 mg dan 2 mg", "Oksikodon injeksi 10 mg/mL dan 20 mg/2 mL"],
+          "efek_samping": ["Depresi napas", "Bradikardia dan hipotensi", "Rigiditas otot (remifentanil)", "Mual dan konstipasi"],
+          "tatalaksana": ["Remifentanil: infus 0,05-2 mcg/kgBB/menit dengan titrasi", "Oksikodon: titrasi sesuai nyeri, hati-hati pada lansia"],
+          "monitoring": ["Pernapasan, SpO2, tekanan darah", "Sedasi dan tanda ketergantungan"],
+          "interaksi": ["Benzodiazepin dan depresan SSP: depresi napas (boxed warning)", "Inhibitor CYP3A4 kuat: kadar oksikodon meningkat"],
+          "catatan": "Remifentanil tidak memberi analgesia residual setelah dihentikan; rencanakan analgesia lanjutan.",
+          "gambar": null,
+          "merek": ["Remikaf", "Oxynorm"]
+        },
+        {
+          "id": "nalokson-flumazenil",
+          "nama": "Nalokson dan Flumazenil (Antagonis Opioid dan Benzodiazepin)",
+          "indikasi": ["Nalokson: overdosis/depresi napas opioid", "Flumazenil: reversal sedasi/overdosis benzodiazepin"],
+          "sediaan": ["Nalokson injeksi 0,8 mg/2 mL", "Flumazenil injeksi 0,5 mg/5 mL"],
+          "efek_samping": ["Nalokson: sindrom putus opioid akut, nyeri kembali", "Flumazenil: kejang pada ketergantungan benzodiazepin, agitasi"],
+          "tatalaksana": ["Nalokson: 0,04-0,4 mg IV titrasi tiap 2-3 menit sampai ventilasi adekuat", "Flumazenil: 0,2 mg IV, ulangi sesuai respons"],
+          "monitoring": ["Pernapasan dan sedasi (efek dapat lebih singkat dari opioid/benzodiazepin sehingga ulang observasi)", "Kejang (flumazenil)"],
+          "interaksi": ["Flumazenil: risiko kejang bersama antidepresan trisiklik dan epileptik"],
+          "catatan": "Durasi kerja pendek; pantau ulang depresi napas atau sedasi yang kambuh.",
+          "gambar": null,
+          "merek": ["Nalokson", "Nokoba", "Flumazenil", "Naloxone"]
+        }
+      ]
+    },
+    {
+      "id": "adjuvan-anestesi",
+      "kelas": "Adjuvan Anestesi (Vasopresor, Antikolinergik, Reversal Pelemas Otot)",
+      "mekanisme": "Mendukung hemodinamik dan memodulasi efek agen anestesi: vasopresor menaikkan tekanan darah, antikolinergik menurunkan sekresi/bradikardia, antikolinesterase dan sugammadex membalik blokade neuromuskular",
+      "obat": [
+        {
+          "id": "efedrin",
+          "nama": "Efedrin",
+          "indikasi": ["Hipotensi akibat anestesi spinal atau umum"],
+          "sediaan": ["Injeksi 50 mg/mL"],
+          "efek_samping": ["Takikardia", "Hipertensi", "Ansietas", "Tremor", "Takifilaksis"],
+          "tatalaksana": ["5-10 mg IV bolus, ulangi sesuai respons (diencerkan)"],
+          "monitoring": ["Tekanan darah dan nadi", "EKG"],
+          "interaksi": ["MAOI: krisis hipertensi", "Antidepresan trisiklik: respons berubah", "Anestesi halotan: aritmia"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ephedrine/PNG?image_size=300x300",
+          "merek": ["Efedrin HCl 50 mg/mL"]
+        },
+        {
+          "id": "fenilefrin",
+          "nama": "Fenilefrin",
+          "indikasi": ["Hipotensi perioperatif (vasodilatasi)"],
+          "sediaan": ["Injeksi 10 mg/mL"],
+          "efek_samping": ["Bradikardia refleks", "Hipertensi", "Iskemia perifer", "Ekstravasasi nekrosis"],
+          "tatalaksana": ["50-200 mcg IV bolus atau infus titrasi (diencerkan)"],
+          "monitoring": ["Tekanan darah dan nadi", "Lokasi infus"],
+          "interaksi": ["MAOI: efek pressor meningkat", "Penyekat beta: bradikardia"],
+          "catatan": "Gunakan setelah pengenceran.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phenylephrine/PNG?image_size=300x300",
+          "merek": ["Phenerine"]
+        },
+        {
+          "id": "atropin",
+          "nama": "Atropin",
+          "indikasi": ["Bradikardia simtomatik", "Antisialagog praanestesi", "Reversal efek muskarinik neostigmin", "Keracunan organofosfat"],
+          "sediaan": ["Injeksi 0,25 mg/mL"],
+          "efek_samping": ["Takikardia", "Mulut kering", "Retensi urin", "Midriasis", "Hipertermia dan delirium (dosis tinggi)"],
+          "tatalaksana": ["Bradikardia dewasa: 0,5-1 mg IV, ulang setiap 3-5 menit, maks 3 mg", "Keracunan organofosfat: dosis tinggi berulang sesuai klinis"],
+          "monitoring": ["Frekuensi nadi dan EKG", "Tanda antikolinergik berlebih"],
+          "interaksi": ["Antikolinergik lain: efek aditif", "Antidepresan trisiklik: antikolinergik aditif"],
+          "catatan": "Hati-hati pada glaukoma sudut sempit dan BPH.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/atropine/PNG?image_size=300x300",
+          "merek": ["Atropin 0,25 mg/mL", "Atropin sulfat"]
+        },
+        {
+          "id": "neostigmin",
+          "nama": "Neostigmin",
+          "indikasi": ["Reversal blokade pelemas otot non-depolarisasi", "Miastenia gravis", "Retensi urin dan ileus paralitik pascabedah"],
+          "sediaan": ["Injeksi 0,5 mg/mL dan 5 mg/mL"],
+          "efek_samping": ["Bradikardia", "Hipersalivasi", "Bronkospasme", "Kram perut", "Krisis kolinergik"],
+          "tatalaksana": ["Reversal: 0,03-0,07 mg/kgBB IV (maks 5 mg) bersama atropin atau glikopirolat"],
+          "monitoring": ["Train-of-four sebelum dan sesudah reversal", "Frekuensi nadi", "Pernapasan"],
+          "interaksi": ["Suksinilkolin: blokade diperpanjang", "Aminoglikosida dan magnesium: antagonis efek"],
+          "catatan": "Selalu berikan bersama antikolinergik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/neostigmine/PNG?image_size=300x300",
+          "merek": ["Prostigmin", "Neostigmine Hameln", "Neostigmine Metilsulfat"]
+        },
+        {
+          "id": "sugammadex",
+          "nama": "Sugammadex",
+          "mekanisme": "Siklodekstrin yang mengikat rokuronium dan vekuronium sehingga menetralkan blokade neuromuskular",
+          "indikasi": ["Reversal blokade neuromuskular akibat rokuronium atau vekuronium"],
+          "sediaan": ["Injeksi 200 mg/2 mL (vial)"],
+          "efek_samping": ["Hipersensitivitas/anafilaksis (jarang)", "Bradikardia", "Mual", "Penurunan efektivitas kontrasepsi hormonal"],
+          "tatalaksana": ["2-4 mg/kgBB IV tergantung kedalaman blokade (16 mg/kgBB untuk reversal segera pasca dosis rokuronium tinggi)"],
+          "monitoring": ["Train-of-four", "Frekuensi nadi", "Reaksi alergi"],
+          "interaksi": ["Kontrasepsi hormonal: efektivitas dapat menurun (tambah metode non-hormonal 7 hari)", "Toremifen: dapat memengaruhi pengikatan"],
+          "catatan": "Tidak efektif untuk suksinilkolin atau benzilisokuinolin (atrakurium).",
+          "gambar": null,
+          "merek": ["Bridion", "Sogoma"]
+        },
+        {
+          "id": "atrakurium",
+          "nama": "Atrakurium",
+          "mekanisme": "Pelemas otot non-depolarisasi benzilisokuinolin yang dieliminasi melalui hidrolisis Hofmann",
+          "indikasi": ["Relaksasi otot pada intubasi dan pembedahan, terutama pada gangguan hati/ginjal"],
+          "sediaan": ["Injeksi 25 mg/2,5 mL dan 50 mg/5 mL"],
+          "efek_samping": ["Pelepasan histamin (hipotensi, bronkospasme)", "Reaksi anafilaktoid", "Kelemahan otot residual"],
+          "tatalaksana": ["Intubasi: 0,5 mg/kgBB IV; rumatan 0,1-0,2 mg/kgBB atau infus sesuai monitor"],
+          "monitoring": ["Train-of-four", "Tekanan darah dan nadi"],
+          "interaksi": ["Aminoglikosida, magnesium, CCB: blokade diperkuat", "Neostigmin atau sugammadex (hanya neostigmin efektif untuk atrakurium)"],
+          "catatan": "Simpan di lemari es (2-8 C).",
+          "gambar": null,
+          "merek": ["Tramus", "Notrixum", "Atracurium Hameln"]
+        }
+      ]
+    }
+  ]
+}

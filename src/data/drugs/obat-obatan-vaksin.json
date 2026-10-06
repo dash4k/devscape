@@ -1,0 +1,281 @@
+{
+  "kelas_obat": [
+    {
+      "id": "vaksin-imunisasi-dasar",
+      "kelas": "Vaksin Imunisasi Dasar Anak",
+      "mekanisme": "Merangsang respons imun adaptif (antibodi dan sel memori) terhadap antigen patogen tanpa menimbulkan penyakit",
+      "obat": [
+        {
+          "id": "vaksin-bcg",
+          "nama": "Vaksin BCG",
+          "mekanisme": "Vaksin hidup dilemahkan Mycobacterium bovis (strain Bacillus Calmette-Guerin)",
+          "indikasi": ["Pencegahan TB berat pada anak (TB milier dan meningitis TB)"],
+          "sediaan": ["Serbuk injeksi intrakutan multidosis (vial) + pelarut"],
+          "efek_samping": ["Ulkus dan jaringan parut di lokasi injeksi", "Limfadenitis regional", "BCG-itis diseminata (sangat jarang, pada imunodefisiensi)"],
+          "tatalaksana": ["Dosis tunggal intrakutan, idealnya pada bayi sebelum usia 1 bulan sesuai jadwal imunisasi nasional"],
+          "monitoring": ["Pembentukan skar di lokasi injeksi", "Pembesaran kelenjar getah bening"],
+          "interaksi": ["Imunosupresan dan kortikosteroid dosis tinggi: respons dapat menurun", "Kontraindikasi pada imunodefisiensi berat"],
+          "catatan": "Vaksin hidup; jangan diberikan pada imunodefisiensi berat atau infeksi HIV simtomatik.",
+          "gambar": null,
+          "merek": ["Vaksin BCG + pelarut", "Vaksin BCG/TBC 20 dosis"]
+        },
+        {
+          "id": "vaksin-hepatitis-b",
+          "nama": "Vaksin Hepatitis B",
+          "mekanisme": "Vaksin rekombinan antigen permukaan hepatitis B (HBsAg)",
+          "indikasi": ["Pencegahan infeksi hepatitis B (bayi baru lahir, anak, dewasa berisiko)"],
+          "sediaan": ["Injeksi IM 10 mcg/0,5 mL (anak), 20 mcg/1 mL (dewasa)", "Prefilled syringe dan vial"],
+          "efek_samping": ["Nyeri dan kemerahan di lokasi injeksi", "Demam ringan", "Kelelahan"],
+          "tatalaksana": ["Dosis pertama (HB-0) dalam 24 jam setelah lahir, dilanjutkan sesuai jadwal imunisasi nasional", "Dewasa: 3 dosis (0, 1, 6 bulan)"],
+          "monitoring": ["Reaksi lokal dan sistemik", "Titer anti-HBs pada kelompok risiko tinggi"],
+          "interaksi": ["Imunosupresan: respons dapat menurun"],
+          "catatan": "Ditunda bila sedang sakit demam akut sedang-berat.",
+          "gambar": null,
+          "merek": ["Engerix B", "Euvax B", "Vaksin Hepatitis B (HB-0)", "Vaksin Hepatitis B dewasa"]
+        },
+        {
+          "id": "vaksin-polio",
+          "nama": "Vaksin Polio (OPV dan IPV)",
+          "mekanisme": "OPV: virus polio hidup dilemahkan (oral); IPV: virus polio inaktif (injeksi)",
+          "indikasi": ["Pencegahan poliomielitis"],
+          "sediaan": ["OPV: suspensi oral 10 dosis (vial)", "IPV: injeksi IM/SC 0,5 mL"],
+          "efek_samping": ["OPV: polio paralitik terkait vaksin (sangat jarang)", "IPV: nyeri dan kemerahan lokal, demam ringan"],
+          "tatalaksana": ["Sesuai jadwal imunisasi nasional (kombinasi OPV dan IPV pada bayi)"],
+          "monitoring": ["Reaksi pasca-imunisasi", "Kelumpuhan akut flaksid (surveilans)"],
+          "interaksi": ["Imunosupresan: OPV dikontraindikasikan pada imunodefisiensi"],
+          "catatan": "OPV tidak boleh diberikan pada imunodefisiensi berat.",
+          "gambar": null,
+          "merek": ["Vaksin Polio (bOPV)", "Vaksin IPV", "Shan IPV"]
+        },
+        {
+          "id": "vaksin-dtp-kombinasi",
+          "nama": "Vaksin DPT-HB-Hib dan Kombinasi Heksavalen",
+          "mekanisme": "Toksoid difteri dan tetanus, antigen pertusis, HBsAg, dan konjugat Hib (heksavalen menambah IPV)",
+          "indikasi": ["Pencegahan difteri, pertusis, tetanus, hepatitis B, dan infeksi Hib (dan polio pada heksavalen)"],
+          "sediaan": ["Injeksi IM 0,5 mL (vial atau prefilled syringe)"],
+          "efek_samping": ["Demam", "Nyeri dan bengkak di lokasi injeksi", "Rewel", "Kejang demam (jarang)"],
+          "tatalaksana": ["3 dosis primer + booster sesuai jadwal imunisasi nasional/IDAI"],
+          "monitoring": ["Reaksi pasca-imunisasi (demam, kejang)", "Reaksi alergi"],
+          "interaksi": ["Imunosupresan: respons dapat menurun"],
+          "catatan": "Riwayat ensefalopati dalam 7 hari setelah dosis pertusis sebelumnya merupakan kontraindikasi.",
+          "gambar": null,
+          "merek": ["Pentabio", "Hexaxim", "Infanrix Hexa", "Infanrix IPV Hib"]
+        },
+        {
+          "id": "vaksin-dt-td-tt",
+          "nama": "Vaksin DT, Td, TT, dan Tdap",
+          "mekanisme": "Toksoid difteri dan/atau tetanus (dengan komponen pertusis aselular pada Tdap)",
+          "indikasi": ["Pencegahan difteri dan tetanus", "Booster remaja dan dewasa", "Imunisasi ibu hamil (Tdap/TT)"],
+          "sediaan": ["Injeksi IM 0,5 mL (vial multidosis atau prefilled syringe)"],
+          "efek_samping": ["Nyeri dan bengkak di lokasi injeksi", "Demam ringan", "Malaise"],
+          "tatalaksana": ["Sesuai jadwal imunisasi nasional; booster Td setiap 10 tahun pada dewasa"],
+          "monitoring": ["Reaksi lokal dan alergi"],
+          "interaksi": ["Imunosupresan: respons dapat menurun"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Vaksin DT anak", "Vaksin Td dewasa", "Bio TD", "Bio TT", "Boostrix", "Vaksin TT"]
+        },
+        {
+          "id": "vaksin-campak-mr-mmr",
+          "nama": "Vaksin Campak, MR, MMR, dan MMR-V",
+          "mekanisme": "Vaksin virus hidup dilemahkan campak, gondongan, rubella (dan varisela pada MMR-V)",
+          "indikasi": ["Pencegahan campak, rubella, gondongan, dan (MMR-V) varisela"],
+          "sediaan": ["Serbuk injeksi SC/IM (vial) + pelarut"],
+          "efek_samping": ["Demam dan ruam ringan 5-12 hari setelah vaksin", "Nyeri sendi (rubella, dewasa)", "Reaksi alergi (jarang)"],
+          "tatalaksana": ["Sesuai jadwal imunisasi nasional: dosis pada usia 9 bulan, lanjutan usia 18 bulan dan sekolah dasar"],
+          "monitoring": ["Demam dan ruam pasca-imunisasi", "Reaksi alergi"],
+          "interaksi": ["Imunoglobulin atau transfusi darah: dapat menurunkan respons, tunda vaksinasi", "Kontraindikasi pada kehamilan dan imunodefisiensi berat"],
+          "catatan": "Vaksin hidup; hindari kehamilan selama 1 bulan setelah vaksinasi.",
+          "gambar": null,
+          "merek": ["Vaksin Campak", "Vaksin MR 10 dosis", "Vaksin MR single dose", "Vaksin MMR II", "Vaksin Proquad"]
+        },
+        {
+          "id": "vaksin-rotavirus",
+          "nama": "Vaksin Rotavirus",
+          "mekanisme": "Vaksin hidup dilemahkan rotavirus (oral)",
+          "indikasi": ["Pencegahan diare berat akibat rotavirus pada bayi"],
+          "sediaan": ["Suspensi oral (prefilled syringe/tube/vial)"],
+          "efek_samping": ["Iritabilitas", "Diare atau muntah ringan", "Intususepsi (sangat jarang)"],
+          "tatalaksana": ["2-3 dosis oral pada bayi sesuai produk, dimulai sebelum usia 15 minggu (dosis terakhir sebelum 32 minggu), sesuai jadwal nasional"],
+          "monitoring": ["Gejala intususepsi (muntah, tinja berdarah, nyeri perut)"],
+          "interaksi": ["Imunoglobulin: tidak diperlukan jeda khusus"],
+          "catatan": "Kontraindikasi pada riwayat intususepsi dan imunodefisiensi kombinasi berat.",
+          "gambar": null,
+          "merek": ["Rotarix", "RotaTeq", "Rotavac"]
+        },
+        {
+          "id": "vaksin-pneumokokus",
+          "nama": "Vaksin Pneumokokus (PCV)",
+          "mekanisme": "Konjugat polisakarida kapsul Streptococcus pneumoniae dengan protein pembawa",
+          "indikasi": ["Pencegahan penyakit pneumokokus invasif, pneumonia, dan otitis media"],
+          "sediaan": ["Injeksi IM 0,5 mL (prefilled syringe/vial); PCV10, PCV13, PCV15, PCV20"],
+          "efek_samping": ["Nyeri lokal", "Demam", "Rewel", "Penurunan nafsu makan"],
+          "tatalaksana": ["Jadwal bayi dan catch-up sesuai produk dan jadwal imunisasi nasional/IDAI"],
+          "monitoring": ["Reaksi pasca-imunisasi"],
+          "interaksi": ["Imunosupresan: respons dapat menurun"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Prevenar 13", "Prevenar 20", "Synflorix", "Vaxneuvance"]
+        }
+      ]
+    },
+    {
+      "id": "vaksin-pilihan-dewasa-perjalanan",
+      "kelas": "Vaksin Pilihan, Dewasa, dan Perjalanan",
+      "mekanisme": "Merangsang imunitas terhadap patogen spesifik pada kelompok risiko, dewasa, atau pelancong",
+      "obat": [
+        {
+          "id": "vaksin-hpv",
+          "nama": "Vaksin HPV",
+          "indikasi": ["Pencegahan kanker serviks, lesi prakanker, dan kutil kelamin akibat HPV"],
+          "sediaan": ["Injeksi IM 0,5 mL (prefilled syringe); bivalen, kuadrivalen, nonavalen"],
+          "efek_samping": ["Nyeri lokal", "Sakit kepala", "Sinkop pasca-injeksi", "Demam ringan"],
+          "tatalaksana": ["2 atau 3 dosis tergantung usia saat mulai dan produk"],
+          "monitoring": ["Observasi 15 menit setelah injeksi (risiko sinkop)"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": "Tidak dianjurkan pada kehamilan.",
+          "gambar": null,
+          "merek": ["Gardasil", "Gardasil 9", "Cervarix"]
+        },
+        {
+          "id": "vaksin-influenza",
+          "nama": "Vaksin Influenza",
+          "indikasi": ["Pencegahan influenza musiman, terutama pada lansia, anak, dan penyakit kronik"],
+          "sediaan": ["Injeksi IM 0,25 mL atau 0,5 mL (trivalen/kuadrivalen)"],
+          "efek_samping": ["Nyeri lokal", "Demam ringan", "Nyeri otot", "Guillain-Barre (sangat jarang)"],
+          "tatalaksana": ["1 dosis setiap tahun; anak < 9 tahun yang pertama kali divaksin memerlukan 2 dosis"],
+          "monitoring": ["Reaksi alergi"],
+          "interaksi": ["Imunosupresan: respons dapat menurun"],
+          "catatan": "Kontraindikasi pada riwayat reaksi alergi berat terhadap vaksin atau komponennya.",
+          "gambar": null,
+          "merek": ["Vaxigrip", "Vaxigrip Tetra", "Influvac Tetra", "Fluquadri", "Flubio", "Inlive"]
+        },
+        {
+          "id": "vaksin-hepatitis-a",
+          "nama": "Vaksin Hepatitis A (dan Kombinasi Hepatitis A-B)",
+          "indikasi": ["Pencegahan hepatitis A", "Hepatitis A dan B (kombinasi)"],
+          "sediaan": ["Injeksi IM 0,5 mL atau 1 mL (prefilled syringe)"],
+          "efek_samping": ["Nyeri lokal", "Sakit kepala", "Kelelahan"],
+          "tatalaksana": ["2 dosis (0 dan 6-12 bulan)"],
+          "monitoring": ["Reaksi lokal"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Havrix", "Avaxim", "Twinrix"]
+        },
+        {
+          "id": "vaksin-varisela-zoster",
+          "nama": "Vaksin Varisela dan Herpes Zoster",
+          "mekanisme": "Varisela: virus hidup dilemahkan; Shingrix: rekombinan subunit glikoprotein E dengan adjuvan",
+          "indikasi": ["Pencegahan cacar air", "Pencegahan herpes zoster dan neuralgia pasca-herpes"],
+          "sediaan": ["Serbuk injeksi SC (varisela)", "Serbuk injeksi IM (Shingrix)"],
+          "efek_samping": ["Nyeri dan ruam lokal", "Demam", "Kelelahan dan nyeri otot (Shingrix)"],
+          "tatalaksana": ["Varisela: 2 dosis; Shingrix: 2 dosis dengan jeda 2-6 bulan pada dewasa >= 50 tahun"],
+          "monitoring": ["Reaksi lokal dan sistemik"],
+          "interaksi": ["Vaksin hidup varisela: kontraindikasi pada imunodefisiensi berat dan kehamilan"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Varivax", "Varilrix", "Vaksin Varicella", "Shingrix", "Vaksin Herpes Zoster"]
+        },
+        {
+          "id": "vaksin-tifoid-meningitis-je",
+          "nama": "Vaksin Tifoid, Meningokokus, Japanese Encephalitis, dan Demam Kuning",
+          "indikasi": ["Pencegahan demam tifoid", "Meningitis meningokokus (ACWY)", "Ensefalitis Jepang", "Demam kuning di daerah endemik/perjalanan"],
+          "sediaan": ["Injeksi IM atau SC 0,5 mL (prefilled syringe atau vial + pelarut)"],
+          "efek_samping": ["Nyeri lokal", "Demam ringan", "Sakit kepala", "Reaksi alergi (jarang)"],
+          "tatalaksana": ["Dosis dan booster sesuai produk dan indikasi perjalanan; sertifikat demam kuning diberikan >= 10 hari sebelum berangkat"],
+          "monitoring": ["Reaksi alergi", "Efek neurotropik/viserotropik pada vaksin demam kuning (sangat jarang)"],
+          "interaksi": ["Vaksin hidup (demam kuning, Imojev): kontraindikasi pada imunodefisiensi dan kehamilan"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Typhim Vi", "Menactra", "Menivax ACWY", "Formening", "Imojev", "Stamaril"]
+        },
+        {
+          "id": "vaksin-dengue-covid",
+          "nama": "Vaksin Dengue dan COVID-19",
+          "indikasi": ["Pencegahan demam berdarah dengue", "Pencegahan COVID-19"],
+          "sediaan": ["Dengue: serbuk/prefilled syringe SC 0,5 mL", "COVID-19: injeksi IM (inaktif/protein subunit, dosis per vial)"],
+          "efek_samping": ["Nyeri lokal", "Demam", "Sakit kepala", "Kelelahan"],
+          "tatalaksana": ["Dengue: 2 dosis dengan jeda 3 bulan (sesuai produk)", "COVID-19: sesuai rekomendasi terbaru"],
+          "monitoring": ["Reaksi alergi", "Riwayat infeksi dengue sebelumnya (produk tertentu)"],
+          "interaksi": ["Imunosupresan: respons dapat menurun"],
+          "catatan": "Dengvaxia dibatasi pada individu yang sebelumnya terinfeksi dengue (seropositif).",
+          "gambar": null,
+          "merek": ["Qdenga", "Dengvaxia", "Inavac", "Indovac"]
+        },
+        {
+          "id": "vaksin-rabies",
+          "nama": "Vaksin Rabies",
+          "indikasi": ["Profilaksis pasca-paparan gigitan hewan tersangka rabies", "Profilaksis pra-paparan"],
+          "sediaan": ["Serbuk injeksi IM/ID 2,5 IU + pelarut 0,5 mL"],
+          "efek_samping": ["Nyeri dan kemerahan lokal", "Demam ringan", "Sakit kepala"],
+          "tatalaksana": ["Pasca-paparan: serangkaian dosis IM/ID (mis. hari 0, 3, 7, 14) bersama imunoglobulin rabies bila perlu, sesuai protokol nasional"],
+          "monitoring": ["Kepatuhan jadwal", "Reaksi alergi"],
+          "interaksi": ["Imunosupresan dan klorokuin: respons dapat menurun"],
+          "catatan": "Tidak ada kontraindikasi absolut pada paparan rabies karena penyakit hampir selalu fatal.",
+          "gambar": null,
+          "merek": ["Verorab", "Chirorab"]
+        }
+      ]
+    },
+    {
+      "id": "imunoglobulin-antisera",
+      "kelas": "Imunoglobulin Spesifik, Antiserum, dan Antivenom",
+      "mekanisme": "Antibodi pasif dari manusia atau hewan (kuda) yang menetralkan toksin atau virus secara langsung",
+      "obat": [
+        {
+          "id": "imunoglobulin-tetanus",
+          "nama": "Imunoglobulin Tetanus dan Anti Tetanus Serum (ATS)",
+          "indikasi": ["Profilaksis tetanus pada luka berisiko tanpa imunisasi lengkap", "Terapi tetanus"],
+          "sediaan": ["Imunoglobulin tetanus manusia 250 IU/mL (prefilled syringe)", "ATS kuda 1500 IU/mL"],
+          "efek_samping": ["Nyeri lokal", "Demam", "Reaksi hipersensitivitas (lebih sering pada ATS kuda)", "Serum sickness (ATS)"],
+          "tatalaksana": ["Profilaksis: imunoglobulin tetanus manusia 250 IU IM dosis tunggal, bersama vaksin tetanus di lokasi berbeda", "ATS: uji sensitivitas kulit sebelum pemberian"],
+          "monitoring": ["Observasi anafilaksis selama dan setelah injeksi", "Reaksi lokal"],
+          "interaksi": ["Vaksin virus hidup: respons dapat terganggu"],
+          "catatan": "Imunoglobulin tetanus manusia lebih disukai dibanding serum kuda.",
+          "gambar": null,
+          "merek": ["Tetagam P", "Biosat"]
+        },
+        {
+          "id": "serum-anti-difteri",
+          "nama": "Serum Anti Difteri (ADS)",
+          "indikasi": ["Terapi difteri (dugaan klinis tanpa menunggu konfirmasi laboratorium)"],
+          "sediaan": ["Injeksi IV/IM 10.000 IU/10 mL (vial, serum kuda)"],
+          "efek_samping": ["Reaksi anafilaksis", "Serum sickness", "Demam"],
+          "tatalaksana": ["Dosis berdasarkan derajat keparahan dan lamanya sakit, diberikan IV lambat setelah uji kulit atau desensitisasi sesuai protokol"],
+          "monitoring": ["Observasi ketat untuk anafilaksis", "EKG (miokarditis difteri)"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": "Beri bersama antibiotik; dosis dan jadwal mengikuti pedoman nasional difteri.",
+          "gambar": null,
+          "merek": ["ADS - Serum Anti Difteri"]
+        },
+        {
+          "id": "antivenom-ular",
+          "nama": "Serum Anti Bisa Ular (Antivenom)",
+          "indikasi": ["Gigitan ular berbisa dengan tanda envenomasi sistemik atau lokal progresif"],
+          "sediaan": ["Injeksi IV 5-10 mL (ampul/vial; polivalen atau neurotoksik)"],
+          "efek_samping": ["Reaksi anafilaktoid", "Serum sickness", "Demam dan menggigil"],
+          "tatalaksana": ["Dosis dan pengulangan berdasarkan klinis dan jenis bisa; diberikan IV lambat dengan persiapan epinefrin"],
+          "monitoring": ["Tanda vital", "Koagulasi (20-minute whole blood clotting test)", "Gejala neurotoksik dan perluasan bengkak"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": "Pemberian di fasilitas yang siap menangani anafilaksis.",
+          "gambar": null,
+          "merek": ["Biosave", "Antivenom Neuro Polyvalent"]
+        },
+        {
+          "id": "imunoglobulin-hepatitis-b-anti-d",
+          "nama": "Imunoglobulin Hepatitis B dan Anti-D (Rho)",
+          "indikasi": ["Profilaksis hepatitis B pasca-paparan dan bayi dari ibu HBsAg positif", "Pencegahan isoimunisasi Rh pada ibu Rh negatif"],
+          "sediaan": ["Prefilled syringe IM 110 IU/0,5 mL (HBIG)", "Prefilled syringe IM 1500 IU (anti-D)"],
+          "efek_samping": ["Nyeri lokal", "Demam ringan", "Reaksi alergi (jarang)"],
+          "tatalaksana": ["HBIG: sesuai protokol pasca-paparan atau neonatus dalam 12-24 jam", "Anti-D: dalam 72 jam pasca-persalinan atau kejadian sensitisasi"],
+          "monitoring": ["Status Rh dan antibodi ibu", "Reaksi alergi"],
+          "interaksi": ["Vaksin virus hidup (campak, MMR): tunda 3 bulan setelah pemberian"],
+          "catatan": "Anti-D hanya pada ibu Rh negatif dengan bayi Rh positif.",
+          "gambar": null,
+          "merek": ["Hyperhep-B S/D", "Hyper-RHO S/D"]
+        }
+      ]
+    }
+  ]
+}

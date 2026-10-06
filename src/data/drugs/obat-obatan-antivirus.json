@@ -1,0 +1,311 @@
+{
+  "kelas_obat": [
+    {
+      "id": "antiinfluenza-covid",
+      "kelas": "Antivirus Influenza dan COVID-19",
+      "mekanisme": "Menghambat replikasi virus melalui neuraminidase (oseltamivir), RNA polimerase virus (favipiravir, remdesivir, molnupiravir), atau protease utama virus (nirmatrelvir)",
+      "obat": [
+        {
+          "id": "oseltamivir",
+          "nama": "Oseltamivir",
+          "mekanisme": "Inhibitor neuraminidase yang mencegah pelepasan virion influenza dari sel terinfeksi",
+          "indikasi": ["Terapi influenza A dan B", "Profilaksis influenza pasca-paparan"],
+          "sediaan": ["Kapsul 30 mg, 45 mg, 75 mg", "Suspensi oral 6 mg/mL"],
+          "efek_samping": ["Mual dan muntah", "Sakit kepala", "Nyeri perut", "Gangguan neuropsikiatri (jarang, terutama anak)"],
+          "tatalaksana": ["Terapi dewasa: 75 mg 2x/hari selama 5 hari, dimulai dalam 48 jam sejak gejala", "Profilaksis: 75 mg 1x/hari selama 7-10 hari", "Sesuaikan dosis pada CrCl < 60 mL/menit"],
+          "monitoring": ["Respons klinis", "Fungsi ginjal", "Perubahan perilaku (anak)"],
+          "interaksi": ["Vaksin influenza hidup (intranasal): efektivitas dapat menurun"],
+          "catatan": "Minum bersama makanan untuk mengurangi mual.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/oseltamivir/PNG?image_size=300x300",
+          "merek": ["Tamiflu", "Fluvir", "Nocovir", "Oseltamivir (generik)"]
+        },
+        {
+          "id": "favipiravir",
+          "nama": "Favipiravir",
+          "mekanisme": "Menghambat RNA-dependent RNA polymerase virus sehingga replikasi RNA virus terganggu",
+          "indikasi": ["Influenza (di beberapa negara)", "COVID-19 ringan-sedang (penggunaan sesuai protokol)"],
+          "sediaan": ["Tablet 200 mg"],
+          "efek_samping": ["Peningkatan asam urat", "Peningkatan enzim hati", "Diare", "Mual", "Teratogenik"],
+          "tatalaksana": ["Dosis muat pada hari 1 lalu dosis rumatan selama 5-10 hari sesuai protokol yang berlaku"],
+          "monitoring": ["Asam urat serum", "ALT/AST", "Tes kehamilan pada wanita usia subur"],
+          "interaksi": ["Parasetamol: kadar dapat meningkat", "Pirazinamid: risiko hiperurisemia aditif"],
+          "catatan": "Kontraindikasi pada kehamilan. Dosis rinci mengikuti protokol terbaru; mohon diverifikasi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/favipiravir/PNG?image_size=300x300",
+          "merek": ["Avigan", "Favikal", "Favilow", "Favipiravir (generik)"]
+        },
+        {
+          "id": "remdesivir",
+          "nama": "Remdesivir",
+          "mekanisme": "Analog nukleotida (prodrug adenosin) yang menghambat RNA polimerase virus SARS-CoV-2",
+          "indikasi": ["COVID-19 rawat inap atau risiko perburukan"],
+          "sediaan": ["Serbuk injeksi IV 100 mg (vial)"],
+          "efek_samping": ["Peningkatan ALT/AST", "Mual", "Reaksi infus", "Hipotensi", "Bradikardia"],
+          "tatalaksana": ["Dewasa: 200 mg IV hari 1, lalu 100 mg IV 1x/hari selama 4 hari (hingga 9 hari sesuai kondisi), infus 30-120 menit"],
+          "monitoring": ["ALT/AST sebelum dan selama terapi", "Fungsi ginjal", "Reaksi infus"],
+          "interaksi": ["Klorokuin/hidroksiklorokuin: dapat menurunkan efek antivirus remdesivir"],
+          "catatan": "Hentikan bila ALT > 10x batas atas normal.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/remdesivir/PNG?image_size=300x300",
+          "merek": ["Covifor", "Desrem", "Jubi R", "Remcor", "Remdac", "Remeva", "Remidia", "Remdesivir (generik)"]
+        },
+        {
+          "id": "molnupiravir",
+          "nama": "Molnupiravir",
+          "mekanisme": "Prodrug analog nukleosida yang menimbulkan mutasi fatal (error catastrophe) pada RNA virus SARS-CoV-2",
+          "indikasi": ["COVID-19 ringan-sedang pada pasien berisiko tinggi perburukan"],
+          "sediaan": ["Kapsul 200 mg"],
+          "efek_samping": ["Diare", "Mual", "Pusing"],
+          "tatalaksana": ["800 mg setiap 12 jam selama 5 hari, dimulai dalam 5 hari sejak onset gejala"],
+          "monitoring": ["Respons klinis", "Tes kehamilan pada wanita usia subur"],
+          "interaksi": ["Interaksi obat bermakna belum dilaporkan"],
+          "catatan": "Tidak dianjurkan pada kehamilan; kontrasepsi dianjurkan selama dan setelah terapi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/molnupiravir/PNG?image_size=300x300",
+          "merek": ["Movfor", "Molnupiravir (generik)"]
+        },
+        {
+          "id": "nirmatrelvir-ritonavir",
+          "nama": "Nirmatrelvir-Ritonavir",
+          "mekanisme": "Nirmatrelvir menghambat protease utama (3CL) SARS-CoV-2; ritonavir menghambat CYP3A4 sehingga meningkatkan kadar nirmatrelvir",
+          "indikasi": ["COVID-19 ringan-sedang pada pasien berisiko tinggi perburukan"],
+          "sediaan": ["Tablet kombinasi nirmatrelvir 150 mg + ritonavir 100 mg"],
+          "efek_samping": ["Gangguan pengecapan (disgeusia)", "Diare", "Hipertensi", "Nyeri otot"],
+          "tatalaksana": ["Nirmatrelvir 300 mg + ritonavir 100 mg setiap 12 jam selama 5 hari", "Kurangi dosis pada eGFR 30-60; hindari pada eGFR < 30"],
+          "monitoring": ["Tinjau seluruh obat pasien sebelum memulai", "Fungsi ginjal dan hati"],
+          "interaksi": ["Banyak interaksi CYP3A4 kuat: statin (simvastatin, lovastatin), amiodaron, kolkisin, antikoagulan, karbamazepin, rifampisin, siklosporin, takrolimus", "Kontrasepsi hormonal: efektivitas dapat menurun"],
+          "catatan": "Periksa interaksi obat secara teliti sebelum meresepkan.",
+          "gambar": null,
+          "merek": ["Paxlovid"]
+        },
+        {
+          "id": "metisoprinol",
+          "nama": "Metisoprinol (Inosin Pranobeks)",
+          "mekanisme": "Imunomodulator dengan efek antivirus; meningkatkan fungsi limfosit dan diduga menghambat sintesis RNA virus",
+          "indikasi": ["Terapi tambahan infeksi virus (mis. herpes simpleks, infeksi saluran napas virus)"],
+          "sediaan": ["Tablet 500 mg", "Sirup 250 mg/5 mL"],
+          "efek_samping": ["Mual", "Peningkatan asam urat", "Nyeri epigastrium", "Pusing"],
+          "tatalaksana": ["Dewasa: sesuai label produk, umumnya dibagi 3-4 dosis sehari"],
+          "monitoring": ["Asam urat serum pada penggunaan lama", "Fungsi ginjal"],
+          "interaksi": ["Alopurinol dan obat urikosurik: efek dapat berubah", "Diuretik: risiko hiperurisemia"],
+          "catatan": "Hati-hati pada gout dan gangguan ginjal. Bukti efektivitas terbatas; mohon verifikasi dosis pada label produk.",
+          "gambar": null,
+          "merek": ["Isoprinosine", "Isprinol"]
+        }
+      ]
+    },
+    {
+      "id": "antivirus-herpes-cmv",
+      "kelas": "Antivirus Herpes dan Sitomegalovirus (CMV)",
+      "mekanisme": "Analog nukleosida guanin yang difosforilasi dan menghambat DNA polimerase virus herpes",
+      "obat": [
+        {
+          "id": "asiklovir",
+          "nama": "Asiklovir",
+          "indikasi": ["Herpes simpleks (genital, orolabial, ensefalitis)", "Varisela dan herpes zoster", "Profilaksis herpes pada imunokompromais"],
+          "sediaan": ["Tablet 200 mg, 400 mg, 800 mg", "Krim 5%", "Salep mata 3%", "Serbuk injeksi IV 250 mg"],
+          "efek_samping": ["Mual", "Sakit kepala", "Nefrotoksisitas (kristaluria, terutama IV)", "Neurotoksisitas (dosis tinggi)", "Flebitis (IV)"],
+          "tatalaksana": ["Herpes genital: 400 mg 3x/hari selama 7-10 hari", "Herpes zoster: 800 mg 5x/hari selama 7 hari", "IV (ensefalitis herpes): 10 mg/kgBB setiap 8 jam", "Sesuaikan dosis pada gangguan ginjal"],
+          "monitoring": ["Fungsi ginjal", "Hidrasi", "Status neurologis pada dosis tinggi"],
+          "interaksi": ["Probenesid: meningkatkan kadar asiklovir", "Mikofenolat: kadar kedua obat dapat meningkat", "Obat nefrotoksik lain: risiko aditif"],
+          "catatan": "Pastikan hidrasi adekuat terutama pada pemberian IV.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/acyclovir/PNG?image_size=300x300",
+          "merek": ["Zovirax", "Lacyvir (salep mata)", "Asiklovir (generik)"]
+        },
+        {
+          "id": "valasiklovir",
+          "nama": "Valasiklovir",
+          "indikasi": ["Herpes zoster", "Herpes genital (episode awal, rekuren, supresi)", "Herpes labialis"],
+          "sediaan": ["Tablet 500 mg, 1000 mg"],
+          "efek_samping": ["Sakit kepala", "Mual", "Nyeri perut", "Gangguan ginjal", "Neurotoksisitas pada gangguan ginjal"],
+          "tatalaksana": ["Herpes zoster: 1000 mg 3x/hari selama 7 hari", "Herpes genital awal: 1000 mg 2x/hari selama 10 hari", "Sesuaikan dosis pada gangguan ginjal"],
+          "monitoring": ["Fungsi ginjal", "Status neurologis (lansia)"],
+          "interaksi": ["Probenesid dan simetidin: meningkatkan kadar asiklovir", "Obat nefrotoksik: risiko aditif"],
+          "catatan": "Prodrug asiklovir dengan bioavailabilitas oral lebih baik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/valacyclovir/PNG?image_size=300x300",
+          "merek": ["Valtrex", "Valasiklovir (generik)", "Valvir"]
+        },
+        {
+          "id": "valgansiklovir",
+          "nama": "Valgansiklovir",
+          "indikasi": ["Retinitis CMV pada AIDS", "Profilaksis dan terapi CMV pada transplantasi organ"],
+          "sediaan": ["Tablet 450 mg"],
+          "efek_samping": ["Mielosupresi (neutropenia, anemia, trombositopenia)", "Diare", "Demam", "Sakit kepala", "Teratogenik dan karsinogenik (studi hewan)"],
+          "tatalaksana": ["Terapi induksi: 900 mg 2x/hari selama 21 hari, lalu 900 mg 1x/hari", "Diminum bersama makanan", "Sesuaikan dosis pada gangguan ginjal"],
+          "monitoring": ["Hitung darah lengkap (rutin)", "Fungsi ginjal", "Tes kehamilan"],
+          "interaksi": ["Mikofenolat: toksisitas hematologi aditif", "Zidovudin dan obat mielosupresif lain: risiko aditif", "Imipenem: risiko kejang"],
+          "catatan": "Obat sitotoksik; hindari menghancurkan atau membelah tablet dan hindari paparan pada kehamilan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/valganciclovir/PNG?image_size=300x300",
+          "merek": ["Valcyte", "Valgovir"]
+        },
+        {
+          "id": "gansiklovir",
+          "nama": "Gansiklovir",
+          "indikasi": ["Infeksi CMV berat (retinitis, kolitis, pneumonitis) pada imunokompromais", "Pre-emptive therapy CMV pada transplantasi"],
+          "sediaan": ["Serbuk injeksi IV 500 mg (vial)"],
+          "efek_samping": ["Neutropenia dan trombositopenia", "Anemia", "Demam", "Kejang (jarang)", "Flebitis"],
+          "tatalaksana": ["Induksi: 5 mg/kgBB IV setiap 12 jam selama 14-21 hari, lalu rumatan 5 mg/kgBB 1x/hari", "Sesuaikan dosis pada gangguan ginjal"],
+          "monitoring": ["Hitung darah lengkap (ANC, trombosit)", "Fungsi ginjal"],
+          "interaksi": ["Mikofenolat dan zidovudin: toksisitas hematologi aditif", "Imipenem-silastatin: risiko kejang"],
+          "catatan": "Sitotoksik dan teratogenik; tangani sesuai prosedur sediaan sitotoksik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ganciclovir/PNG?image_size=300x300",
+          "merek": ["Cymevene"]
+        }
+      ]
+    },
+    {
+      "id": "antivirus-hepatitis",
+      "kelas": "Antivirus Hepatitis B dan C",
+      "mekanisme": "Analog nukleos(t)ida menghambat polimerase HBV/HIV; sofosbuvir menghambat NS5B polimerase dan daklatasvir menghambat NS5A pada HCV",
+      "obat": [
+        {
+          "id": "entekavir",
+          "nama": "Entekavir",
+          "indikasi": ["Hepatitis B kronik"],
+          "sediaan": ["Tablet 0,5 mg, 1 mg"],
+          "efek_samping": ["Sakit kepala", "Kelelahan", "Mual", "Asidosis laktat (jarang)", "Eksaserbasi hepatitis saat penghentian"],
+          "tatalaksana": ["0,5 mg 1x/hari, diminum saat perut kosong (2 jam setelah dan 2 jam sebelum makan)", "Sesuaikan dosis pada gangguan ginjal"],
+          "monitoring": ["HBV DNA", "ALT/AST", "Fungsi ginjal", "Pantau eksaserbasi hepatitis setelah penghentian"],
+          "interaksi": ["Obat nefrotoksik: risiko aditif"],
+          "catatan": "Skrining HIV sebelum memulai terapi hepatitis B.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/entecavir/PNG?image_size=300x300",
+          "merek": ["Atevir", "Entecavir (generik)"]
+        },
+        {
+          "id": "adefovir",
+          "nama": "Adefovir Dipivoksil",
+          "indikasi": ["Hepatitis B kronik"],
+          "sediaan": ["Tablet 10 mg"],
+          "efek_samping": ["Nefrotoksisitas", "Astenia", "Sakit kepala", "Asidosis laktat (jarang)", "Eksaserbasi hepatitis saat penghentian"],
+          "tatalaksana": ["10 mg 1x/hari; interval diperpanjang pada gangguan ginjal"],
+          "monitoring": ["Kreatinin serum dan fosfat", "HBV DNA", "ALT/AST"],
+          "interaksi": ["Obat nefrotoksik (NSAID, aminoglikosida): risiko aditif", "Tenofovir: hindari kombinasi"],
+          "catatan": "Penggunaan telah banyak digantikan entekavir/tenofovir.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/adefovir%20dipivoxil/PNG?image_size=300x300",
+          "merek": ["Hepsera"]
+        },
+        {
+          "id": "sofosbuvir",
+          "nama": "Sofosbuvir-Velpatasvir",
+          "indikasi": ["Hepatitis C kronik (semua genotipe)"],
+          "sediaan": ["Tablet kombinasi sofosbuvir 400 mg + velpatasvir 100 mg"],
+          "efek_samping": ["Sakit kepala", "Kelelahan", "Mual", "Reaktivasi hepatitis B pada koinfeksi (boxed warning)"],
+          "tatalaksana": ["1 tablet 1x/hari selama 12 minggu"],
+          "monitoring": ["HCV RNA", "Skrining HBV sebelum terapi", "Fungsi hati"],
+          "interaksi": ["Amiodaron: bradikardia berat, hindari", "Penginduksi P-gp/CYP kuat (rifampisin, karbamazepin): kontraindikasi", "PPI dan antasida: menurunkan absorpsi velpatasvir"],
+          "catatan": "Database mencatat Epclusa sebagai Sofosbuvir; komponen velpatasvir ditambahkan sesuai komposisi produk.",
+          "gambar": null,
+          "merek": ["Epclusa"]
+        },
+        {
+          "id": "daklatasvir",
+          "nama": "Daklatasvir",
+          "indikasi": ["Hepatitis C kronik (kombinasi dengan sofosbuvir)"],
+          "sediaan": ["Tablet 60 mg"],
+          "efek_samping": ["Sakit kepala", "Kelelahan", "Mual", "Reaktivasi hepatitis B"],
+          "tatalaksana": ["60 mg 1x/hari bersama sofosbuvir selama 12 minggu (sesuaikan dengan inhibitor/penginduksi CYP3A4)"],
+          "monitoring": ["HCV RNA", "Skrining HBV", "Fungsi hati"],
+          "interaksi": ["Penginduksi CYP3A4 kuat: kontraindikasi", "Inhibitor CYP3A4 kuat: kurangi dosis", "Amiodaron: bradikardia berat"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/daclatasvir/PNG?image_size=300x300",
+          "merek": ["Mydekla"]
+        }
+      ]
+    },
+    {
+      "id": "antiretroviral",
+      "kelas": "Antiretroviral (ARV) untuk HIV",
+      "mekanisme": "Menghambat siklus replikasi HIV pada berbagai tahap: NRTI/NtRTI dan NNRTI (reverse transcriptase), INSTI (integrase), PI (protease)",
+      "obat": [
+        {
+          "id": "tenofovir",
+          "nama": "Tenofovir Disoproksil Fumarat (TDF)",
+          "indikasi": ["Infeksi HIV (kombinasi)", "Hepatitis B kronik", "Profilaksis pra-paparan HIV (PrEP, bersama emtricitabine)"],
+          "sediaan": ["Tablet 300 mg", "Kombinasi dosis tetap (TLD, TLE, Truvada)"],
+          "efek_samping": ["Nefrotoksisitas (tubulopati)", "Penurunan densitas tulang", "Mual", "Eksaserbasi hepatitis B saat penghentian"],
+          "tatalaksana": ["300 mg 1x/hari", "Sesuaikan interval pada gangguan ginjal"],
+          "monitoring": ["Kreatinin/eGFR dan fosfat", "Densitas tulang pada risiko", "Fungsi hati, pantau eksaserbasi hepatitis B"],
+          "interaksi": ["Obat nefrotoksik (NSAID, aminoglikosida): risiko aditif", "Didanosin: hindari"],
+          "catatan": "Tafnat 25 mg pada database tercatat sebagai tenofovir (kemungkinan TAF); mohon verifikasi sediaan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tenofovir/PNG?image_size=300x300",
+          "merek": ["Tenofovir (generik)", "Kifovir", "Tafnat", "ARV - Tenofovir", "ARV - TLD", "ARV - TLE", "ARV - Truvada"]
+        },
+        {
+          "id": "lamivudin",
+          "nama": "Lamivudin (3TC)",
+          "indikasi": ["Infeksi HIV (kombinasi)", "Hepatitis B kronik"],
+          "sediaan": ["Tablet 100 mg, 150 mg, 300 mg", "Kombinasi dengan zidovudin (Duviral)"],
+          "efek_samping": ["Sakit kepala", "Mual", "Neuropati perifer", "Asidosis laktat (jarang)", "Eksaserbasi hepatitis B saat penghentian"],
+          "tatalaksana": ["150 mg 2x/hari atau 300 mg 1x/hari", "Sesuaikan dosis pada gangguan ginjal"],
+          "monitoring": ["Viral load HIV, CD4", "Fungsi hati", "Fungsi ginjal"],
+          "interaksi": ["Kotrimoksazol dosis tinggi: kadar lamivudin meningkat"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lamivudine/PNG?image_size=300x300",
+          "merek": ["Lamivudin (generik)", "Heplav", "Duviral (kombinasi)", "ARV - Lamivudine"]
+        },
+        {
+          "id": "zidovudin",
+          "nama": "Zidovudin (AZT)",
+          "indikasi": ["Infeksi HIV (kombinasi)", "Pencegahan penularan ibu ke anak"],
+          "sediaan": ["Kapsul 100 mg", "Kombinasi dengan lamivudin"],
+          "efek_samping": ["Anemia dan neutropenia", "Mual", "Sakit kepala", "Miopati", "Asidosis laktat"],
+          "tatalaksana": ["300 mg 2x/hari (atau sesuai regimen kombinasi)"],
+          "monitoring": ["Hitung darah lengkap", "CK bila nyeri otot", "Laktat bila ada gejala"],
+          "interaksi": ["Ganciklovir dan obat mielosupresif: toksisitas hematologi aditif", "Stavudin: antagonisme, hindari"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/zidovudine/PNG?image_size=300x300",
+          "merek": ["Zidovudin (generik)", "ARV - Zidovudin", "ARV FDC Junior"]
+        },
+        {
+          "id": "efavirenz",
+          "nama": "Efavirenz (EFV)",
+          "indikasi": ["Infeksi HIV (kombinasi)"],
+          "sediaan": ["Tablet 600 mg", "Kombinasi TLE"],
+          "efek_samping": ["Pusing, mimpi aneh, insomnia (awal terapi)", "Ruam", "Gangguan psikiatri", "Hepatotoksik", "Teratogenik (data terbatas)"],
+          "tatalaksana": ["600 mg 1x/hari pada perut kosong, sebelum tidur"],
+          "monitoring": ["ALT/AST", "Gejala neuropsikiatri", "Viral load"],
+          "interaksi": ["Penginduksi CYP3A4: menurunkan kadar banyak obat (kontrasepsi, antikonvulsan, metadon)", "Rifampisin: pertimbangkan penyesuaian dosis"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/efavirenz/PNG?image_size=300x300",
+          "merek": ["Efavirenz (generik)", "ARV - Efavirenz"]
+        },
+        {
+          "id": "nevirapin",
+          "nama": "Nevirapin (NVP)",
+          "indikasi": ["Infeksi HIV (kombinasi)"],
+          "sediaan": ["Tablet 200 mg"],
+          "efek_samping": ["Ruam (termasuk SJS)", "Hepatotoksik berat", "Demam", "Mual"],
+          "tatalaksana": ["200 mg 1x/hari selama 14 hari pertama, lalu 200 mg 2x/hari"],
+          "monitoring": ["ALT/AST (awal dan berkala)", "Ruam kulit"],
+          "interaksi": ["Rifampisin: menurunkan kadar nevirapin", "Penginduksi CYP3A4: menurunkan kadar obat lain"],
+          "catatan": "Fase lead-in 14 hari menurunkan risiko ruam berat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nevirapine/PNG?image_size=300x300",
+          "merek": ["Nevirapin (generik)", "Neviral"]
+        },
+        {
+          "id": "dolutegravir",
+          "nama": "Dolutegravir (DTG)",
+          "indikasi": ["Infeksi HIV (kombinasi)"],
+          "sediaan": ["Tablet 50 mg", "Kombinasi TLD"],
+          "efek_samping": ["Sakit kepala", "Insomnia", "Mual", "Peningkatan berat badan", "Reaksi hipersensitivitas (jarang)"],
+          "tatalaksana": ["50 mg 1x/hari (50 mg 2x/hari bila bersama rifampisin)"],
+          "monitoring": ["Viral load, CD4", "Berat badan", "Fungsi hati"],
+          "interaksi": ["Kation polivalen (kalsium, besi, antasida): beri jeda 2 jam sebelum atau 6 jam sesudah", "Metformin: kadar meningkat", "Rifampisin dan karbamazepin: menurunkan kadar"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dolutegravir/PNG?image_size=300x300",
+          "merek": ["Dolutegravir (generik)", "ARV - DTG", "ARV - TLD"]
+        },
+        {
+          "id": "lopinavir-ritonavir",
+          "nama": "Lopinavir-Ritonavir",
+          "indikasi": ["Infeksi HIV (kombinasi, termasuk lini kedua)"],
+          "sediaan": ["Tablet 200 mg/50 mg", "Tablet 100 mg/25 mg"],
+          "efek_samping": ["Diare", "Mual", "Dislipidemia", "Hiperglikemia", "Pemanjangan interval PR/QT"],
+          "tatalaksana": ["400/100 mg 2x/hari (disesuaikan bila bersama penginduksi enzim)"],
+          "monitoring": ["Profil lipid dan glukosa", "EKG pada risiko", "Fungsi hati"],
+          "interaksi": ["Inhibitor CYP3A4 kuat: banyak interaksi (statin, kolkisin, amiodaron)", "Rifampisin: kontraindikasi relatif", "Kontrasepsi hormonal: efektivitas menurun"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Aluvia", "ARV - Aluvia"]
+        }
+      ]
+    }
+  ]
+}
