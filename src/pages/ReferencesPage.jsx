@@ -9,7 +9,7 @@ import ScrollToTopButton from '../components/ScrollToTopButton.jsx';
 import TableOfContents from '../components/TableOfContents.jsx';
 
 const ReferencesPage = () => {
-  const [type, setType] = React.useState('antibiotik');
+  const [type, setType] = React.useState('anestesi');
 
   const tabClass = (tab) =>
     `py-2 px-4 border-b-3 rounded-t-lg transition-colors duration-200 cursor-pointer ${
