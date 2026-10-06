@@ -1,7 +1,7 @@
 import { useNavigate, useParams, Link, createSearchParams } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import fm from 'front-matter';
+import YAML from 'yaml';
 
 import { getArticleBySlug } from '../data/articles.js';
 import ScrollToTopButton from '../components/ScrollToTopButton.jsx';
@@ -15,8 +15,21 @@ const files = import.meta.glob('../content/articles/*.md', {
 });
 
 const articles = Object.values(files).map((raw) => {
-  const { attributes, body } = fm(raw);
-  return { data: attributes, content: body };
+  const match = raw.match(/^---\s*\n([\s\S]*?)\n---\s*\n?([\s\S]*)$/);
+
+  if (!match) {
+    return {
+      data: {},
+      content: raw,
+    };
+  }
+
+  const [, frontMatter, body] = match;
+
+  return {
+    data: YAML.parse(frontMatter),
+    content: body,
+  };
 });
 
 const NewsDetailPage = () => {
