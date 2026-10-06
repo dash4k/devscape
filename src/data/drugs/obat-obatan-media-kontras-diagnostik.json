@@ -1,0 +1,103 @@
+{
+  "kelas_obat": [
+    {
+      "id": "kontras-iodium",
+      "kelas": "Media Kontras Beriodium",
+      "mekanisme": "Atom iodium menyerap sinar-X sehingga meningkatkan kontras struktur vaskular dan organ pada CT dan angiografi",
+      "obat": [
+        {
+          "id": "ioheksol",
+          "nama": "Ioheksol",
+          "indikasi": ["CT dengan kontras", "Angiografi dan urografi"],
+          "sediaan": ["Injeksi 300 mgI/mL (50 mL) dan 350 mgI/mL (100 mL)", "Vial 6000 mg/20 mL"],
+          "efek_samping": ["Reaksi alergi/anafilaktoid", "Nefropati akibat kontras", "Rasa hangat dan mual", "Hipertiroidisme (jarang)"],
+          "tatalaksana": ["Dosis sesuai prosedur dan berat badan, diberikan oleh tenaga radiologi"],
+          "monitoring": ["Fungsi ginjal sebelum dan sesudah prosedur", "Reaksi alergi", "Hidrasi"],
+          "interaksi": ["Metformin: hentikan sementara pada gangguan ginjal", "Obat nefrotoksik: risiko aditif", "Penyekat beta: dapat menyulitkan terapi anafilaksis"],
+          "catatan": "Riwayat reaksi kontras sebelumnya meningkatkan risiko; pertimbangkan premedikasi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/iohexol/PNG?image_size=300x300",
+          "merek": ["Ioheksol 300", "Ioheksol 350", "Ioheksol 6000"]
+        },
+        {
+          "id": "iopamidol-iodiksanol",
+          "nama": "Iopamidol dan Iodiksanol",
+          "indikasi": ["CT dengan kontras", "Angiografi dan kontras intratekal (iopamidol)"],
+          "sediaan": ["Iopamidol 300 dan 370 mgI/mL", "Iodiksanol 320 mgI/mL"],
+          "efek_samping": ["Reaksi alergi", "Nefropati akibat kontras", "Rasa hangat"],
+          "tatalaksana": ["Sesuai protokol radiologi"],
+          "monitoring": ["Fungsi ginjal", "Reaksi alergi"],
+          "interaksi": ["Metformin: hentikan sementara pada gangguan ginjal", "Obat nefrotoksik: aditif"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/iopamidol/PNG?image_size=300x300",
+          "merek": ["Scanlux 300", "Scanlux 370", "Iodica 370", "Metacosfar 320"]
+        }
+      ]
+    },
+    {
+      "id": "kontras-gadolinium",
+      "kelas": "Media Kontras Gadolinium (MRI)",
+      "mekanisme": "Ion gadolinium paramagnetik memendekkan waktu relaksasi T1 sehingga meningkatkan kontras pada MRI",
+      "obat": [
+        {
+          "id": "gadoterat-gadoksetat",
+          "nama": "Gadoterat dan Gadoksetat",
+          "indikasi": ["MRI otak, tulang belakang, dan jaringan lain", "MRI hati (gadoksetat)"],
+          "sediaan": ["Gadoterat 0,5 mmol/mL 10 mL dan 15 mL", "Gadoksetat 0,25 mmol/mL 10 mL (prefilled syringe)"],
+          "efek_samping": ["Mual", "Sakit kepala", "Reaksi alergi", "Fibrosis sistemik nefrogenik (gangguan ginjal berat)", "Deposit gadolinium"],
+          "tatalaksana": ["Dosis berdasarkan berat badan sesuai prosedur"],
+          "monitoring": ["Fungsi ginjal (eGFR) sebelum prosedur", "Reaksi alergi"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": "Hindari pada eGFR < 30 kecuali manfaat jelas melebihi risiko.",
+          "gambar": null,
+          "merek": ["Dotarem", "Primovist"]
+        }
+      ]
+    },
+    {
+      "id": "kontras-gi-diagnostik-lain",
+      "kelas": "Kontras Saluran Cerna dan Agen Diagnostik Lain",
+      "mekanisme": "Memberi opasitas (barium) atau menjadi uji diagnostik spesifik (tuberkulin, fluorescein, Lugol)",
+      "obat": [
+        {
+          "id": "barium-sulfat",
+          "nama": "Barium Sulfat",
+          "indikasi": ["Pemeriksaan radiologi saluran cerna atas dan bawah"],
+          "sediaan": ["Serbuk atau suspensi oral/rektal"],
+          "efek_samping": ["Konstipasi dan impaksi", "Mual", "Perforasi dan peritonitis barium (bila ada perforasi)", "Aspirasi"],
+          "tatalaksana": ["Sesuai prosedur radiologi; minum cukup cairan setelahnya"],
+          "monitoring": ["Pengeluaran feses", "Gejala obstruksi"],
+          "interaksi": ["Penurun motilitas usus: risiko konstipasi"],
+          "catatan": "Kontraindikasi pada dugaan perforasi atau obstruksi total.",
+          "gambar": null,
+          "merek": ["Barium Sulfat"]
+        },
+        {
+          "id": "tuberkulin-ppd",
+          "nama": "Tuberkulin PPD",
+          "indikasi": ["Uji kulit Mantoux untuk mendiagnosis infeksi TB laten/paparan"],
+          "sediaan": ["Injeksi intradermal 2 TU/0,1 mL (vial 1,5 mL)"],
+          "efek_samping": ["Indurasi dan eritema lokal", "Vesikulasi/nekrosis lokal pada hipersensitivitas berat", "Reaksi alergi (jarang)"],
+          "tatalaksana": ["0,1 mL intradermal volar lengan; baca indurasi setelah 48-72 jam"],
+          "monitoring": ["Pengukuran diameter indurasi (bukan eritema)"],
+          "interaksi": ["Kortikosteroid dan imunosupresan: hasil negatif palsu", "Vaksin virus hidup: negatif palsu sementara"],
+          "catatan": "Interpretasi bergantung faktor risiko dan status imun; BCG sebelumnya dapat memberi hasil positif palsu.",
+          "gambar": null,
+          "merek": ["Tuberculin PPD RT23"]
+        },
+        {
+          "id": "fluorescein-lugol",
+          "nama": "Fluorescein dan Larutan Lugol",
+          "indikasi": ["Fluorescein: uji kerusakan kornea dan angiografi retina", "Lugol: uji Schiller serviks, persiapan pra-tiroidektomi (konsentrasi tertentu)"],
+          "sediaan": ["Tetes mata fluorescein 2%", "Larutan Lugol 1% dan 5% 100 mL"],
+          "efek_samping": ["Fluorescein: perubahan warna kulit/urin, mual, alergi", "Lugol: iritasi mukosa, gangguan tiroid"],
+          "tatalaksana": ["Sesuai prosedur pemeriksaan atau indikasi"],
+          "monitoring": ["Reaksi alergi", "Fungsi tiroid (Lugol berulang)"],
+          "interaksi": ["Lugol: litium dan antitiroid, efek pada tiroid"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Fluorescein 2%", "Lugol Solution 1%", "Lugol Solution 5%"]
+        }
+      ]
+    }
+  ]
+}
