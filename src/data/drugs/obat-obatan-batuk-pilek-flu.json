@@ -1,0 +1,155 @@
+{
+  "kelas_obat": [
+    {
+      "id": "dekongestan-oral",
+      "kelas": "Dekongestan Oral",
+      "mekanisme": "Agonis alfa-adrenergik yang menyebabkan vasokonstriksi mukosa hidung sehingga mengurangi edema dan hidung tersumbat",
+      "obat": [
+        {
+          "id": "pseudoefedrin",
+          "nama": "Pseudoefedrin",
+          "indikasi": ["Hidung tersumbat akibat flu dan alergi"],
+          "sediaan": ["Tablet 30 mg, 60 mg (umumnya kombinasi)", "Sirup dan tetes (anak)"],
+          "efek_samping": ["Insomnia", "Gelisah", "Takikardia", "Peningkatan tekanan darah", "Retensi urin"],
+          "tatalaksana": ["Dewasa: 60 mg setiap 4-6 jam, maks 240 mg/hari", "Hindari penggunaan malam hari"],
+          "monitoring": ["Tekanan darah dan nadi", "Gejala retensi urin"],
+          "interaksi": ["MAOI: krisis hipertensi, kontraindikasi", "Antihipertensi: efek dapat berkurang"],
+          "catatan": "Hati-hati pada hipertensi, penyakit jantung, hipertiroid, glaukoma sudut sempit, dan BPH.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pseudoephedrine/PNG?image_size=300x300",
+          "merek": ["Rhinofed", "Rhinos Junior", "Rhinos Neo", "Rhinos SR", "Tremenza", "Panadol Hijau", "Inza", "Iprofen Flu"]
+        },
+        {
+          "id": "fenilefrin-fenilpropanolamin",
+          "nama": "Fenilefrin dan Fenilpropanolamin (Dekongestan Kombinasi)",
+          "indikasi": ["Hidung tersumbat pada flu"],
+          "sediaan": ["Komponen pada tablet dan sirup kombinasi flu"],
+          "efek_samping": ["Peningkatan tekanan darah", "Takikardia", "Insomnia", "Gelisah"],
+          "tatalaksana": ["Sesuai kemasan produk kombinasi"],
+          "monitoring": ["Tekanan darah", "Nadi"],
+          "interaksi": ["MAOI: krisis hipertensi", "Antidepresan trisiklik: efek pressor meningkat"],
+          "catatan": "Fenilpropanolamin telah ditarik di banyak negara (risiko stroke hemoragik); mohon verifikasi status produk di Indonesia.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phenylephrine/PNG?image_size=300x300",
+          "merek": ["Decolgen", "Neozep Forte", "Bodrex Flu & Batuk", "Procold", "Paratusin", "Nipe"]
+        }
+      ]
+    },
+    {
+      "id": "antihistamin-generasi-pertama",
+      "kelas": "Antihistamin Generasi Pertama dan Lain",
+      "mekanisme": "Antagonis reseptor H1 yang menembus sawar darah otak sehingga menimbulkan sedasi dan efek antikolinergik",
+      "obat": [
+        {
+          "id": "klorfeniramin",
+          "nama": "Klorfeniramin Maleat (CTM)",
+          "indikasi": ["Rinitis alergi", "Urtikaria", "Gatal"],
+          "sediaan": ["Tablet 4 mg"],
+          "efek_samping": ["Mengantuk", "Mulut kering", "Retensi urin", "Pandangan kabur"],
+          "tatalaksana": ["Dewasa: 4 mg setiap 4-6 jam, maks 24 mg/hari"],
+          "monitoring": ["Sedasi", "Efek antikolinergik"],
+          "interaksi": ["Alkohol dan depresan SSP: sedasi aditif", "MAOI: efek antikolinergik meningkat"],
+          "catatan": "Hindari mengemudi; hati-hati pada lansia, glaukoma, dan BPH.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/chlorpheniramine/PNG?image_size=300x300",
+          "merek": ["CTM 4 mg", "Klorfeniramin Maleat (generik)", "Ceteme"]
+        },
+        {
+          "id": "feniramin-siproheptadin",
+          "nama": "Feniramin dan Siproheptadin",
+          "indikasi": ["Alergi kulit dan rinitis", "Siproheptadin: perangsang nafsu makan (off-label) dan pruritus"],
+          "sediaan": ["Feniramin tablet 25 mg", "Siproheptadin tablet 4 mg"],
+          "efek_samping": ["Mengantuk", "Mulut kering", "Peningkatan berat badan (siproheptadin)"],
+          "tatalaksana": ["Feniramin: 25 mg 2-3x/hari", "Siproheptadin: 4 mg 3x/hari, maks 32 mg/hari"],
+          "monitoring": ["Sedasi", "Berat badan"],
+          "interaksi": ["Depresan SSP dan alkohol: sedasi aditif", "SSRI: siproheptadin dapat menurunkan efeknya"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cyproheptadine/PNG?image_size=300x300",
+          "merek": ["Avil", "Pronicy"]
+        },
+        {
+          "id": "hidroksizin",
+          "nama": "Hidroksizin",
+          "indikasi": ["Pruritus dan urtikaria", "Ansietas ringan dan premedikasi"],
+          "sediaan": ["Tablet 10 mg, 25 mg"],
+          "efek_samping": ["Mengantuk", "Mulut kering", "Pemanjangan QT (dosis tinggi)"],
+          "tatalaksana": ["Pruritus: 25 mg 3-4x/hari; sesuaikan pada gangguan ginjal/hati dan lansia"],
+          "monitoring": ["Sedasi", "Interval QT pada faktor risiko"],
+          "interaksi": ["Obat pemanjang QT: risiko aditif", "Depresan SSP: sedasi aditif"],
+          "catatan": "Database mencatat Atarax sebagai alprazolam; mohon verifikasi produk Atarax (hidroksizin).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydroxyzine/PNG?image_size=300x300",
+          "merek": ["Bestalin", "Atarax"]
+        },
+        {
+          "id": "dimenhidrinat",
+          "nama": "Dimenhidrinat",
+          "indikasi": ["Mabuk perjalanan", "Mual dan vertigo"],
+          "sediaan": ["Tablet 50 mg"],
+          "efek_samping": ["Mengantuk", "Mulut kering", "Pandangan kabur"],
+          "tatalaksana": ["50 mg 30 menit sebelum perjalanan, ulangi setiap 4-6 jam bila perlu, maks 400 mg/hari"],
+          "monitoring": ["Sedasi"],
+          "interaksi": ["Alkohol dan depresan SSP: sedasi aditif", "Aminoglikosida: dapat menutupi gejala ototoksisitas"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dimenhydrinate/PNG?image_size=300x300",
+          "merek": ["Antimo", "Dramamine", "Dimenhidrinat 50 mg"]
+        },
+        {
+          "id": "desloratadin-feksofenadin",
+          "nama": "Desloratadin dan Feksofenadin (Generasi Kedua)",
+          "indikasi": ["Rinitis alergi", "Urtikaria kronik"],
+          "sediaan": ["Desloratadin tablet 5 mg, sirup 0,5 mg/mL", "Feksofenadin tablet 30, 60, 120, 180 mg"],
+          "efek_samping": ["Sakit kepala", "Mulut kering", "Kelelahan", "Mengantuk ringan"],
+          "tatalaksana": ["Desloratadin: 5 mg 1x/hari", "Feksofenadin: 120-180 mg 1x/hari atau 60 mg 2x/hari, saat perut kosong dengan air (bukan jus buah)"],
+          "monitoring": ["Respons gejala alergi"],
+          "interaksi": ["Antasida aluminium/magnesium: menurunkan absorpsi feksofenadin", "Jus buah (jeruk, apel): menurunkan absorpsi feksofenadin"],
+          "catatan": "Sediaan generasi kedua lain sudah ada pada file antihistamin H1 Anda (cetirizine, loratadine).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/desloratadine/PNG?image_size=300x300",
+          "merek": ["Aerius", "Destavell", "Telfast"]
+        }
+      ]
+    },
+    {
+      "id": "kombinasi-flu-batuk",
+      "kelas": "Kombinasi Flu, Batuk, dan Pilek",
+      "mekanisme": "Kombinasi parasetamol/AINS (nyeri, demam), dekongestan, antihistamin, ekspektoran, atau antitusif untuk meredakan gejala flu",
+      "obat": [
+        {
+          "id": "kombinasi-flu",
+          "nama": "Tablet dan Sirup Kombinasi Flu",
+          "indikasi": ["Gejala flu (demam, pegal, hidung tersumbat, bersin)"],
+          "sediaan": ["Tablet/kaplet/strip", "Sirup", "Sirup anak"],
+          "efek_samping": ["Mengantuk", "Mulut kering", "Palpitasi dan insomnia (dekongestan)", "Hepatotoksik pada overdosis parasetamol"],
+          "tatalaksana": ["Sesuai kemasan, durasi singkat (maks 3-5 hari)", "Jangan dikombinasi dengan obat lain yang mengandung parasetamol"],
+          "monitoring": ["Total dosis parasetamol harian", "Tekanan darah pada hipertensi"],
+          "interaksi": ["MAOI: dekongestan krisis hipertensi", "Alkohol: sedasi dan hepatotoksisitas parasetamol"],
+          "catatan": "Hindari pada anak kecil tanpa petunjuk; kandungan berbeda antar merek.",
+          "gambar": null,
+          "merek": ["Bodrex Flu & Batuk", "Decolgen", "Neozep Forte", "Mixagrip Flu & Batuk", "Procold", "Inza", "Paramex", "Tuzalos", "Nipe", "Oskadon", "Bodrexin Syrup", "Paratusin"]
+        },
+        {
+          "id": "kombinasi-batuk-pilek",
+          "nama": "Sirup Batuk Pilek Kombinasi (Dekstrometorfan, Guaifenesin, Difenhidramin, Doksilamin, OBH)",
+          "indikasi": ["Batuk kering atau berdahak dengan pilek"],
+          "sediaan": ["Sirup 54-120 mL"],
+          "efek_samping": ["Mengantuk", "Mual", "Pusing", "Interaksi serotonergik (dekstrometorfan)"],
+          "tatalaksana": ["Sesuai label produk"],
+          "monitoring": ["Respons batuk", "Sedasi"],
+          "interaksi": ["MAOI dan SSRI: risiko serotonin syndrome (dekstrometorfan)", "Depresan SSP: sedasi aditif"],
+          "catatan": "Beberapa produk mengandung kodein; hindari pada anak dan menyusui.",
+          "gambar": null,
+          "merek": ["Vicks Formula 44", "Sanadryl DMP", "OBH Combi", "OBH Ika", "Comtusi", "Silex", "Laserin", "Codipront", "Codipront Cum Expectorant", "Bisolvon", "Transpulmin Sirup"]
+        },
+        {
+          "id": "aromatik-inhalasi-topikal",
+          "nama": "Balsam dan Inhalasi Aromatik (Mentol, Kamfer, Eukaliptol)",
+          "indikasi": ["Hidung tersumbat ringan", "Pegal-pegal"],
+          "sediaan": ["Balsam", "Inhaler", "Kapsul inhalasi", "Minyak gosok"],
+          "efek_samping": ["Iritasi kulit", "Spasme laring pada bayi (mentol/kamfer dekat wajah)"],
+          "tatalaksana": ["Oles tipis pada dada atau hirup sesuai petunjuk"],
+          "monitoring": ["Reaksi kulit"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": "Hindari di sekitar hidung bayi < 2 tahun dan pada kulit luka.",
+          "gambar": null,
+          "merek": ["Vicks VapoRub", "Vicks Inhaler", "Transpulmin Balsam Baby", "Vaporin", "Fresh Care", "Minyak Tawon EE"]
+        }
+      ]
+    }
+  ]
+}

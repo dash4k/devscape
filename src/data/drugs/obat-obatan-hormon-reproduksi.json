@@ -1,0 +1,188 @@
+{
+  "kelas_obat": [
+    {
+      "id": "progestin",
+      "kelas": "Progestin dan Terapi Progesteron",
+      "mekanisme": "Agonis reseptor progesteron yang menstabilkan endometrium, menekan ovulasi (dosis tertentu), dan mendukung kehamilan",
+      "obat": [
+        {
+          "id": "noretisteron",
+          "nama": "Noretisteron (Norethisterone)",
+          "indikasi": ["Perdarahan uterus disfungsional", "Penundaan haid", "Endometriosis", "Sindrom pramenstruasi"],
+          "sediaan": ["Tablet 5 mg"],
+          "efek_samping": ["Mual", "Nyeri payudara", "Perdarahan bercak", "Retensi cairan", "Tromboemboli (jarang)"],
+          "tatalaksana": ["Perdarahan disfungsional: 5 mg 3x/hari selama 10 hari lalu diturunkan", "Penundaan haid: 5 mg 3x/hari mulai 3 hari sebelum haid"],
+          "monitoring": ["Pola perdarahan", "Tekanan darah", "Gejala tromboemboli"],
+          "interaksi": ["Penginduksi enzim (rifampisin, karbamazepin): efek menurun"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/norethindrone/PNG?image_size=300x300",
+          "merek": ["Primolut-N", "Norestil"]
+        },
+        {
+          "id": "didrogesteron-medroksiprogesteron-oral",
+          "nama": "Didrogesteron dan Medroksiprogesteron Oral",
+          "indikasi": ["Dismenore, endometriosis, amenore sekunder", "Ancaman dan keguguran berulang (didrogesteron)", "Terapi sulih hormon (kombinasi estrogen)"],
+          "sediaan": ["Didrogesteron tablet 10 mg", "Medroksiprogesteron tablet 10 mg dan 100 mg"],
+          "efek_samping": ["Sakit kepala", "Mual", "Nyeri payudara", "Perdarahan tidak teratur", "Peningkatan berat badan"],
+          "tatalaksana": ["Dosis dan siklus sesuai indikasi (amenore sekunder: 10 mg/hari selama 10 hari)", "Medroksiprogesteron 100 mg: terapi hormon kanker"],
+          "monitoring": ["Pola perdarahan", "Tekanan darah", "Fungsi hati"],
+          "interaksi": ["Penginduksi enzim: efek menurun", "Antikoagulan: efek dapat berubah"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dydrogesterone/PNG?image_size=300x300",
+          "merek": ["Duphaston", "Provera 10 mg", "Provera 100 mg"]
+        },
+        {
+          "id": "progesteron",
+          "nama": "Progesteron (Mikronisasi)",
+          "indikasi": ["Dukungan fase luteal pada terapi infertilitas", "Pencegahan persalinan prematur dan keguguran berulang", "Terapi sulih hormon (proteksi endometrium)"],
+          "sediaan": ["Kapsul/tablet 200 mg (oral/vaginal)", "Supositoria vagina 200 mg dan 400 mg"],
+          "efek_samping": ["Mengantuk dan pusing", "Nyeri payudara", "Perdarahan bercak", "Iritasi vagina"],
+          "tatalaksana": ["Dukungan luteal: 200-400 mg 1-2x/hari vaginal", "Oral: sebelum tidur untuk mengurangi pusing"],
+          "monitoring": ["Pola perdarahan", "Tekanan darah", "Hasil USG kehamilan"],
+          "interaksi": ["Penginduksi CYP3A4: efek menurun", "Ketokonazol: kadar meningkat"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/progesterone/PNG?image_size=300x300",
+          "merek": ["Utrogestan", "Microgest", "Cygest 200", "Cygest 400"]
+        },
+        {
+          "id": "dienogest",
+          "nama": "Dienogest",
+          "indikasi": ["Endometriosis"],
+          "sediaan": ["Tablet 2 mg"],
+          "efek_samping": ["Perdarahan tidak teratur", "Sakit kepala", "Nyeri payudara", "Jerawat", "Mood depresif", "Penurunan densitas tulang (jangka panjang)"],
+          "tatalaksana": ["2 mg 1x/hari tanpa jeda, pada waktu yang sama"],
+          "monitoring": ["Pola perdarahan", "Gejala depresi", "Densitas tulang pada penggunaan lama"],
+          "interaksi": ["Penginduksi CYP3A4 (rifampisin, karbamazepin): efek menurun", "Inhibitor CYP3A4 kuat: kadar meningkat"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dienogest/PNG?image_size=300x300",
+          "merek": ["Visanne"]
+        }
+      ]
+    },
+    {
+      "id": "estrogen-antiandrogen",
+      "kelas": "Estrogen dan Antiandrogen",
+      "mekanisme": "Estradiol menggantikan estrogen endogen; siproteron asetat memblok reseptor androgen dan menekan gonadotropin",
+      "obat": [
+        {
+          "id": "estradiol",
+          "nama": "Estradiol (Valerat)",
+          "indikasi": ["Terapi sulih hormon menopause", "Hipoestrogenisme", "Siklus haid (kombinasi progestin)"],
+          "sediaan": ["Tablet 1 mg dan 2 mg", "Kombinasi siklik estradiol/siproteron atau levonorgestrel", "Gel transdermal"],
+          "efek_samping": ["Nyeri payudara", "Mual", "Tromboemboli vena", "Hipertensi", "Peningkatan risiko kanker endometrium tanpa progestin"],
+          "tatalaksana": ["1-2 mg/hari sesuai indikasi, dosis efektif terendah; kombinasikan progestin pada wanita dengan uterus"],
+          "monitoring": ["Tekanan darah", "Mamografi rutin", "Gejala tromboemboli"],
+          "interaksi": ["Penginduksi enzim: menurunkan efek", "Tamoksifen: antagonisme"],
+          "catatan": "Estrogen terkonjugasi sudah ada pada file endokrin Anda.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/estradiol/PNG?image_size=300x300",
+          "merek": ["Progynova", "Cyclo-Progynova", "Oestrogel"]
+        },
+        {
+          "id": "siproteron-etinilestradiol",
+          "nama": "Siproteron Asetat-Etinilestradiol",
+          "indikasi": ["Akne berat dan hirsutisme pada wanita (juga efek kontrasepsi)"],
+          "sediaan": ["Tablet kombinasi 2 mg/35 mcg (21 tablet)"],
+          "efek_samping": ["Mual", "Nyeri payudara", "Tromboemboli vena (risiko lebih tinggi dibanding KOK lain)", "Perubahan mood", "Hepatotoksik (jarang)"],
+          "tatalaksana": ["1 tablet/hari selama 21 hari, jeda 7 hari; hentikan setelah perbaikan 3-4 siklus"],
+          "monitoring": ["Tekanan darah", "Gejala tromboemboli", "Fungsi hati"],
+          "interaksi": ["Penginduksi enzim: efektivitas kontrasepsi menurun"],
+          "catatan": "Bukan hanya untuk kontrasepsi; hindari jika ada faktor risiko tromboemboli.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cyproterone%20acetate/PNG?image_size=300x300",
+          "merek": ["Diane-35"]
+        }
+      ]
+    },
+    {
+      "id": "kontrasepsi-implan",
+      "kelas": "Kontrasepsi Implan",
+      "mekanisme": "Pelepasan progestin kontinu dari implan subdermal yang menekan ovulasi dan mengentalkan lendir serviks",
+      "obat": [
+        {
+          "id": "implan-etonogestrel-levonorgestrel",
+          "nama": "Implan Etonogestrel dan Levonorgestrel",
+          "indikasi": ["Kontrasepsi jangka panjang"],
+          "sediaan": ["Implan etonogestrel 68 mg (1 batang)", "Implan levonorgestrel 75 mg (2 batang)"],
+          "efek_samping": ["Perdarahan tidak teratur atau amenore", "Sakit kepala", "Jerawat", "Peningkatan berat badan", "Nyeri/infeksi lokasi insersi"],
+          "tatalaksana": ["Insersi subdermal di lengan atas oleh tenaga terlatih; etonogestrel efektif hingga 3 tahun, levonorgestrel hingga 3-5 tahun sesuai produk"],
+          "monitoring": ["Lokasi implan (palpasi)", "Pola perdarahan", "Tekanan darah"],
+          "interaksi": ["Penginduksi enzim (rifampisin, karbamazepin, fenitoin, efavirenz): efektivitas dapat menurun"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Etonogestrel 68 mg Implan", "Levonorgestrel 2 Rods 75 mg Implan"]
+        }
+      ]
+    },
+    {
+      "id": "gonadotropin-uterotonik",
+      "kelas": "Gonadotropin, Uterotonik Tambahan, dan Agen Hormonal Peptida",
+      "mekanisme": "Merangsang folikel dan ovulasi (gonadotropin), menimbulkan kontraksi uterus (ergot, karbetosin), atau meniru hormon peptida endogen (desmopresin, oktreotid)",
+      "obat": [
+        {
+          "id": "gonadotropin",
+          "nama": "Follitropin Alfa, Menotropin, dan hCG",
+          "indikasi": ["Stimulasi ovarium pada fertilisasi in vitro dan induksi ovulasi", "Pemicu ovulasi (hCG)"],
+          "sediaan": ["Follitropin alfa 75 IU dan 300 IU/0,5 mL", "Menotropin 75 IU", "hCG rekombinan 250 mcg/0,5 mL"],
+          "efek_samping": ["Sindrom hiperstimulasi ovarium", "Kehamilan multipel", "Nyeri lokasi injeksi", "Nyeri perut"],
+          "tatalaksana": ["Dosis individual sesuai protokol klinik fertilitas dan respons USG/hormon"],
+          "monitoring": ["USG folikel", "Estradiol serum", "Gejala OHSS"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": "Hanya oleh dokter spesialis fertilitas.",
+          "gambar": null,
+          "merek": ["Gonal-F", "Menopur", "Ovidrel"]
+        },
+        {
+          "id": "metilergometrin-karbetosin",
+          "nama": "Metilergometrin dan Karbetosin",
+          "indikasi": ["Pencegahan dan terapi perdarahan pasca-persalinan (atonia uteri)"],
+          "sediaan": ["Metilergometrin tablet 0,125 mg dan injeksi 0,2 mg/mL", "Karbetosin injeksi 100 mcg/mL"],
+          "efek_samping": ["Mual muntah", "Hipertensi (ergot)", "Nyeri perut", "Sakit kepala", "Flushing"],
+          "tatalaksana": ["Metilergometrin: 0,2 mg IM/IV lambat", "Karbetosin: 100 mcg IV dosis tunggal setelah kelahiran bayi (seksio sesarea)"],
+          "monitoring": ["Tonus uterus dan perdarahan", "Tekanan darah"],
+          "interaksi": ["Inhibitor CYP3A4 (makrolida, azol): risiko ergotisme (metilergometrin)", "Vasokonstriktor lain: hipertensi aditif"],
+          "catatan": "Metilergometrin kontraindikasi pada hipertensi dan preeklamsia; jangan diberikan sebelum bayi lahir.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methylergometrine/PNG?image_size=300x300",
+          "merek": ["Metergin", "Metvell", "Myotonic", "Posparagin", "Pabal"]
+        },
+        {
+          "id": "desmopresin-vasopresin",
+          "nama": "Desmopresin dan Vasopresin",
+          "indikasi": ["Diabetes insipidus sentral (desmopresin)", "Enuresis nokturnal", "Syok vasodilatasi dan perdarahan varises (vasopresin)"],
+          "sediaan": ["Desmopresin tablet 0,1 mg", "Vasopresin injeksi 20 IU/mL"],
+          "efek_samping": ["Hiponatremia dan retensi cairan (desmopresin)", "Sakit kepala", "Vasokonstriksi dan iskemia (vasopresin)", "Nyeri perut"],
+          "tatalaksana": ["Desmopresin: dosis individual sesuai indikasi", "Vasopresin: infus IV dititrasi sesuai klinis"],
+          "monitoring": ["Natrium serum", "Berat badan dan status cairan", "EKG (vasopresin)"],
+          "interaksi": ["Diuretik tiazid, SSRI, karbamazepin: risiko hiponatremia"],
+          "catatan": "Batasi asupan cairan saat memakai desmopresin.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/desmopressin/PNG?image_size=300x300",
+          "merek": ["Minirin", "Farpresin"]
+        },
+        {
+          "id": "oktreotid-somatostatin-kalsitonin",
+          "nama": "Oktreotid, Somatostatin, dan Kalsitonin",
+          "indikasi": ["Akromegali dan tumor neuroendokrin (oktreotid)", "Perdarahan varises dan fistula pankreas (somatostatin/oktreotid)", "Hiperkalsemia dan nyeri osteoporosis (kalsitonin)"],
+          "sediaan": ["Oktreotid injeksi 0,1 mg/mL", "Somatostatin 3 mg", "Kalsitonin injeksi 50 IU/mL"],
+          "efek_samping": ["Mual dan diare", "Hiperglikemia atau hipoglikemia", "Batu empedu (jangka panjang)", "Flushing (kalsitonin)", "Bradikardia"],
+          "tatalaksana": ["Oktreotid SC 50-100 mcg 2-3x/hari atau infus untuk perdarahan varises", "Kalsitonin sesuai indikasi"],
+          "monitoring": ["Glukosa darah", "EKG", "Kalsium serum"],
+          "interaksi": ["Antidiabetik: kebutuhan dosis dapat berubah", "Siklosporin: kadar menurun (oktreotid)"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/octreotide/PNG?image_size=300x300",
+          "merek": ["Sandostatin", "Octreotide", "Somatostatin Lyomark", "Miacalcic"]
+        },
+        {
+          "id": "bromokriptin",
+          "nama": "Bromokriptin",
+          "indikasi": ["Hiperprolaktinemia", "Penyakit Parkinson (adjuvan)", "Akromegali"],
+          "sediaan": ["Tablet 2,5 mg"],
+          "efek_samping": ["Mual", "Hipotensi ortostatik", "Pusing", "Sakit kepala", "Halusinasi (dosis tinggi)"],
+          "tatalaksana": ["Mulai 1,25 mg malam hari bersama makanan, titrasi bertahap"],
+          "monitoring": ["Prolaktin", "Tekanan darah ortostatik"],
+          "interaksi": ["Antipsikotik: efek berlawanan", "Inhibitor CYP3A4: kadar meningkat"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bromocriptine/PNG?image_size=300x300",
+          "merek": ["Cripsa"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "kelas_obat": [
+    {
+      "id": "doac-lain-fondaparinux",
+      "kelas": "Antikoagulan Oral Langsung (DOAC) Lain dan Fondaparinuks",
+      "mekanisme": "Menghambat faktor Xa (apiksaban, edoksaban, fondaparinuks) atau trombin (dabigatran) tanpa memerlukan pemantauan INR",
+      "obat": [
+        {
+          "id": "apiksaban",
+          "nama": "Apiksaban",
+          "indikasi": ["Fibrilasi atrium non-valvular (pencegahan stroke)", "Trombosis vena dalam dan emboli paru", "Profilaksis tromboemboli pasca-bedah ortopedi"],
+          "sediaan": ["Tablet 2,5 mg dan 5 mg"],
+          "efek_samping": ["Perdarahan", "Anemia", "Mual", "Memar"],
+          "tatalaksana": ["Fibrilasi atrium: 5 mg 2x/hari (2,5 mg 2x/hari bila memenuhi >= 2 kriteria: usia >= 80, BB <= 60 kg, kreatinin >= 1,5 mg/dL)", "DVT/PE akut: 10 mg 2x/hari selama 7 hari lalu 5 mg 2x/hari"],
+          "monitoring": ["Fungsi ginjal", "Hemoglobin", "Tanda perdarahan"],
+          "interaksi": ["Inhibitor dan penginduksi kuat CYP3A4 dan P-gp (ketokonazol, ritonavir, rifampisin, karbamazepin): hindari", "Antiplatelet dan NSAID: risiko perdarahan aditif"],
+          "catatan": "Tidak dianjurkan pada katup jantung mekanik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/apixaban/PNG?image_size=300x300",
+          "merek": ["Brixa 2,5 mg", "Brixa 5 mg"]
+        },
+        {
+          "id": "dabigatran",
+          "nama": "Dabigatran Eteksilat",
+          "indikasi": ["Fibrilasi atrium non-valvular", "DVT dan emboli paru", "Profilaksis tromboemboli pasca-bedah ortopedi"],
+          "sediaan": ["Kapsul 75 mg dan 110 mg (juga 150 mg di beberapa pasar)"],
+          "efek_samping": ["Perdarahan", "Dispepsia dan nyeri epigastrium", "Anemia"],
+          "tatalaksana": ["Fibrilasi atrium: 110-150 mg 2x/hari sesuai usia, fungsi ginjal, dan risiko perdarahan", "Telan utuh; jangan membuka kapsul"],
+          "monitoring": ["Fungsi ginjal (eliminasi renal 80%)", "Hemoglobin", "Tanda perdarahan"],
+          "interaksi": ["Inhibitor P-gp (ketokonazol, dronedaron) dan penginduksi P-gp (rifampisin): hindari", "Antiplatelet: risiko perdarahan"],
+          "catatan": "Antidotum: idarucizumab. Kontraindikasi CrCl < 30 mL/menit.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dabigatran%20etexilate/PNG?image_size=300x300",
+          "merek": ["Pradaxa 75 mg", "Pradaxa 110 mg"]
+        },
+        {
+          "id": "edoksaban",
+          "nama": "Edoksaban",
+          "indikasi": ["Fibrilasi atrium non-valvular", "DVT dan emboli paru"],
+          "sediaan": ["Tablet 15 mg, 30 mg, 60 mg"],
+          "efek_samping": ["Perdarahan", "Anemia", "Ruam", "Peningkatan enzim hati"],
+          "tatalaksana": ["60 mg 1x/hari; 30 mg 1x/hari bila CrCl 15-50 mL/menit, BB <= 60 kg, atau pemakaian inhibitor P-gp tertentu"],
+          "monitoring": ["Fungsi ginjal", "Hemoglobin", "Tanda perdarahan"],
+          "interaksi": ["Penginduksi P-gp (rifampisin): hindari", "Antiplatelet dan NSAID: risiko perdarahan"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/edoxaban/PNG?image_size=300x300",
+          "merek": ["Lixiana 30 mg"]
+        },
+        {
+          "id": "fondaparinuks",
+          "nama": "Fondaparinuks",
+          "mekanisme": "Pentasakarida sintetik yang menghambat faktor Xa secara tidak langsung melalui antitrombin",
+          "indikasi": ["Profilaksis dan terapi DVT/PE", "Sindrom koroner akut", "Trombositopenia akibat heparin (HIT) sebagai alternatif"],
+          "sediaan": ["Prefilled syringe SC 2,5 mg/0,5 mL"],
+          "efek_samping": ["Perdarahan", "Anemia", "Memar di lokasi injeksi", "Trombositopenia (jarang)"],
+          "tatalaksana": ["Profilaksis: 2,5 mg SC 1x/hari", "Terapi: 5-10 mg SC 1x/hari sesuai berat badan"],
+          "monitoring": ["Fungsi ginjal", "Hemoglobin dan trombosit", "Tanda perdarahan"],
+          "interaksi": ["Antiplatelet, NSAID, antikoagulan lain: risiko perdarahan aditif"],
+          "catatan": "Kontraindikasi pada CrCl < 30 mL/menit; tidak ada antidotum spesifik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fondaparinux/PNG?image_size=300x300",
+          "merek": ["Arixtra", "Diviti", "Fondaparinux Sodium", "Vasola"]
+        }
+      ]
+    },
+    {
+      "id": "antiplatelet-vasodilator-lain",
+      "kelas": "Antiplatelet Lain, Antitrombotik Akut, dan Vasodilator Perifer",
+      "mekanisme": "Menghambat PDE3 atau agregasi trombosit (silostazol, beraprost, anagrelid, eptifibatid), melarutkan bekuan (streptokinase), atau memperbaiki aliran darah perifer (pentoksifilin, isoksuprin)",
+      "obat": [
+        {
+          "id": "silostazol",
+          "nama": "Silostazol",
+          "indikasi": ["Klaudikasio intermiten pada penyakit arteri perifer"],
+          "sediaan": ["Tablet 100 mg", "Kapsul lepas lambat 100 mg"],
+          "efek_samping": ["Sakit kepala", "Diare", "Palpitasi dan takikardia", "Pusing", "Perdarahan"],
+          "tatalaksana": ["100 mg 2x/hari, 30 menit sebelum atau 2 jam sesudah makan"],
+          "monitoring": ["Respons jarak jalan", "Gejala gagal jantung"],
+          "interaksi": ["Inhibitor CYP3A4 dan CYP2C19 (diltiazem, omeprazol, ketokonazol): kurangi dosis 50 mg 2x/hari", "Antiplatelet dan antikoagulan: risiko perdarahan"],
+          "catatan": "Kontraindikasi pada gagal jantung dari semua derajat.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cilostazol/PNG?image_size=300x300",
+          "merek": ["Pletaal SR", "Cilostazol (generik)"]
+        },
+        {
+          "id": "beraprost",
+          "nama": "Beraprost",
+          "indikasi": ["Penyakit arteri perifer", "Hipertensi pulmonal (di beberapa negara)"],
+          "sediaan": ["Tablet 20 mcg"],
+          "efek_samping": ["Sakit kepala", "Flushing", "Diare", "Hipotensi", "Perdarahan"],
+          "tatalaksana": ["20 mcg 3x/hari sesudah makan"],
+          "monitoring": ["Tekanan darah", "Tanda perdarahan"],
+          "interaksi": ["Antiplatelet dan antikoagulan: risiko perdarahan aditif", "Antihipertensi: hipotensi aditif"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/beraprost/PNG?image_size=300x300",
+          "merek": ["Dorner", "Beraprost (generik)"]
+        },
+        {
+          "id": "anagrelid",
+          "nama": "Anagrelid",
+          "indikasi": ["Trombositemia esensial"],
+          "sediaan": ["Kapsul 0,5 mg"],
+          "efek_samping": ["Sakit kepala", "Palpitasi dan takikardia", "Edema", "Retensi cairan", "Anemia"],
+          "tatalaksana": ["Mulai 0,5 mg 2x/hari, titrasi sampai hitung trombosit target"],
+          "monitoring": ["Hitung trombosit", "EKG dan fungsi jantung", "Hemoglobin"],
+          "interaksi": ["Inhibitor CYP1A2 (fluvoksamin, siprofloksasin): kadar meningkat", "Obat pemanjang QT"],
+          "catatan": "Hati-hati pada penyakit jantung.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/anagrelide/PNG?image_size=300x300",
+          "merek": ["Agrylin", "Thromboreductin"]
+        },
+        {
+          "id": "eptifibatid",
+          "nama": "Eptifibatid",
+          "mekanisme": "Inhibitor reseptor glikoprotein IIb/IIIa trombosit",
+          "indikasi": ["Sindrom koroner akut", "Intervensi koroner perkutan"],
+          "sediaan": ["Infus/injeksi 75 mg/100 mL (vial)"],
+          "efek_samping": ["Perdarahan", "Trombositopenia", "Hipotensi"],
+          "tatalaksana": ["Bolus 180 mcg/kgBB IV lalu infus 2 mcg/kgBB/menit; kurangi pada CrCl < 50 mL/menit"],
+          "monitoring": ["Hitung trombosit", "Hemoglobin dan tanda perdarahan", "Fungsi ginjal"],
+          "interaksi": ["Heparin, aspirin, klopidogrel: risiko perdarahan aditif"],
+          "catatan": "Digunakan di fasilitas dengan kateterisasi jantung.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/eptifibatide/PNG?image_size=300x300",
+          "merek": ["Ebatid", "Eptifibatid Injeksi"]
+        },
+        {
+          "id": "streptokinase",
+          "nama": "Streptokinase",
+          "indikasi": ["Infark miokard akut dengan elevasi ST", "Emboli paru masif", "Trombosis vena dalam"],
+          "sediaan": ["Serbuk injeksi 1.500.000 IU"],
+          "efek_samping": ["Perdarahan", "Hipotensi", "Demam dan menggigil", "Reaksi alergi/anafilaksis", "Aritmia reperfusi"],
+          "tatalaksana": ["STEMI: 1.500.000 IU IV selama 60 menit"],
+          "monitoring": ["Tekanan darah dan EKG", "Tanda perdarahan", "Reaksi alergi"],
+          "interaksi": ["Antikoagulan dan antiplatelet: risiko perdarahan aditif"],
+          "catatan": "Tidak boleh diulang dalam 5 hari-12 bulan karena antibodi dan alergi (pertimbangkan alteplase).",
+          "gambar": null,
+          "merek": ["Fibrion"]
+        },
+        {
+          "id": "pentoksifilin",
+          "nama": "Pentoksifilin",
+          "indikasi": ["Klaudikasio intermiten", "Gangguan sirkulasi perifer dan serebral"],
+          "sediaan": ["Tablet 400 mg", "Injeksi 20 mg/mL (15 mL)"],
+          "efek_samping": ["Mual dan dispepsia", "Pusing", "Flushing", "Aritmia", "Perdarahan"],
+          "tatalaksana": ["400 mg 2-3x/hari bersama makanan"],
+          "monitoring": ["Respons klinis", "Tanda perdarahan"],
+          "interaksi": ["Warfarin dan antiplatelet: risiko perdarahan", "Teofilin: kadar meningkat", "Simetidin: kadar pentoksifilin meningkat"],
+          "catatan": "Database mencatat Trental 400 mg dengan indikasi alergi; mohon verifikasi (indikasi sebenarnya vaskular).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pentoxifylline/PNG?image_size=300x300",
+          "merek": ["Trental 400", "Trental Injeksi", "Pentoxifylline 400 mg"]
+        },
+        {
+          "id": "isoksuprin",
+          "nama": "Isoksuprin",
+          "indikasi": ["Gangguan sirkulasi perifer dan serebral", "Tokolitik (ancaman partus prematur, penggunaan terbatas)"],
+          "sediaan": ["Tablet 20 mg", "Injeksi 10 mg/2 mL"],
+          "efek_samping": ["Hipotensi", "Takikardia", "Mual", "Pusing"],
+          "tatalaksana": ["10-20 mg 3-4x/hari"],
+          "monitoring": ["Tekanan darah dan nadi"],
+          "interaksi": ["Antihipertensi: hipotensi aditif"],
+          "catatan": "Bukti efektivitas terbatas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/isoxsuprine/PNG?image_size=300x300",
+          "merek": ["Duvadilan", "Hystolan", "Proterine"]
+        }
+      ]
+    },
+    {
+      "id": "hemostatik-faktor-koagulasi",
+      "kelas": "Hemostatik Lokal, Faktor Koagulasi, dan Agonis Trombopoietin",
+      "mekanisme": "Menggantikan faktor koagulasi, merangsang trombopoiesis, atau memperkuat pembekuan secara lokal",
+      "obat": [
+        {
+          "id": "karbazokrom",
+          "nama": "Karbazokrom",
+          "indikasi": ["Perdarahan kapiler (hemostatik tambahan)"],
+          "sediaan": ["Tablet 10 mg", "Injeksi 25 mg/5 mL dan 50 mg/10 mL"],
+          "efek_samping": ["Reaksi alergi", "Mual", "Nyeri lokal"],
+          "tatalaksana": ["Sesuai label dan indikasi"],
+          "monitoring": ["Respons perdarahan"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": "Bukti efektivitas terbatas.",
+          "gambar": null,
+          "merek": ["Adona AC-17", "Crome"]
+        },
+        {
+          "id": "faktor-koagulasi",
+          "nama": "Faktor VIII, Kompleks Protrombin, dan Perekat Fibrin",
+          "indikasi": ["Hemofilia A (faktor VIII)", "Reversal warfarin dan defisiensi faktor II/VII/IX/X (kompleks protrombin)", "Hemostasis lokal bedah (Beriplast)"],
+          "sediaan": ["Faktor VIII 500 IU/5 mL", "Kompleks protrombin 500 IU", "Perekat fibrin kit 1 mL"],
+          "efek_samping": ["Reaksi alergi", "Inhibitor faktor VIII", "Tromboemboli (kompleks protrombin)", "Demam"],
+          "tatalaksana": ["Dosis individual berdasarkan target kadar faktor atau INR dan berat badan, atas arahan hematolog"],
+          "monitoring": ["Kadar faktor atau INR", "Tanda tromboemboli", "Reaksi alergi"],
+          "interaksi": ["Antifibrinolitik: risiko trombosis aditif (kompleks protrombin)"],
+          "catatan": "Hanya atas arahan dokter hematologi atau bank darah.",
+          "gambar": null,
+          "merek": ["Koate DVI", "Octaplex", "Beriplast P", "Vitamin K1 (lihat file darah)"]
+        },
+        {
+          "id": "eltrombopag",
+          "nama": "Eltrombopag",
+          "mekanisme": "Agonis reseptor trombopoietin yang meningkatkan produksi trombosit",
+          "indikasi": ["Trombositopenia imun kronik (ITP)", "Anemia aplastik berat refrakter", "Trombositopenia pada hepatitis C"],
+          "sediaan": ["Tablet 25 mg, 50 mg"],
+          "efek_samping": ["Hepatotoksik", "Sakit kepala", "Mual", "Tromboemboli", "Katarak (jangka panjang)"],
+          "tatalaksana": ["Mulai 25-50 mg 1x/hari saat perut kosong, titrasi sesuai hitung trombosit"],
+          "monitoring": ["Hitung trombosit", "ALT/AST dan bilirubin", "Pemeriksaan mata"],
+          "interaksi": ["Kation polivalen (kalsium, antasida, besi): beri jeda >= 4 jam", "Statin: kadar rosuvastatin meningkat"],
+          "catatan": "Database mencatat Rebozet; mohon verifikasi nama generik produk.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/eltrombopag/PNG?image_size=300x300",
+          "merek": ["Rebozet"]
+        }
+      ]
+    },
+    {
+      "id": "besi-parenteral",
+      "kelas": "Zat Besi Parenteral",
+      "mekanisme": "Menyediakan besi intravena untuk eritropoiesis bila oral tidak toleran, tidak efektif, atau pada penyakit ginjal kronik",
+      "obat": [
+        {
+          "id": "besi-sukrosa-karboksimaltosa",
+          "nama": "Besi Sukrosa dan Ferric Carboxymaltose",
+          "indikasi": ["Anemia defisiensi besi yang tidak merespons atau tidak toleran besi oral", "Anemia pada penyakit ginjal kronik dan dialisis"],
+          "sediaan": ["Besi sukrosa injeksi/infus 100 mg/5 mL", "Ferric carboxymaltose injeksi 500 mg/10 mL"],
+          "efek_samping": ["Hipotensi", "Reaksi hipersensitivitas", "Flushing", "Nyeri otot", "Hipofosfatemia (ferric carboxymaltose)"],
+          "tatalaksana": ["Besi sukrosa: 100-200 mg per dosis, total sesuai defisit besi", "Ferric carboxymaltose: hingga 1000 mg per dosis, sesuai defisit"],
+          "monitoring": ["Hemoglobin dan feritin/saturasi transferin", "Fosfat serum", "Observasi 30 menit setelah infus"],
+          "interaksi": ["Besi oral: jangan diberikan bersamaan"],
+          "catatan": "Kontraindikasi pada kelebihan besi dan infeksi aktif; siapkan resusitasi untuk anafilaksis.",
+          "gambar": null,
+          "merek": ["Venofer", "Dialifer", "Nefrofer", "Iron Sucrose 100 mg", "Ferinject"]
+        }
+      ]
+    }
+  ]
+}
