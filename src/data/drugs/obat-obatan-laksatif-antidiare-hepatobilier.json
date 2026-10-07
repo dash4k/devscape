@@ -1,0 +1,284 @@
+{
+  "kelas_obat": [
+    {
+      "id": "laksatif",
+      "kelas": "Laksatif (Pencahar)",
+      "mekanisme": "Merangsang motilitas usus (stimulan), menarik air ke lumen (osmotik), atau melunakkan dan melumasi feses",
+      "obat": [
+        {
+          "id": "bisakodil",
+          "nama": "Bisakodil",
+          "mekanisme": "Laksatif stimulan yang merangsang pleksus mukosa kolon sehingga peristaltik dan sekresi cairan meningkat",
+          "indikasi": ["Konstipasi", "Persiapan usus sebelum prosedur"],
+          "sediaan": ["Tablet salut enterik 5 mg", "Supositoria 5 mg dan 10 mg"],
+          "efek_samping": ["Kram perut", "Diare", "Gangguan elektrolit (penggunaan lama)", "Iritasi rektal (supositoria)"],
+          "tatalaksana": ["Oral dewasa: 5-10 mg malam hari, efek dalam 6-12 jam", "Supositoria: 10 mg, efek dalam 15-60 menit", "Jangan diminum bersama susu atau antasida; tablet jangan dikunyah"],
+          "monitoring": ["Pola BAB", "Elektrolit pada penggunaan lama"],
+          "interaksi": ["Antasida dan penghambat pompa proton: dapat melarutkan salut enterik lebih awal", "Diuretik: risiko hipokalemia aditif"],
+          "catatan": "Gunakan jangka pendek; kontraindikasi pada obstruksi usus dan abdomen akut.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bisacodyl/PNG?image_size=300x300",
+          "merek": ["Dulcolax", "Stolax", "Bisakodil (generik)"]
+        },
+        {
+          "id": "laktulosa",
+          "nama": "Laktulosa",
+          "mekanisme": "Disakarida osmotik yang tidak diabsorpsi; difermentasi bakteri kolon menjadi asam organik sehingga menarik air dan menurunkan pH kolon (menurunkan penyerapan amonia)",
+          "indikasi": ["Konstipasi", "Ensefalopati hepatik"],
+          "sediaan": ["Sirup 3,335 g/5 mL (60 mL, 120 mL)"],
+          "efek_samping": ["Kembung dan flatulensi", "Kram perut", "Diare", "Gangguan elektrolit (dosis tinggi)"],
+          "tatalaksana": ["Konstipasi dewasa: 15-30 mL 1-2x/hari", "Ensefalopati hepatik: dititrasi sampai 2-3 BAB lunak per hari"],
+          "monitoring": ["Frekuensi BAB", "Elektrolit dan hidrasi pada dosis tinggi"],
+          "interaksi": ["Antasida non-absorbable: dapat menurunkan efek pengasaman kolon", "Neomisin: dapat mengubah fermentasi"],
+          "catatan": "Efek muncul setelah 24-48 jam.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lactulose/PNG?image_size=300x300",
+          "merek": ["Lactulax", "Constipen", "Laktulosa (generik)", "Pedilax (makrogol)"]
+        },
+        {
+          "id": "makrogol",
+          "nama": "Makrogol (Polietilen Glikol)",
+          "indikasi": ["Konstipasi kronik", "Persiapan usus sebelum kolonoskopi (dosis tinggi, kombinasi elektrolit)"],
+          "sediaan": ["Sachet 17 g (Macrogol 3350)", "Sachet kombinasi elektrolit (Niflec)"],
+          "efek_samping": ["Kembung", "Mual", "Nyeri perut", "Diare"],
+          "tatalaksana": ["Konstipasi: 17 g dilarutkan dalam air 1x/hari", "Persiapan kolonoskopi: sesuai petunjuk produk (volume cairan besar)"],
+          "monitoring": ["Hidrasi", "Pola BAB"],
+          "interaksi": ["Obat oral lain: beri jeda 1-2 jam karena transit cepat"],
+          "catatan": "Kontraindikasi pada obstruksi atau perforasi usus.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/polyethylene%20glycol/PNG?image_size=300x300",
+          "merek": ["Pedilax", "Niflec"]
+        },
+        {
+          "id": "laksatif-pelumas-kombinasi",
+          "nama": "Gliserol, Parafin, Fenolftalein (Kombinasi) dan Enema Rektal",
+          "indikasi": ["Konstipasi", "Persiapan prosedur dan pengosongan rektum"],
+          "sediaan": ["Emulsi/sirup parafin-fenolftalein 60-110 mL", "Enema natrium fosfat 133 mL", "Mikroenema natrium laurilsulfoasetat 5 mL"],
+          "efek_samping": ["Iritasi anus", "Kram", "Hiperfosfatemia dan nefropati fosfat (enema fosfat berulang)", "Dehidrasi"],
+          "tatalaksana": ["Enema: 1 dosis rektal bila perlu, jangan berulang dalam 24 jam", "Emulsi: sebelum tidur"],
+          "monitoring": ["Elektrolit (fosfat, kalsium) pada gangguan ginjal", "Hidrasi"],
+          "interaksi": ["Parafin cair: menurunkan absorpsi vitamin larut lemak"],
+          "catatan": "Hindari enema fosfat pada gagal ginjal, usia sangat muda atau lanjut, dan megakolon.",
+          "gambar": null,
+          "merek": ["Kompolax", "Laxadine", "Fleet Enema", "Nesfol Enema", "Microlax Enema", "Dulcolax Suppositoria"]
+        }
+      ]
+    },
+    {
+      "id": "antidiare",
+      "kelas": "Antidiare dan Adsorben",
+      "mekanisme": "Menurunkan motilitas usus (loperamid) atau mengadsorpsi toksin, air, dan bakteri di saluran cerna (attapulgit, smektit, karbon aktif)",
+      "obat": [
+        {
+          "id": "loperamid",
+          "nama": "Loperamid",
+          "mekanisme": "Agonis reseptor opioid mu di usus yang memperlambat transit tanpa efek SSP pada dosis terapi",
+          "indikasi": ["Diare akut non-infeksi dan tanpa demam atau tinja berdarah", "Diare kronik"],
+          "sediaan": ["Tablet 2 mg"],
+          "efek_samping": ["Konstipasi", "Kembung", "Pusing", "Ileus paralitik dan megakolon toksik", "Pemanjangan QT (overdosis)"],
+          "tatalaksana": ["Dewasa: 4 mg awal, lalu 2 mg setiap BAB cair, maks 16 mg/hari", "Tidak untuk anak < 2 tahun"],
+          "monitoring": ["Frekuensi BAB", "Distensi abdomen"],
+          "interaksi": ["Inhibitor CYP3A4 dan P-gp (ritonavir, kuinidin, itrakonazol): kadar meningkat", "Obat pemanjang QT"],
+          "catatan": "Hindari pada disentri, kolitis berat, dan demam tinggi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/loperamide/PNG?image_size=300x300",
+          "merek": ["Imodium", "Diastrix", "Gradilex", "Lodia", "Loperamid (generik)"]
+        },
+        {
+          "id": "attapulgit-pektin",
+          "nama": "Attapulgit, Pektin, dan Dioktahedral Smektit",
+          "indikasi": ["Terapi simtomatik diare akut"],
+          "sediaan": ["Tablet attapulgit/pektin", "Sachet smektit 3 g"],
+          "efek_samping": ["Konstipasi", "Kembung", "Menurunkan absorpsi obat lain"],
+          "tatalaksana": ["Smektit: 3 g (1 sachet) dilarutkan dalam air, 3x/hari", "Attapulgit: sesuai kemasan setiap BAB cair"],
+          "monitoring": ["Hidrasi", "Respons klinis"],
+          "interaksi": ["Obat oral lain: beri jeda 2 jam karena adsorpsi"],
+          "catatan": "Tidak menggantikan rehidrasi.",
+          "gambar": null,
+          "merek": ["Diagit", "Enterostop", "New Diatabs", "Molagit", "Smecta", "Diapet", "Entrostop Anak"]
+        },
+        {
+          "id": "karbon-aktif",
+          "nama": "Karbon Aktif",
+          "indikasi": ["Adsorben pada diare dan keracunan oral tertentu"],
+          "sediaan": ["Tablet 125 mg"],
+          "efek_samping": ["Konstipasi", "Feses hitam"],
+          "tatalaksana": ["Sesuai kemasan"],
+          "monitoring": ["Respons klinis"],
+          "interaksi": ["Mengikat banyak obat oral: beri jeda >= 2 jam"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Norit"]
+        }
+      ]
+    },
+    {
+      "id": "antispasmodik-gi",
+      "kelas": "Antispasmodik Saluran Cerna",
+      "mekanisme": "Antikolinergik yang merelaksasi otot polos saluran cerna dan saluran kemih sehingga meredakan kram",
+      "obat": [
+        {
+          "id": "hioscin",
+          "nama": "Hioscin Butilbromida",
+          "indikasi": ["Kram dan nyeri perut kolik (saluran cerna, empedu, ureter)"],
+          "sediaan": ["Tablet 10 mg", "Injeksi 20 mg/mL", "Kombinasi dengan parasetamol"],
+          "efek_samping": ["Mulut kering", "Takikardia", "Retensi urin", "Pandangan kabur"],
+          "tatalaksana": ["Oral: 10-20 mg 3-4x/hari", "Injeksi IM/IV lambat: 20 mg, dapat diulang"],
+          "monitoring": ["Nadi", "Gejala antikolinergik"],
+          "interaksi": ["Antikolinergik lain: efek aditif", "Metoklopramid: efek antagonis"],
+          "catatan": "Kontraindikasi pada glaukoma sudut sempit, miastenia gravis, dan megakolon.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/scopolamine%20butylbromide/PNG?image_size=300x300",
+          "merek": ["Buscopan", "Buscopan Plus", "Spasminal"]
+        },
+        {
+          "id": "klordiazepoksid-klidinium",
+          "nama": "Klordiazepoksid-Klidinium",
+          "indikasi": ["Gangguan fungsional saluran cerna dengan kecemasan"],
+          "sediaan": ["Tablet kombinasi"],
+          "efek_samping": ["Mengantuk", "Mulut kering", "Konstipasi", "Ketergantungan (benzodiazepin)"],
+          "tatalaksana": ["Sesuai label, durasi singkat"],
+          "monitoring": ["Sedasi", "Tanda ketergantungan"],
+          "interaksi": ["Depresan SSP dan opioid: depresi napas aditif"],
+          "catatan": "Penggunaan jangka panjang tidak dianjurkan.",
+          "gambar": null,
+          "merek": ["Braxidin"]
+        }
+      ]
+    },
+    {
+      "id": "hepatobilier",
+      "kelas": "Hepatobilier (Asam Empedu dan Terapi Hati)",
+      "mekanisme": "Mengubah komposisi empedu atau menurunkan amonia untuk mendukung fungsi hati dan melarutkan batu kolesterol",
+      "obat": [
+        {
+          "id": "asam-ursodeoksikolat",
+          "nama": "Asam Ursodeoksikolat",
+          "indikasi": ["Batu empedu kolesterol kecil", "Sirosis bilier primer", "Kolestasis"],
+          "sediaan": ["Kapsul 250 mg"],
+          "efek_samping": ["Diare", "Nyeri perut", "Ruam", "Peningkatan enzim hati (jarang)"],
+          "tatalaksana": ["10-15 mg/kgBB/hari terbagi, bersama makanan; durasi pelarutan batu 6-24 bulan"],
+          "monitoring": ["Fungsi hati", "USG empedu berkala"],
+          "interaksi": ["Antasida aluminium dan kolestiramin: menurunkan absorpsi", "Siklosporin: absorpsi dapat meningkat"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ursodiol/PNG?image_size=300x300",
+          "merek": ["Urdafalk", "Estazor", "Asam Ursodeoksikolat (generik)"]
+        },
+        {
+          "id": "l-ornitin-l-aspartat",
+          "nama": "L-Ornitin L-Aspartat",
+          "mekanisme": "Substrat siklus urea dan sintesis glutamin sehingga menurunkan kadar amonia darah",
+          "indikasi": ["Ensefalopati hepatik", "Terapi pendukung penyakit hati kronik"],
+          "sediaan": ["Granul sachet 5 g", "Injeksi 5 g/10 mL"],
+          "efek_samping": ["Mual", "Muntah", "Nyeri perut (infus cepat)"],
+          "tatalaksana": ["Oral: 1 sachet 1-3x/hari", "IV: sesuai derajat ensefalopati, infus lambat"],
+          "monitoring": ["Amonia", "Status mental", "Fungsi ginjal"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": "Hindari pada gangguan ginjal berat (kreatinin tinggi).",
+          "gambar": null,
+          "merek": ["Hepa-Merz", "Hepa-Merz Granule"]
+        }
+      ]
+    },
+    {
+      "id": "pelindung-mukosa-prokinetik-radang-usus",
+      "kelas": "Pelindung Mukosa Lambung, Prokinetik, dan Antiradang Usus",
+      "mekanisme": "Membentuk lapisan pelindung ulkus atau meningkatkan prostaglandin mukosa (sukralfat, rebamipid), memperkuat motilitas (sisaprid), atau menekan inflamasi kolon (mesalazin)",
+      "obat": [
+        {
+          "id": "sukralfat",
+          "nama": "Sukralfat",
+          "indikasi": ["Ulkus peptikum", "Gastritis dan dispepsia"],
+          "sediaan": ["Suspensi 500 mg/5 mL (100 mL, 200 mL)"],
+          "efek_samping": ["Konstipasi", "Mulut kering", "Akumulasi aluminium pada gagal ginjal"],
+          "tatalaksana": ["1 g 4x/hari, 1 jam sebelum makan dan sebelum tidur"],
+          "monitoring": ["Fungsi ginjal pada penggunaan lama"],
+          "interaksi": ["Menurunkan absorpsi fluorokuinolon, tetrasiklin, levotiroksin, warfarin, fenitoin: beri jeda 2 jam", "Antasida: beri jeda 30 menit"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sucralfate/PNG?image_size=300x300",
+          "merek": ["Inpepsa", "Sukralfat (generik)", "Strocain P"]
+        },
+        {
+          "id": "rebamipid",
+          "nama": "Rebamipid",
+          "indikasi": ["Gastritis dan ulkus lambung", "Proteksi mukosa lambung"],
+          "sediaan": ["Tablet 100 mg"],
+          "efek_samping": ["Konstipasi", "Mual", "Ruam", "Peningkatan enzim hati (jarang)"],
+          "tatalaksana": ["100 mg 3x/hari"],
+          "monitoring": ["Respons klinis", "Fungsi hati bila gejala"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rebamipide/PNG?image_size=300x300",
+          "merek": ["Mucosta", "Rebamipide (generik)"]
+        },
+        {
+          "id": "sisaprid",
+          "nama": "Sisaprid",
+          "indikasi": ["Gangguan motilitas lambung (di beberapa wilayah, penggunaan sangat terbatas)"],
+          "sediaan": ["Tablet 5 mg"],
+          "efek_samping": ["Diare", "Kram perut", "Pemanjangan QT dan aritmia ventrikel"],
+          "tatalaksana": ["Sesuai peresepan, 15 menit sebelum makan"],
+          "monitoring": ["EKG (QTc)", "Elektrolit"],
+          "interaksi": ["Inhibitor CYP3A4 (azol, makrolida): kontraindikasi", "Obat pemanjang QT: kontraindikasi"],
+          "catatan": "Ditarik atau dibatasi di banyak negara karena risiko aritmia; mohon verifikasi status penggunaan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cisapride/PNG?image_size=300x300",
+          "merek": ["Acpulsif"]
+        },
+        {
+          "id": "mesalazin",
+          "nama": "Mesalazin (5-ASA)",
+          "indikasi": ["Kolitis ulseratif ringan-sedang", "Penyakit Crohn kolon (adjuvan)"],
+          "sediaan": ["Tablet 250 mg, 500 mg", "Granul enterik 1,5 g"],
+          "efek_samping": ["Sakit kepala", "Mual", "Diare", "Nefritis interstisial (jarang)", "Pankreatitis (jarang)"],
+          "tatalaksana": ["Induksi remisi: 2-4 g/hari terbagi; pemeliharaan 1,5-3 g/hari"],
+          "monitoring": ["Fungsi ginjal (awal dan berkala)", "Hitung darah"],
+          "interaksi": ["Azatioprin dan merkaptopurin: risiko mielosupresi meningkat", "Obat nefrotoksik: risiko aditif"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/mesalamine/PNG?image_size=300x300",
+          "merek": ["Pentasa", "Salofalk"]
+        }
+      ]
+    },
+    {
+      "id": "anorektal-venotonik-enzim",
+      "kelas": "Antihemoroid, Venotonik, Karminatif, dan Enzim Pencernaan",
+      "mekanisme": "Memperkuat tonus vena dan menurunkan permeabilitas kapiler (flavonoid), menyklerosis pembuluh (polidokanol/lauromakrogol), atau memecah gas dan makronutrien",
+      "obat": [
+        {
+          "id": "flavonoid-diosmin",
+          "nama": "Flavonoid (Diosmin-Hesperidin)",
+          "indikasi": ["Hemoroid akut dan kronik", "Insufisiensi vena kronik"],
+          "sediaan": ["Tablet 500 mg dan 1000 mg"],
+          "efek_samping": ["Gangguan GI ringan", "Sakit kepala", "Pusing"],
+          "tatalaksana": ["Hemoroid akut: dosis awal tinggi beberapa hari lalu dosis pemeliharaan, sesuai label produk"],
+          "monitoring": ["Respons klinis", "Perdarahan rektal yang tidak jelas"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Ardium 500", "Ardium 1000"]
+        },
+        {
+          "id": "lauromakrogol",
+          "nama": "Lauromakrogol 400 (Polidokanol)",
+          "indikasi": ["Skleroterapi varises dan hemoroid"],
+          "sediaan": ["Injeksi 3% 60 mg/2 mL"],
+          "efek_samping": ["Nyeri lokal", "Hiperpigmentasi", "Trombosis vena superfisial", "Reaksi alergi (jarang)"],
+          "tatalaksana": ["Injeksi perivena atau intrahemoroid oleh tenaga terlatih sesuai teknik"],
+          "monitoring": ["Reaksi lokal", "Tanda tromboemboli"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Venodenol"]
+        },
+        {
+          "id": "simetikon-pankreatin",
+          "nama": "Simetikon, Dimetilpolisiloksan, dan Pankreatin",
+          "indikasi": ["Perut kembung", "Dispepsia dengan insufisiensi enzim"],
+          "sediaan": ["Tablet kunyah 40 mg", "Tablet pankreatin-simetikon"],
+          "efek_samping": ["Diare ringan", "Reaksi alergi (jarang)"],
+          "tatalaksana": ["Sesuai label produk, setelah makan"],
+          "monitoring": ["Respons klinis"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": null,
+          "gambar": null,
+          "merek": ["Disflatyl", "Xepazym", "Promag"]
+        }
+      ]
+    }
+  ]
+}

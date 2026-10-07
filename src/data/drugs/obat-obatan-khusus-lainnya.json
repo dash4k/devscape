@@ -1,0 +1,198 @@
+{
+  "kelas_obat": [
+    {
+      "id": "pengkelat-besi",
+      "kelas": "Pengkelat Besi",
+      "mekanisme": "Mengikat besi bebas dan memfasilitasi ekskresinya melalui urin atau feses pada kelebihan besi (talasemia, transfusi berulang)",
+      "obat": [
+        {
+          "id": "deferasiroks",
+          "nama": "Deferasiroks",
+          "indikasi": ["Kelebihan besi kronik akibat transfusi darah berulang (talasemia, anemia lain)"],
+          "sediaan": ["Tablet dispersibel/salut 125, 250, 500 mg"],
+          "efek_samping": ["Gangguan fungsi ginjal", "Hepatotoksik", "Diare dan mual", "Ruam", "Perdarahan GI"],
+          "tatalaksana": ["14-28 mg/kgBB/hari 1x/hari (formulasi tablet dispersibel), saat perut kosong atau dengan makanan ringan"],
+          "monitoring": ["Kreatinin dan eGFR (bulanan)", "ALT/AST", "Feritin serum", "Pendengaran dan mata berkala"],
+          "interaksi": ["Antasida aluminium: hindari bersamaan", "Obat nefrotoksik dan NSAID: risiko aditif", "Penginduksi UGT (rifampisin): kadar menurun"],
+          "catatan": "Boxed warning: gagal ginjal, gagal hati, dan perdarahan GI.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/deferasirox/PNG?image_size=300x300",
+          "merek": ["Deferasirox (DFX)"]
+        },
+        {
+          "id": "deferipron",
+          "nama": "Deferipron",
+          "indikasi": ["Kelebihan besi pada talasemia mayor bila kelasi lain tidak memadai"],
+          "sediaan": ["Tablet 500 mg", "Sirup 100 mg/mL"],
+          "efek_samping": ["Agranulositosis dan neutropenia", "Nyeri sendi", "Mual", "Peningkatan ALT", "Urin kemerahan"],
+          "tatalaksana": ["75 mg/kgBB/hari terbagi 3 dosis"],
+          "monitoring": ["Hitung neutrofil mingguan", "ALT/AST", "Feritin"],
+          "interaksi": ["Obat penyebab neutropenia: hindari bersamaan", "Kation polivalen: beri jeda"],
+          "catatan": "Hentikan segera bila demam atau infeksi muncul dan periksa hitung darah.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/deferiprone/PNG?image_size=300x300",
+          "merek": ["Deferipron (DFP)", "Ferriprox Sirup"]
+        },
+        {
+          "id": "deferoksamin",
+          "nama": "Deferoksamin",
+          "indikasi": ["Keracunan besi akut", "Kelebihan besi kronik (transfusi)"],
+          "sediaan": ["Serbuk injeksi 500 mg"],
+          "efek_samping": ["Reaksi lokal infus", "Ototoksisitas dan gangguan penglihatan (dosis tinggi)", "Hipotensi (IV cepat)", "Infeksi Yersinia"],
+          "tatalaksana": ["Kronik: 20-40 mg/kgBB/hari SC infus 8-12 jam, 5-7 hari/minggu", "Akut: infus IV maks 15 mg/kgBB/jam"],
+          "monitoring": ["Audiometri dan oftalmologi", "Feritin", "Fungsi ginjal"],
+          "interaksi": ["Vitamin C dosis tinggi: dapat meningkatkan toksisitas jantung", "Prokloperazin: gangguan kesadaran"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/deferoxamine/PNG?image_size=300x300",
+          "merek": ["Desferal"]
+        }
+      ]
+    },
+    {
+      "id": "pengikat-kalium",
+      "kelas": "Pengikat Kalium (Terapi Hiperkalemia)",
+      "mekanisme": "Mengikat atau menukar kalium di saluran cerna sehingga menurunkan kalium serum melalui ekskresi feses",
+      "obat": [
+        {
+          "id": "kalsium-polistiren-sulfonat",
+          "nama": "Kalsium Polistiren Sulfonat",
+          "indikasi": ["Hiperkalemia ringan-sedang (pada gagal ginjal)"],
+          "sediaan": ["Sachet 5 g"],
+          "efek_samping": ["Konstipasi dan impaksi", "Mual", "Hipokalsemia", "Hipomagnesemia", "Nekrosis kolon (jarang)"],
+          "tatalaksana": ["15 g 1-3x/hari oral dilarutkan dalam air; rektal sebagai enema bila perlu"],
+          "monitoring": ["Kalium, kalsium, magnesium serum", "Fungsi usus"],
+          "interaksi": ["Antasida non-absorbable dan laksatif sorbitol: risiko obstruksi usus", "Digoksin: hipokalemia meningkatkan toksisitas", "Litium dan tiroksin: absorpsi menurun"],
+          "catatan": "Bukan terapi darurat hiperkalemia berat (gunakan kalsium, insulin-glukosa, dan bikarbonat).",
+          "gambar": null,
+          "merek": ["Kalitake"]
+        },
+        {
+          "id": "natrium-zirkonium-siklosilikat",
+          "nama": "Natrium Zirkonium Siklosilikat",
+          "indikasi": ["Hiperkalemia pada dewasa"],
+          "sediaan": ["Sachet 5 g dan 10 g"],
+          "efek_samping": ["Edema (kandungan natrium)", "Hipokalemia", "Mual dan konstipasi atau diare"],
+          "tatalaksana": ["Fase koreksi: 10 g 3x/hari hingga 48 jam, lalu 5-15 g 1x/hari rumatan"],
+          "monitoring": ["Kalium serum", "Edema dan tekanan darah", "Fungsi jantung"],
+          "interaksi": ["Obat dengan kelarutan tergantung pH (azol, antiretroviral): beri jeda 2 jam"],
+          "catatan": "Perhatikan beban natrium pada gagal jantung.",
+          "gambar": null,
+          "merek": ["Lokelma"]
+        }
+      ]
+    },
+    {
+      "id": "antiobesitas",
+      "kelas": "Obat Antiobesitas",
+      "mekanisme": "Menurunkan penyerapan lemak (orlistat) atau menekan nafsu makan melalui kerja SSP (dietilpropion)",
+      "obat": [
+        {
+          "id": "orlistat",
+          "nama": "Orlistat",
+          "mekanisme": "Inhibitor lipase gastrointestinal yang menurunkan penyerapan lemak makanan sekitar 30%",
+          "indikasi": ["Obesitas dan kelebihan berat badan (bersama diet rendah kalori)"],
+          "sediaan": ["Kapsul 120 mg"],
+          "efek_samping": ["Feses berminyak, urgensi BAB, flatulensi", "Defisiensi vitamin larut lemak", "Nefropati oksalat (jarang)"],
+          "tatalaksana": ["120 mg 3x/hari bersama atau dalam 1 jam setelah makan berlemak; lewati bila tanpa makan"],
+          "monitoring": ["Berat badan", "Vitamin A, D, E, K pada penggunaan lama"],
+          "interaksi": ["Siklosporin dan levotiroksin: beri jeda 3-4 jam", "Warfarin: pantau INR", "Obat antiepilepsi: risiko kejang meningkat"],
+          "catatan": "Suplementasi multivitamin (jeda 2 jam).",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/orlistat/PNG?image_size=300x300",
+          "merek": ["Xenical", "Orlivell", "Vistat", "Obeslim"]
+        },
+        {
+          "id": "dietilpropion",
+          "nama": "Dietilpropion",
+          "indikasi": ["Obesitas jangka pendek (adjuvan diet)"],
+          "sediaan": ["Tablet lepas lambat 75 mg"],
+          "efek_samping": ["Insomnia", "Mulut kering", "Takikardia", "Peningkatan tekanan darah", "Ketergantungan"],
+          "tatalaksana": ["75 mg 1x/hari pagi, durasi singkat (beberapa minggu)"],
+          "monitoring": ["Tekanan darah dan nadi", "Gejala psikiatri dan ketergantungan"],
+          "interaksi": ["MAOI: krisis hipertensi, kontraindikasi", "Antidiabetik dan antihipertensi: kebutuhan dosis dapat berubah"],
+          "catatan": "Stimulan terkontrol; kontraindikasi pada penyakit kardiovaskular, hipertiroid, dan glaukoma.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diethylpropion/PNG?image_size=300x300",
+          "merek": ["Apisate"]
+        }
+      ]
+    },
+    {
+      "id": "antivertigo-nootropik",
+      "kelas": "Antivertigo dan Nootropik",
+      "mekanisme": "Memperbaiki sirkulasi telinga dalam atau memodulasi sinyal vestibular (betahistin, flunarizin), serta meningkatkan fungsi kognitif (piracetam, ginkgo)",
+      "obat": [
+        {
+          "id": "betahistin",
+          "nama": "Betahistin",
+          "mekanisme": "Analog histamin; agonis lemah H1 dan antagonis H3 yang meningkatkan aliran darah telinga dalam",
+          "indikasi": ["Vertigo vestibular", "Penyakit Meniere", "Tinitus"],
+          "sediaan": ["Tablet 6 mg, 12 mg, 24 mg"],
+          "efek_samping": ["Mual", "Sakit kepala", "Dispepsia", "Ruam"],
+          "tatalaksana": ["24 mg 2x/hari bersama makanan"],
+          "monitoring": ["Respons vertigo"],
+          "interaksi": ["Antihistamin: dapat menurunkan efek betahistin", "MAOI: kadar betahistin meningkat"],
+          "catatan": "Hati-hati pada asma, ulkus peptikum, dan feokromositoma.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/betahistine/PNG?image_size=300x300",
+          "merek": ["Betaserc", "Merislon", "Betahistin Mesilat"]
+        },
+        {
+          "id": "flunarizin-piracetam",
+          "nama": "Flunarizin dan Piracetam",
+          "indikasi": ["Profilaksis migrain dan vertigo (flunarizin)", "Gangguan kognitif dan vertigo (piracetam)"],
+          "sediaan": ["Flunarizin tablet 5 mg dan 10 mg", "Piracetam tablet 1200 mg"],
+          "efek_samping": ["Mengantuk dan peningkatan berat badan (flunarizin)", "Depresi dan parkinsonisme (flunarizin, penggunaan lama)", "Gelisah dan insomnia (piracetam)"],
+          "tatalaksana": ["Flunarizin: 5-10 mg malam hari", "Piracetam: 800-2400 mg/hari terbagi"],
+          "monitoring": ["Gejala ekstrapiramidal dan depresi (flunarizin)", "Fungsi ginjal (piracetam)"],
+          "interaksi": ["Depresan SSP dan alkohol: sedasi aditif (flunarizin)", "Antikoagulan: piracetam dosis tinggi dapat meningkatkan risiko perdarahan"],
+          "catatan": "Flunarizin kontraindikasi pada depresi dan penyakit Parkinson.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/flunarizine/PNG?image_size=300x300",
+          "merek": ["Flunarizin 5 mg", "Flunarizin 10 mg", "Pirasetam 1200 mg"]
+        }
+      ]
+    },
+    {
+      "id": "neonatal-miastenia",
+      "kelas": "Neonatal, Stimulan SSP, dan Miastenia Gravis",
+      "mekanisme": "Mendukung pematangan paru atau respirasi neonatus, menstimulasi SSP, dan memperkuat transmisi neuromuskular",
+      "obat": [
+        {
+          "id": "kafein-sitrat",
+          "nama": "Kafein (Sitrat)",
+          "indikasi": ["Apnea prematuritas", "Sakit kepala dan kantuk (kafein oral dewasa)"],
+          "sediaan": ["Sirup/injeksi kafein sitrat 20 mg/mL", "Kapsul 100 mg", "Tablet 100 mg"],
+          "efek_samping": ["Takikardia", "Iritabilitas", "Intoleransi makanan dan enterokolitis nekrotikans (neonatus)", "Insomnia"],
+          "tatalaksana": ["Apnea prematur: dosis muat 20 mg/kgBB kafein sitrat, lalu 5-10 mg/kgBB/hari"],
+          "monitoring": ["Frekuensi nadi", "Frekuensi apnea", "Kadar kafein serum bila perlu"],
+          "interaksi": ["Siprofloksasin dan simetidin: kadar kafein meningkat", "Teofilin: toksisitas aditif"],
+          "catatan": "Dosis neonatus dalam kafein sitrat (bukan basa); mohon verifikasi satuan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/caffeine/PNG?image_size=300x300",
+          "merek": ["Caffeine Citrate Syrup", "Caffeine 100 mg", "Kafein Sitrat Tablet", "Caffeine Serbuk"]
+        },
+        {
+          "id": "surfaktan-paru",
+          "nama": "Surfaktan Paru (Beraktan/Poraktan)",
+          "indikasi": ["Sindrom distres napas pada bayi prematur"],
+          "sediaan": ["Suspensi intratrakeal 200 mg/8 mL"],
+          "efek_samping": ["Bradikardia dan desaturasi sementara selama pemberian", "Perdarahan paru", "Obstruksi selang endotrakeal"],
+          "tatalaksana": ["Diberikan intratrakeal oleh tenaga NICU sesuai berat badan, diulang sesuai protokol"],
+          "monitoring": ["Saturasi oksigen dan frekuensi nadi", "Pengaturan ventilator pascapemberian"],
+          "interaksi": ["Interaksi bermakna belum dilaporkan"],
+          "catatan": "Database mencatat Survanta; hanya pada fasilitas NICU.",
+          "gambar": null,
+          "merek": ["Survanta"]
+        },
+        {
+          "id": "piridostigmin",
+          "nama": "Piridostigmin",
+          "mekanisme": "Inhibitor kolinesterase yang meningkatkan asetilkolin pada taut neuromuskular",
+          "indikasi": ["Miastenia gravis"],
+          "sediaan": ["Tablet 60 mg"],
+          "efek_samping": ["Diare dan kram perut", "Hipersalivasi", "Bradikardia", "Fasikulasi", "Krisis kolinergik"],
+          "tatalaksana": ["60 mg setiap 4-6 jam, titrasi sesuai respons; diminum bersama makanan"],
+          "monitoring": ["Kekuatan otot", "Nadi", "Gejala kolinergik"],
+          "interaksi": ["Antikolinergik: efek berlawanan", "Pelemas otot non-depolarisasi: efek diantagonis", "Aminoglikosida dan magnesium: dapat memperburuk miastenia"],
+          "catatan": "Krisis miastenik dan kolinergik tampak mirip; evaluasi dokter segera bila memburuk.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pyridostigmine/PNG?image_size=300x300",
+          "merek": ["Mestinon"]
+        }
+      ]
+    }
+  ]
+}
