@@ -18,6 +18,7 @@ import pencernaan from './drugs/obat-obatan-pencernaan.json';
 import pernapasan from './drugs/obat-obatan-pernapasan.json';
 import psikiatri from './drugs/obat-obatan-psikiatri.json';
 import reproduksi from './drugs/obat-obatan-hormon-reproduksi.json';
+import salep from './drugs/obat-obatan-salep.json';
 import saraf from './drugs/obat-obatan-saraf.json';
 import suplemen from './drugs/obat-obatan-suplemen-nutrisi.json';
 import topikal from './drugs/obat-obatan-topikal.json';
@@ -46,6 +47,7 @@ export const rawDrugs = {
   pernapasan,
   psikiatri,
   reproduksi,
+  salep,
   saraf,
   suplemen,
   topikal,
@@ -75,6 +77,7 @@ export const drugClasses = [
   'pernapasan',
   'psikiatri',
   'reproduksi',
+  'salep',
   'saraf',
   'suplemen',
   'topikal',
