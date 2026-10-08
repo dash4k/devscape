@@ -80,10 +80,10 @@ const SearchBar = ({ pathname, placeholder }) => {
       </form>
       {resultFound && (
         <div className="flex flex-col items-center w-full h-auto max-h-31 scrollbar-none overflow-scroll border bg-surface border-border-strong text-text-primary rounded-b-md">
-          {results.map((o) => (
+          {results.map((o, i) => (
             <Link
               to={`/references/${o.id}`}
-              key={o.id}
+              key={`${o.id}-${i}`}
               className='w-full h-auto hover:bg-accent-cta hover:text-text-on-cta py-2 px-1 text-center'
             >
               <p>{o.nama}</p>

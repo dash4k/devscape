@@ -38,7 +38,7 @@ const DrugDetailPage = () => {
 
   return (
     <article className="w-full px-5 pt-3 flex flex-col md:flex-row justify-start items-center md:items-start">
-      <figure className="m-5 p-5 rounded-2xl max-w-75 border-3 border-text-inverse-primary flex flex-col items-center justify-center">
+      <figure className="m-5 p-5 rounded-2xl max-w-85 border-3 border-text-inverse-primary flex flex-col items-center justify-center">
         {(drug.gambar || DRUG_IMAGE_PLACEHOLDER) && (
           <img
             className="rounded-xl max-w-75 max-h-75"
@@ -51,7 +51,7 @@ const DrugDetailPage = () => {
             }}
           />
         )}
-        <figcaption className="mt-2 text-center text-body-sm text-text-muted text-wrap">
+        <figcaption className="mt-2 max-w-75 text-center text-body-sm text-text-muted text-wrap">
           {imageError ? 'Ilustrasi obat' : `Struktur kimia ${drug.nama}`}
         </figcaption>
       </figure>

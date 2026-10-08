@@ -25,6 +25,7 @@ import topikal from './drugs/obat-obatan-topikal.json';
 import tulang from './drugs/obat-obatan-tulang.json';
 import vaksin from './drugs/obat-obatan-vaksin.json';
 import lainnya from './drugs/obat-obatan-khusus-lainnya.json';
+import { matchesString } from '../utils/utils';
 
 export const rawDrugs = {
   anestesi,
@@ -99,11 +100,25 @@ export const allDrugs = Object.values(rawDrugs).flatMap((kelas) =>
 
 export const getDrugById = (id) => allDrugs.find((d) => d.id === id);
 
-export const getDrugByName = (drugName) => allDrugs.filter((d) => d.id.includes(drugName.toLowerCase()));
+export const getDrugByName = (drugName) => {
+  const query = String(drugName ?? '').trim().toLowerCase();
+  if (!query) return [];
 
-export const getDrugByQuery = (query) => allDrugs.filter((d) => (
-  d.id.includes(query.toLowerCase())
-  || d.kelasId.includes(query.toLowerCase())
-  || d.kelasMekanisme.toLowerCase().includes(query.toLowerCase())
-  || d.merek?.some((m) => m.toLowerCase().includes(query.toLowerCase()))
-));
+  return allDrugs.filter(
+    (d) =>
+      matchesString(d.id, query)
+      || matchesString(d.nama, query)
+  );
+};
+
+export const getDrugByQuery = (query) => {
+  const searchQuery = String(query ?? '').trim().toLowerCase();
+
+  return allDrugs.filter((d) => (
+    matchesString(d.id, searchQuery)
+    || matchesString(d.nama, searchQuery)
+    || matchesString(d.kelasId, searchQuery)
+    || matchesString(d.kelasMekanisme, searchQuery)
+    || d.merek?.some((m) => matchesString(m, searchQuery))
+  ));
+};
