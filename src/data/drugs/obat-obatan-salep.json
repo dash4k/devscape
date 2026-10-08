@@ -1,0 +1,294 @@
+{
+  "kelas_obat": [
+    {
+      "id": "antibiotik-mata-topikal",
+      "kelas": "Antibiotik Mata (Tetes dan Salep)",
+      "mekanisme": "Antibiotik lokal yang menghambat pertumbuhan bakteri penyebab infeksi permukaan mata",
+      "obat": [
+        {
+          "id": "gentamisin-tetes-mata",
+          "nama": "Gentamisin Tetes Mata",
+          "indikasi": ["Konjungtivitis bakteri", "Blefaritis", "Infeksi superfisial mata akibat bakteri sensitif"],
+          "sediaan": ["Tetes mata 0,3%"],
+          "efek_samping": ["Perih dan iritasi sementara", "Kemerahan", "Reaksi alergi", "Toksisitas epitel kornea (penggunaan lama)"],
+          "tatalaksana": ["1-2 tetes pada mata yang sakit setiap 4-6 jam, selama 5-7 hari atau sesuai petunjuk dokter"],
+          "monitoring": ["Respons klinis dalam 48-72 jam", "Reaksi alergi"],
+          "interaksi": ["Obat mata lain: beri jeda 5 menit antar pemberian", "Interaksi sistemik minimal"],
+          "catatan": "Lepas lensa kontak selama terapi. Jangan menyentuh ujung botol ke mata.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gentamicin/PNG?image_size=300x300",
+          "merek": ["Gentamisin Tetes Mata (generik)"]
+        },
+        {
+          "id": "gentamisin-salep-mata",
+          "nama": "Gentamisin Salep Mata 0,3%",
+          "indikasi": ["Konjungtivitis bakteri", "Blefaritis", "Infeksi superfisial mata akibat bakteri sensitif"],
+          "sediaan": ["Salep mata 0,3%"],
+          "efek_samping": ["Penglihatan kabur sementara setelah aplikasi", "Iritasi", "Reaksi alergi"],
+          "tatalaksana": ["Oleskan strip kecil ke kantong konjungtiva 2-3x/hari, atau sebelum tidur bila dikombinasi tetes siang hari"],
+          "monitoring": ["Respons klinis dalam 48-72 jam", "Reaksi alergi"],
+          "interaksi": ["Obat mata lain: beri jeda 5-10 menit, salep diberikan terakhir"],
+          "catatan": "Penglihatan kabur sementara; hindari mengemudi segera setelah aplikasi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gentamicin/PNG?image_size=300x300",
+          "merek": ["Gentamisin Salep Mata 0,3% (generik)"]
+        },
+        {
+          "id": "kloramfenikol-tetes-mata",
+          "nama": "Kloramfenikol Tetes Mata",
+          "indikasi": ["Konjungtivitis bakteri", "Infeksi superfisial mata akibat bakteri sensitif"],
+          "sediaan": ["Tetes mata 0,5%"],
+          "efek_samping": ["Perih dan iritasi", "Reaksi alergi", "Diskrasia darah (sangat jarang, penggunaan lama)"],
+          "tatalaksana": ["1-2 tetes setiap 3-6 jam selama 5-7 hari atau sesuai petunjuk dokter"],
+          "monitoring": ["Respons klinis dalam 48-72 jam", "Reaksi alergi"],
+          "interaksi": ["Obat mata lain: beri jeda 5 menit", "Interaksi sistemik minimal"],
+          "catatan": "Hindari penggunaan berkepanjangan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/chloramphenicol/PNG?image_size=300x300",
+          "merek": ["Kloramfenikol Tetes Mata (generik)", "Chloramphenicol 0,5% Eye Drop", "Reco 0,5%"]
+        },
+        {
+          "id": "kloramfenikol-salep-mata",
+          "nama": "Kloramfenikol Salep Mata 1%",
+          "indikasi": ["Konjungtivitis bakteri", "Blefaritis", "Infeksi superfisial mata akibat bakteri sensitif"],
+          "sediaan": ["Salep mata 1% (3,5 g, 5 g)"],
+          "efek_samping": ["Penglihatan kabur sementara", "Iritasi", "Reaksi alergi", "Diskrasia darah (sangat jarang, penggunaan lama)"],
+          "tatalaksana": ["Oleskan strip kecil ke kantong konjungtiva 3-4x/hari atau sebelum tidur, selama 5-7 hari"],
+          "monitoring": ["Respons klinis dalam 48-72 jam", "Reaksi alergi"],
+          "interaksi": ["Obat mata lain: beri jeda 5-10 menit, salep diberikan terakhir"],
+          "catatan": "Lepas lensa kontak selama terapi.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/chloramphenicol/PNG?image_size=300x300",
+          "merek": ["Kloramfenikol 1% Eye Ointment (generik)", "Cendo Fenicol", "Erlamycetin 1%"]
+        }
+      ]
+    },
+    {
+      "id": "kortikosteroid-topikal-kulit",
+      "kelas": "Kortikosteroid Topikal (Kulit)",
+      "mekanisme": "Menekan inflamasi dan respons imun lokal pada kulit melalui reseptor glukokortikoid; potensi bervariasi dari ringan hingga kuat",
+      "obat": [
+        {
+          "id": "hidrokortison-krim-1",
+          "nama": "Hidrokortison Krim 1%",
+          "indikasi": ["Dermatitis ringan", "Ruam popok", "Gatal akibat peradangan kulit", "Dermatitis atopik ringan"],
+          "sediaan": ["Krim 1% (5 g)"],
+          "efek_samping": ["Atrofi kulit (penggunaan lama)", "Iritasi", "Teleangiektasis", "Supresi adrenal (area luas)"],
+          "tatalaksana": ["Oleskan tipis 1-2x/hari, durasi sesingkat mungkin"],
+          "monitoring": ["Respons klinis", "Tanda atrofi kulit"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Potensi rendah; relatif aman untuk wajah dan lipatan dalam durasi singkat. Hindari pada infeksi kulit yang tidak diobati.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydrocortisone/PNG?image_size=300x300",
+          "merek": ["Hidrokortison 1% (generik)"]
+        },
+        {
+          "id": "hidrokortison-krim-2-5",
+          "nama": "Hidrokortison Krim 2,5%",
+          "indikasi": ["Dermatitis sedang", "Dermatitis atopik", "Dermatitis kontak"],
+          "sediaan": ["Krim 2,5% (5 g)"],
+          "efek_samping": ["Atrofi kulit (penggunaan lama)", "Iritasi", "Teleangiektasis", "Supresi adrenal (area luas atau jangka panjang)"],
+          "tatalaksana": ["Oleskan tipis 1-2x/hari, durasi sesingkat mungkin"],
+          "monitoring": ["Respons klinis", "Tanda atrofi kulit"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Gunakan hati-hati pada wajah dan area lipatan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hydrocortisone/PNG?image_size=300x300",
+          "merek": ["Hidrokortison 2,5% (generik)"]
+        },
+        {
+          "id": "mometason-krim",
+          "nama": "Mometason Furoat Krim",
+          "indikasi": ["Dermatitis atopik", "Psoriasis", "Dermatitis kontak", "Peradangan dan gatal kulit yang responsif steroid"],
+          "sediaan": ["Krim 0,1% (5 g, 10 g)"],
+          "efek_samping": ["Atrofi kulit dan striae", "Teleangiektasis", "Akne steroid", "Supresi adrenal (area luas atau jangka panjang)", "Infeksi sekunder"],
+          "tatalaksana": ["Oleskan tipis 1x/hari, durasi sesingkat mungkin"],
+          "monitoring": ["Respons klinis", "Tanda atrofi kulit"],
+          "interaksi": ["Interaksi sistemik minimal pada pemakaian terbatas"],
+          "catatan": "Potensi menengah-kuat; hindari pada wajah, lipatan, dan area luas tanpa arahan dokter.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/mometasone%20furoate/PNG?image_size=300x300",
+          "merek": ["Mometason Furoat 0,1% (generik)", "Mofacort", "Elocon"]
+        },
+        {
+          "id": "betametason-krim-0-05",
+          "nama": "Betametason Krim 0,05%",
+          "indikasi": ["Dermatitis atopik", "Psoriasis", "Dermatitis kontak", "Peradangan kulit yang responsif steroid"],
+          "sediaan": ["Krim 0,05% (5 g, 10 g)"],
+          "efek_samping": ["Atrofi kulit dan striae", "Teleangiektasis", "Akne steroid", "Supresi adrenal (area luas atau jangka panjang)", "Infeksi sekunder"],
+          "tatalaksana": ["Oleskan tipis 1-2x/hari, durasi sesingkat mungkin"],
+          "monitoring": ["Respons klinis", "Tanda atrofi kulit"],
+          "interaksi": ["Interaksi sistemik minimal pada pemakaian terbatas"],
+          "catatan": "Potensi menengah-kuat; hindari pada wajah dan lipatan kecuali atas arahan dokter. Betametason dipropionat tercatat pada database.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/betamethasone/PNG?image_size=300x300",
+          "merek": ["Betametason Dipropionat 0,05% (generik)"]
+        }
+      ]
+    },
+    {
+      "id": "antibiotik-antijamur-antiparasit-kulit",
+      "kelas": "Antibiotik, Antijamur, dan Antiparasit Topikal (Kulit)",
+      "mekanisme": "Menghambat atau membunuh bakteri, jamur, atau tungau penyebab infeksi kulit superfisial",
+      "obat": [
+        {
+          "id": "gentamisin-salep-kulit",
+          "nama": "Gentamisin Salep Kulit 0,1%",
+          "indikasi": ["Infeksi kulit bakteri superfisial (impetigo, folikulitis)", "Luka kecil terinfeksi"],
+          "sediaan": ["Salep 0,1% (5 g)"],
+          "efek_samping": ["Iritasi lokal", "Dermatitis kontak", "Resistensi bakteri (penggunaan lama)"],
+          "tatalaksana": ["Oleskan tipis 2-3x/hari selama maksimal 7-10 hari"],
+          "monitoring": ["Respons klinis dalam 3-5 hari", "Reaksi alergi lokal"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Hindari pemakaian pada area luas atau luka dalam karena risiko absorpsi sistemik.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gentamicin/PNG?image_size=300x300",
+          "merek": ["Gentamisin 0,1% Ointment (generik)"]
+        },
+        {
+          "id": "bacitracin-polimiksin-b-krim",
+          "nama": "Basitrasin-Polimiksin B Krim",
+          "indikasi": ["Pencegahan dan terapi infeksi bakteri superfisial pada luka kecil, lecet, dan luka bakar ringan"],
+          "sediaan": ["Krim/salep kombinasi basitrasin dan polimiksin B (5 g)"],
+          "efek_samping": ["Dermatitis kontak", "Iritasi lokal", "Reaksi alergi (jarang, anafilaksis dilaporkan sangat jarang)"],
+          "tatalaksana": ["Oleskan tipis 1-3x/hari selama maksimal 7 hari"],
+          "monitoring": ["Reaksi alergi lokal", "Respons klinis"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Database mencatat salep antibakteri kombinasi (basitrasin 500 IU/g + polimiksin B 10.000 IU/g).",
+          "gambar": null,
+          "merek": ["Salep Antibakteri Kombinasi (Basitrasin + Polimiksin B)"]
+        },
+        {
+          "id": "perak-sulfadiazin-krim",
+          "nama": "Perak Sulfadiazin",
+          "indikasi": ["Pencegahan dan terapi infeksi pada luka bakar derajat II-III"],
+          "sediaan": ["Krim 1% (25 g, 35 g, 500 g)"],
+          "efek_samping": ["Rasa terbakar saat aplikasi", "Leukopenia sementara", "Argiria (jarang)", "Reaksi alergi sulfa"],
+          "tatalaksana": ["Oleskan setebal 2-3 mm pada luka bersih 1-2x/hari"],
+          "monitoring": ["Leukosit pada luka luas", "Respons luka"],
+          "interaksi": ["Enzim debridement proteolitik: aktivitas dapat menurun"],
+          "catatan": "Hindari pada alergi sulfonamid, bayi baru lahir, dan kehamilan aterm.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/silver%20sulfadiazine/PNG?image_size=300x300",
+          "merek": ["Sulfadiazin Silver", "Burnazin"]
+        },
+        {
+          "id": "ketokonazol-krim",
+          "nama": "Ketokonazol Krim",
+          "indikasi": ["Tinea korporis, kruris, dan pedis", "Tinea versikolor", "Kandidiasis kulit", "Dermatitis seboroik"],
+          "sediaan": ["Krim 2% (5 g, 10 g, 15 g)"],
+          "efek_samping": ["Iritasi dan rasa terbakar lokal", "Gatal", "Dermatitis kontak"],
+          "tatalaksana": ["Oleskan 1-2x/hari pada area dan sekitarnya, selama 2-4 minggu sesuai indikasi"],
+          "monitoring": ["Respons klinis", "Reaksi kulit lokal"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Lanjutkan beberapa hari setelah lesi membaik untuk mencegah kekambuhan.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ketoconazole/PNG?image_size=300x300",
+          "merek": ["Ketokonazol 2% (generik)", "Ketomed"]
+        },
+        {
+          "id": "mikonazol-salep-kulit",
+          "nama": "Mikonazol Salep Kulit 2%",
+          "indikasi": ["Tinea dan kandidiasis kulit", "Ruam popok akibat jamur"],
+          "sediaan": ["Salep/krim 2% (10 g)"],
+          "efek_samping": ["Iritasi dan rasa terbakar lokal", "Ruam"],
+          "tatalaksana": ["Oleskan tipis 1-2x/hari pada kulit bersih dan kering selama 2-4 minggu"],
+          "monitoring": ["Respons klinis", "Reaksi kulit lokal"],
+          "interaksi": ["Warfarin: INR dapat meningkat bila terabsorpsi bermakna"],
+          "catatan": null,
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/miconazole/PNG?image_size=300x300",
+          "merek": ["Mikonazol 2% (generik)", "Daktarin"]
+        },
+        {
+          "id": "permetrin-krim",
+          "nama": "Permetrin Krim",
+          "mekanisme": "Insektisida piretroid yang mengganggu kanal natrium sehingga melumpuhkan tungau dan kutu",
+          "indikasi": ["Skabies", "Pedikulosis (kutu rambut)"],
+          "sediaan": ["Krim 5% (10 g, 30 g)"],
+          "efek_samping": ["Gatal, kemerahan, dan rasa terbakar lokal", "Gatal dapat bertahan beberapa minggu setelah terapi"],
+          "tatalaksana": ["Oleskan ke seluruh tubuh dari leher ke bawah, biarkan 8-14 jam lalu bilas; ulangi setelah 7-14 hari"],
+          "monitoring": ["Respons klinis setelah 2-4 minggu"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Obati seluruh anggota keluarga yang kontak erat; cuci pakaian dan sprei dengan air panas.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/permethrin/PNG?image_size=300x300",
+          "merek": ["Permetrin 5% (generik)", "Scabimite"]
+        },
+        {
+          "id": "kalamin-losion",
+          "nama": "Kalamin (Calamine) Losion",
+          "indikasi": ["Gatal akibat dermatitis, biduran, gigitan serangga, dan cacar air", "Pelindung dan pereda kulit"],
+          "sediaan": ["Losion 60 mL dan 95 mL (kalamin dan seng oksida)"],
+          "efek_samping": ["Kulit kering", "Iritasi (jarang)"],
+          "tatalaksana": ["Kocok sebelum dipakai; oleskan tipis pada area gatal 2-3x/hari"],
+          "monitoring": ["Respons gatal", "Reaksi kulit"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Hanya untuk pemakaian luar; hindari area mata dan luka terbuka.",
+          "gambar": null,
+          "merek": ["Caladine Lotion", "Kalamin Losion (generik)"]
+        }
+      ]
+    },
+    {
+      "id": "antihemoroid-supositoria",
+      "kelas": "Antihemoroid Anorektal (Supositoria)",
+      "mekanisme": "Kombinasi bahan lokal untuk meredakan nyeri, gatal, dan peradangan hemoroid (anestesi lokal, astringen, antiinflamasi)",
+      "obat": [
+        {
+          "id": "antihemoroid-supositoria-kombinasi",
+          "nama": "Antihemoroid Kombinasi Supositoria",
+          "indikasi": ["Gejala hemoroid (wasir/ambeien): nyeri, gatal, perdarahan ringan, dan peradangan anorektal"],
+          "sediaan": ["Supositoria kombinasi"],
+          "efek_samping": ["Iritasi lokal", "Rasa terbakar", "Reaksi alergi", "Efek sistemik pada komponen steroid bila ada (penggunaan lama)"],
+          "tatalaksana": ["Masukkan 1 supositoria ke dalam anus 1-2x/hari (pagi dan malam, setelah BAB), selama beberapa hari sesuai petunjuk"],
+          "monitoring": ["Respons klinis", "Perdarahan rektal yang menetap atau tidak jelas penyebabnya memerlukan evaluasi dokter"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Komposisi bervariasi antar produk; periksa kemasan. Gunakan jangka pendek.",
+          "gambar": null,
+          "merek": ["Antihemoroid Kombinasi Supositoria", "Faktu", "Borraginol-S", "Ultraproct-N"]
+        }
+      ]
+    },
+    {
+      "id": "tetes-telinga-topikal",
+      "kelas": "Tetes Telinga (Antiseptik dan Antibiotik)",
+      "mekanisme": "Efek lokal antibakteri atau antiseptik pada liang telinga dan pelunak serumen",
+      "obat": [
+        {
+          "id": "fenol-gliserol-tetes-telinga",
+          "nama": "Fenol Gliserol Tetes Telinga 10%",
+          "indikasi": ["Otitis eksterna", "Otitis media akut tahap awal sebelum perforasi (peredaan nyeri dan antiseptik)"],
+          "sediaan": ["Tetes telinga 10% (5 mL, 10 mL, 30 mL)"],
+          "efek_samping": ["Iritasi dan rasa terbakar", "Kerusakan jaringan bila terkena membran timpani yang perforasi"],
+          "tatalaksana": ["3-4 tetes pada telinga yang sakit 2-3x/hari, kepala dimiringkan beberapa menit"],
+          "monitoring": ["Nyeri dan keluarnya cairan telinga", "Respons klinis dalam 2-3 hari"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Jangan dipakai bila gendang telinga perforasi atau ada cairan keluar dari telinga.",
+          "gambar": null,
+          "merek": ["Phenol Glycerol 10% (generik)", "Karbogliserin"]
+        },
+        {
+          "id": "kloramfenikol-tetes-telinga",
+          "nama": "Kloramfenikol Tetes Telinga 3%",
+          "indikasi": ["Otitis eksterna bakteri", "Otitis media supuratif kronik (sesuai arahan dokter)"],
+          "sediaan": ["Tetes telinga 3% (10 mL)"],
+          "efek_samping": ["Iritasi lokal", "Reaksi alergi", "Diskrasia darah (sangat jarang, penggunaan lama)"],
+          "tatalaksana": ["3-4 tetes 2-3x/hari selama 5-7 hari, kepala dimiringkan beberapa menit setelah tetes"],
+          "monitoring": ["Respons klinis dalam 48-72 jam", "Cairan keluar telinga"],
+          "interaksi": ["Interaksi sistemik minimal"],
+          "catatan": "Konsentrasi pada database 3%; sediaan lain tersedia 1% (mis. Erlamycetin 1%). Mohon verifikasi sediaan Anda.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/chloramphenicol/PNG?image_size=300x300",
+          "merek": ["Kloramfenikol Tetes Telinga 3% (generik)", "Erlamycetin 1% Ear Drop"]
+        }
+      ]
+    },
+    {
+      "id": "antijamur-vaginal",
+      "kelas": "Antijamur Vaginal",
+      "mekanisme": "Poliena yang berikatan dengan ergosterol membran jamur sehingga membentuk pori dan membunuh jamur Candida",
+      "obat": [
+        {
+          "id": "nistatin-tablet-vaginal",
+          "nama": "Nistatin Tablet Vaginal",
+          "indikasi": ["Kandidiasis vulvovaginal"],
+          "sediaan": ["Tablet vaginal 100.000 IU"],
+          "efek_samping": ["Iritasi dan rasa terbakar lokal", "Gatal", "Reaksi alergi (jarang)"],
+          "tatalaksana": ["1 tablet dimasukkan ke dalam vagina 1-2x/hari (umumnya malam hari) selama 14 hari"],
+          "monitoring": ["Respons klinis", "Iritasi"],
+          "interaksi": ["Interaksi sistemik minimal (tidak diabsorpsi)"],
+          "catatan": "Lanjutkan sampai selesai meski gejala membaik; hindari berhubungan seksual selama terapi dan pertimbangkan terapi pasangan bila dianjurkan dokter.",
+          "gambar": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/nystatin/PNG?image_size=300x300",
+          "merek": ["Nistatin 100.000 IU Tablet Vaginal (generik)"]
+        }
+      ]
+    }
+  ]
+}
