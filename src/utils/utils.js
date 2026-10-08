@@ -1,3 +1,5 @@
+export const matchesString = (value, query) => String(value ?? '').toLowerCase().includes(query);
+
 export const pickRandomFromList = (list, count = 3) => {
   const copy = [...list];
   for (let i = copy.length - 1; i > 0 ; i--) {
